@@ -7,9 +7,8 @@ config.git = {
   content_tag_latest: "1.1.1",
 };
 
-
-config.google_drive.sheets_folder_ids = [];
-config.google_drive.assets_folder_ids = [];
+config.google_drive.sheets_folder_ids = ["1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", "1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"];
+config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp"];
 
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
