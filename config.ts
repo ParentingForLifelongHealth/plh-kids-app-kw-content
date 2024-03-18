@@ -32,7 +32,6 @@ config.app_config.APP_THEMES.available = ["default", "professional"];
 config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
-config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
 config.error_logging = { dsn: "https://221e29f586d84250b65db8376b274102@app.glitchtip.com/6095"};
 
 
