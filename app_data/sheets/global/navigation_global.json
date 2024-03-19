@@ -8,7 +8,9 @@
       "name": "language",
       "value": "Language",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
