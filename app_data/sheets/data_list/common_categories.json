@@ -29,7 +29,83 @@
           "eng": "Check-in"
         }
       }
+    },
+    {
+      "id": "intro",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Today's Topic",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Today's Topic"
+        }
+      }
+    },
+    {
+      "id": "explore",
+      "title": "Explore",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore"
+        }
+      }
+    },
+    {
+      "id": "practical_tips",
+      "title": "Practical Tips",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Practical Tips"
+        }
+      }
+    },
+    {
+      "id": "practise",
+      "icon_asset": "images/icons/pencil.svg",
+      "title": "Practise",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Practise"
+        }
+      }
+    },
+    {
+      "id": "review",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Review"
+        }
+      }
+    },
+    {
+      "id": "home_activity",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      }
     }
   ],
-  "_xlsxPath": "data/modules/modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx"
 }
