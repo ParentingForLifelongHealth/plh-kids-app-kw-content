@@ -12,152 +12,206 @@
       "image_asset": "images/modules/wave.svg",
       "title": "Test Module",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Test Module"
-        },
-        "description": {
-          "eng": "This is a sample module for debugging."
         }
-      },
-      "description": "This is a sample module for debugging."
+      }
     },
     {
-      "id": "welcome",
+      "id": "selfcare",
       "number": 1,
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_2",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
       "image_asset": "images/modules/wave.svg",
-      "title": "Introduction",
+      "title": "Taking Care of Yourself",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Introduction"
+          "eng": "Taking Care of Yourself"
         }
       }
     },
     {
-      "id": "connect",
+      "id": "childdevelopment",
       "number": 2,
       "image_asset": "images/modules/connect/intro_connect.svg",
-      "relax_id": "relax_19",
-      "check_in_id": "check_in_9",
-      "title": "Connect",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_2",
+      "title": "How Your Child is Changing",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Connect"
-        },
-        "description": {
-          "eng": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself."
+          "eng": "How Your Child is Changing"
         }
-      },
-      "description": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself."
+      }
     },
     {
-      "id": "play",
+      "id": "oneononetime",
       "number": 3,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_9",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Spending One-on-One Time with Your Child",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Spending One-on-One Time with Your Child"
+        }
+      }
+    },
+    {
+      "id": "praise",
+      "number": 4,
       "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "image_asset": "images/modules/wave.svg",
-      "title": "Play",
+      "title": "Praising Your Child",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Play"
+          "eng": "Praising Your Child"
         }
       }
     },
     {
-      "id": "talk",
-      "number": 4,
+      "id": "feelings",
+      "number": 5,
       "relax_id": "relax_4",
       "check_in_id": "check_in_4",
       "image_asset": "images/modules/wave.svg",
-      "title": "Talk",
+      "title": "Talking About Feelings",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Talk"
+          "eng": "Talking About Feelings"
         }
       }
     },
     {
-      "id": "explore",
-      "number": 5,
+      "id": "instructions",
+      "number": 6,
       "relax_id": "relax_5",
       "check_in_id": "check_in_5",
       "image_asset": "images/modules/wave.svg",
-      "title": "Explore",
+      "title": "Giving Instructions that Work",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Explore"
+          "eng": "Giving Instructions that Work"
         }
       }
     },
     {
-      "id": "create",
-      "number": 6,
+      "id": "rulesroutines",
+      "number": 7,
       "relax_id": "relax_6",
       "check_in_id": "check_in_6",
       "image_asset": "images/modules/wave.svg",
-      "title": "Create",
+      "title": "Creating Structure",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Create"
+          "eng": "Creating Structure"
         }
       }
     },
     {
-      "id": "build",
-      "number": 7,
+      "id": "redirect",
+      "number": 8,
       "relax_id": "relax_7",
       "check_in_id": "check_in_7",
       "image_asset": "images/modules/wave.svg",
-      "title": "Build",
+      "title": "Redirecting Towards Positive Behaviour",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Build"
+          "eng": "Redirecting Towards Positive Behaviour"
         }
       }
     },
     {
-      "id": "summary",
-      "number": 8,
+      "id": "ignore",
+      "number": 9,
       "relax_id": "relax_8",
       "check_in_id": "check_in_8",
       "image_asset": "images/modules/wave.svg",
-      "title": "Summary",
+      "title": "Handling Demanding Behaviours",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Summary"
+          "eng": "Handling Demanding Behaviours"
+        }
+      }
+    },
+    {
+      "id": "consequences",
+      "number": 10,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_9",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Helping Your Child Follow Instructions and Rules",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Helping Your Child Follow Instructions and Rules"
+        }
+      }
+    },
+    {
+      "id": "problemsolving",
+      "number": 11,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_10",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Dealing with Challenges Together",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dealing with Challenges Together"
+        }
+      }
+    },
+    {
+      "id": "closing",
+      "number": 12,
+      "relax_id": "relax_11",
+      "check_in_id": "check_in_11",
+      "image_asset": "images/modules/wave.svg",
+      "title": "Reflecting & Thinking Ahead",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reflecting & Thinking Ahead"
         }
       }
     }
   ],
-  "_xlsxPath": "data/modules/modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx"
 }

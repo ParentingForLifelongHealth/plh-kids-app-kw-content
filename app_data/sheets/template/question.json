@@ -1956,7 +1956,7 @@
       "_nested_name": "set_variable"
     },
     {
-      "name": "answer_1_list",
+      "name": "answer_list_1",
       "value": [
         "name:option_1 | text:@local.option_1_text",
         "name:option_2 | text:@local.option_2_text",
@@ -1967,7 +1967,7 @@
       ],
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "answer_1_list",
+      "_nested_name": "answer_list_1",
       "_dynamicFields": {
         "value": {
           "0": [
@@ -2042,7 +2042,7 @@
       }
     },
     {
-      "name": "answer_2_list",
+      "name": "answer_list_2",
       "value": [
         "name:option_1 | text:@local.option_1_text | image: @local.option_1_image",
         "name:option_2 | text:@local.option_2_text | image: @local.option_2_image",
@@ -2053,7 +2053,7 @@
       ],
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "answer_2_list",
+      "_nested_name": "answer_list_2",
       "_dynamicFields": {
         "value": {
           "0": [
@@ -2263,7 +2263,7 @@
       "condition": "!@local.has_any_image",
       "parameter_list": {
         "input_allowed": "false",
-        "answer_list": "@local.answer_1_list",
+        "answer_list": "@local.answer_list_1",
         "placeholder": "Tap and choose"
       },
       "exclude_from_translation": true,
@@ -2280,10 +2280,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@local.answer_1_list",
-              "matchedExpression": "@local.answer_1_list",
+              "fullExpression": "@local.answer_list_1",
+              "matchedExpression": "@local.answer_list_1",
               "type": "local",
-              "fieldName": "answer_1_list"
+              "fieldName": "answer_list_1"
             }
           ]
         }
@@ -2292,7 +2292,7 @@
         "!@local.has_any_image": [
           "condition"
         ],
-        "@local.answer_1_list": [
+        "@local.answer_list_1": [
           "parameter_list.answer_list"
         ]
       }
@@ -2332,7 +2332,7 @@
       "name": "selection_tool",
       "condition": "@local.has_any_image",
       "parameter_list": {
-        "answer_list": "@local.answer_2_list",
+        "answer_list": "@local.answer_list_2",
         "item_width": "@local.radio_button_grid_item_width",
         "grid_width": "@local.radio_button_grid_width",
         "grid_gap": "@local.radio_button_grid_gap"
@@ -2351,10 +2351,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@local.answer_2_list",
-              "matchedExpression": "@local.answer_2_list",
+              "fullExpression": "@local.answer_list_2",
+              "matchedExpression": "@local.answer_list_2",
               "type": "local",
-              "fieldName": "answer_2_list"
+              "fieldName": "answer_list_2"
             }
           ],
           "item_width": [
@@ -2387,7 +2387,7 @@
         "@local.has_any_image": [
           "condition"
         ],
-        "@local.answer_2_list": [
+        "@local.answer_list_2": [
           "parameter_list.answer_list"
         ],
         "@local.radio_button_grid_item_width": [

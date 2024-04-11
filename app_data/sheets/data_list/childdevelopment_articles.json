@@ -1,0 +1,34 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "childdevelopment_articles",
+  "data_list_name": "childdevelopment_articles",
+  "status": "released",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips"
+    },
+    {
+      "id": "practise",
+      "category_id": "practise"
+    },
+    {
+      "id": "review_1",
+      "category_id": "review"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity"
+    }
+  ],
+  "_xlsxPath": "KW modules.xlsx"
+}

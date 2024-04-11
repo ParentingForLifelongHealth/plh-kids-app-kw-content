@@ -8,7 +8,7 @@
       "id": "relax_1",
       "audio_asset": "audio/relax/relax_1.mp3",
       "type": "passive_short",
-      "attached_single_doc": "https://docs.google.com/document/d/1h3wNodphmp0PCZueby4UdtvBke5O6EqzcJPHNC2v7uY",
+      "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
       "title": "Quick pause",
       "_translations": {
         "title": {},
@@ -462,5 +462,5 @@
       "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
     }
   ],
-  "_xlsxPath": "data/modules/relax.xlsx"
+  "_xlsxPath": "KW relax.xlsx"
 }
