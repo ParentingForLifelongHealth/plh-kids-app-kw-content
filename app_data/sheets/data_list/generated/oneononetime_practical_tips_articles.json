@@ -1,0 +1,24 @@
+{
+  "flow_name": "oneononetime_practical_tips_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "text_1": "Here are some easy tips on how to connect with your child:",
+      "image_asset": "",
+      "section_1_title": "**Do it every day**",
+      "section_1_text": "Spend 5 minutes (or more!) with your child each day.",
+      "section_2_title": "**Focus on your child**",
+      "section_2_text": "Switch off the TV, put aside phones, and remove distractions. Show your child that you are really paying attention.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "Look at your child. Get down to their level. Use their name.\nDescribe what they are doing and feeling. Praise them.\nYour child will learn a lot from what you say and do.",
+      "section_3_title": "**Follow their lead**",
+      "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "This will help your child feel important and valued.",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "flow_name": "instructions_practise_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "text_1": "Let’s practise giving instructions that work!",
+      "image_asset": "images/facilitators_face.svg",
+      "text_2": "Here are some child behaviours that many parents find challenging.",
+      "quiz_1_question": "What would be the positive behaviour you do want to see?",
+      "quiz_1_option_1_text": "Fight with siblings over toys",
+      "quiz_1_feedback_1": "You could say: “Please give turns”",
+      "quiz_1_option_2_text": "Shouting in the house",
+      "quiz_1_feedback_2": "You could say: “Please speak with a quiet voice”",
+      "quiz_1_option_3_text": "Throw food",
+      "quiz_1_feedback_3": "You could say: “Please keep your food on the plate”",
+      "quiz_1_option_4_text": "Write on walls",
+      "quiz_1_feedback_4": "You could say: “Please only write on paper”",
+      "quiz_2_question": "**How could you redirect your child if they do the following?**",
+      "quiz_2_option_1_text": "Start whining",
+      "quiz_2_feedback_1": "Pay attention to your child and give a positive instruction to redirect them towards a positive behaviour, like helping you with something or playing a different game.",
+      "quiz_2_option_2_text": "Start throwing a tantrum",
+      "quiz_2_feedback_2": "Pay attention to your child and give a positive instruction to redirect them towards a positive behaviour, like helping you with something or playing a different game.",
+      "quiz_2_option_3_text": "Start arguing with siblings",
+      "quiz_2_feedback_3": "Pay attention to your child and give a positive instruction to redirect them towards a positive behaviour, like helping you with something or playing a different game.",
+      "quiz_1_option_5_text": "Running in the house",
+      "quiz_1_feedback_5": "You could say: “Please walk in the house”",
+      "completed": false
+    }
+  ]
+}

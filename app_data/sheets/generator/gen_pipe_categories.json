@@ -1,0 +1,104 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_pipe_categories",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "common_categories",
+    "output_flow_name": "{@gen.id}_articles",
+    "output_flow_type": "data_pipe",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_selfcare_articles",
+      "output_target": "selfcare_{@gen.id}_articles",
+      "module_id": "selfcare"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_childdevelopment_articles",
+      "output_target": "childdevelopment_{@gen.id}_articles",
+      "module_id": "childdevelopment"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_oneononetime_articles",
+      "output_target": "oneononetime_{@gen.id}_articles",
+      "module_id": "oneononetime"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_praise_articles",
+      "output_target": "praise_{@gen.id}_articles",
+      "module_id": "praise"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_feelings_articles",
+      "output_target": "feelings_{@gen.id}_articles",
+      "module_id": "feelings"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_instructions_articles",
+      "output_target": "instructions_{@gen.id}_articles",
+      "module_id": "instructions"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_rulesroutines_articles",
+      "output_target": "rulesroutines_{@gen.id}_articles",
+      "module_id": "rulesroutines"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_consequences_articles",
+      "output_target": "consequences_{@gen.id}_articles",
+      "module_id": "consequences"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_problemsolving_articles",
+      "output_target": "problemsolving_{@gen.id}_articles",
+      "module_id": "problemsolving"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "category_id == \"@gen.id\""
+      ],
+      "input_source": "prepped_closing_articles",
+      "output_target": "closing_{@gen.id}_articles",
+      "module_id": "closing"
+    }
+  ],
+  "_xlsxPath": "KW modules_data_pipes.xlsx"
+}

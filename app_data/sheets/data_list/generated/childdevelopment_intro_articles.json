@@ -1,0 +1,18 @@
+{
+  "flow_name": "childdevelopment_intro_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1": "**Helping your child learn** \n\nPlaying with your child is important for their development and learning in and out of school. This is true for ALL children, including those living with physical and developmental disabilities. \n\nDid you know that playing also helps your child learn what is expected from them and how to interact with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient as they sometimes make mistakes. We all learn most from our mistakes!",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
+      "media_asset": "/audio/learn_audio_1.mp3",
+      "media_transcript": "Greetings, everyone.\nDo you know what is the best way children learn? \n\rPlaying! And let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
+      "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI",
+      "completed": false
+    }
+  ]
+}

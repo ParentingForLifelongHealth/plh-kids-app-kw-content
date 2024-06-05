@@ -5,27 +5,10 @@
   "status": "released",
   "rows": [
     {
-      "id": "test",
-      "number": 0,
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_1",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Test Module",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Test Module"
-        }
-      }
-    },
-    {
       "id": "selfcare",
       "number": 1,
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
-      "image_asset": "images/modules/wave.svg",
       "title": "Taking Care of Yourself",
       "_translations": {
         "title": {}
@@ -39,176 +22,135 @@
     {
       "id": "childdevelopment",
       "number": 2,
-      "image_asset": "images/modules/connect/intro_connect.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2",
-      "title": "How Your Child is Changing",
+      "title": "Child Development",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "How Your Child is Changing"
+          "eng": "Child Development"
         }
       }
     },
     {
       "id": "oneononetime",
       "number": 3,
-      "relax_id": "relax_9",
-      "check_in_id": "check_in_9",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Spending One-on-One Time with Your Child",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_3",
+      "title": "One-on-One Time",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Spending One-on-One Time with Your Child"
+          "eng": "One-on-One Time"
         }
       }
     },
     {
       "id": "praise",
       "number": 4,
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_3",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Praising Your Child",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_4",
+      "title": "Praise",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Praising Your Child"
+          "eng": "Praise"
         }
       }
     },
     {
       "id": "feelings",
       "number": 5,
-      "relax_id": "relax_4",
-      "check_in_id": "check_in_4",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Talking About Feelings",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_5",
+      "title": "Feelings",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Talking About Feelings"
+          "eng": "Feelings"
         }
       }
     },
     {
       "id": "instructions",
       "number": 6,
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_5",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Giving Instructions that Work",
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_6",
+      "title": "Instructions",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Giving Instructions that Work"
+          "eng": "Instructions"
         }
       }
     },
     {
       "id": "rulesroutines",
       "number": 7,
-      "relax_id": "relax_6",
-      "check_in_id": "check_in_6",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Creating Structure",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Creating Structure"
-        }
-      }
-    },
-    {
-      "id": "redirect",
-      "number": 8,
       "relax_id": "relax_7",
       "check_in_id": "check_in_7",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Redirecting Towards Positive Behaviour",
+      "title": "Rules",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Redirecting Towards Positive Behaviour"
-        }
-      }
-    },
-    {
-      "id": "ignore",
-      "number": 9,
-      "relax_id": "relax_8",
-      "check_in_id": "check_in_8",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Handling Demanding Behaviours",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Handling Demanding Behaviours"
+          "eng": "Rules"
         }
       }
     },
     {
       "id": "consequences",
-      "number": 10,
-      "relax_id": "relax_9",
-      "check_in_id": "check_in_9",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Helping Your Child Follow Instructions and Rules",
+      "number": 8,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_8",
+      "title": "Consequences",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Helping Your Child Follow Instructions and Rules"
+          "eng": "Consequences"
         }
       }
     },
     {
       "id": "problemsolving",
-      "number": 11,
-      "relax_id": "relax_10",
-      "check_in_id": "check_in_10",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Dealing with Challenges Together",
+      "number": 9,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_9",
+      "title": "Solve Problems",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Dealing with Challenges Together"
+          "eng": "Solve Problems"
         }
       }
     },
     {
       "id": "closing",
-      "number": 12,
-      "relax_id": "relax_11",
-      "check_in_id": "check_in_11",
-      "image_asset": "images/modules/wave.svg",
-      "title": "Reflecting & Thinking Ahead",
+      "number": 10,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_10",
+      "title": "Celebrate",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Reflecting & Thinking Ahead"
+          "eng": "Celebrate"
         }
       }
     }

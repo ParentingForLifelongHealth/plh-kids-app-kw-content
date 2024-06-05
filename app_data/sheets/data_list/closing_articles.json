@@ -7,10 +7,32 @@
     {
       "id": "intro_1",
       "category_id": "intro",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
       "attached_single_doc": "https://docs.google.com/document/d/1OUT37m9gHSlmZ4SInUuxnVy1WmpsstUdE4ocOQMuFqQ"
     },
     {
       "id": "explore_1",
+      "category_id": "explore"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore"
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore"
+    },
+    {
+      "id": "explore_6",
       "category_id": "explore"
     },
     {
@@ -27,7 +49,10 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity"
+      "category_id": "home_activity",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "[recording of parent testimonial]"
     }
   ],
   "_xlsxPath": "KW modules.xlsx"

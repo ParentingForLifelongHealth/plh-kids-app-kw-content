@@ -7,19 +7,117 @@
     {
       "id": "intro_1",
       "category_id": "intro",
+      "text_1": "**Spending One-on-One Time with your child**\n\nToday we will look at spending One-on-One Time with your child.\nSpending special time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support them in learning new things.",
+      "image_asset": "",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
+      "media_asset": "/audio/connect_audio_1.mp3",
+      "media_transcript": "Greetings, everyone.\n\nOur children don’t need expensive gifts. The best gift we can give them is to spend one-on-one time with them.\n\nBy spending time together, you will understand your child better and they will learn many new things.\n\nHaving special time with your child will help them feel loved and valued. That will make everything easier at home!",
       "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw"
     },
     {
       "id": "explore_1",
-      "category_id": "explore"
+      "category_id": "explore",
+      "text_1": "One-on-One Time can be fun for you and your child.\n\nLet’s look at how {F2_GRANDMOTHER} and {F2_DAUGHTER_3} do this!",
+      "image_asset": "images/facilitators_face.svg"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/one_on_one_yc_1.png",
+      "text_2": "*{F2_DAUGHTER_3} and {F2_GRANDMOTHER} are starting One-on-One Time.* \n**{F2_GRANDMOTHER}**: “I have 5 minutes of One-on-One Time to spend with you, {F2_DAUGHTER_3}. What would you like to do?”\n**{F2_DAUGHTER_3}**: “I want to play dress-up!”"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/one_on_one_yc_2.png",
+      "text_2": "**{F2_GRANDMOTHER}**: “Wonderful idea, {F2_DAUGHTER_3}! I see you are taking out the yellow scarf with blue stripes on it.”"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/one_on_one_yc_3.jpg",
+      "text_2": "**{F2_DAUGHTER_3}**: “{F2_GRANDMOTHER}, it’s for you.”\n**{F2_GRANDMOTHER}**: “Thank you, I love it!”\n**{F2_DAUGHTER_3}**: “Wear it, {F2_GRANDMOTHER}!”"
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/one_on_one_yc_4.jpg",
+      "text_2": "{F2_DAUGHTER_3} finds a dress to wear.\n**{F2_GRANDMOTHER}**: “Well done for getting dressed by yourself, {F2_DAUGHTER_3}. You are such a big girl!”"
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "text_1": "Let’s reflect on what we saw.",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "**How does {F2_GRANDMOTHER} show {F2_DAUGHTER_3} that she is paying attention?**",
+      "quiz_1_option_1_text": "She says {F2_DAUGHTER_3} name",
+      "quiz_1_feedback_1": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_1_option_2_text": "She goes down to the same level as {F2_DAUGHTER_3}",
+      "quiz_1_feedback_2": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_1_option_3_text": "She is looking at {F2_DAUGHTER_3}",
+      "quiz_1_feedback_3": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_1_option_4_text": "She asks what  {F2_DAUGHTER_3} wants to do",
+      "quiz_1_feedback_4": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_1_option_5_text": "She allows {F2_DAUGHTER_3} to choose the activity",
+      "quiz_1_feedback_5": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_1_option_6_text": "She notices and praises what {F2_DAUGHTER_3} does",
+      "quiz_1_feedback_6": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
+      "quiz_2_question": "**How does {F2_DAUGHTER_3} feel?**",
+      "quiz_2_option_1_text": "Happy",
+      "quiz_2_feedback_1": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_2_option_2_text": "Loved",
+      "quiz_2_feedback_2": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_2_option_3_text": "Important",
+      "quiz_2_feedback_3": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_2_option_4_text": "Appreciated",
+      "quiz_2_feedback_4": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_2_option_5_text": "Confident",
+      "quiz_2_feedback_5": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_2_option_6_text": "Close to {F2_GRANDMOTHER}",
+      "quiz_2_feedback_6": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
+      "quiz_3_question": "**How does {F2_GRANDMOTHER} feel?**",
+      "quiz_3_option_1_text": "Happy",
+      "quiz_3_feedback_1": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without thinking of our daily chores or worries for that moment.",
+      "quiz_3_option_2_text": "Close to {F2_DAUGHTER_3}",
+      "quiz_3_feedback_2": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without thinking of our daily chores or worries for that moment.",
+      "quiz_3_option_3_text": "Relaxed",
+      "quiz_3_feedback_3": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without thinking of our daily chores or worries for that moment."
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips"
+      "category_id": "practical_tips",
+      "text_1": "Here are some easy tips on how to connect with your child:",
+      "image_asset": "",
+      "section_1_title": "**Do it every day**",
+      "section_1_text": "Spend 5 minutes (or more!) with your child each day.",
+      "section_2_title": "**Focus on your child**",
+      "section_2_text": "Switch off the TV, put aside phones, and remove distractions. Show your child that you are really paying attention.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "Look at your child. Get down to their level. Use their name.\nDescribe what they are doing and feeling. Praise them.\nYour child will learn a lot from what you say and do.",
+      "section_3_title": "**Follow their lead**",
+      "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "This will help your child feel important and valued."
     },
     {
       "id": "practise",
-      "category_id": "practise"
+      "category_id": "practise",
+      "text_1": "Let’s come up with some ideas together.",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "What could you do to spend One-on-One Time with your child?",
+      "quiz_1_option_1_text": "Join them when they play",
+      "quiz_1_feedback_1": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_2_text": "Chat before bedtime",
+      "quiz_1_feedback_2": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_3_text": "Eat a meal together",
+      "quiz_1_feedback_3": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_4_text": "Watch a TV show",
+      "quiz_1_feedback_4": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_5_text": "Read a book together",
+      "quiz_1_feedback_5": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_6_text": "Do a chore together",
+      "quiz_1_feedback_6": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together."
     },
     {
       "id": "review_1",
@@ -27,7 +125,12 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity"
+      "category_id": "home_activity",
+      "text_1": "Want to try it out? \n\nSpend 5 minutes (or more) of One-on-One Time with your child, every day.",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "/audio/connect_audio_2.mp3",
+      "media_transcript": "When I first heard I have to spend One-on-One Time with my daughter, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my daughter so that she thinks we have to do everything together. \n\rBut I really wanted to build my relationship with her and I wanted her to open up about what was troubling her. \n\rSo we tried the One-on-One Time. \n\rFirst, it felt weird, but it turned out to be fun! Now we play her favourite game together and talk about things happening at school and with her friends."
     }
   ],
   "_xlsxPath": "KW modules.xlsx"

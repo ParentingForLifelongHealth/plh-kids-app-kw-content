@@ -1,0 +1,18 @@
+{
+  "flow_name": "consequences_intro_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1": "**Helping your child follow instructions and rules**\n\nSometimes, our children really struggle to follow instructions or rules. They are still learning how to behave in different situations.\n\nAs a parent, you can help them understand that their actions affect themselves and others. \n\nGiving clear consequences teaches children to take responsibility for their actions, more than hitting or shouting does.\n\nSome consequences happen naturally (if they break a toy, they cannot play with it), other consequences you set to help your child follow instructions or rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
+      "media_asset": "/audio/consequences_audio_1.mp3",
+      "media_transcript": "Greetings, everyone.\n\nEven if you do everything right, your child will misbehave sometimes. \n\nWe may be tempted to scream and shout, but that just leaves everyone more angry.\n\nIf we stay calm and give them a consequence, they will learn to take responsibility for their actions instead.",
+      "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8",
+      "completed": false
+    }
+  ]
+}

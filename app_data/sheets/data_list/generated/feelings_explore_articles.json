@@ -1,0 +1,79 @@
+{
+  "flow_name": "feelings_explore_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1": "Let’s check in on another family to see how talking about feelings helps them in a practical way:",
+      "image_asset": "images/facilitators_face.svg",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/feelings_yc_1.jpg",
+      "text_2": "**{F1_FATHER}**: “{F1_DAUGHTER_6}, I have 5 minutes to spend One-on-One Time with you. What would you like to do?”\n**{F1_DAUGHTER_6}**: “Let’s play with the ball outside!”",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/feelings_yc_2.jpg",
+      "text_2": "**{F1_DAUGHTER_6}**: “I can’t do it!”\n**{F1_FATHER}**: “I see that your hands are tight and you are speaking loudly. It looks like you are upset, {F1_DAUGHTER_6}. It’s not easy, let’s practise a little bit more. I know you can do it.”",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/feelings_yc_3.jpg",
+      "text_2": "**{F1_FATHER}**: “Five catches in a row! You seem really proud to have made it to five, {F1_DAUGHTER_6}!”\n**{F1_DAUGHTER_6}**: “Let’s do 10!”",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/feelings_yc_4.jpg",
+      "text_2": "**{F1_FATHER}**: “Well done, my girl. I am very happy to be able to spend this special time with you, {F1_DAUGHTER_6}.”",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "text_1": "Let’s reflect on what {F1_FATHER} and {F1_DAUGHTER_6} did.",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "**Why does {F1_FATHER} name {F1_DAUGHTER_6}’s feelings?**",
+      "quiz_1_option_1_text": "To show {F1_DAUGHTER_6} he is paying attention",
+      "quiz_1_feedback_1": "That’s right. By naming {F1_DAUGHTER_6}’s emotions, {F1_FATHER} models an important skill.",
+      "quiz_1_option_2_text": "To help {F1_DAUGHTER_6} learn to recognise her own emotions",
+      "quiz_1_feedback_2": "That’s right. By naming {F1_DAUGHTER_6}’s emotions, {F1_FATHER} models an important skill.",
+      "quiz_1_option_3_text": "To show {F1_DAUGHTER_6} that her emotions are normal",
+      "quiz_1_feedback_3": "That’s right. By naming {F1_DAUGHTER_6}’s emotions, {F1_FATHER} models an important skill.",
+      "quiz_1_option_4_text": "To help {F1_DAUGHTER_6} learn how to talk about her emotions",
+      "quiz_1_option_5_text": "To support and encourage {F1_DAUGHTER_6} to keep trying",
+      "quiz_1_feedback_5": "That’s right. By naming {F1_DAUGHTER_6}’s emotions, {F1_FATHER} models an important skill.",
+      "quiz_2_question": "**What can we learn from {F1_FATHER} in how he talks about {F1_DAUGHTER_6}’s emotions?",
+      "quiz_2_option_1_text": "He names {F1_DAUGHTER_6}’s positive *and* difficult emotions",
+      "quiz_2_feedback_1": "Yes, {F1_FATHER} shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_2_text": "He accepts {F1_DAUGHTER_6}’s different emotions",
+      "quiz_2_feedback_2": "Yes, {F1_FATHER} shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_3_text": "He uses words to describe {F1_DAUGHTER_6}’s emotions",
+      "quiz_2_feedback_3": "Yes, {F1_FATHER} shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_4_text": "He shares his own feelings with {F1_DAUGHTER_6}",
+      "quiz_2_feedback_4": "Yes, {F1_FATHER} shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_5_text": "He stays calm despite {F1_DAUGHTER_6}’s frustration",
+      "quiz_2_feedback_5": "Yes, {F1_FATHER} shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_3_question": "**What would have happened if {F1_FATHER} had criticised or ignored {F1_DAUGHTER_6}’s frustration?**",
+      "quiz_3_option_1_text": "{F1_DAUGHTER_6} would have given up",
+      "quiz_3_feedback_1": "Correct. Noticing and naming emotions is very important to support our children and help them learn new skills.",
+      "quiz_3_option_2_text": "The same problem would happen again next time",
+      "quiz_3_feedback_2": "Correct. Noticing and naming emotions is very important to support our children and help them learn new skills.",
+      "quiz_3_option_3_text": "{F1_DAUGHTER_6} would have gotten angrier",
+      "quiz_3_feedback_3": "Correct. Noticing and naming emotions is very important to support our children and help them learn new skills.",
+      "quiz_3_option_4_text": "{F1_DAUGHTER_6} would not have learned how to catch a ball",
+      "quiz_3_feedback_4": "Correct. Noticing and naming emotions is very important to support our children and help them learn new skills.",
+      "completed": false
+    }
+  ]
+}

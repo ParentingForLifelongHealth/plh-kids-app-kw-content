@@ -7,12 +7,10 @@
     {
       "id": "w_1on1",
       "habit_id": "spend_time",
-      "has_highlights": true,
-      "challenges_structure": "nested",
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_1on1_home_practice",
-      "has_challenges": true,
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "_translations": {
         "text_goal": {},
@@ -79,9 +77,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_praise_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to praise your teen.",
       "_translations": {
         "text_goal": {},
@@ -145,12 +141,10 @@
     {
       "id": "w_instruct",
       "habit_id": "instruct_positively",
-      "has_highlights": true,
-      "challenges_structure": "nested",
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_instruct_home_practice",
-      "has_challenges": true,
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home practice was to try out REAL, POSITIVE and EXACT instructions with your teen.",
       "_translations": {
         "text_goal": {},
@@ -217,9 +211,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_stress_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "This week, your goal was: Whenever you are feeling stressed or upset, take five breaths in and out before you react. \n\nYour goal was also to talk to your teen about how you both felt in a stressful situation.",
       "_translations": {
         "text_goal": {},
@@ -286,9 +278,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_money_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to make a family budget and savings plan.",
       "_translations": {
         "text_goal": {},
@@ -354,9 +344,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_rules_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to make ONE rule with your teen.",
       "_translations": {
         "text_goal": {},
@@ -423,9 +411,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_consequence_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to introduce ONE positive consequence (for your teen taking responsibility) and ONE negative consequence (for your teen breaking a household rule).",
       "_translations": {
         "text_goal": {},
@@ -491,9 +477,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_solve_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to try and resolve a problem or conflict together with your teen.",
       "_translations": {
         "text_goal": {},
@@ -560,9 +544,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_safe_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to map risks and support systems with your teen – both in your community and online.",
       "_translations": {
         "text_goal": {},
@@ -629,9 +611,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_crisis_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for it.",
       "_translations": {
         "text_goal": {},
@@ -697,9 +677,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_srh_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to look at the stories in this module together with your teen and let it spark a discussion about body changes and intimate relationships.",
       "_translations": {
         "text_goal": {},
@@ -766,9 +744,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_svp_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to discuss the @data.workshop.w_svp.in_text_title with your teen.",
       "_translations": {
         "text_goal": {},
@@ -835,9 +811,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_grief_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "This week, your goal was: Share with your teen how you feel, and ask them to also name their feelings.",
       "_translations": {
         "text_goal": {},
@@ -904,9 +878,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_learn_1_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
       "_translations": {
         "intro_text": {},
@@ -968,9 +940,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_learn_2_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
       "_translations": {
         "intro_text": {},
@@ -1032,9 +1002,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_learn_3_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
       "_translations": {
         "intro_text": {},
@@ -1096,9 +1064,7 @@
       "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
       "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
       "button_no_go_to_template": "w_learn_4_home_practice",
-      "has_highlights": false,
-      "has_challenges": true,
-      "challenges_structure": "plain",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
       "_translations": {
         "intro_text": {},
@@ -1155,5 +1121,5 @@
       "question_how": "How did it go?"
     }
   ],
-  "_xlsxPath": "home_practice_review.xlsx"
+  "_xlsxPath": "KW hp_review.xlsx"
 }

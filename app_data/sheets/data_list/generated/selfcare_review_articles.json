@@ -1,0 +1,12 @@
+{
+  "flow_name": "selfcare_review_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "review_1",
+      "category_id": "review",
+      "completed": false
+    }
+  ]
+}
