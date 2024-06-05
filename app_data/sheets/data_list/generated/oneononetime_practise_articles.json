@@ -1,0 +1,27 @@
+{
+  "flow_name": "oneononetime_practise_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "text_1": "Let’s come up with some ideas together.",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "What could you do to spend One-on-One Time with your child?",
+      "quiz_1_option_1_text": "Join them when they play",
+      "quiz_1_feedback_1": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_2_text": "Chat before bedtime",
+      "quiz_1_feedback_2": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_3_text": "Eat a meal together",
+      "quiz_1_feedback_3": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_4_text": "Watch a TV show",
+      "quiz_1_feedback_4": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_5_text": "Read a book together",
+      "quiz_1_feedback_5": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_1_option_6_text": "Do a chore together",
+      "quiz_1_feedback_6": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "flow_name": "feelings_practical_tips_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "text_1": "With these three tips, you can help your child learn to manage their emotions well.",
+      "section_1_title": "**NOTICE**",
+      "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
+      "section_1_button_text": "More tips",
+      "section_1_extra_text": "To recognise feelings, you can pay attention to your thoughts and to your and your child’s words and actions.",
+      "section_2_title": "**ACCEPT**",
+      "section_2_text": "Be open to how you and your child feel. All feelings are okay.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "There are six basic emotions that each send us an important message:\n**Happy**: Keep doing things that make you feel good.  \n**Sad**: Something important in your life needs attention.\n**Angry**: Stand up for ourselves and set limits.\n**Disgusted**: Move away from what we don't like.\n**Surprised**: Stop and pay attention for a moment.\n**Afraid**: Run away from danger.\n \nAs children get older, they learn to identify lots of other emotions, like feeling excited, frustrated, proud, lonely, peaceful, guilty, or confused.",
+      "section_3_title": "**TALK**",
+      "section_3_text": "Use words to describe your and your child’s emotions, so they can learn to do the same. \n \nThis may be hard at first, but it is an important step to help your child manage their emotions better!",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "Describe how you see your child’s emotion in a calm way. For example:\n \n*“I notice you’re stomping your feet, talking loudly, and your face looks a bit upset. Are you feeling angry because you didn’t get to play outside?”*\n \nShare your own feelings with your child. For example: \n \n*“I would feel the same way if I couldn’t go out when I wanted to.”*\n \nThis sets a good example and shows your child that it's okay to share their own feelings. They will learn to recognise emotions in themselves and others too.",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "flow_name": "consequences_practise_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "text_1": "Let’s come up with some ideas for reasonable and realistic consequences.",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "Would any of these consequences be helpful for you and your child?",
+      "quiz_1_option_1_text": "If you are late for dinner, your food will be cold.",
+      "quiz_1_feedback_1": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "quiz_1_option_2_text": "If you continue splashing water, bath time will be over.",
+      "quiz_1_feedback_2": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "quiz_1_option_3_text": "If you break your toy, you will have no toy to play with.",
+      "quiz_1_feedback_3": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "quiz_1_option_4_text": "If you can’t play close to home where I can see you, then you will have to come inside.",
+      "quiz_1_feedback_4": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "quiz_1_option_5_text": "If you do not put away your toys now, then you cannot play with them tomorrow.",
+      "quiz_1_feedback_5": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "completed": false
+    }
+  ]
+}

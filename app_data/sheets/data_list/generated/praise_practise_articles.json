@@ -1,0 +1,27 @@
+{
+  "flow_name": "praise_practise_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "text_1": "Let’s practise giving specific praise!",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "What behaviours could you praise your child for?",
+      "quiz_1_option_1_text": "Cleaning up or helping out",
+      "quiz_1_feedback_1": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_option_2_text": "Being patient or polite",
+      "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_option_3_text": "Trying a new skill",
+      "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_option_4_text": "Playing quietly",
+      "quiz_1_feedback_4": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_option_5_text": "Getting ready for school or bed",
+      "quiz_1_feedback_5": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_option_6_text": "Listening to instructions",
+      "quiz_1_feedback_6": "Yes, you can praise them for these behaviours… and many more!",
+      "completed": false
+    }
+  ]
+}

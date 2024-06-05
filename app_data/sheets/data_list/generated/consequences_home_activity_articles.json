@@ -1,0 +1,17 @@
+{
+  "flow_name": "consequences_home_activity_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "text_1": "Want to see more positive and less negative behaviour? \n\nPraise your child for the things you would like them to keep doing. \n\nIf your child refuses to follow instructions, you can use a fair consequence. Remember to give them a choice to follow the instruction first, and respond in a calm way.",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "/audio/consequences_audio_2.mp3",
+      "media_transcript": "When my children misbehaved, I would sometimes let it go and other times I would shout at them and punish them right away. But the next time they did it again! \n\nParentApp helped me understand that I can do things differently. Instead of punishing them, I stay calm and give them a consequence to help them change their behaviour.     \n\nI have seen a huge change in my child’s behaviour, and I have less stress. I wish I knew this long ago, but it is never too late to start!",
+      "completed": false
+    }
+  ]
+}

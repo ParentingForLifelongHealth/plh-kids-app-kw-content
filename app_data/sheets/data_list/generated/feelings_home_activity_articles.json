@@ -1,0 +1,17 @@
+{
+  "flow_name": "feelings_home_activity_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "text_1": "Would you like to help your child manage their feelings well? \n\nNotice your child’s feelings, and describe both your own feelings and the feelings of your child at least once a day.",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "/audio/feelings_audio_2.mp3",
+      "media_transcript": "My daughter used to get so frustrated and angry when she did not get her way. She would shout and scream, even when we went out, and I would also feel very angry and embarrassed. \n\nWhen I learned about emotions, I started to name and acknowledge her emotions. I helped her understand that it is okay to feel angry sometimes, but that she can show it in a different way. Now, she will tell me when she starts to feel angry, and we can find a solution together that works for everyone.",
+      "completed": false
+    }
+  ]
+}

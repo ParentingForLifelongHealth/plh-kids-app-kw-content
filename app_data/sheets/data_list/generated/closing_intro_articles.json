@@ -1,0 +1,15 @@
+{
+  "flow_name": "closing_intro_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
+      "attached_single_doc": "https://docs.google.com/document/d/1OUT37m9gHSlmZ4SInUuxnVy1WmpsstUdE4ocOQMuFqQ",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "flow_name": "prepped_closing_articles",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "media_type": "audio",
+      "media_title": "**How will it help me and my family?**",
+      "attached_single_doc": "https://docs.google.com/document/d/1OUT37m9gHSlmZ4SInUuxnVy1WmpsstUdE4ocOQMuFqQ",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "completed": false
+    },
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "completed": false
+    },
+    {
+      "id": "review_1",
+      "category_id": "review",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "[recording of parent testimonial]",
+      "completed": false
+    }
+  ]
+}

@@ -7,6 +7,7 @@
     {
       "id": "w_praise",
       "number_of_challenges": "3",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to praise your teen?",
       "_translations": {
         "question_text": {},
@@ -55,6 +56,7 @@
     {
       "id": "w_stress",
       "number_of_challenges": "5",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when sharing how you feel with your teen?",
       "_translations": {
         "question_text": {},
@@ -124,6 +126,7 @@
       "id": "w_money",
       "number_of_challenges": "4",
       "button_go_to_template_3_a": "lib_act_w_money",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when making your budget together?",
       "_translations": {
         "question_text": {},
@@ -187,6 +190,7 @@
     {
       "id": "w_rules",
       "number_of_challenges": "6",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to make a rule together?",
       "_translations": {
         "question_text": {},
@@ -265,6 +269,7 @@
     {
       "id": "w_consequence",
       "number_of_challenges": "7",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to introduce a consequence together?",
       "_translations": {
         "question_text": {},
@@ -355,6 +360,7 @@
       "number_of_challenges": "5",
       "button_go_to_template_1_a": "lib_act_w_solve",
       "button_go_to_template_2_a": "lib_act_w_solve",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to resolve the problem with your teen?",
       "_translations": {
         "question_text": {},
@@ -433,6 +439,7 @@
     {
       "id": "w_safe",
       "number_of_challenges": "6",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to map risks and support with your teen?",
       "_translations": {
         "question_text": {},
@@ -513,6 +520,7 @@
       "number_of_challenges": "3",
       "button_go_to_template_1_a": "lib_act_w_solve",
       "button_go_to_template_1_b": "parent_centre_help",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to prepare for a possible crisis with your teen?",
       "_translations": {
         "question_text": {},
@@ -571,6 +579,7 @@
     {
       "id": "w_srh",
       "number_of_challenges": "4",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when talking to your teen about body changes and intimate relationships?",
       "_translations": {
         "question_text": {},
@@ -629,6 +638,7 @@
     {
       "id": "w_svp",
       "number_of_challenges": "3",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when talking about the @data.workshop.w_svp.in_text_title with your teen?",
       "_translations": {
         "question_text": {},
@@ -677,6 +687,7 @@
     {
       "id": "w_grief",
       "number_of_challenges": "5",
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when sharing how you feel with your teen?",
       "_translations": {
         "question_text": {},
@@ -743,5 +754,5 @@
       "top_text": "Challenges other parents experience:"
     }
   ],
-  "_xlsxPath": "home_practice_review.xlsx"
+  "_xlsxPath": "KW hp_review.xlsx"
 }
