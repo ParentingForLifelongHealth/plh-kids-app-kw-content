@@ -45,6 +45,7 @@
     },
     {
       "id": "explore",
+      "icon_asset": "images/icons/pencil.svg",
       "title": "Explore",
       "_translations": {
         "title": {}
@@ -57,6 +58,7 @@
     },
     {
       "id": "practical_tips",
+      "icon_asset": "images/icons/pencil.svg",
       "title": "Practical Tips",
       "_translations": {
         "title": {}
