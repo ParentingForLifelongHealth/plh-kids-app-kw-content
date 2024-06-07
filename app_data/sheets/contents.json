@@ -2180,6 +2180,11 @@
       "flow_name": "picture_books",
       "_xlsxPath": "templates/library/picture_books.xlsx"
     },
+    "pop_up_text": {
+      "flow_type": "template",
+      "flow_name": "pop_up_text",
+      "_xlsxPath": "templates/modules/articles.xlsx"
+    },
     "question": {
       "flow_type": "template",
       "flow_name": "question",
