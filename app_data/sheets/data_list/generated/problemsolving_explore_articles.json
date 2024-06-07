@@ -23,7 +23,7 @@
       "category_id": "explore",
       "text_1": "2. SOLVE IT",
       "image_asset": "images/problem_solving_yc_2.svg",
-      "text_2": "**{F3_MOTHER}**: \"How can we make sure you get all your work done and still get to bed on time?”\n\n{F3_DAUGHTER_7}: “Maybe I can start earlier?”\n\n**{F3_MOTHER}**: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n**{F3_DAUGHTER_7}**: “Okay, {F3_MOTHER}.”",
+      "text_2": "{F3_MOTHER} : \"How can we make sure you get all your work done and still get to bed on time?”\n\n{F3_DAUGHTER_7}: “Maybe I can start earlier?”\n\n {F3_MOTHER} : “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n {F3_DAUGHTER_7} : “Okay, {F3_MOTHER}.”",
       "completed": false
     },
     {
@@ -31,7 +31,7 @@
       "category_id": "explore",
       "text_1": "3. TRY IT",
       "image_asset": "Iimages/problem_solving_yc_3.svg",
-      "text_2": "*The next day.*\n\n**{F3_MOTHER}**: “{F3_DAUGHTER_7}, have you started your homework yet?”\n\n**{F3_DAUGHTER_7}**: “I'll start now, {F3_MOTHER}! Can I talk to you about this question?”\n\n**{F3_MOTHER}**: “Of course, my dear.”",
+      "text_2": "*The next day.*\n\n {F3_MOTHER} : “{F3_DAUGHTER_7}, have you started your homework yet?”\n\n {F3_DAUGHTER_7} : “I'll start now, {F3_MOTHER}! Can I talk to you about this question?”\n\n {F3_MOTHER} : “Of course, my dear.”",
       "completed": false
     },
     {
@@ -39,7 +39,7 @@
       "category_id": "explore",
       "text_1": "4. TEST IT",
       "image_asset": "images/problem_solving_yc_4.svg",
-      "text_2": "*Later that same day.*\n\n**{F3_DAUGHTER_7}**: “Look, {F3_MOTHER}, I'm ready for bed so early tonight!”\n\n**{F3_MOTHER}**: “Well done, {F3_DAUGHTER_7}. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”",
+      "text_2": "*Later that same day.*\n\n {F3_DAUGHTER_7} : “Look, {F3_MOTHER}, I'm ready for bed so early tonight!”\n\n {F3_MOTHER} : “Well done, {F3_DAUGHTER_7}. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”",
       "completed": false
     },
     {
@@ -47,14 +47,14 @@
       "category_id": "explore",
       "text_1": "Let’s reflect on how {F3_MOTHER} and {F3_DAUGHTER_7}  worked together to solve their problem.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**What problem did this family have?**",
+      "quiz_1_question": "What problem did this family have?",
       "quiz_1_option_1_text": "{F3_DAUGHTER_7} went to bed late",
       "quiz_1_feedback_1": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
       "quiz_1_option_2_text": "{F3_DAUGHTER_7} did not finish his homework",
       "quiz_1_feedback_2": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
       "quiz_1_option_3_text": "{F3_DAUGHTER_7} was tired",
       "quiz_1_feedback_3": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
-      "quiz_2_question": "**What did {F3_MOTHER} do to solve the problem together with {F3_DAUGHTER_7}?**",
+      "quiz_2_question": "What did {F3_MOTHER} do to solve the problem together with {F3_DAUGHTER_7}?",
       "quiz_2_option_1_text": "She helps her identify the problem",
       "quiz_2_feedback_1": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
       "quiz_2_option_2_text": "She asks her to come up with solutions",

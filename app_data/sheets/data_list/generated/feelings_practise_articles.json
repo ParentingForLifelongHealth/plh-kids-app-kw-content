@@ -2,11 +2,5 @@
   "flow_name": "feelings_practise_articles",
   "flow_subtype": "generated",
   "flow_type": "data_list",
-  "rows": [
-    {
-      "id": "practise",
-      "category_id": "practise",
-      "completed": false
-    }
-  ]
+  "rows": []
 }

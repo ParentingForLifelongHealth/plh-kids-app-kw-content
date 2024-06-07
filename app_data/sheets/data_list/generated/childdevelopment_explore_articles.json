@@ -14,35 +14,35 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/child_changing_yc_1.jpg",
-      "text_2": "**{F1_FATHER}**: “Gently throw the ball using the inside of your hands, like this.”\n\n**{F1_SON_5}**: “I want to do it now!!”\n\n**{F1_DAUGHTER_6}**: “No, I want to do it first!!”",
+      "text_2": "{F1_FATHER} : “Gently throw the ball using the inside of your hands, like this.”\n\n {F1_SON_5} : “I want to do it now!!”\n\n {F1_DAUGHTER_6} : “No, I want to do it first!!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/child_changing_yc_2.jpg",
-      "text_2": "**{F1_FATHER}**: “It can be hard to wait, but we cannot all go first. {F1_DAUGHTER_6}, how do you think we could take turns throwing the ball?** \n\n**{F1_DAUGHTER_6}**: “Let’s make a circle! I will throw the ball to {F1_SON_5}, then he throws it to you {F1_FATHER}, and you throw it back to me!”",
+      "text_2": "{F1_FATHER} : “It can be hard to wait, but we cannot all go first. {F1_DAUGHTER_6}, how do you think we could take turns throwing the ball?  \n\n {F1_DAUGHTER_6} : “Let’s make a circle! I will throw the ball to {F1_SON_5}, then he throws it to you {F1_FATHER}, and you throw it back to me!”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/child_changing_yc_3.jpg",
-      "text_2": "**{F1_SON_5}**: “Yes, that sounds great!”\n\n**{F1_FATHER}**: “That’s a fantastic idea, {F1_DAUGHTER_6}! Let’s give it a try!”",
+      "text_2": "{F1_SON_5} : “Yes, that sounds great!”\n\n {F1_FATHER} : “That’s a fantastic idea, {F1_DAUGHTER_6}! Let’s give it a try!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/child_changing_yc_4.jpg",
-      "text_2": "**{F1_FATHER}**: “Well done, {F1_DAUGHTER_6}! You took the lead, and we all had so much fun taking turns! {F1_SON_5}, you were also great at patiently waiting for your turn.”",
+      "text_2": "{F1_FATHER} : “Well done, {F1_DAUGHTER_6}! You took the lead, and we all had so much fun taking turns! {F1_SON_5}, you were also great at patiently waiting for your turn.”",
       "completed": false
     },
     {
       "id": "explore_6",
       "category_id": "explore",
       "text_1": "{F1_FATHER} helped his children learn by playing with them. Let’s explore how he did this.",
-      "quiz_1_question": "**What skills did {F1_FATHER} teach his children?**",
+      "quiz_1_question": "What skills did {F1_FATHER} teach his children?",
       "quiz_1_option_1_text": "Kicking a ball",
       "quiz_1_feedback_1": "Yes, he showed them how to kick the ball, and helped them learn other skills as well - all by playing!",
       "quiz_1_option_2_text": "Solving a problem",
@@ -53,7 +53,7 @@
       "quiz_1_feedback_4": "Yes, he helped them practise being patient, and supported them to learn other skills as well - all by playing!",
       "quiz_1_option_5_text": "Taking the lead",
       "quiz_1_feedback_5": "Yes, he invited them to take the lead, and helped them learn other skills as well - all by playing!",
-      "quiz_2_question": "**How did {F1_FATHER} help his children learn these skills?**",
+      "quiz_2_question": "How did {F1_FATHER} help his children learn these skills?",
       "quiz_2_option_1_text": "By playing with them",
       "quiz_2_feedback_1": "Exactly! Their play time together had so many opportunities to learn new skills.",
       "quiz_2_option_2_text": "By showing them",
@@ -75,7 +75,7 @@
       "id": "explore_8",
       "category_id": "explore",
       "image_asset": "images/learn_experience_yc_1.jpg",
-      "text_2": "**{F3_UNCLE}**: “{F3_DAUGHTER_7}, watch where you’re going! You’re going to break something.” \n\n**{F3_DAUGHTER_7}**: “No I won’t!”",
+      "text_2": "{F3_UNCLE} : “{F3_DAUGHTER_7}, watch where you’re going! You’re going to break something.” \n\n {F3_DAUGHTER_7} : “No I won’t!”",
       "completed": false
     },
     {
@@ -89,21 +89,21 @@
       "id": "explore_10",
       "category_id": "explore",
       "image_asset": "images/learn_experience_yc_3.jpg",
-      "text_2": "**{F3_UNCLE}**: “Are you hurt??”\n\n**{F3_DAUGHTER_7}**: “No, {F3_UNCLE}. I’m so, so sorry for breaking the vase… I didn’t see it.”",
+      "text_2": "{F3_UNCLE} : “Are you hurt??”\n\n {F3_DAUGHTER_7} : “No, {F3_UNCLE}. I’m so, so sorry for breaking the vase… I didn’t see it.”",
       "completed": false
     },
     {
       "id": "explore_11",
       "category_id": "explore",
       "image_asset": "images/learn_experience_yc_4.jpg",
-      "text_2": "**{F3_UNCLE}**: “Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n**{F3_DAUGHTER_7}**: “Yes, I should have listened. I continued running even after you warned me.”",
+      "text_2": "{F3_UNCLE} : “Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n {F3_DAUGHTER_7} : “Yes, I should have listened. I continued running even after you warned me.”",
       "completed": false
     },
     {
       "id": "explore_12",
       "category_id": "explore",
       "image_asset": "images/learn_experience_yc_5.jpg",
-      "text_2": "**{F3_UNCLE}**: “It’s OK, {F3_DAUGHTER_7}. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n**{F3_DAUGHTER_7}**: “Okay…”",
+      "text_2": "{F3_UNCLE} : “It’s OK, {F3_DAUGHTER_7}. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n {F3_DAUGHTER_7} : “Okay…”",
       "completed": false
     },
     {
@@ -111,7 +111,7 @@
       "category_id": "explore",
       "text_1": "Let’s look at how {F3_UNCLE} helped {F3_DAUGHTER_7} learn from her mistake!",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**What does {F3_UNCLE} do to support {F3_DAUGHTER_7}?**",
+      "quiz_1_question": "What does {F3_UNCLE} do to support {F3_DAUGHTER_7}?",
       "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
       "quiz_1_feedback_1": "Yes, he warns her in order to avoid the mistake.",
       "quiz_1_option_2_text": "He remains calm",
@@ -122,7 +122,7 @@
       "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
       "quiz_1_option_5_text": "He asks {F3_DAUGHTER_7} to reflect on her behaviour",
       "quiz_1_feedback_5": "Yes, he helps her learn by asking her how she could have prevented the mistake.",
-      "quiz_2_question": "**What does {F3_DAUGHTER_7} learn from {F3_UNCLE}’s response?**",
+      "quiz_2_question": "What does {F3_DAUGHTER_7} learn from {F3_UNCLE}’s response?",
       "quiz_2_option_1_text": "It is okay to make mistakes",
       "quiz_2_feedback_1": "Exactly! {F3_DAUGHTER_7} learns important things because {F3_UNCLE} responds in a calm and supportive way.",
       "quiz_2_option_2_text": "I am still loved even if I make mistakes",

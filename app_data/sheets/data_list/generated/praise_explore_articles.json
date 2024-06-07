@@ -14,28 +14,28 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/praise_yc_1.jpg",
-      "text_2": "**{F3_MOTHER}**: “You found a striped sock and one with dots. Let’s find the socks that match those two.”",
+      "text_2": "{F3_MOTHER} : “You found a striped sock and one with dots. Let’s find the socks that match those two.”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/praise_yc_2.jpg",
-      "text_2": "**{F3_MOTHER}**: “Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating.”",
+      "text_2": "{F3_MOTHER} : “Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/praise_yc_3.jpg",
-      "text_2": "**{F3_MOTHER}**: “You are being very patient and looking very hard, {F3_SON_4}. Well done for trying. I feel so happy when you are helping me.”",
+      "text_2": "{F3_MOTHER} : “You are being very patient and looking very hard, {F3_SON_4}. Well done for trying. I feel so happy when you are helping me.”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/praise_yc_4.jpg",
-      "text_2": "**{F3_MOTHER}**: “You found two socks with the same pattern! Well done for looking, {F3_SON_4}! \n\nBecause you helped me so well, I have 5 extra minutes to play your favourite game together.”",
+      "text_2": "{F3_MOTHER} : “You found two socks with the same pattern! Well done for looking, {F3_SON_4}! \n\nBecause you helped me so well, I have 5 extra minutes to play your favourite game together.”",
       "completed": false
     },
     {
@@ -43,14 +43,14 @@
       "category_id": "explore",
       "text_1": "Let’s reflect on what we saw.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**Why does {F3_MOTHER} praise {F3_SON_4}?**",
+      "quiz_1_question": "Why does {F3_MOTHER} praise {F3_SON_4}?",
       "quiz_1_option_1_text": "To boost his self-esteem and confidence",
       "quiz_1_feedback_1": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
       "quiz_1_option_2_text": "To help him deal with his frustration",
       "quiz_1_feedback_2": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
       "quiz_1_option_3_text": "To encourage him to want to help more often",
       "quiz_1_feedback_3": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
-      "quiz_2_question": "**What can we learn from {F3_MOTHER} in how she praises {F3_SON_4}?**",
+      "quiz_2_question": "What can we learn from {F3_MOTHER} in how she praises {F3_SON_4}?",
       "quiz_2_option_1_text": "She goes down to {F3_SON_4}’s level",
       "quiz_2_feedback_1": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
       "quiz_2_option_2_text": "She uses his name and makes eye contact",
@@ -63,7 +63,7 @@
       "quiz_2_feedback_5": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
       "quiz_2_option_6_text": "She shares how she feels",
       "quiz_2_feedback_6": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
-      "quiz_3_question": "**Why does {F3_MOTHER} give {F3_SON_4} a hug and extra playtime together?**",
+      "quiz_3_question": "Why does {F3_MOTHER} give {F3_SON_4} a hug and extra playtime together?",
       "quiz_3_option_1_text": "To reward his good behaviour",
       "quiz_3_feedback_1": "That’s right, giving a simple and free reward helps our children to do behaviours that may be difficult for them.",
       "quiz_3_option_2_text": "To encourage him to help more",

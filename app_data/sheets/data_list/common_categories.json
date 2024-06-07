@@ -32,7 +32,7 @@
     },
     {
       "id": "intro",
-      "icon_asset": "images/icons/magnifying_glass.svg",
+      "icon_asset": "images/icons/pencil.svg",
       "title": "Today's Topic",
       "_translations": {
         "title": {}
@@ -45,7 +45,7 @@
     },
     {
       "id": "explore",
-      "icon_asset": "images/icons/pencil.svg",
+      "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Explore",
       "_translations": {
         "title": {}
@@ -58,14 +58,14 @@
     },
     {
       "id": "practical_tips",
-      "icon_asset": "images/icons/pencil.svg",
-      "title": "Practical Tips",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Review",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Practical Tips"
+          "eng": "Review"
         }
       }
     },
@@ -79,19 +79,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Practise"
-        }
-      }
-    },
-    {
-      "id": "review",
-      "icon_asset": "images/icons/thought_bubble.svg",
-      "title": "Review",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Review"
         }
       }
     },
