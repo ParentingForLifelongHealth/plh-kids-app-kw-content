@@ -7,9 +7,9 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "**Praising your child**\n\nWell done for taking time to learn how to strengthen your relationship with your child. It shows you really care!\n\nHow did the message above make you feel?\nWe all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during One-on-One Time.",
+      "text_1": "Praising your child \n\nWell done for taking time to learn how to strengthen your relationship with your child. It shows you really care!\n\nHow did the message above make you feel?\nWe all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during One-on-One Time.",
       "media_type": "audio",
-      "media_title": "**How will it help me and my family?**",
+      "media_title": "How will it help me and my family?",
       "media_asset": "/audio/praise_audio_1.mp3",
       "media_transcript": "Greetings, everyone.\n\nWhen was the last time you were praised? Can you praise yourself for something right now? Praise makes us all feel good. \n\nIt is good to praise our children when they have done well, because when we do that, they will do more of that good behaviour we want to see.\n\nAnd let's remember to praise ourselves too, for big or small things!",
       "attached_single_doc": "https://docs.google.com/document/d/1c9oSL7Ejx7X65ISO0v2vd8H2HnHq2FAF7H27GSfjT6s"
@@ -24,39 +24,39 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/praise_yc_1.jpg",
-      "text_2": "**{F3_MOTHER}**: “You found a striped sock and one with dots. Let’s find the socks that match those two.”"
+      "text_2": "{F3_MOTHER} : “You found a striped sock and one with dots. Let’s find the socks that match those two.”"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/praise_yc_2.jpg",
-      "text_2": "**{F3_MOTHER}**: “Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating.”"
+      "text_2": "{F3_MOTHER} : “Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/praise_yc_3.jpg",
-      "text_2": "**{F3_MOTHER}**: “You are being very patient and looking very hard, {F3_SON_4}. Well done for trying. I feel so happy when you are helping me.”"
+      "text_2": "{F3_MOTHER} : “You are being very patient and looking very hard, {F3_SON_4}. Well done for trying. I feel so happy when you are helping me.”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/praise_yc_4.jpg",
-      "text_2": "**{F3_MOTHER}**: “You found two socks with the same pattern! Well done for looking, {F3_SON_4}! \n\nBecause you helped me so well, I have 5 extra minutes to play your favourite game together.”"
+      "text_2": "{F3_MOTHER} : “You found two socks with the same pattern! Well done for looking, {F3_SON_4}! \n\nBecause you helped me so well, I have 5 extra minutes to play your favourite game together.”"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
       "text_1": "Let’s reflect on what we saw.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**Why does {F3_MOTHER} praise {F3_SON_4}?**",
+      "quiz_1_question": "Why does {F3_MOTHER} praise {F3_SON_4}?",
       "quiz_1_option_1_text": "To boost his self-esteem and confidence",
       "quiz_1_feedback_1": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
       "quiz_1_option_2_text": "To help him deal with his frustration",
       "quiz_1_feedback_2": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
       "quiz_1_option_3_text": "To encourage him to want to help more often",
       "quiz_1_feedback_3": "Exactly! When {F3_MOTHER} praises {F3_SON_4}, all these positive things happen.",
-      "quiz_2_question": "**What can we learn from {F3_MOTHER} in how she praises {F3_SON_4}?**",
+      "quiz_2_question": "What can we learn from {F3_MOTHER} in how she praises {F3_SON_4}?",
       "quiz_2_option_1_text": "She goes down to {F3_SON_4}’s level",
       "quiz_2_feedback_1": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
       "quiz_2_option_2_text": "She uses his name and makes eye contact",
@@ -69,7 +69,7 @@
       "quiz_2_feedback_5": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
       "quiz_2_option_6_text": "She shares how she feels",
       "quiz_2_feedback_6": "True! All {F3_MOTHER}’s actions show us how we can use praise effectively to see more positive behaviour in our children.",
-      "quiz_3_question": "**Why does {F3_MOTHER} give {F3_SON_4} a hug and extra playtime together?**",
+      "quiz_3_question": "Why does {F3_MOTHER} give {F3_SON_4} a hug and extra playtime together?",
       "quiz_3_option_1_text": "To reward his good behaviour",
       "quiz_3_feedback_1": "That’s right, giving a simple and free reward helps our children to do behaviours that may be difficult for them.",
       "quiz_3_option_2_text": "To encourage him to help more",
@@ -83,15 +83,15 @@
       "id": "tips_1",
       "category_id": "practical_tips",
       "text_1": "Here are some easy tips on how to use praise and rewards:",
-      "section_1_title": "**SEE IT**",
+      "section_1_title": "SEE IT",
       "section_1_text": "Look for anything good or helpful that your child does or tries to do.",
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your child for *trying*. This boosts their self-esteem and confidence, so they can learn new behaviours.",
-      "section_2_title": "**SAY IT**",
+      "section_2_title": "SAY IT",
       "section_2_text": "Praise them when you see them do something you like. Do this every day - even if it’s something really small.",
       "section_2_button_text": "More tips",
       "section_2_extra_text": "Tell them specifically what they have done well.\n\rBe enthusiastic and really mean it!\n\nYou can show your praise with a big smile and words. \n\rWhen you praise them, they are more likely to do it again.",
-      "section_3_title": "**REWARD IT**",
+      "section_3_title": "REWARD IT",
       "section_3_text": "Give your child a simple free reward to encourage them to do more of the behaviours that may be difficult for them.",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "Rewards should be simple and free. \n\nGive your child a hug, some extra playtime together, or make their favourite meal. \n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour."

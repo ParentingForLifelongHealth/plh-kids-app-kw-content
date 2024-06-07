@@ -43,7 +43,7 @@
       "category_id": "explore",
       "text_1": "Let’s reflect on how {F1_MOTHER} and {F1_DAUGHTER_6} created a rule together.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**Why does {F1_MOTHER} ask {F1_DAUGHTER_6} for her ideas on what the household rule should be?**",
+      "quiz_1_question": "Why does {F1_MOTHER} ask {F1_DAUGHTER_6} for her ideas on what the household rule should be?",
       "quiz_1_option_1_text": "To make her feel involved",
       "quiz_1_feedback_1": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_1_option_2_text": "To make it more likely that she follows the rule",
@@ -52,7 +52,7 @@
       "quiz_1_feedback_3": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_1_option_4_text": "To make sure she feels the rule is fair and realistic",
       "quiz_1_feedback_4": "Correct. When you make rules together with your child, the rules will work better.",
-      "quiz_2_question": "**What does {F1_MOTHER} do when {F1_DAUGHTER_6} follows the rule?**",
+      "quiz_2_question": "What does {F1_MOTHER} do when {F1_DAUGHTER_6} follows the rule?",
       "quiz_2_option_1_text": "She praises her",
       "quiz_2_option_2_text": "She gives her a simple reward",
       "quiz_2_feedback_2": "Yes, by doing this {F1_MOTHER} makes it more likely that {F1_DAUGHTER_6} will keep following the rules.",
@@ -69,42 +69,42 @@
       "id": "explore_8",
       "category_id": "explore",
       "image_asset": "images/routines_yc_5.jpg",
-      "text_2": "**{F2_GRANDMOTHER}**: “I am so happy to see you playing quietly with your blocks, {F2_DAUGHTER_3}. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.”\n\n**{F2_DAUGHTER_3}**: “Okay!”",
+      "text_2": "{F2_GRANDMOTHER} : “I am so happy to see you playing quietly with your blocks, {F2_DAUGHTER_3}. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.”\n\n {F2_DAUGHTER_3} : “Okay!”",
       "completed": false
     },
     {
       "id": "explore_9",
       "category_id": "explore",
       "image_asset": "images/routines_yc_6.jpg",
-      "text_2": "*5 minutes later*\n\n**{F2_GRANDMOTHER}**: “Time to get ready for bed, {F2_DAUGHTER_3}. First, let’s get you nice and clean with a bath.”",
+      "text_2": "*5 minutes later*\n\n {F2_GRANDMOTHER} : “Time to get ready for bed, {F2_DAUGHTER_3}. First, let’s get you nice and clean with a bath.”",
       "completed": false
     },
     {
       "id": "explore_10",
       "category_id": "explore",
       "image_asset": "images/routines_yc_7.jpg",
-      "text_2": "**{F2_GRANDMOTHER}**: “You were so well-behaved in the bath, {F2_DAUGHTER_3}. Now it is time to put your pyjamas on.”",
+      "text_2": "{F2_GRANDMOTHER} : “You were so well-behaved in the bath, {F2_DAUGHTER_3}. Now it is time to put your pyjamas on.”",
       "completed": false
     },
     {
       "id": "explore_11",
       "category_id": "explore",
       "image_asset": "images/routines_yc_8.jpg",
-      "text_2": "**{F2_GRANDMOTHER}**: “Well done for putting on your pyjamas by yourself, {F2_DAUGHTER_3}! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!”",
+      "text_2": "{F2_GRANDMOTHER} : “Well done for putting on your pyjamas by yourself, {F2_DAUGHTER_3}! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!”",
       "completed": false
     },
     {
       "id": "explore_12",
       "category_id": "explore",
       "image_asset": "images/routines_yc_9.jpg",
-      "text_2": "**{F2_GRANDMOTHER}**: “You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?”\n\n**{F2_DAUGHTER_3}**: “Yay! Can you read me the story of the lion?”",
+      "text_2": "{F2_GRANDMOTHER} : “You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?”\n\n {F2_DAUGHTER_3} : “Yay! Can you read me the story of the lion?”",
       "completed": false
     },
     {
       "id": "explore_13",
       "category_id": "explore",
       "image_asset": "images/routines_yc_10.jpg",
-      "text_2": "**{F2_GRANDMOTHER}**: “ “The end….” Such a lovely story! Goodnight, my baby girl. I love you very much.”\n\n**{F2_DAUGHTER_3}**: “Goodnight, {F2_GRANDMOTHER}.”",
+      "text_2": "{F2_GRANDMOTHER} : “ “The end….” Such a lovely story! Goodnight, my baby girl. I love you very much.”\n\n {F2_DAUGHTER_3} : “Goodnight, {F2_GRANDMOTHER}.”",
       "completed": false
     },
     {
@@ -112,14 +112,14 @@
       "category_id": "explore",
       "text_1": "Let’s think about what made this routine work well.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**How often do you think {F2_GRANDMOTHER} and {F2_DAUGHTER_3} follow this routine?**",
+      "quiz_1_question": "How often do you think {F2_GRANDMOTHER} and {F2_DAUGHTER_3} follow this routine?",
       "quiz_1_option_1_text": "Maybe once a week",
       "quiz_1_feedback_1": "Try again. If {F2_GRANDMOTHER} and {F2_DAUGHTER_3} only do these steps once a week, {F2_DAUGHTER_3} would not be able to remember and follow the routine as well as she does here.",
       "quiz_1_option_2_text": "A few times per week",
       "quiz_1_feedback_2": "Try again. Following these steps only a few times a week may confuse {F2_DAUGHTER_3}, and she may struggle to follow the routine as well as she does here.",
       "quiz_1_option_3_text": "Every day",
       "quiz_1_feedback_3": "Exactly. Being consistent with a routine makes activities easier to follow for children. \n\nMoments in your day that were a struggle at first can become a happy time of connecting with your child!",
-      "quiz_2_question": "**What does {F2_GRANDMOTHER} do to help {F2_DAUGHTER_3} follow this routine?**",
+      "quiz_2_question": "What does {F2_GRANDMOTHER} do to help {F2_DAUGHTER_3} follow this routine?",
       "quiz_2_option_1_text": "She praises and connects with {F2_DAUGHTER_3} before giving instructions",
       "quiz_2_option_2_text": "She promises {F2_DAUGHTER_3} a simple reward to encourage her",
       "quiz_2_feedback_2": "Yes, all of these help {F2_DAUGHTER_3} to follow the routine successfully.",

@@ -14,28 +14,28 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/one_on_one_yc_1.png",
-      "text_2": "*{F2_DAUGHTER_3} and {F2_GRANDMOTHER} are starting One-on-One Time.* \n**{F2_GRANDMOTHER}**: “I have 5 minutes of One-on-One Time to spend with you, {F2_DAUGHTER_3}. What would you like to do?”\n**{F2_DAUGHTER_3}**: “I want to play dress-up!”",
+      "text_2": "*{F2_DAUGHTER_3} and {F2_GRANDMOTHER} are starting One-on-One Time.* \n {F2_GRANDMOTHER} : “I have 5 minutes of One-on-One Time to spend with you, {F2_DAUGHTER_3}. What would you like to do?”\n {F2_DAUGHTER_3} : “I want to play dress-up!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/one_on_one_yc_2.png",
-      "text_2": "**{F2_GRANDMOTHER}**: “Wonderful idea, {F2_DAUGHTER_3}! I see you are taking out the yellow scarf with blue stripes on it.”",
+      "text_2": "{F2_GRANDMOTHER} : “Wonderful idea, {F2_DAUGHTER_3}! I see you are taking out the yellow scarf with blue stripes on it.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/one_on_one_yc_3.jpg",
-      "text_2": "**{F2_DAUGHTER_3}**: “{F2_GRANDMOTHER}, it’s for you.”\n**{F2_GRANDMOTHER}**: “Thank you, I love it!”\n**{F2_DAUGHTER_3}**: “Wear it, {F2_GRANDMOTHER}!”",
+      "text_2": "{F2_DAUGHTER_3} : “{F2_GRANDMOTHER}, it’s for you.”\n {F2_GRANDMOTHER} : “Thank you, I love it!”\n {F2_DAUGHTER_3} : “Wear it, {F2_GRANDMOTHER}!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/one_on_one_yc_4.jpg",
-      "text_2": "{F2_DAUGHTER_3} finds a dress to wear.\n**{F2_GRANDMOTHER}**: “Well done for getting dressed by yourself, {F2_DAUGHTER_3}. You are such a big girl!”",
+      "text_2": "{F2_DAUGHTER_3} finds a dress to wear.\n {F2_GRANDMOTHER} : “Well done for getting dressed by yourself, {F2_DAUGHTER_3}. You are such a big girl!”",
       "completed": false
     },
     {
@@ -43,7 +43,7 @@
       "category_id": "explore",
       "text_1": "Let’s reflect on what we saw.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**How does {F2_GRANDMOTHER} show {F2_DAUGHTER_3} that she is paying attention?**",
+      "quiz_1_question": "How does {F2_GRANDMOTHER} show {F2_DAUGHTER_3} that she is paying attention?",
       "quiz_1_option_1_text": "She says {F2_DAUGHTER_3} name",
       "quiz_1_feedback_1": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
       "quiz_1_option_2_text": "She goes down to the same level as {F2_DAUGHTER_3}",
@@ -56,7 +56,7 @@
       "quiz_1_feedback_5": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
       "quiz_1_option_6_text": "She notices and praises what {F2_DAUGHTER_3} does",
       "quiz_1_feedback_6": "Yes, she does all these things! This way, {F2_DAUGHTER_3} knows that {F2_GRANDMOTHER} really cares about her.",
-      "quiz_2_question": "**How does {F2_DAUGHTER_3} feel?**",
+      "quiz_2_question": "How does {F2_DAUGHTER_3} feel?",
       "quiz_2_option_1_text": "Happy",
       "quiz_2_feedback_1": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
       "quiz_2_option_2_text": "Loved",
@@ -69,7 +69,7 @@
       "quiz_2_feedback_5": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
       "quiz_2_option_6_text": "Close to {F2_GRANDMOTHER}",
       "quiz_2_feedback_6": "That is right. Spending One-on-One Time has a big positive impact on how your child feels.",
-      "quiz_3_question": "**How does {F2_GRANDMOTHER} feel?**",
+      "quiz_3_question": "How does {F2_GRANDMOTHER} feel?",
       "quiz_3_option_1_text": "Happy",
       "quiz_3_feedback_1": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without thinking of our daily chores or worries for that moment.",
       "quiz_3_option_2_text": "Close to {F2_DAUGHTER_3}",

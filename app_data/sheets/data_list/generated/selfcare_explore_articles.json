@@ -14,28 +14,28 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/selfcare_yc_1.svg",
-      "text_2": "**{F1_DAUGHTER_6}**: “{F1_MOTHER}, come and play with me with my dolls!” \n\n**{F1_MOTHER}** *(thinking)*: “I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with {F1_DAUGHTER_3}. It will take my mind off all these worries.”",
+      "text_2": "{F1_DAUGHTER_6} : “{F1_MOTHER}, come and play with me with my dolls!” \n\n {F1_MOTHER}  *(thinking)*: “I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with {F1_DAUGHTER_3}. It will take my mind off all these worries.”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/selfcare_yc_2.svg",
-      "text_2": "**{F1_MOTHER}**: “Allright, {F1_DAUGHTER_3}, let me finish dinner quickly, and then I will come play with you.” \n\n**{F1_DAUGHTER_6}**: “Okay, {F1_MOTHER}.”",
+      "text_2": "{F1_MOTHER} : “Allright, {F1_DAUGHTER_3}, let me finish dinner quickly, and then I will come play with you.” \n\n {F1_DAUGHTER_6} : “Okay, {F1_MOTHER}.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/selfcare_yc_3.svg",
-      "text_2": "**{F1_MOTHER}** *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”",
+      "text_2": "{F1_MOTHER}  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/selfcare_yc_4.svg",
-      "text_2": "**{F1_MOTHER}** *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I will chat with my friend. I know I am not alone in this.”",
+      "text_2": "{F1_MOTHER}  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I will chat with my friend. I know I am not alone in this.”",
       "completed": false
     },
     {
@@ -43,14 +43,14 @@
       "category_id": "explore",
       "text_1": "{F1_MOTHER} did a few things that can also help us when we are feeling overwhelmed.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**How is {F1_MOTHER} feeling at first?**",
+      "quiz_1_question": "How is {F1_MOTHER} feeling at first?",
       "quiz_1_option_1_image_asset": "[Happy emoji]",
       "quiz_1_feedback_1": "Have another look at {F1_MOTHER}’s facial expression and thoughts. She is feeling stressed and worried with everything happening in her life.",
       "quiz_1_option_2_image_asset": "[Neutral emoji]",
       "quiz_1_feedback_2": "Yes, {F1_MOTHER} feels stressed and worried about everything happening in her life.",
       "quiz_1_option_3_image_asset": "[Sad emoji]",
       "quiz_1_feedback_3": "Yes, {F1_MOTHER} feels stressed and worried about everything happening in her life.",
-      "quiz_2_question": "**What does {F1_MOTHER} do to manage her stress?**",
+      "quiz_2_question": "What does {F1_MOTHER} do to manage her stress?",
       "quiz_2_option_1_text": "Take a Pause",
       "quiz_2_feedback_1": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly.",
       "quiz_2_option_2_text": "Play with {F1_DAUGHTER_6}",
@@ -61,7 +61,7 @@
       "quiz_2_feedback_4": "Exactly, {F1_MOTHER} creates a moment in the evening to enjoy a cup of tea by herself. Having this moment also helps her to come up with other ways to get support.",
       "quiz_2_option_5_text": "Connect with a friend",
       "quiz_2_feedback_5": "Yes, when we isolate ourselves, problems will start to feel even bigger. Reaching out to a friend can help.",
-      "quiz_3_question": "**How is {F1_MOTHER} feeling when she does something small for herself?**",
+      "quiz_3_question": "How is {F1_MOTHER} feeling when she does something small for herself?",
       "quiz_3_option_1_text": "Happy",
       "quiz_3_option_1_image_asset": "[Happy emoji]",
       "quiz_3_feedback_1": "Exactly! She is able to feel calmer for a moment and think more positively.",

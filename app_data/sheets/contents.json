@@ -90,11 +90,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "childdevelopment_review_articles": {
-      "flow_name": "childdevelopment_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "closing_categories": {
       "flow_name": "closing_categories",
       "flow_subtype": "generated",
@@ -132,11 +127,6 @@
     },
     "closing_relax_articles": {
       "flow_name": "closing_relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "closing_review_articles": {
-      "flow_name": "closing_review_articles",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -180,11 +170,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "consequences_review_articles": {
-      "flow_name": "consequences_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "feelings_categories": {
       "flow_name": "feelings_categories",
       "flow_subtype": "generated",
@@ -222,11 +207,6 @@
     },
     "feelings_relax_articles": {
       "flow_name": "feelings_relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "feelings_review_articles": {
-      "flow_name": "feelings_review_articles",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -270,11 +250,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "instructions_review_articles": {
-      "flow_name": "instructions_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "oneononetime_categories": {
       "flow_name": "oneononetime_categories",
       "flow_subtype": "generated",
@@ -315,11 +290,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "oneononetime_review_articles": {
-      "flow_name": "oneononetime_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "praise_categories": {
       "flow_name": "praise_categories",
       "flow_subtype": "generated",
@@ -357,11 +327,6 @@
     },
     "praise_relax_articles": {
       "flow_name": "praise_relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "praise_review_articles": {
-      "flow_name": "praise_review_articles",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -455,11 +420,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "problemsolving_review_articles": {
-      "flow_name": "problemsolving_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "rulesroutines_categories": {
       "flow_name": "rulesroutines_categories",
       "flow_subtype": "generated",
@@ -500,11 +460,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "rulesroutines_review_articles": {
-      "flow_name": "rulesroutines_review_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
     "selfcare_categories": {
       "flow_name": "selfcare_categories",
       "flow_subtype": "generated",
@@ -542,11 +497,6 @@
     },
     "selfcare_relax_articles": {
       "flow_name": "selfcare_relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
-    },
-    "selfcare_review_articles": {
-      "flow_name": "selfcare_review_articles",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
@@ -681,11 +631,6 @@
     },
     "relax_articles": {
       "flow_name": "relax_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    "review_articles": {
-      "flow_name": "review_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -1276,11 +1221,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_consequences_review_1": {
-      "flow_name": "article_consequences_review_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_consequences_tips_1": {
       "flow_name": "article_consequences_tips_1",
       "flow_subtype": "generated",
@@ -1323,16 +1263,6 @@
     },
     "article_feelings_intro_1": {
       "flow_name": "article_feelings_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_feelings_practise": {
-      "flow_name": "article_feelings_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_feelings_review_1": {
-      "flow_name": "article_feelings_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1416,11 +1346,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_instructions_review_1": {
-      "flow_name": "article_instructions_review_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_instructions_tips_1": {
       "flow_name": "article_instructions_tips_1",
       "flow_subtype": "generated",
@@ -1468,11 +1393,6 @@
     },
     "article_oneononetime_practise": {
       "flow_name": "article_oneononetime_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_oneononetime_review_1": {
-      "flow_name": "article_oneononetime_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1573,11 +1493,6 @@
     },
     "article_problemsolving_practise": {
       "flow_name": "article_problemsolving_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_problemsolving_review_1": {
-      "flow_name": "article_problemsolving_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1718,11 +1633,6 @@
     },
     "article_selfcare_practise": {
       "flow_name": "article_selfcare_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_selfcare_review_1": {
-      "flow_name": "article_selfcare_review_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -7,9 +7,9 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "**Solving problems together**\n\nEvery family faces challenges sometimes. Learning how to solve problems together with your child can help you prevent conflict. \n\nAs children get older, they will be able to work through their problems by themselves more often. \n\nThis will set them up for success throughout their life. What a gift!",
+      "text_1": "Solving problems together \n\nEvery family faces challenges sometimes. Learning how to solve problems together with your child can help you prevent conflict. \n\nAs children get older, they will be able to work through their problems by themselves more often. \n\nThis will set them up for success throughout their life. What a gift!",
       "media_type": "audio",
-      "media_title": "**How will it help me and my family?**",
+      "media_title": "How will it help me and my family?",
       "media_asset": "/audio/solve_audio_1.mp3",
       "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy! My brother hit me! I am hungry!\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM"
@@ -32,35 +32,35 @@
       "category_id": "explore",
       "text_1": "2. SOLVE IT",
       "image_asset": "images/problem_solving_yc_2.svg",
-      "text_2": "**{F3_MOTHER}**: \"How can we make sure you get all your work done and still get to bed on time?”\n\n{F3_DAUGHTER_7}: “Maybe I can start earlier?”\n\n**{F3_MOTHER}**: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n**{F3_DAUGHTER_7}**: “Okay, {F3_MOTHER}.”"
+      "text_2": "{F3_MOTHER} : \"How can we make sure you get all your work done and still get to bed on time?”\n\n{F3_DAUGHTER_7}: “Maybe I can start earlier?”\n\n {F3_MOTHER} : “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n {F3_DAUGHTER_7} : “Okay, {F3_MOTHER}.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "text_1": "3. TRY IT",
       "image_asset": "Iimages/problem_solving_yc_3.svg",
-      "text_2": "*The next day.*\n\n**{F3_MOTHER}**: “{F3_DAUGHTER_7}, have you started your homework yet?”\n\n**{F3_DAUGHTER_7}**: “I'll start now, {F3_MOTHER}! Can I talk to you about this question?”\n\n**{F3_MOTHER}**: “Of course, my dear.”"
+      "text_2": "*The next day.*\n\n {F3_MOTHER} : “{F3_DAUGHTER_7}, have you started your homework yet?”\n\n {F3_DAUGHTER_7} : “I'll start now, {F3_MOTHER}! Can I talk to you about this question?”\n\n {F3_MOTHER} : “Of course, my dear.”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "text_1": "4. TEST IT",
       "image_asset": "images/problem_solving_yc_4.svg",
-      "text_2": "*Later that same day.*\n\n**{F3_DAUGHTER_7}**: “Look, {F3_MOTHER}, I'm ready for bed so early tonight!”\n\n**{F3_MOTHER}**: “Well done, {F3_DAUGHTER_7}. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”"
+      "text_2": "*Later that same day.*\n\n {F3_DAUGHTER_7} : “Look, {F3_MOTHER}, I'm ready for bed so early tonight!”\n\n {F3_MOTHER} : “Well done, {F3_DAUGHTER_7}. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
       "text_1": "Let’s reflect on how {F3_MOTHER} and {F3_DAUGHTER_7}  worked together to solve their problem.",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "**What problem did this family have?**",
+      "quiz_1_question": "What problem did this family have?",
       "quiz_1_option_1_text": "{F3_DAUGHTER_7} went to bed late",
       "quiz_1_feedback_1": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
       "quiz_1_option_2_text": "{F3_DAUGHTER_7} did not finish his homework",
       "quiz_1_feedback_2": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
       "quiz_1_option_3_text": "{F3_DAUGHTER_7} was tired",
       "quiz_1_feedback_3": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
-      "quiz_2_question": "**What did {F3_MOTHER} do to solve the problem together with {F3_DAUGHTER_7}?**",
+      "quiz_2_question": "What did {F3_MOTHER} do to solve the problem together with {F3_DAUGHTER_7}?",
       "quiz_2_option_1_text": "She helps her identify the problem",
       "quiz_2_feedback_1": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
       "quiz_2_option_2_text": "She asks her to come up with solutions",
@@ -78,9 +78,9 @@
       "id": "tips_1",
       "category_id": "practical_tips",
       "text_1": "When something happens, take a deep breath. \n\nThen help your child work on the problem with these four steps:",
-      "section_1_text": "**1. KNOW IT**\n\nPut the problem into words.\n\nTalk to your child about what the problem is.",
-      "section_2_text": "**2. SOLVE IT**\nTogether, think of possible solutions to this problem.\nWhat could you or your child do differently in this situation in the future?",
-      "section_3_text": "**3. TRY IT**\n\rChoose one solution together.\n\rTry it next time you are in a similar situation, and praise your child for trying!"
+      "section_1_text": "1. KNOW IT \n\nPut the problem into words.\n\nTalk to your child about what the problem is.",
+      "section_2_text": "2. SOLVE IT \nTogether, think of possible solutions to this problem.\nWhat could you or your child do differently in this situation in the future?",
+      "section_3_text": "3. TRY IT \n\rChoose one solution together.\n\rTry it next time you are in a similar situation, and praise your child for trying!"
     },
     {
       "id": "practise",
@@ -96,10 +96,6 @@
       "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that work.",
       "quiz_1_option_4_text": "Not sharing toys",
       "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that work."
-    },
-    {
-      "id": "review_1",
-      "category_id": "review"
     },
     {
       "id": "home_activity_1",
