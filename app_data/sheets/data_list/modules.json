@@ -7,6 +7,7 @@
     {
       "id": "selfcare",
       "number": 1,
+      "image_asset": "/images/selfcare.jpg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
       "title": "Taking Care of Yourself",
@@ -22,6 +23,7 @@
     {
       "id": "childdevelopment",
       "number": 2,
+      "image_asset": "/images/childdevelopment.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2",
       "title": "Child Development",
@@ -37,6 +39,7 @@
     {
       "id": "oneononetime",
       "number": 3,
+      "image_asset": "/images/one_on_one_challenges.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "title": "One-on-One Time",
@@ -52,6 +55,7 @@
     {
       "id": "praise",
       "number": 4,
+      "image_asset": "/images/praise.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_4",
       "title": "Praise",
@@ -67,6 +71,7 @@
     {
       "id": "feelings",
       "number": 5,
+      "image_asset": "/images/talk_feelings_challenges.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_5",
       "title": "Feelings",
@@ -82,6 +87,7 @@
     {
       "id": "instructions",
       "number": 6,
+      "image_asset": "/images/instructions.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_6",
       "title": "Instructions",
@@ -97,6 +103,7 @@
     {
       "id": "rulesroutines",
       "number": 7,
+      "image_asset": "/images/rulesroutines.jpg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7",
       "title": "Rules",
@@ -112,6 +119,7 @@
     {
       "id": "consequences",
       "number": 8,
+      "image_asset": "/images/consequences.jpg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_8",
       "title": "Consequences",
@@ -127,6 +135,7 @@
     {
       "id": "problemsolving",
       "number": 9,
+      "image_asset": "/images/problemsolving.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_9",
       "title": "Solve Problems",
@@ -136,21 +145,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Solve Problems"
-        }
-      }
-    },
-    {
-      "id": "closing",
-      "number": 10,
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_10",
-      "title": "Celebrate",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Celebrate"
         }
       }
     }

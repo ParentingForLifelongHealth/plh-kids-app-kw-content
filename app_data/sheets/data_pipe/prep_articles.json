@@ -83,15 +83,6 @@
       "input_source": "problemsolving_articles",
       "output_target": "prepped_problemsolving_articles",
       "module_id": "problemsolving"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "closing_articles",
-      "output_target": "prepped_closing_articles",
-      "module_id": "closing"
     }
   ],
   "_xlsxPath": "KW modules_data_pipes.xlsx"

@@ -7,12 +7,18 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "Helping your child follow instructions and rules \n\nSometimes, our children really struggle to follow instructions or rules. They are still learning how to behave in different situations.\n\nAs a parent, you can help them understand that their actions affect themselves and others. \n\nGiving clear consequences teaches children to take responsibility for their actions, more than hitting or shouting does.\n\nSome consequences happen naturally (if they break a toy, they cannot play with it), other consequences you set to help your child follow instructions or rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
+      "text_1": "Today's lesson is about helping our children follow instructions and rules. \n\nSometimes, our children really struggle to follow instructions or rules. They are still learning how to behave in different situations.\n\nAs a parent, you can help them understand that their actions affect themselves and others. \n\nGiving clear consequences teaches children to take responsibility for their actions, more than hitting or shouting does.",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_asset": "/audio/consequences_audio_1.mp3",
       "media_transcript": "Greetings, everyone.\n\nEven if you do everything right, your child will misbehave sometimes. \n\nWe may be tempted to scream and shout, but that just leaves everyone more angry.\n\nIf we stay calm and give them a consequence, they will learn to take responsibility for their actions instead.",
       "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
+      "image_asset": "/images/comics/teach_consequences_yc_3.jpg"
     },
     {
       "id": "explore_1",
@@ -23,31 +29,31 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_1.svg",
+      "image_asset": "images/comics/consequences_yc_1.svg",
       "text_2": "{F3_UNCLE} : “You are playing so nice and quiet, {F3_SON_4}. In 5 minutes, it will be time to clean up your toys.”"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_2.svg",
+      "image_asset": "images/comics/consequences_yc_2.svg",
       "text_2": "*5 minutes later*\n {F3_UNCLE} : “It’s time to put away your toys.”\n {F3_SON_4} : “No.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_3.svg",
+      "image_asset": "images/comics/consequences_yc_3.svg",
       "text_2": "{F3_UNCLE} : “Either you put away the toys now, or you won’t be able to play with your toys after dinner…”\n\n {F3_SON_4} : “No {F3_UNCLE}, I don’t want to!”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_4.svg",
+      "image_asset": "images/comics/consequences_yc_4.svg",
       "text_2": "{F3_UNCLE} : “Because you did not listen, {F3_SON_4}, you cannot play with your toys after dinner. Now come wash your hands.”"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_5.svg",
+      "image_asset": "images/comics/consequences_yc_5.svg",
       "text_2": "{F3_UNCLE} : “Thank you for washing your hands, {F3_SON_4}.”"
     },
     {
@@ -90,14 +96,17 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1": "Here are some easy steps for using consequences when your child misbehaves:",
-      "section_1_text": "BE CALM \n\nTake some deep breaths or walk away if you need to.\n\nThen, respond in a calm, clear way.",
+      "text_1": "Here are some easy steps to using consequences when your child misbehaves:",
+      "section_1_title": "BE CALM",
+      "section_1_text": "Take some deep breaths or walk away if you need to.\n\nThen, respond in a calm, clear way.",
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset.",
-      "section_2_text": "BE FAIR \n \nBefore giving a consequence, give your child the choice to behave and time to do what you asked.\n\nGive a consequence connected to the behaviour, and make sure it is something you can follow through.",
+      "section_2_title": "BE FAIR",
+      "section_2_text": "Before giving a consequence, give your child the choice to behave and time to do what you asked.\n\nGive a consequence connected to the behaviour, and make sure it is something you can follow through.",
       "section_2_button_text": "More tips",
       "section_2_extra_text": "For example, if they do not clean up their toys, they cannot play with them the next day (rather than the whole week).\n\nIf your child is experiencing a natural consequence for their action already (like not being able to play with their toy after breaking it), you might not need to give them an additional consequence.",
-      "section_3_text": "BE CONSISTENT \n\nIt is important to follow through with consequences for the rules you have set, every time they do not follow them.\n\nThis helps your child to know what to expect, and makes it more likely that they will follow the rule.",
+      "section_3_title": "BE CONSISTENT",
+      "section_3_text": "It is important to follow through with consequences for the rules you have set, every time they do not follow them.\n\nThis helps your child to know what to expect, and makes it more likely that they will follow the rule.",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "Talk about consequences for breaking household rules when you create these rules, so that your child knows them and sticks to them."
     },
@@ -116,7 +125,9 @@
       "quiz_1_option_4_text": "If you can’t play close to home where I can see you, then you will have to come inside.",
       "quiz_1_feedback_4": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
       "quiz_1_option_5_text": "If you do not put away your toys now, then you cannot play with them tomorrow.",
-      "quiz_1_feedback_5": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way."
+      "quiz_1_feedback_5": "Great. Discuss this (or another) consequence with your child and family, and try it out to guide your child in a calm and effective way.",
+      "quiz_1_option_6_text": "None of these will work in my home.",
+      "quiz_1_feedback_6": "That's okay! Try to think of just one consequence that you can use in a calm and effective way."
     },
     {
       "id": "home_activity_1",
@@ -125,7 +136,14 @@
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/consequences_audio_2.mp3",
-      "media_transcript": "When my children misbehaved, I would sometimes let it go and other times I would shout at them and punish them right away. But the next time they did it again! \n\nParentApp helped me understand that I can do things differently. Instead of punishing them, I stay calm and give them a consequence to help them change their behaviour.     \n\nI have seen a huge change in my child’s behaviour, and I have less stress. I wish I knew this long ago, but it is never too late to start!"
+      "media_transcript": "When my children misbehaved, I would sometimes let it go and other times I would shout at them and punish them right away. But the next time they did it again! \n\nParentApp helped me understand that I can do things differently. Instead of punishing them, I stay calm and give them a consequence to help them change their behaviour.     \n\nI have seen a huge change in my child’s behaviour, and I have less stress. I wish I knew this long ago, but it is never too late to start!",
+      "quiz_1_question": "The next time your child cannot follow instructions, can you use a fair consequence in a calm way?",
+      "quiz_1_option_1_text": "Yes!",
+      "quiz_1_feedback_1": "That's great! Don't forget to take a pause before you give the consequence so that you're able to remain calm and praise yourself afterwards for a job well done!",
+      "quiz_1_option_2_text": "I think so!",
+      "quiz_1_feedback_2": "That's great! Don't forget to take a pause before you give the consequence so that you're able to remain calm and praise yourself afterwards for a job well done!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That's okay. Keep trying. It will get easier in time. You can start by considering behaviours that your child struggles with and planning a fair consequence so you're ready. Remember to take a pause to calm down before you respond."
     }
   ],
   "_xlsxPath": "KW modules.xlsx"

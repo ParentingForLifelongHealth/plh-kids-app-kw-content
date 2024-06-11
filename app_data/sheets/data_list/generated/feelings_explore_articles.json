@@ -13,28 +13,28 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_1.jpg",
+      "image_asset": "images/comics/feelings_yc_1.jpg",
       "text_2": "{F1_FATHER} : “{F1_DAUGHTER_6}, I have 5 minutes to spend One-on-One Time with you. What would you like to do?”\n {F1_DAUGHTER_6} : “Let’s play with the ball outside!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_2.jpg",
+      "image_asset": "images/comics/feelings_yc_2.jpg",
       "text_2": "{F1_DAUGHTER_6} : “I can’t do it!”\n {F1_FATHER} : “I see that your hands are tight and you are speaking loudly. It looks like you are upset, {F1_DAUGHTER_6}. It’s not easy, let’s practise a little bit more. I know you can do it.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_3.jpg",
+      "image_asset": "images/comics/feelings_yc_3.jpg",
       "text_2": "{F1_FATHER} : “Five catches in a row! You seem really proud to have made it to five, {F1_DAUGHTER_6}!”\n {F1_DAUGHTER_6} : “Let’s do 10!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_4.jpg",
+      "image_asset": "images/comics/feelings_yc_4.jpg",
       "text_2": "{F1_FATHER} : “Well done, my girl. I am very happy to be able to spend this special time with you, {F1_DAUGHTER_6}.”",
       "completed": false
     },

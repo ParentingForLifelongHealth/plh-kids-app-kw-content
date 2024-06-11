@@ -88,21 +88,21 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_5.svg",
+      "image_asset": "images/comics/instructions_yc_5.svg",
       "text_2": "{F2_DAUGHTER_3}: Give it back to me!\n\n{F2_SON_8}: But I want it!",
       "completed": false
     },
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_6.svg",
+      "image_asset": "images/comics/instructions_yc_6.svg",
       "text_2": "{F2_GRANDFATHER}: {F2_DAUGHTER_3} and {F2_SON_8} come and help me plant these vegetables together.",
       "completed": false
     },
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_7.svg",
+      "image_asset": "images/comics/instructions_yc_7.svg",
       "text_2": "{F2_GRANDFATHER}: Thank you for coming to help me. We are going to grow lots of vegetables together.",
       "completed": false
     },

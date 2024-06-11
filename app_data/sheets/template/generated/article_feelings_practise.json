@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_closing_explore_4",
+  "flow_name": "article_feelings_practise",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "explore_4",
+          "value": "practise",
           "_translations": {
             "value": {}
           },
@@ -39,7 +39,7 @@
         },
         {
           "name": "module_id",
-          "value": "closing",
+          "value": "feelings",
           "_translations": {
             "value": {}
           },

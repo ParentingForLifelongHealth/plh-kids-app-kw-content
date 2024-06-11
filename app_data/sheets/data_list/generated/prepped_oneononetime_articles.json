@@ -6,7 +6,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "Spending One-on-One Time with your child \n\nToday we will look at spending One-on-One Time with your child.\nSpending special time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support them in learning new things.",
+      "text_1": "Today we are learning about spending one-on-one time with your child. \n\nSpending special time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
       "image_asset": "",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
@@ -25,28 +25,28 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_1.png",
+      "image_asset": "images/comics/one_on_one_yc_1.png",
       "text_2": "*{F2_DAUGHTER_3} and {F2_GRANDMOTHER} are starting One-on-One Time.* \n {F2_GRANDMOTHER} : “I have 5 minutes of One-on-One Time to spend with you, {F2_DAUGHTER_3}. What would you like to do?”\n {F2_DAUGHTER_3} : “I want to play dress-up!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_2.png",
+      "image_asset": "images/comics/one_on_one_yc_2.png",
       "text_2": "{F2_GRANDMOTHER} : “Wonderful idea, {F2_DAUGHTER_3}! I see you are taking out the yellow scarf with blue stripes on it.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_3.jpg",
+      "image_asset": "images/comics/one_on_one_yc_3.jpg",
       "text_2": "{F2_DAUGHTER_3} : “{F2_GRANDMOTHER}, it’s for you.”\n {F2_GRANDMOTHER} : “Thank you, I love it!”\n {F2_DAUGHTER_3} : “Wear it, {F2_GRANDMOTHER}!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_4.jpg",
+      "image_asset": "images/comics/one_on_one_yc_4.jpg",
       "text_2": "{F2_DAUGHTER_3} finds a dress to wear.\n {F2_GRANDMOTHER} : “Well done for getting dressed by yourself, {F2_DAUGHTER_3}. You are such a big girl!”",
       "completed": false
     },
@@ -93,15 +93,15 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1": "Here are some easy tips on how to connect with your child:",
+      "text_1": "Here are some easy tips on connecting with your child:",
       "image_asset": "",
-      "section_1_title": "Do it every day",
-      "section_1_text": "Spend 5 minutes (or more!) with your child each day.",
-      "section_2_title": "Focus on your child",
+      "section_1_title": "DO IT EVERY DAY",
+      "section_1_text": "Spend at least 5 minutes with your child each day. More is better!",
+      "section_2_title": "STAY FOCUSED",
       "section_2_text": "Switch off the TV, put aside phones, and remove distractions. Show your child that you are really paying attention.",
       "section_2_button_text": "More tips",
-      "section_2_extra_text": "Look at your child. Get down to their level. Use their name.\nDescribe what they are doing and feeling. Praise them.\nYour child will learn a lot from what you say and do.",
-      "section_3_title": "Follow their lead",
+      "section_2_extra_text": "- Look at your child. Get down to their level. Use their name.\n- Describe what they are doing and feeling. Praise them.\n- Your child will learn a lot from what you say and do.",
+      "section_3_title": "FOLLOW THEIR LEAD",
       "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "This will help your child feel important and valued.",
@@ -110,9 +110,18 @@
     {
       "id": "practise",
       "category_id": "practise",
-      "text_1": "Let’s come up with some ideas together.",
+      "text_1": "Ready to try it out? \n\nSpend 5 minutes (or more) of One-on-One Time with your child, every day.",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "/audio/connect_audio_2.mp3",
+      "media_transcript": "When I first heard I have to spend One-on-One Time with my daughter, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my daughter so that she thinks we have to do everything together. \n\rBut I really wanted to build my relationship with her and I wanted her to open up about what was troubling her. \n\rSo we tried the One-on-One Time. \n\rFirst, it felt weird, but it turned out to be fun! Now we play her favourite game together and talk about things happening at school and with her friends.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "image_asset": "images/facilitators_face.svg",
-      "quiz_1_question": "What could you do to spend One-on-One Time with your child?",
+      "quiz_1_question": "How will you spend one-on-one time with your child today?",
       "quiz_1_option_1_text": "Join them when they play",
       "quiz_1_feedback_1": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
       "quiz_1_option_2_text": "Chat before bedtime",
@@ -125,16 +134,6 @@
       "quiz_1_feedback_5": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
       "quiz_1_option_6_text": "Do a chore together",
       "quiz_1_feedback_6": "Great idea!\n\nFeel like you have NO TIME and you are exhausted? Think of ways to make daily activities fun together.",
-      "completed": false
-    },
-    {
-      "id": "home_activity_1",
-      "category_id": "home_activity",
-      "text_1": "Want to try it out? \n\nSpend 5 minutes (or more) of One-on-One Time with your child, every day.",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_asset": "/audio/connect_audio_2.mp3",
-      "media_transcript": "When I first heard I have to spend One-on-One Time with my daughter, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my daughter so that she thinks we have to do everything together. \n\rBut I really wanted to build my relationship with her and I wanted her to open up about what was troubling her. \n\rSo we tried the One-on-One Time. \n\rFirst, it felt weird, but it turned out to be fun! Now we play her favourite game together and talk about things happening at school and with her friends.",
       "completed": false
     }
   ]

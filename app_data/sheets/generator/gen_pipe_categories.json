@@ -89,15 +89,6 @@
       "input_source": "prepped_problemsolving_articles",
       "output_target": "problemsolving_{@gen.id}_articles",
       "module_id": "problemsolving"
-    },
-    {
-      "operation": "filter",
-      "args_list": [
-        "category_id == \"@gen.id\""
-      ],
-      "input_source": "prepped_closing_articles",
-      "output_target": "closing_{@gen.id}_articles",
-      "module_id": "closing"
     }
   ],
   "_xlsxPath": "KW modules_data_pipes.xlsx"

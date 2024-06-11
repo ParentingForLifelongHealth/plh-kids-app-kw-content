@@ -83,15 +83,6 @@
       "input_source": "prepped_problemsolving_articles",
       "output_target": "problemsolving_practise_articles",
       "module_id": "problemsolving"
-    },
-    {
-      "operation": "filter",
-      "args_list": [
-        "category_id == \"practise\""
-      ],
-      "input_source": "prepped_closing_articles",
-      "output_target": "closing_practise_articles",
-      "module_id": "closing"
     }
   ]
 }

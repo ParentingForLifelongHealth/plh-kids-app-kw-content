@@ -7,7 +7,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "Helping your child learn  \n\nPlaying with your child is important for their development and learning in and out of school. This is true for ALL children, including those living with physical and developmental disabilities. \n\nDid you know that playing also helps your child learn what is expected from them and how to interact with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient as they sometimes make mistakes. We all learn most from our mistakes!",
+      "text_1": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_asset": "/audio/learn_audio_1.mp3",
@@ -23,25 +23,25 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/child_changing_yc_1.jpg",
+      "image_asset": "images/comics/child_changing_yc_1.jpg",
       "text_2": "{F1_FATHER} : “Gently throw the ball using the inside of your hands, like this.”\n\n {F1_SON_5} : “I want to do it now!!”\n\n {F1_DAUGHTER_6} : “No, I want to do it first!!”"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/child_changing_yc_2.jpg",
+      "image_asset": "images/comics/child_changing_yc_2.jpg",
       "text_2": "{F1_FATHER} : “It can be hard to wait, but we cannot all go first. {F1_DAUGHTER_6}, how do you think we could take turns throwing the ball?  \n\n {F1_DAUGHTER_6} : “Let’s make a circle! I will throw the ball to {F1_SON_5}, then he throws it to you {F1_FATHER}, and you throw it back to me!”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/child_changing_yc_3.jpg",
+      "image_asset": "images/comics/child_changing_yc_3.jpg",
       "text_2": "{F1_SON_5} : “Yes, that sounds great!”\n\n {F1_FATHER} : “That’s a fantastic idea, {F1_DAUGHTER_6}! Let’s give it a try!”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/child_changing_yc_4.jpg",
+      "image_asset": "images/comics/child_changing_yc_4.jpg",
       "text_2": "{F1_FATHER} : “Well done, {F1_DAUGHTER_6}! You took the lead, and we all had so much fun taking turns! {F1_SON_5}, you were also great at patiently waiting for your turn.”"
     },
     {
@@ -78,31 +78,31 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "images/learn_experience_yc_1.jpg",
+      "image_asset": "images/comics/learn_experience_yc_1.jpg",
       "text_2": "{F3_UNCLE} : “{F3_DAUGHTER_7}, watch where you’re going! You’re going to break something.” \n\n {F3_DAUGHTER_7} : “No I won’t!”"
     },
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/learn_experience_yc_2.jpg",
+      "image_asset": "images/comics/learn_experience_yc_2.jpg",
       "text_2": "*{F3_DAUGHTER_7} runs into a table and breaks a vase. {F3_UNCLE} sees and is concerned.*"
     },
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "images/learn_experience_yc_3.jpg",
+      "image_asset": "images/comics/learn_experience_yc_3.jpg",
       "text_2": "{F3_UNCLE} : “Are you hurt??”\n\n {F3_DAUGHTER_7} : “No, {F3_UNCLE}. I’m so, so sorry for breaking the vase… I didn’t see it.”"
     },
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "images/learn_experience_yc_4.jpg",
+      "image_asset": "images/comics/learn_experience_yc_4.jpg",
       "text_2": "{F3_UNCLE} : “Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n {F3_DAUGHTER_7} : “Yes, I should have listened. I continued running even after you warned me.”"
     },
     {
       "id": "explore_12",
       "category_id": "explore",
-      "image_asset": "images/learn_experience_yc_5.jpg",
+      "image_asset": "images/comics/learn_experience_yc_5.jpg",
       "text_2": "{F3_UNCLE} : “It’s OK, {F3_DAUGHTER_7}. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n {F3_DAUGHTER_7} : “Okay…”"
     },
     {
@@ -138,20 +138,32 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_text": "LEARN BY PLAYING \n\nPlay is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
+      "section_1_title": "LEARN BY PLAYING",
+      "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",
-      "section_2_text": "BE PATIENT \n\nLearning new things takes time. Be patient and encourage your child to keep trying things they may find hard. \n\nStay calm when they get angry or frustrated - your child will learn to do the same over time.",
+      "section_2_title": "BE PATIENT",
+      "section_2_text": "Learning new things takes time. Be patient and encourage your child to keep trying things they may find hard. \n\nStay calm when they get angry or frustrated - your child will learn to do the same over time.",
       "section_2_button_text": "More tips",
       "section_2_extra_text": "You can support them by praising them for trying and helping them break large tasks into smaller tasks appropriate for their age.\n\nUse play to help your child learn difficult skills, like losing, sharing, or taking turns.",
-      "section_3_text": "SUPPORT CURIOSITY \n\nChildren learn by asking questions and exploring the things they are interested in. Give your child time and space to do this. \n\nJoin your child’s activities and ask them questions to encourage them to learn more.",
+      "section_3_title": "SUPPORT CURIOSITY",
+      "section_3_text": "Children learn by asking questions and exploring the things they are interested in. Give your child time and space to do this. \n\nJoin your child’s activities and ask them questions to encourage them to learn more.",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "Your child may talk a lot and have many questions - including difficult ones. You can give your child short but honest answers. \n\nIf you need a break or more information, you can take a pause and tell your child you will respond to them later."
     },
     {
       "id": "practise",
       "category_id": "practise",
+      "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
       "image_asset": "images/facilitators_face.svg",
+      "media_type": "audio",
+      "media_title": "How it helped a parent like you:",
+      "media_asset": "/audio/learn_audio_2.mp3",
+      "media_transcript": "My son was not really talking. I was worried about it, but did not know how I could help him. \n\nParentApp gave me lots of ideas for how I could spend time with him. By playing together, we were able to practise many words in a fun way. He is speaking much more now, and we are closer because of the time we spend together."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
       "quiz_1_question": "What could you do today to encourage your child to play and learn?",
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_feedback_1": "That’s right! Join in on any play activity your child is doing. You will strengthen your bond and encourage your child to play and learn more.",
@@ -161,15 +173,6 @@
       "quiz_1_feedback_3": "Yes! Get creative. Anything in your home could be a music instrument, costume, or item in a role-play.",
       "quiz_1_option_4_text": "Ask their ideas",
       "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do."
-    },
-    {
-      "id": "home_activity_1",
-      "category_id": "home_activity",
-      "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_asset": "/audio/learn_audio_2.mp3",
-      "media_transcript": "My son was not really talking. I was worried about it, but did not know how I could help him. \n\nParentApp gave me lots of ideas for how I could spend time with him. By playing together, we were able to practise many words in a fun way. He is speaking much more now, and we are closer because of the time we spend together."
     }
   ],
   "_xlsxPath": "KW modules.xlsx"

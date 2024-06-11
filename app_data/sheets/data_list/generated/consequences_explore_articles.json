@@ -13,35 +13,35 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_1.svg",
+      "image_asset": "images/comics/consequences_yc_1.svg",
       "text_2": "{F3_UNCLE} : “You are playing so nice and quiet, {F3_SON_4}. In 5 minutes, it will be time to clean up your toys.”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_2.svg",
+      "image_asset": "images/comics/consequences_yc_2.svg",
       "text_2": "*5 minutes later*\n {F3_UNCLE} : “It’s time to put away your toys.”\n {F3_SON_4} : “No.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_3.svg",
+      "image_asset": "images/comics/consequences_yc_3.svg",
       "text_2": "{F3_UNCLE} : “Either you put away the toys now, or you won’t be able to play with your toys after dinner…”\n\n {F3_SON_4} : “No {F3_UNCLE}, I don’t want to!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_4.svg",
+      "image_asset": "images/comics/consequences_yc_4.svg",
       "text_2": "{F3_UNCLE} : “Because you did not listen, {F3_SON_4}, you cannot play with your toys after dinner. Now come wash your hands.”",
       "completed": false
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "images/consequences_yc_5.svg",
+      "image_asset": "images/comics/consequences_yc_5.svg",
       "text_2": "{F3_UNCLE} : “Thank you for washing your hands, {F3_SON_4}.”",
       "completed": false
     },
