@@ -56,12 +56,6 @@
       "input_source": "common_categories",
       "output_target": "problemsolving_categories",
       "module_id": "problemsolving"
-    },
-    {
-      "operation": "append_columns",
-      "input_source": "common_categories",
-      "output_target": "closing_categories",
-      "module_id": "closing"
     }
   ],
   "_xlsxPath": "KW modules_data_pipes.xlsx"

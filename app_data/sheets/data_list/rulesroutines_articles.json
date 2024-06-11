@@ -7,7 +7,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "Creating structure \n\nRules and routines help children understand what is expected from them, be responsible, and stay safe. \n\nChildren are more likely to follow rules if you create them TOGETHER.  \n\nCreating daily routines (around for example meals, school and bedtime) will help your child feel more calm and connected with you and behave better.",
+      "text_1": "Today's lesson is about creating structure for our children.\n\nRules and routines help children understand what is expected from them, be responsible, and stay safe. \n\nChildren are more likely to follow rules if you create them TOGETHER.  \n\nCreating daily routines (around for example meals, school and bedtime) will help your child feel more calm and connected with you and behave better.",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_asset": "/audio/rules_audio_1.mp3",
@@ -23,25 +23,25 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_1.svg",
+      "image_asset": "images/comics/routines_yc_1.svg",
       "text_2": "{F1_MOTHER}: “It is important that you get your homework done so you can do well in school. Let’s make a rule about watching TV.”\n{F1_DAUGHTER_6}: “Okay, {F1_MOTHER}.”"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_2.svg",
+      "image_asset": "images/comics/routines_yc_2.svg",
       "text_2": "{F1_MOTHER}: “What do you think would be a fair rule?”\n{F1_DAUGHTER_6}: “Hmmm…well, maybe I can watch TV as much as I want, but only after I do my homework.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_3.svg",
+      "image_asset": "images/comics/routines_yc_3.svg",
       "text_2": "{F1_MOTHER}: “I like that idea, but let’s limit it to 30 minutes per day. How does that sound?”\n{F1_DAUGHTER_6}: “Fine.”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_4.svg",
+      "image_asset": "images/comics/routines_yc_4.svg",
       "text_2": "{F1_MOTHER}: “Thank you for doing your homework before watching TV, {F1_DAUGHTER_6}. Your grades have improved, too! I am proud of you! We can increase your time to an hour each day… as long as you still do your homework first!”\n{F1_DAUGHTER_6}: “Thank you, {F1_MOTHER}!”"
     },
     {
@@ -66,43 +66,43 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
-      "text_2": "images/facilitators_face.svg"
+      "text_1": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
+      "image_asset": "images/facilitators_face.svg"
     },
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_5.jpg",
+      "image_asset": "images/comics/routines_yc_5.jpg",
       "text_2": "{F2_GRANDMOTHER} : “I am so happy to see you playing quietly with your blocks, {F2_DAUGHTER_3}. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.”\n\n {F2_DAUGHTER_3} : “Okay!”"
     },
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_6.jpg",
+      "image_asset": "images/comics/routines_yc_6.jpg",
       "text_2": "*5 minutes later*\n\n {F2_GRANDMOTHER} : “Time to get ready for bed, {F2_DAUGHTER_3}. First, let’s get you nice and clean with a bath.”"
     },
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_7.jpg",
+      "image_asset": "images/comics/routines_yc_7.jpg",
       "text_2": "{F2_GRANDMOTHER} : “You were so well-behaved in the bath, {F2_DAUGHTER_3}. Now it is time to put your pyjamas on.”"
     },
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_8.jpg",
+      "image_asset": "images/comics/routines_yc_8.jpg",
       "text_2": "{F2_GRANDMOTHER} : “Well done for putting on your pyjamas by yourself, {F2_DAUGHTER_3}! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!”"
     },
     {
       "id": "explore_12",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_9.jpg",
+      "image_asset": "images/comics/routines_yc_9.jpg",
       "text_2": "{F2_GRANDMOTHER} : “You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?”\n\n {F2_DAUGHTER_3} : “Yay! Can you read me the story of the lion?”"
     },
     {
       "id": "explore_13",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_10.jpg",
+      "image_asset": "images/comics/routines_yc_10.jpg",
       "text_2": "{F2_GRANDMOTHER} : “ “The end….” Such a lovely story! Goodnight, my baby girl. I love you very much.”\n\n {F2_DAUGHTER_3} : “Goodnight, {F2_GRANDMOTHER}.”"
     },
     {
@@ -135,13 +135,16 @@
       "id": "tips_1",
       "category_id": "practical_tips",
       "text_1": "These four tips will help you create rules and routines to bring more structure and peace in your home:",
-      "section_1_text": "BE A TEAM \n\nHousehold rules and routines help our children know what is expected of them. When you involve your child in making rules they are more likely to follow them.",
+      "section_1_title": "BE A TEAM",
+      "section_1_text": "Household rules and routines help our children know what is expected of them. When you involve your child in making rules they are more likely to follow them.",
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Supporting your child to follow household rules will help them to learn responsibility and to stay safe.\n\nHaving routines around meals, school and bedtime reduces stressful moments and makes things more peaceful at home.",
-      "section_2_text": "BE REALISTIC \n\nConsider your child’s age and developmental level when creating rules and routines. They have to be able to do what is expected of them.\n\nOnly introduce one new rule or routine at a time - you can add another one later.",
+      "section_2_title": "BE REALISTIC",
+      "section_2_text": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to do what is expected of them.\n\nOnly introduce one new rule or routine at a time - you can add another one later.",
       "section_2_button_text": "More tips",
       "section_2_extra_text": "Plan rules WITH your child. Discuss the reasons for the rule and ask about their ideas.\n\nOlder children can share their own ideas of what they think the rule should be and you can agree together. They will feel appreciated and heard.",
-      "section_3_text": "BE CONSISTENT \n\nMake sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and will learn to be more independent and responsible.",
+      "section_3_title": "BE CONSISTENT",
+      "section_3_text": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and will learn to be more independent and responsible.",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "Activities become easier when children learn and get used to a routine."
     },
@@ -179,11 +182,16 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1": "Set *one* rule and *one* routine with your child. \n\nRemember to be realistic and consistent, and praise your child for good behaviour!",
+      "text_1": "Your home activity is to set *one* rule and *one* routine with your child. \n\nRemember to be realistic and consistent, and praise your child for good behaviour!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/rules_audio_2.mp3",
-      "media_transcript": "Bedtime was always a struggle in our house. My children wanted to keep watching TV and I would always end up shouting at them: “Go to bed now! You know you have to be ready for school early in the morning!”. Some days I was just too tired, and I would let them watch more TV. \n\nWhen we learned in ParentApp about rules, I learned that it is important to be consistent. I discussed with my children why watching TV till late is a problem, and we came up with a rule together to switch off the TV at 8 and be ready for bed by 8.30. Now everyone knows what is expected of them, and we can end the day peacefully."
+      "media_transcript": "Bedtime was always a struggle in our house. My children wanted to keep watching TV and I would always end up shouting at them: “Go to bed now! You know you have to be ready for school early in the morning!”. Some days I was just too tired, and I would let them watch more TV. \n\nWhen we learned in ParentApp about rules, I learned that it is important to be consistent. I discussed with my children why watching TV till late is a problem, and we came up with a rule together to switch off the TV at 8 and be ready for bed by 8.30. Now everyone knows what is expected of them, and we can end the day peacefully.",
+      "quiz_1_question": "Can you set one routine and one rule with your child?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That's great! Keep up the great effort.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's okay. Setting rules is hard and including children can feel uncomfortable. Remember: this is about creating peace and harmony in the home. Your child will be more likely to behave if they feel included when you make the rules."
     }
   ],
   "_xlsxPath": "KW modules.xlsx"

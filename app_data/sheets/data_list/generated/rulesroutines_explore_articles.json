@@ -13,28 +13,28 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_1.svg",
+      "image_asset": "images/comics/routines_yc_1.svg",
       "text_2": "{F1_MOTHER}: “It is important that you get your homework done so you can do well in school. Let’s make a rule about watching TV.”\n{F1_DAUGHTER_6}: “Okay, {F1_MOTHER}.”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_2.svg",
+      "image_asset": "images/comics/routines_yc_2.svg",
       "text_2": "{F1_MOTHER}: “What do you think would be a fair rule?”\n{F1_DAUGHTER_6}: “Hmmm…well, maybe I can watch TV as much as I want, but only after I do my homework.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_3.svg",
+      "image_asset": "images/comics/routines_yc_3.svg",
       "text_2": "{F1_MOTHER}: “I like that idea, but let’s limit it to 30 minutes per day. How does that sound?”\n{F1_DAUGHTER_6}: “Fine.”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_4.svg",
+      "image_asset": "images/comics/routines_yc_4.svg",
       "text_2": "{F1_MOTHER}: “Thank you for doing your homework before watching TV, {F1_DAUGHTER_6}. Your grades have improved, too! I am proud of you! We can increase your time to an hour each day… as long as you still do your homework first!”\n{F1_DAUGHTER_6}: “Thank you, {F1_MOTHER}!”",
       "completed": false
     },
@@ -61,49 +61,49 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
-      "text_2": "images/facilitators_face.svg",
+      "text_1": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
+      "image_asset": "images/facilitators_face.svg",
       "completed": false
     },
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_5.jpg",
+      "image_asset": "images/comics/routines_yc_5.jpg",
       "text_2": "{F2_GRANDMOTHER} : “I am so happy to see you playing quietly with your blocks, {F2_DAUGHTER_3}. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.”\n\n {F2_DAUGHTER_3} : “Okay!”",
       "completed": false
     },
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_6.jpg",
+      "image_asset": "images/comics/routines_yc_6.jpg",
       "text_2": "*5 minutes later*\n\n {F2_GRANDMOTHER} : “Time to get ready for bed, {F2_DAUGHTER_3}. First, let’s get you nice and clean with a bath.”",
       "completed": false
     },
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_7.jpg",
+      "image_asset": "images/comics/routines_yc_7.jpg",
       "text_2": "{F2_GRANDMOTHER} : “You were so well-behaved in the bath, {F2_DAUGHTER_3}. Now it is time to put your pyjamas on.”",
       "completed": false
     },
     {
       "id": "explore_11",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_8.jpg",
+      "image_asset": "images/comics/routines_yc_8.jpg",
       "text_2": "{F2_GRANDMOTHER} : “Well done for putting on your pyjamas by yourself, {F2_DAUGHTER_3}! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!”",
       "completed": false
     },
     {
       "id": "explore_12",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_9.jpg",
+      "image_asset": "images/comics/routines_yc_9.jpg",
       "text_2": "{F2_GRANDMOTHER} : “You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?”\n\n {F2_DAUGHTER_3} : “Yay! Can you read me the story of the lion?”",
       "completed": false
     },
     {
       "id": "explore_13",
       "category_id": "explore",
-      "image_asset": "images/routines_yc_10.jpg",
+      "image_asset": "images/comics/routines_yc_10.jpg",
       "text_2": "{F2_GRANDMOTHER} : “ “The end….” Such a lovely story! Goodnight, my baby girl. I love you very much.”\n\n {F2_DAUGHTER_3} : “Goodnight, {F2_GRANDMOTHER}.”",
       "completed": false
     },

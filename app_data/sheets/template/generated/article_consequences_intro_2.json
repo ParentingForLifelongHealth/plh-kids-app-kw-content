@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_closing_tips_1",
+  "flow_name": "article_consequences_intro_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "tips_1",
+          "value": "intro_2",
           "_translations": {
             "value": {}
           },
@@ -39,7 +39,7 @@
         },
         {
           "name": "module_id",
-          "value": "closing",
+          "value": "consequences",
           "_translations": {
             "value": {}
           },

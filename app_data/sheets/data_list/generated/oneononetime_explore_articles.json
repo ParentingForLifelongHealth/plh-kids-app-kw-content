@@ -13,28 +13,28 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_1.png",
+      "image_asset": "images/comics/one_on_one_yc_1.png",
       "text_2": "*{F2_DAUGHTER_3} and {F2_GRANDMOTHER} are starting One-on-One Time.* \n {F2_GRANDMOTHER} : “I have 5 minutes of One-on-One Time to spend with you, {F2_DAUGHTER_3}. What would you like to do?”\n {F2_DAUGHTER_3} : “I want to play dress-up!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_2.png",
+      "image_asset": "images/comics/one_on_one_yc_2.png",
       "text_2": "{F2_GRANDMOTHER} : “Wonderful idea, {F2_DAUGHTER_3}! I see you are taking out the yellow scarf with blue stripes on it.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_3.jpg",
+      "image_asset": "images/comics/one_on_one_yc_3.jpg",
       "text_2": "{F2_DAUGHTER_3} : “{F2_GRANDMOTHER}, it’s for you.”\n {F2_GRANDMOTHER} : “Thank you, I love it!”\n {F2_DAUGHTER_3} : “Wear it, {F2_GRANDMOTHER}!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/one_on_one_yc_4.jpg",
+      "image_asset": "images/comics/one_on_one_yc_4.jpg",
       "text_2": "{F2_DAUGHTER_3} finds a dress to wear.\n {F2_GRANDMOTHER} : “Well done for getting dressed by yourself, {F2_DAUGHTER_3}. You are such a big girl!”",
       "completed": false
     },

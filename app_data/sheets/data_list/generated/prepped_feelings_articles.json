@@ -6,7 +6,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "Talking about feelings with your child \n\nNoticing your own and your child’s emotions helps you to support and look after yourselves well.\n\nNoticing and talking about feelings with your child will help them learn how to express and manage their emotions well - even the difficult ones.",
+      "text_1": "Today we are learning to talk about feelings with our children. \nNoticing  emotions, both our own and our children's, helps us care for ourselves. \nNoticing and talking about feelings with your child helps them learn to express and manage their emotions well - even the difficult ones.",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_asset": "/audio/feelings_audio_1.mp3",
@@ -24,28 +24,28 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_1.jpg",
+      "image_asset": "images/comics/feelings_yc_1.jpg",
       "text_2": "{F1_FATHER} : “{F1_DAUGHTER_6}, I have 5 minutes to spend One-on-One Time with you. What would you like to do?”\n {F1_DAUGHTER_6} : “Let’s play with the ball outside!”",
       "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_2.jpg",
+      "image_asset": "images/comics/feelings_yc_2.jpg",
       "text_2": "{F1_DAUGHTER_6} : “I can’t do it!”\n {F1_FATHER} : “I see that your hands are tight and you are speaking loudly. It looks like you are upset, {F1_DAUGHTER_6}. It’s not easy, let’s practise a little bit more. I know you can do it.”",
       "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_3.jpg",
+      "image_asset": "images/comics/feelings_yc_3.jpg",
       "text_2": "{F1_FATHER} : “Five catches in a row! You seem really proud to have made it to five, {F1_DAUGHTER_6}!”\n {F1_DAUGHTER_6} : “Let’s do 10!”",
       "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/feelings_yc_4.jpg",
+      "image_asset": "images/comics/feelings_yc_4.jpg",
       "text_2": "{F1_FATHER} : “Well done, my girl. I am very happy to be able to spend this special time with you, {F1_DAUGHTER_6}.”",
       "completed": false
     },
@@ -105,13 +105,32 @@
       "completed": false
     },
     {
-      "id": "home_activity_1",
-      "category_id": "home_activity",
+      "id": "practise",
+      "category_id": "practise",
       "text_1": "Would you like to help your child manage their feelings well? \n\nNotice your child’s feelings, and describe both your own feelings and the feelings of your child at least once a day.",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/feelings_audio_2.mp3",
       "media_transcript": "My daughter used to get so frustrated and angry when she did not get her way. She would shout and scream, even when we went out, and I would also feel very angry and embarrassed. \n\nWhen I learned about emotions, I started to name and acknowledge her emotions. I helped her understand that it is okay to feel angry sometimes, but that she can show it in a different way. Now, she will tell me when she starts to feel angry, and we can find a solution together that works for everyone.",
+      "quiz_1_question": "{F1_MOTHER}'s son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can {F1_MOTHER} respond?",
+      "quiz_1_option_1_text": "Tie his shoes for him and get out the door. We are late!",
+      "quiz_1_feedback_1": "It is never fun to run late, but {F1_MOTHER} will miss the opportunity to connect with her son if she doesn't help him first recognise that he is feeling frustrated.",
+      "quiz_1_option_2_text": "Understand that her son is feeling frustrated. Sit down and help him name his feelings.",
+      "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
+      "quiz_1_option_3_text": "Remind him that she taught him six times already how to tie his shoes, then do it for him. Later, when he's calm, they can practise together.",
+      "quiz_1_feedback_3": "It's a good idea to practise when her son is calm! {F1_MOTHER} can help her son now by helping him understand his behaviour: he's frustrated, and that's okay. It IS hard to tie your shoes!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "text_1": "Your home activity is to talk with your child about their feelings during one-on-one time today. It can be something simple, like noticing that they find joy when they play!",
+      "image_asset": "images/facilitators_face.svg",
+      "quiz_1_question": "Can you help your child notice their feelings during one-on-one time today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That's great! It might be awkward to talk about feelings at first, but it will get better with practice.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's okay. Learning to share emotions with our children can be challenging. Take a minute after one-on-one time today to think through the emotions you saw your child display.",
       "completed": false
     }
   ]

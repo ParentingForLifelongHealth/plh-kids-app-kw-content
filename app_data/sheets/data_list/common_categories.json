@@ -32,7 +32,7 @@
     },
     {
       "id": "intro",
-      "icon_asset": "images/icons/pencil.svg",
+      "icon_asset": "images/icons/star_outline_blue.svg",
       "title": "Today's Topic",
       "_translations": {
         "title": {}
