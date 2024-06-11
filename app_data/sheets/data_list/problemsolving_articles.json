@@ -24,28 +24,28 @@
       "id": "explore_2",
       "category_id": "explore",
       "text_1": "1. KNOW IT",
-      "image_asset": "images/comics/problem_solving_yc_1.svg",
+      "image_asset": "images/comics/problem_solving_yc_1.jpg",
       "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hm, this is the third night in a row that you haven’t gone to bed on time because of homework."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "text_1": "2. SOLVE IT",
-      "image_asset": "images/comics/problem_solving_yc_2.svg",
+      "image_asset": "images/comics/problem_solving_yc_2.jpg",
       "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "text_1": "3. TRY IT",
-      "image_asset": "Iimages/comics/problem_solving_yc_3.svg",
+      "image_asset": "Iimages/comics/problem_solving_yc_3.jpg",
       "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! Can I talk to you about this question?”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "text_1": "4. TEST IT",
-      "image_asset": "images/comics/problem_solving_yc_4.svg",
+      "image_asset": "images/comics/problem_solving_yc_4.jpg",
       "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed so early tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”"
     },
     {
