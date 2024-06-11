@@ -227,70 +227,6 @@
     "md5Checksum": "977ba51e3fe8221361b16e98d3c2f03f",
     "size_kb": 20.3
   },
-  "images/comics/V1_Keeping_It_Positive/Keeping_It_Positive-01.jpg": {
-    "md5Checksum": "c16c6dd4e455b7afe4b39e394c9b82b7",
-    "size_kb": 1695.9
-  },
-  "images/comics/V1_Keeping_It_Positive/Keeping_It_Positive-02.jpg": {
-    "md5Checksum": "9119c7b84eee9f20bdb6153ea38f6d57",
-    "size_kb": 1169.8
-  },
-  "images/comics/V1_Keeping_It_Positive/Keeping_It_Positive-03.jpg": {
-    "md5Checksum": "791b87fb5a1b2e92fc71fef645e46384",
-    "size_kb": 1863.7
-  },
-  "images/comics/V1_Keeping_It_Positive/Keeping_It_Positive-04.jpg": {
-    "md5Checksum": "4f53ac6c184aa27edb1fed05af4a95d3",
-    "size_kb": 1925.9
-  },
-  "images/comics/V1_Redirect_YC/Redirect_YC-01.jpg": {
-    "md5Checksum": "9c55db73fd18650fa94e3a02c9a4627b",
-    "size_kb": 1580.3
-  },
-  "images/comics/V1_Redirect_YC/Redirect_YC-02.jpg": {
-    "md5Checksum": "b3b457a6f589f7aeb4974ce68c715bd1",
-    "size_kb": 1598.7
-  },
-  "images/comics/V1_Redirect_YC/Redirect_YC-03.jpg": {
-    "md5Checksum": "84445e110d52353e28e9439b760fc387",
-    "size_kb": 1513.9
-  },
-  "images/comics/V1_Redirect_YC/Redirect_YC-04.jpg": {
-    "md5Checksum": "308a81577137c382ed31547b6d1cffbb",
-    "size_kb": 1644
-  },
-  "images/comics/V1_Routines_yc/Routines_yc_1-01.jpg": {
-    "md5Checksum": "5e9620e69d7ada007418eaf2f95b570b",
-    "size_kb": 1307.8
-  },
-  "images/comics/V1_Routines_yc/Routines_yc_1-02.jpg": {
-    "md5Checksum": "91380425d090a4608b2d4cf7a9e3d83e",
-    "size_kb": 1064
-  },
-  "images/comics/V1_Routines_yc/Routines_yc_1-03.jpg": {
-    "md5Checksum": "3176cfbd76b6f05ec98e73e5d852f1a5",
-    "size_kb": 1049.3
-  },
-  "images/comics/V1_Routines_yc/Routines_yc_1-04.jpg": {
-    "md5Checksum": "33dcd430013b0b9887ef677e6018a260",
-    "size_kb": 1296.5
-  },
-  "images/comics/V1_Solve_Problems/Solve_Problems_YC-01.jpg": {
-    "md5Checksum": "8abacac6a3d2419dc2d5ea1773369cc2",
-    "size_kb": 1194.8
-  },
-  "images/comics/V1_Solve_Problems/Solve_Problems_YC-02.jpg": {
-    "md5Checksum": "daee606b947c5811aa562dae4d5aabe2",
-    "size_kb": 1162.6
-  },
-  "images/comics/V1_Solve_Problems/Solve_Problems_YC-03.jpg": {
-    "md5Checksum": "fc9325e1b241ab1dc0ffb1c389a38c71",
-    "size_kb": 1402.8
-  },
-  "images/comics/V1_Solve_Problems/Solve_Problems_YC-04.jpg": {
-    "md5Checksum": "998257f7de77cffa99038802c6e5da91",
-    "size_kb": 1311.5
-  },
   "images/comics/feelings_yc_1.jpg": {
     "md5Checksum": "492e956ed39f5159f990bc9bab90b8c5",
     "size_kb": 1378.5
@@ -306,6 +242,34 @@
   "images/comics/feelings_yc_4.jpg": {
     "md5Checksum": "22cfd7a94796651e39db181f376bba75",
     "size_kb": 1567.4
+  },
+  "images/comics/instructions_yc_1.jpg": {
+    "md5Checksum": "c16c6dd4e455b7afe4b39e394c9b82b7",
+    "size_kb": 1695.9
+  },
+  "images/comics/instructions_yc_2.jpg": {
+    "md5Checksum": "791b87fb5a1b2e92fc71fef645e46384",
+    "size_kb": 1863.7
+  },
+  "images/comics/instructions_yc_3.jpg": {
+    "md5Checksum": "4f53ac6c184aa27edb1fed05af4a95d3",
+    "size_kb": 1925.9
+  },
+  "images/comics/instructions_yc_4.jpg": {
+    "md5Checksum": "9119c7b84eee9f20bdb6153ea38f6d57",
+    "size_kb": 1169.8
+  },
+  "images/comics/instructions_yc_5.jpg": {
+    "md5Checksum": "b3b457a6f589f7aeb4974ce68c715bd1",
+    "size_kb": 1598.7
+  },
+  "images/comics/instructions_yc_6.jpg": {
+    "md5Checksum": "84445e110d52353e28e9439b760fc387",
+    "size_kb": 1513.9
+  },
+  "images/comics/instructions_yc_7.jpg": {
+    "md5Checksum": "308a81577137c382ed31547b6d1cffbb",
+    "size_kb": 1644
   },
   "images/comics/learn_experience_yc_1.jpg": {
     "md5Checksum": "3495677aeeca734fb7bc557cce23b33c",
@@ -359,9 +323,41 @@
     "md5Checksum": "637aa16fe57f2e1814b26fdcbe91aa41",
     "size_kb": 1800.5
   },
+  "images/comics/problem_solving_yc_1.jpg": {
+    "md5Checksum": "8abacac6a3d2419dc2d5ea1773369cc2",
+    "size_kb": 1194.8
+  },
+  "images/comics/problem_solving_yc_2.jpg": {
+    "md5Checksum": "daee606b947c5811aa562dae4d5aabe2",
+    "size_kb": 1162.6
+  },
+  "images/comics/problem_solving_yc_3.jpg": {
+    "md5Checksum": "fc9325e1b241ab1dc0ffb1c389a38c71",
+    "size_kb": 1402.8
+  },
+  "images/comics/problem_solving_yc_4.jpg": {
+    "md5Checksum": "998257f7de77cffa99038802c6e5da91",
+    "size_kb": 1311.5
+  },
+  "images/comics/routines_yc_1.jpg": {
+    "md5Checksum": "5e9620e69d7ada007418eaf2f95b570b",
+    "size_kb": 1307.8
+  },
   "images/comics/routines_yc_10.jpg": {
     "md5Checksum": "0824f88fece448f2dcd92148690160d0",
     "size_kb": 1665.4
+  },
+  "images/comics/routines_yc_2.jpg": {
+    "md5Checksum": "91380425d090a4608b2d4cf7a9e3d83e",
+    "size_kb": 1064
+  },
+  "images/comics/routines_yc_3.jpg": {
+    "md5Checksum": "3176cfbd76b6f05ec98e73e5d852f1a5",
+    "size_kb": 1049.3
+  },
+  "images/comics/routines_yc_4.jpg": {
+    "md5Checksum": "33dcd430013b0b9887ef677e6018a260",
+    "size_kb": 1296.5
   },
   "images/comics/routines_yc_5.jpg": {
     "md5Checksum": "2d4391b58f1657ae9092efbc0a3a6d23",
