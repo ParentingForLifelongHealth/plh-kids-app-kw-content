@@ -14,6 +14,12 @@
       "flow_subtype": "app_config_language_list",
       "_xlsxPath": "deployment_data_kw.xlsx"
     },
+    "characters": {
+      "flow_type": "data_list",
+      "flow_name": "characters",
+      "data_list_name": "characters",
+      "_xlsxPath": "KW characters.xlsx"
+    },
     "check_in": {
       "flow_type": "data_list",
       "flow_name": "check_in",
