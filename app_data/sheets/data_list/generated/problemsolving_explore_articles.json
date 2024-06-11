@@ -6,7 +6,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1": "{F3_MOTHER} is concerned that {F3_DAUGHTER_7} is sleeping late every day because she starts her homework late. Let’s see how they try to solve the problem together:",
+      "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day because she starts her homework late. Let’s see how they try to solve the problem together:",
       "image_asset": "images/facilitators_face.svg",
       "completed": false
     },
@@ -15,7 +15,7 @@
       "category_id": "explore",
       "text_1": "1. KNOW IT",
       "image_asset": "images/comics/problem_solving_yc_1.svg",
-      "text_2": "{F3_MOTHER}: Come on, {F3_DAUGHTER_7}, it's time to get ready for bed.\n\n{F3_DAUGHTER_7}: But I still have so much homework to do!\n\n{F3_MOTHER}: Hm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
+      "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
       "completed": false
     },
     {
@@ -23,7 +23,7 @@
       "category_id": "explore",
       "text_1": "2. SOLVE IT",
       "image_asset": "images/comics/problem_solving_yc_2.svg",
-      "text_2": "{F3_MOTHER} : \"How can we make sure you get all your work done and still get to bed on time?”\n\n{F3_DAUGHTER_7}: “Maybe I can start earlier?”\n\n {F3_MOTHER} : “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n {F3_DAUGHTER_7} : “Okay, {F3_MOTHER}.”",
+      "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”",
       "completed": false
     },
     {
@@ -31,7 +31,7 @@
       "category_id": "explore",
       "text_1": "3. TRY IT",
       "image_asset": "Iimages/comics/problem_solving_yc_3.svg",
-      "text_2": "*The next day.*\n\n {F3_MOTHER} : “{F3_DAUGHTER_7}, have you started your homework yet?”\n\n {F3_DAUGHTER_7} : “I'll start now, {F3_MOTHER}! Can I talk to you about this question?”\n\n {F3_MOTHER} : “Of course, my dear.”",
+      "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! Can I talk to you about this question?”\n\n @data.characters.f3_mother.name: “Of course, my dear.”",
       "completed": false
     },
     {
@@ -39,34 +39,34 @@
       "category_id": "explore",
       "text_1": "4. TEST IT",
       "image_asset": "images/comics/problem_solving_yc_4.svg",
-      "text_2": "*Later that same day.*\n\n {F3_DAUGHTER_7} : “Look, {F3_MOTHER}, I'm ready for bed so early tonight!”\n\n {F3_MOTHER} : “Well done, {F3_DAUGHTER_7}. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”",
+      "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed so early tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!”",
       "completed": false
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "text_1": "Let’s reflect on how {F3_MOTHER} and {F3_DAUGHTER_7}  worked together to solve their problem.",
+      "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "What problem did this family have?",
-      "quiz_1_option_1_text": "{F3_DAUGHTER_7} went to bed late",
-      "quiz_1_feedback_1": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
-      "quiz_1_option_2_text": "{F3_DAUGHTER_7} did not finish his homework",
-      "quiz_1_feedback_2": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
-      "quiz_1_option_3_text": "{F3_DAUGHTER_7} was tired",
-      "quiz_1_feedback_3": "Yes, {F3_DAUGHTER_7} is still learning to manage her time well.",
-      "quiz_2_question": "What did {F3_MOTHER} do to solve the problem together with {F3_DAUGHTER_7}?",
+      "quiz_1_option_1_text": "@data.characters.f3_daughter_7.name went to bed late",
+      "quiz_1_feedback_1": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well.",
+      "quiz_1_option_2_text": "@data.characters.f3_daughter_7.name did not finish his homework",
+      "quiz_1_feedback_2": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well.",
+      "quiz_1_option_3_text": "@data.characters.f3_daughter_7.name was tired",
+      "quiz_1_feedback_3": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well.",
+      "quiz_2_question": "What did @data.characters.f3_mother.name do to solve the problem together with @data.characters.f3_daughter_7.name?",
       "quiz_2_option_1_text": "She helps her identify the problem",
-      "quiz_2_feedback_1": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_1": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "quiz_2_option_2_text": "She asks her to come up with solutions",
-      "quiz_2_feedback_2": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_2": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "quiz_2_option_3_text": "She explores the positive outcome",
-      "quiz_2_feedback_3": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_3": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "quiz_2_option_4_text": "She reminds her to try it",
-      "quiz_2_feedback_4": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_4": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "quiz_2_option_5_text": "She support her to do it",
-      "quiz_2_feedback_5": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_5": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "quiz_2_option_6_text": "She praises her",
-      "quiz_2_feedback_6": "That’s right. She follows the steps of problem solving, and supports and praises {F3_DAUGHTER_7}.",
+      "quiz_2_feedback_6": "That’s right. She follows the steps of problem solving, and supports and praises @data.characters.f3_daughter_7.name.",
       "completed": false
     }
   ]
