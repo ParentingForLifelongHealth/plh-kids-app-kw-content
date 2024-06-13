@@ -211,7 +211,7 @@
         {
           "type": "accordion_section",
           "name": "acc_1",
-          "value": "Author",
+          "value": "Attribution",
           "rows": [
             {
               "type": "display_group",

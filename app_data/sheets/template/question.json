@@ -2387,7 +2387,7 @@
     },
     {
       "name": "radio_button_grid_width",
-      "value": "75%",
+      "value": "100%",
       "_translations": {
         "value": {}
       },
@@ -2397,7 +2397,7 @@
     },
     {
       "name": "radio_button_grid_gap",
-      "value": "50px",
+      "value": "16px",
       "_translations": {
         "value": {}
       },
