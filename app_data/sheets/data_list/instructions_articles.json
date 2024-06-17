@@ -23,25 +23,25 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_1.jpg",
+      "image_asset": "images/comics/instructions_yc_1.jpg",
       "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_2.jpg",
+      "image_asset": "images/comics/instructions_yc_2.jpg",
       "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_3.jpg",
+      "image_asset": "images/comics/instructions_yc_3.jpg",
       "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”\r\r @data.characters.f1_mother.name: “Once upon a time…”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/instructions_yc_4.jpg",
+      "image_asset": "images/comics/instructions_yc_4.jpg",
       "text_2": "@data.characters.f1_mother.name: “Once upon a time…”"
     },
     {
