@@ -4,85 +4,35 @@
   "status": "released",
   "rows": [
     {
-      "operation": "append_columns",
+      "operation": "filter",
       "args_list": [
-        "completed: FALSE"
+        "id == \"relax_1\""
       ],
-      "input_source": "selfcare_articles",
-      "output_target": "prepped_selfcare_articles",
-      "module_id": "selfcare"
+      "input_source": "relax",
+      "output_target": "test_relax | local_only;"
+    },
+    {
+      "operation": "filter",
+      "args_list": [
+        "id == \"check_in_1\""
+      ],
+      "input_source": "check_in",
+      "output_target": "test_check_in | local_only;"
+    },
+    {
+      "operation": "concat",
+      "args_list": [
+        "test_relax",
+        "test_check_in"
+      ],
+      "input_source": false
     },
     {
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE"
       ],
-      "input_source": "childdevelopment_articles",
-      "output_target": "prepped_childdevelopment_articles",
-      "module_id": "childdevelopment"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "oneononetime_articles",
-      "output_target": "prepped_oneononetime_articles",
-      "module_id": "oneononetime"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "praise_articles",
-      "output_target": "prepped_praise_articles",
-      "module_id": "praise"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "feelings_articles",
-      "output_target": "prepped_feelings_articles",
-      "module_id": "feelings"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "instructions_articles",
-      "output_target": "prepped_instructions_articles",
-      "module_id": "instructions"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "rulesroutines_articles",
-      "output_target": "prepped_rulesroutines_articles",
-      "module_id": "rulesroutines"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "consequences_articles",
-      "output_target": "prepped_consequences_articles",
-      "module_id": "consequences"
-    },
-    {
-      "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE"
-      ],
-      "input_source": "problemsolving_articles",
-      "output_target": "prepped_problemsolving_articles",
-      "module_id": "problemsolving"
+      "output_target": "test_article_tasks"
     }
   ],
   "_xlsxPath": "KW modules_data_pipes.xlsx"

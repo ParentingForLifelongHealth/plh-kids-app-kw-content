@@ -1,0 +1,15 @@
+{
+  "flow_name": "prep_feelings_categories",
+  "flow_subtype": "generated",
+  "flow_type": "data_pipe",
+  "rows": [
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "completed: FALSE"
+      ],
+      "input_source": "common_categories",
+      "output_target": "feelings_category_tasks"
+    }
+  ]
+}
