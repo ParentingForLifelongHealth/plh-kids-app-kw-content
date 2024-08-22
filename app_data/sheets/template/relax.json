@@ -134,7 +134,7 @@
     },
     {
       "name": "audio_asset",
-      "value": "@local.row_data.audio_asset",
+      "value": "@local.row_data.media_asset",
       "_translations": {
         "value": {}
       },
@@ -144,15 +144,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.row_data.audio_asset",
-            "matchedExpression": "@local.row_data.audio_asset",
+            "fullExpression": "@local.row_data.media_asset",
+            "matchedExpression": "@local.row_data.media_asset",
             "type": "local",
             "fieldName": "row_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.row_data.audio_asset": [
+        "@local.row_data.media_asset": [
           "value"
         ]
       }
@@ -168,9 +168,34 @@
       "_nested_name": "lottie_circles"
     },
     {
+      "type": "text",
+      "name": "debug_asset",
+      "value": "Audio asset: @local.audio_asset",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "debug_asset",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Audio asset: @local.audio_asset",
+            "matchedExpression": "@local.audio_asset",
+            "type": "local",
+            "fieldName": "audio_asset"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.audio_asset": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "audio",
       "name": "audio",
-      "value": "@local.media_asset",
+      "value": "@local.audio_asset",
       "_translations": {
         "value": {}
       },
@@ -182,10 +207,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.media_asset",
-            "matchedExpression": "@local.media_asset",
+            "fullExpression": "@local.audio_asset",
+            "matchedExpression": "@local.audio_asset",
             "type": "local",
-            "fieldName": "media_asset"
+            "fieldName": "audio_asset"
           }
         ],
         "parameter_list": {
@@ -200,7 +225,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@local.media_asset": [
+        "@local.audio_asset": [
           "value"
         ],
         "@local.row_data.title": [
