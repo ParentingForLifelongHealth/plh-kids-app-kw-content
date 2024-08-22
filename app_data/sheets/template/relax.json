@@ -170,7 +170,7 @@
     {
       "type": "audio",
       "name": "audio",
-      "value": "@local.audio_asset",
+      "value": "@local.media_asset",
       "_translations": {
         "value": {}
       },
@@ -182,10 +182,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.audio_asset",
-            "matchedExpression": "@local.audio_asset",
+            "fullExpression": "@local.media_asset",
+            "matchedExpression": "@local.media_asset",
             "type": "local",
-            "fieldName": "audio_asset"
+            "fieldName": "media_asset"
           }
         ],
         "parameter_list": {
@@ -200,7 +200,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@local.audio_asset": [
+        "@local.media_asset": [
           "value"
         ],
         "@local.row_data.title": [
