@@ -274,6 +274,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": true,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "target_template",
@@ -313,6 +314,84 @@
       },
       "type": "set_variable",
       "_nested_name": "articles"
+    },
+    {
+      "type": "text",
+      "name": "debug_cat",
+      "value": "@local.category_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_cat",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.category_id",
+            "matchedExpression": "@local.category_id",
+            "type": "local",
+            "fieldName": "category_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.category_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_task",
+      "value": "@local.task_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_task",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.task_id",
+            "matchedExpression": "@local.task_id",
+            "type": "local",
+            "fieldName": "task_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.task_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_temp",
+      "value": "@local.target_template",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_temp",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.target_template",
+            "matchedExpression": "@local.target_template",
+            "type": "local",
+            "fieldName": "target_template"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.target_template": [
+          "value"
+        ]
+      }
     },
     {
       "type": "task_card",
