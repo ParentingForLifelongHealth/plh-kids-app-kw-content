@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",

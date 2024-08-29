@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "intro_1",
+      "completed": false,
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "One-on-oOne tTime can be fun for both of you!you and your child.\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!",
@@ -25,6 +27,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_1.svg",
@@ -32,6 +35,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_2.svg",
@@ -39,6 +43,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_3.svg",
@@ -46,6 +51,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_4.svg",
@@ -53,6 +59,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on what we saw.",
@@ -93,6 +100,7 @@
     },
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "last_in_category": true,
       "text_1": "Here are some easy tips on how to connect with your child when you spend time together:",
@@ -110,6 +118,7 @@
     },
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Ready to try it out? \n\nSpend 5 minutes (or more) of one-on-one time with your child, every day.",
@@ -120,6 +129,7 @@
     },
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",

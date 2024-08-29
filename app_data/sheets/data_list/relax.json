@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "relax_1",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/videos/pause/body_scan.mp4",
       "type": "passive_short",
       "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
@@ -27,7 +27,7 @@
     },
     {
       "id": "relax_2",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/videos/pause/loving_kindness_meditation.mp4",
       "type": "passive_short",
       "title": "Meditation",
@@ -47,7 +47,7 @@
     },
     {
       "id": "relax_3",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/videos/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
@@ -67,7 +67,7 @@
     },
     {
       "id": "relax_4",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_4.mp3",
       "type": "passive_short",
       "title": "Breathe to three",
@@ -87,7 +87,7 @@
     },
     {
       "id": "relax_5",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_5.mp3",
       "type": "passive_short",
       "title": "In and out",
@@ -107,7 +107,7 @@
     },
     {
       "id": "relax_6",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_6.mp3",
       "type": "passive_short",
       "title": "Think about today",
@@ -127,7 +127,7 @@
     },
     {
       "id": "relax_7",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_7.mp3",
       "type": "passive_short",
       "title": "Pause to respond",
@@ -147,7 +147,7 @@
     },
     {
       "id": "relax_8",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_8.mp3",
       "type": "passive_short",
       "title": "Small things",
@@ -167,7 +167,7 @@
     },
     {
       "id": "relax_9",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_9.mp3",
       "type": "passive_short",
       "title": "Body scan",
@@ -187,7 +187,7 @@
     },
     {
       "id": "relax_10",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_10.mp3",
       "type": "passive_short",
       "title": "Feel the ground",
@@ -207,7 +207,7 @@
     },
     {
       "id": "relax_11",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_11.mp3",
       "type": "passive_short",
       "title": "Counting sounds",
@@ -227,7 +227,7 @@
     },
     {
       "id": "relax_12",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_12.mp3",
       "type": "passive_short",
       "title": "Feel your feelings",
@@ -247,7 +247,7 @@
     },
     {
       "id": "relax_13",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_13.mp3",
       "type": "active",
       "title": "Your song",
@@ -267,7 +267,7 @@
     },
     {
       "id": "relax_14",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_14.mp3",
       "type": "passive_short",
       "title": "Ground & gratitude",
@@ -287,7 +287,7 @@
     },
     {
       "id": "relax_15",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_15.mp3",
       "type": "passive_short",
       "title": "Notice how you feel",
@@ -307,7 +307,7 @@
     },
     {
       "id": "relax_16",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_16.mp3",
       "type": "passive_short",
       "title": "Pause power",
@@ -327,7 +327,7 @@
     },
     {
       "id": "relax_17",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_17.mp3",
       "type": "passive_short",
       "title": "Praise yourself",
@@ -347,7 +347,7 @@
     },
     {
       "id": "relax_18",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_18.mp3",
       "type": "passive_long",
       "title": "Taking care of yourself",
@@ -367,7 +367,7 @@
     },
     {
       "id": "relax_19",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_19.mp3",
       "type": "passive_long",
       "title": "Take a pause",
@@ -387,7 +387,7 @@
     },
     {
       "id": "relax_20",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_20.mp3",
       "type": "active",
       "title": "Physical activity",
@@ -407,7 +407,7 @@
     },
     {
       "id": "relax_21",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_21.mp3",
       "type": "active",
       "title": "List of things",
@@ -427,7 +427,7 @@
     },
     {
       "id": "relax_22",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_22.mp3",
       "type": "active",
       "title": "Connect",
@@ -447,7 +447,7 @@
     },
     {
       "id": "relax_23",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_23.mp3",
       "type": "active",
       "title": "Prevent anger",
@@ -467,7 +467,7 @@
     },
     {
       "id": "relax_24",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/relax/relax_24.mp3",
       "type": "active",
       "title": "Angry? Take a break",

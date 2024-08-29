@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "text_1": "Ready to give it a go? Try giving your child specific, realistic, and positive instructions. \n\nRemember to give one instruction at a time and praise them. This will help your child to follow your instructions.",
       "media_type": "audio",

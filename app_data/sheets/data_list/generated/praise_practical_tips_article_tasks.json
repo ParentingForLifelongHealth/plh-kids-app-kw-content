@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "last_in_category": true,
       "text_1": "Here are some easy tips for how to use praise and rewards:",

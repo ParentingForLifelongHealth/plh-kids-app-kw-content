@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "text_1": "Here are three tips to give positive instructions that work:",
       "section_1_title": "BE SPECIFIC",
