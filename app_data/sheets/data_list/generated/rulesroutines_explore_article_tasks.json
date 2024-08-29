@@ -9,7 +9,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s look at an example together. @data.characters.f1_daughter_6.name is spending too much time watching TV before his homework is finished. @data.characters.f1_mother.name helps him create a family rule about this:",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -49,7 +49,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s reflect on how @data.characters.f1_mother.name and @data.characters.f1_daughter_6.name created a rule together.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Why does @data.characters.f1_mother.name ask @data.characters.f1_daughter_6.name for her ideas on what the household rule should be?",
       "quiz_1_option_1_text": "To make her feel involved",
       "quiz_1_feedback_1": "Correct. When you make rules together with your child, the rules will work better.",
@@ -71,7 +71,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
@@ -127,7 +127,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s think about what made this routine work well so we can all have peaceful bedtimes in our families.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "How often do you think @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name follow this routine?",
       "quiz_1_option_1_text": "Maybe once a week",
       "quiz_1_feedback_1": "Try again. If @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name only do these steps once a week, @data.characters.f2_daughter_3.name would not be able to remember and follow the routine as well as she does here.",

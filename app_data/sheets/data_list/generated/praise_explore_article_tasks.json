@@ -9,7 +9,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -56,7 +56,7 @@
       "quiz_1_feedback_2": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, all these positive things happen.",
       "quiz_1_option_3_text": "To encourage him to want to help more often",
       "quiz_1_feedback_3": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, all these positive things happen.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What can we learn from @data.characters.f3_mother.name in how she praises @data.characters.f3_son_4.name?",
       "quiz_2_option_1_text": "She goes down to @data.characters.f3_son_4.name’s level",
       "quiz_2_feedback_1": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",

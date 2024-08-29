@@ -396,12 +396,10 @@
     {
       "type": "display_group",
       "name": "dg_box",
+      "condition": "!!(@local.article_data.image_asset)",
       "style_list": [
         "min_height: 40px"
       ],
-      "parameter_list": {
-        "style": "white_box"
-      },
       "exclude_from_translation": true,
       "rows": [
         {
@@ -480,7 +478,22 @@
           }
         }
       ],
-      "_nested_name": "dg_box"
+      "_nested_name": "dg_box",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.image_asset)",
+            "matchedExpression": "@local.article_data.image_asset",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.image_asset": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "text",

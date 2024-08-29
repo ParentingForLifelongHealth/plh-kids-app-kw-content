@@ -119,7 +119,7 @@
         "text_1": {}
       },
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings, everyone.\n\nWhen was the last time you were praised? Can you praise yourself for something right now? Praise makes us all feel good. \n\nIt is good to praise our children when they have done well, because when we do that, they will do more of that good behaviour we want to see.\n\nAnd let's remember to praise ourselves too, for big or small things!"
@@ -133,7 +133,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -190,7 +190,7 @@
       "quiz_1_option_2_text": "To help him deal with his frustration",
       "quiz_1_option_3_text": "To encourage him to want to help more often",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What can we learn from @data.characters.f3_mother.name in how she praises @data.characters.f3_son_4.name?",
       "quiz_2_option_1_text": "She goes down to @data.characters.f3_son_4.name’s level",
       "quiz_2_feedback_1": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",
@@ -244,7 +244,7 @@
         "text_1": {}
       },
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_transcript": "When we learned about this praising thing, I thought “We were never praised for things as children, so why should we start now?”. But I got interested when I learned what the benefits of praising could be.\n\nRight after learning about praise, I noticed my son doing what he does every day: Packing away his toys after playing. And I said “Thank you for packing away your toys, my boy, it really makes me happy that you are helping out to keep the house tidy.” My son was smiling and he even came to give me a hug, which he never does. \n\nThis praising business is hard. I still forget to do it sometimes. But praising really makes a difference. I never thought that a simple praise could make such a change in a person!"

@@ -112,7 +112,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -177,7 +177,7 @@
       "quiz_1_option_2_text": "Because @data.characters.f3_son_4.name does not put his toys away even when he has a choice between listening and a consequence.",
       "quiz_1_option_3_text": "Because he already tried yelling, and it didn’t work.",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "How does @data.characters.f3_uncle.name give @data.characters.f3_son_4.name a consequence?",
       "quiz_2_option_1_text": "He makes his disappointment clear.",
       "quiz_2_option_1_image_asset": "Try again!",
@@ -242,7 +242,7 @@
       "quiz_1_option_2_text": "If you continue splashing water out of the bath, bath time will be over.",
       "quiz_1_option_3_text": "If you break your toy, you will have no toy to play with.",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "If you can’t play close to home where I can see you, then you will have to come inside.",
       "quiz_1_feedback_4": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
       "quiz_1_option_5_text": "If you do not put away your toys before you go to bed, then you cannot play with them tomorrow morning.",

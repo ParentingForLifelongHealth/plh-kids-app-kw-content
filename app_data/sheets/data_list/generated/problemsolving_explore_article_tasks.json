@@ -9,7 +9,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -53,7 +53,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "What problem did this family have?",
       "quiz_1_option_1_text": "@data.characters.f3_daughter_7.name went to bed late",
       "quiz_1_feedback_1": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well. These are all correct answers!",

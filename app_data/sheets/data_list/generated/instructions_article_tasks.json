@@ -101,7 +101,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -144,7 +144,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
@@ -193,7 +193,7 @@
       "quiz_1_option_2_text": "They could have hurt each other in the argument.",
       "quiz_1_option_3_text": "@data.characters.f2_grandfather.name would have had to stop working in the garden.",
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
       "quiz_2_option_1_text": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
       "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
@@ -225,7 +225,7 @@
       "quiz_1_option_2_text": "They could have hurt each other in the argument",
       "quiz_1_option_3_text": "@data.characters.f2_grandfather.name would have had to stop working in the garden",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
       "quiz_2_option_1_text": "He draw their attention away from the problem",
       "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
@@ -277,7 +277,7 @@
       "quiz_1_option_1_text": "\"Stop fighting with your siblings over toys!\"",
       "quiz_1_option_2_text": "\"No shouting in the house!\"",
       "quiz_1_option_3_text": "\"Stop throwing food!\"",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "\"Don't write on the walls!\"",
       "quiz_1_feedback_4": "\"Please only write on paper.\"",
       "quiz_1_option_5_text": "\"No running in the house!\"",

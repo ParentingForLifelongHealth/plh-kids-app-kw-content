@@ -9,7 +9,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s check in on another family to see how talking about feelings helps them in a practical way:",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -49,7 +49,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s talk this through together. What happened when @data.characters.f1_father.name and @data.characters.f1_daughter_6.name decided to play catch?",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Why does @data.characters.f1_father.name name @data.characters.f1_daughter_6.name’s feelings when she’s feeling angry and proud?",
       "quiz_1_option_1_text": "To make @data.characters.f1_daughter_6.name feel better instantly.",
       "quiz_1_feedback_1": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help her recognize her feelings so she can handle them better next time.",

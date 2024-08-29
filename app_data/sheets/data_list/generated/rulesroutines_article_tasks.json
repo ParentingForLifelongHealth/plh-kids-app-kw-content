@@ -102,7 +102,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -159,7 +159,7 @@
       "quiz_1_option_2_text": "To make it more likely that she follows the rule",
       "quiz_1_option_3_text": "To make her feel her ideas are valued",
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "To make sure she feels the rule is fair and realistic",
       "quiz_1_feedback_4": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_2_question": "What does @data.characters.f1_mother.name do when @data.characters.f1_daughter_6.name follows the rule?",
@@ -177,7 +177,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
@@ -250,7 +250,7 @@
       "quiz_1_option_2_text": "A few times per week",
       "quiz_1_option_3_text": "Every day",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What does @data.characters.f2_grandmother.name do to help @data.characters.f2_daughter_3.name follow this routine?",
       "quiz_2_option_1_text": "She praises and connects with @data.characters.f2_daughter_3.name before giving instructions",
       "quiz_2_option_2_text": "She promises @data.characters.f2_daughter_3.name a simple reward to encourage her",
@@ -308,7 +308,7 @@
       "quiz_1_option_2_text": "All family members eat dinner together.",
       "quiz_1_option_3_text": "Your child helps to clear the dishes after dinner.",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "text_2": "Here are some of the rules and routines that other families created.",
       "quiz_1_option_4_text": "Your child packs away the toys they played with during the day before bedtime",
       "quiz_1_feedback_4": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home.",

@@ -101,7 +101,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -174,7 +174,7 @@
       "quiz_1_option_2_text": "@data.characters.f3_daughter_7.name did not finish her homework",
       "quiz_1_option_3_text": "@data.characters.f3_daughter_7.name was tired",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What does @data.characters.f3_mother.name do to solve the problem together with @data.characters.f3_daughter_7.name?",
       "quiz_2_option_1_text": "She reminds @data.characters.f3_daughter_7.name that she has had this problem before.",
       "quiz_2_feedback_1": "Try again!",
@@ -232,7 +232,7 @@
       "quiz_1_option_2_text": "Coming home late",
       "quiz_1_option_3_text": "Fighting with other children",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "Not sharing toys",
       "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
     },

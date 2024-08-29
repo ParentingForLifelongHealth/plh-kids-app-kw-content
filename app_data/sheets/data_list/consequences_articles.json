@@ -30,7 +30,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -78,7 +78,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Why does @data.characters.f3_uncle.name use a consequence?",
       "quiz_1_option_1_text": "Because@data.characters.f3_son_4.name needs to be punished.",
       "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
@@ -130,7 +130,7 @@
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Let’s come up with some ideas for reasonable and realistic consequences.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Would any of these consequences be helpful for you and your child?",
       "quiz_1_option_1_text": "If you are late for dinner, your food will be cold.",
       "quiz_1_feedback_1": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",

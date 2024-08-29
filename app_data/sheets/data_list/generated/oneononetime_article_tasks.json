@@ -102,7 +102,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -159,7 +159,7 @@
       "quiz_1_option_2_text": "She goes down to the same level as @data.characters.f2_daughter_3.name",
       "quiz_1_option_3_text": "She is looking at @data.characters.f2_daughter_3.name",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "She asks what  @data.characters.f2_daughter_3.name wants to do",
       "quiz_1_feedback_4": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
       "quiz_1_option_5_text": "She allows @data.characters.f2_daughter_3.name to choose the activity",
@@ -243,7 +243,7 @@
       "quiz_1_option_2_text": "Chat before bedtime",
       "quiz_1_option_3_text": "Eat a meal together",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "Watch a TV show",
       "quiz_1_feedback_4": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
       "quiz_1_option_5_text": "Read a book together",
