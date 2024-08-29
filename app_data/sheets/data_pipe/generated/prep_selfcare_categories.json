@@ -6,7 +6,8 @@
     {
       "operation": "append_columns",
       "args_list": [
-        "completed: FALSE"
+        "completed: FALSE",
+        "task_child: selfcare_{@row.id}_article_tasks"
       ],
       "input_source": "common_categories",
       "output_target": "selfcare_category_tasks"

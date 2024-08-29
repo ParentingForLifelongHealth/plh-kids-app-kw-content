@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "relax_2",
+      "last_in_category": true,
       "media_asset": "/videos/pause/loving_kindness_meditation.mp4",
       "type": "passive_short",
       "title": "Meditation",

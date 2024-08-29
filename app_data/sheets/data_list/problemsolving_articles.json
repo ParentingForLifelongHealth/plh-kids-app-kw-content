@@ -7,6 +7,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
+      "last_in_category": true,
       "text_1": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
@@ -17,40 +18,46 @@
     {
       "id": "explore_1",
       "category_id": "explore",
+      "last_in_category": false,
       "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
       "image_asset": "images/facilitators_face.svg"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
+      "last_in_category": false,
       "text_1": "KNOW IT",
-      "image_asset": "images/comics/problem_solving_yc_1.jpg",
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
+      "last_in_category": false,
       "text_1": "SOLVE IT",
-      "image_asset": "images/comics/problem_solving_yc_2.jpg",
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
       "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
     },
     {
       "id": "explore_4",
       "category_id": "explore",
+      "last_in_category": false,
       "text_1": "TEST IT",
-      "image_asset": "Iimages/comics/problem_solving_yc_3.jpg",
+      "image_asset": "Iimages/comics/problem_solving_yc_3.svg",
       "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
+      "last_in_category": false,
       "text_1": "REFLECT",
-      "image_asset": "images/comics/problem_solving_yc_4.jpg",
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
       "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”"
     },
     {
       "id": "explore_6",
       "category_id": "explore",
+      "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "What problem did this family have?",
@@ -71,6 +78,7 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "last_in_category": true,
       "text_1": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "section_1_title": "KNOW IT",
       "section_1_text": "Put the problem into words.\n\nTalk to your child about what the problem is.",
@@ -92,6 +100,7 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "last_in_category": true,
       "text_1": "Let’s think of some common problems we could solve with our children.",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "Do you experience any of these problems at home?",
@@ -107,6 +116,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "text_1": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",

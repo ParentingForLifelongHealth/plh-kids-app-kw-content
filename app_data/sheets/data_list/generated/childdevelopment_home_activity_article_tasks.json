@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "quiz_1_question": "What could you do today to encourage your child to play and learn?",
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_feedback_1": "That’s right! Join in on any play activity your child is doing. You will strengthen your bond and encourage your child to play and learn more.",

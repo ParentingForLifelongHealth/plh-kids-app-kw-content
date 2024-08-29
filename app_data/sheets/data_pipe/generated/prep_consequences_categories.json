@@ -6,7 +6,8 @@
     {
       "operation": "append_columns",
       "args_list": [
-        "completed: FALSE"
+        "completed: FALSE",
+        "task_child: consequences_{@row.id}_article_tasks"
       ],
       "input_source": "common_categories",
       "output_target": "consequences_category_tasks"

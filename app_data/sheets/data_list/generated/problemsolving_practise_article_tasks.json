@@ -6,6 +6,7 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "last_in_category": true,
       "text_1": "Let’s think of some common problems we could solve with our children.",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "Do you experience any of these problems at home?",

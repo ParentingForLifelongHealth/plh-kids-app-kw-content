@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "text_1": "Your home activity is to talk with your child about their feelings during one-on-one time today. It can be something simple, like noticing that they find joy when they play!",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "Are you up for trying? Can you help your child notice their feelings during one-on-one time today?",

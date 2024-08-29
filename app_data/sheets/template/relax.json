@@ -168,31 +168,6 @@
       "_nested_name": "lottie_circles"
     },
     {
-      "type": "text",
-      "name": "debug_asset",
-      "value": "Audio asset: @local.audio_asset",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "_nested_name": "debug_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Audio asset: @local.audio_asset",
-            "matchedExpression": "@local.audio_asset",
-            "type": "local",
-            "fieldName": "audio_asset"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.audio_asset": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "audio",
       "name": "audio",
       "value": "@local.audio_asset",

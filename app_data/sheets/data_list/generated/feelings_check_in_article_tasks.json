@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "check_in_5",
+      "last_in_category": true,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",

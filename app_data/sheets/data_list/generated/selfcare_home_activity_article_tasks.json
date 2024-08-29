@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "text_1": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",

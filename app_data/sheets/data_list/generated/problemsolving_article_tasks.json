@@ -5,7 +5,8 @@
   "rows": [
     {
       "id": "relax_3",
-      "media_asset": "/videos/pause/breath_body_awareness.mp3",
+      "last_in_category": true,
+      "media_asset": "/videos/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
       "_translations": {
@@ -26,6 +27,7 @@
     },
     {
       "id": "check_in_9",
+      "last_in_category": true,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -79,6 +81,7 @@
     },
     {
       "id": "intro_1",
+      "last_in_category": true,
       "media_asset": "/audio/solve_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "category_id": "intro",
@@ -93,6 +96,7 @@
     },
     {
       "id": "explore_1",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
       "_translations": {
@@ -103,50 +107,55 @@
     },
     {
       "id": "explore_2",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "KNOW IT",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_1.jpg",
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
       "completed": false
     },
     {
       "id": "explore_3",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "SOLVE IT",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_2.jpg",
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
       "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”",
       "completed": false
     },
     {
       "id": "explore_4",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "TEST IT",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "Iimages/comics/problem_solving_yc_3.jpg",
+      "image_asset": "Iimages/comics/problem_solving_yc_3.svg",
       "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”",
       "completed": false
     },
     {
       "id": "explore_5",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "REFLECT",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_4.jpg",
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
       "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”",
       "completed": false
     },
     {
       "id": "explore_6",
+      "last_in_category": true,
       "category_id": "explore",
       "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
       "_translations": {
@@ -178,6 +187,7 @@
     },
     {
       "id": "tips_1",
+      "last_in_category": true,
       "category_id": "practical_tips",
       "text_1": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
@@ -203,6 +213,7 @@
     },
     {
       "id": "practise",
+      "last_in_category": true,
       "category_id": "practise",
       "text_1": "Let’s think of some common problems we could solve with our children.",
       "_translations": {
@@ -229,6 +240,7 @@
     },
     {
       "id": "home_activity_1",
+      "last_in_category": true,
       "media_asset": "/audio/solve_audio_2.mp3",
       "category_id": "home_activity",
       "text_1": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",

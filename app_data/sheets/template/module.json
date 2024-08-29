@@ -40,6 +40,15 @@
       }
     },
     {
+      "name": "template_name",
+      "value": "test",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "template_name"
+    },
+    {
       "name": "join",
       "value": "_",
       "_translations": {
@@ -350,6 +359,7 @@
         "value": {}
       },
       "exclude_from_translation": true,
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "completed_field",
       "_dynamicFields": {
@@ -746,6 +756,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "articles_data_list_name",
       "_dynamicFields": {
@@ -779,6 +790,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "type": "set_variable",
       "_nested_name": "articles_data",
       "_dynamicFields": {
@@ -999,8 +1011,8 @@
       "type": "task_progress_bar",
       "name": "task_progress_bar",
       "parameter_list": {
-        "task_group_data": "@local.category_articles_data_list_name",
-        "completed_field": "@local.completed_field"
+        "task_group_data": "@local.category_data_list_name",
+        "completed_field": "completed"
       },
       "exclude_from_translation": true,
       "_nested_name": "task_progress_bar",
@@ -1008,28 +1020,17 @@
         "parameter_list": {
           "task_group_data": [
             {
-              "fullExpression": "@local.category_articles_data_list_name",
-              "matchedExpression": "@local.category_articles_data_list_name",
+              "fullExpression": "@local.category_data_list_name",
+              "matchedExpression": "@local.category_data_list_name",
               "type": "local",
-              "fieldName": "category_articles_data_list_name"
-            }
-          ],
-          "completed_field": [
-            {
-              "fullExpression": "@local.completed_field",
-              "matchedExpression": "@local.completed_field",
-              "type": "local",
-              "fieldName": "completed_field"
+              "fieldName": "category_data_list_name"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@local.category_articles_data_list_name": [
+        "@local.category_data_list_name": [
           "parameter_list.task_group_data"
-        ],
-        "@local.completed_field": [
-          "parameter_list.completed_field"
         ]
       }
     },
@@ -1093,205 +1094,6 @@
       "_nested_name": "header"
     },
     {
-      "type": "text",
-      "name": "debug_item_index",
-      "value": "Item index: @item._index",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "_nested_name": "debug_item_index",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Item index: @item._index",
-            "matchedExpression": "@item._index",
-            "type": "item",
-            "fieldName": "_index"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@item._index": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_active_index",
-      "value": "active_index: @local.active_index",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "_nested_name": "debug_active_index",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "active_index: @local.active_index",
-            "matchedExpression": "@local.active_index",
-            "type": "local",
-            "fieldName": "active_index"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.active_index": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_list_name",
-      "value": "Articles data list name: @local.category_articles_data_list_name",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "_nested_name": "debug_list_name",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Articles data list name: @local.category_articles_data_list_name",
-            "matchedExpression": "@local.category_articles_data_list_name",
-            "type": "local",
-            "fieldName": "category_articles_data_list_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.category_articles_data_list_name": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_list_data",
-      "value": "Articles data list data: @local.category_articles_data",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "_nested_name": "debug_list_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Articles data list data: @local.category_articles_data",
-            "matchedExpression": "@local.category_articles_data",
-            "type": "local",
-            "fieldName": "category_articles_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.category_articles_data": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "data_list_array",
-      "value": "@calc(Object.keys(@local.category_articles_data))",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "data_list_array",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(Object.keys(@local.category_articles_data))",
-            "matchedExpression": "@local.category_articles_data",
-            "type": "local",
-            "fieldName": "category_articles_data"
-          },
-          {
-            "fullExpression": "@calc(Object.keys(@local.category_articles_data))",
-            "matchedExpression": "@calc(Object.keys(@local.category_articles_data))",
-            "type": "calc",
-            "fieldName": "Object.keys(@local.category_articles_data)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.category_articles_data": [
-          "value"
-        ],
-        "@calc(Object.keys(@local.category_articles_data))": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "stringify_data_list_array",
-      "value": "@calc(JSON.stringify(@local.data_list_array))",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "type": "set_variable",
-      "_nested_name": "stringify_data_list_array",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.data_list_array))",
-            "matchedExpression": "@local.data_list_array",
-            "type": "local",
-            "fieldName": "data_list_array"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.data_list_array))",
-            "matchedExpression": "@calc(JSON.stringify(@local.data_list_array))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.data_list_array)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.data_list_array": [
-          "value"
-        ],
-        "@calc(JSON.stringify(@local.data_list_array))": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_data_list_array",
-      "value": "Categories array: @local.stringify_data_list_array",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "condition": false,
-      "_nested_name": "debug_data_list_array",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Categories array: @local.stringify_data_list_array",
-            "matchedExpression": "@local.stringify_data_list_array",
-            "type": "local",
-            "fieldName": "stringify_data_list_array"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.stringify_data_list_array": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "data_items",
       "name": "enable_dynamic_data_actions",
       "value": "@local.category_articles_data_list_name",
@@ -1306,128 +1108,6 @@
           "exclude_from_translation": true,
           "condition": "@item._index == @local.active_index",
           "rows": [
-            {
-              "type": "text",
-              "name": "debug_category",
-              "value": "@local.category_id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.debug_category",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@local.category_id",
-                    "matchedExpression": "@local.category_id",
-                    "type": "local",
-                    "fieldName": "category_id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.category_id": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "name": "test_item_completed",
-              "value": "@item.id completed: @item.completed",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.test_item_completed",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id completed: @item.completed",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  },
-                  {
-                    "fullExpression": "@item.id completed: @item.completed",
-                    "matchedExpression": "@item.completed",
-                    "type": "item",
-                    "fieldName": "completed"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ],
-                "@item.completed": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "name": "test_item",
-              "value": "test item: @item.id",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.test_item",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "test item: @item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "name": "test_item_last",
-              "value": "@item.id last: @item._last",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "condition": false,
-              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.test_item_last",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@item.id last: @item._last",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  },
-                  {
-                    "fullExpression": "@item.id last: @item._last",
-                    "matchedExpression": "@item._last",
-                    "type": "item",
-                    "fieldName": "_last"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@item.id": [
-                  "value"
-                ],
-                "@item._last": [
-                  "value"
-                ]
-              }
-            },
             {
               "name": "template_name",
               "value": "@local.module_id@local.join@item.id",
@@ -1597,6 +1277,32 @@
                     },
                     {
                       "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
                       "action_id": "set_local",
                       "args": [
                         "active_index",
@@ -1631,6 +1337,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -1658,7 +1440,7 @@
                           }
                         ]
                       },
-                      "2": {
+                      "4": {
                         "args": {
                           "1": [
                             {
@@ -1706,13 +1488,28 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@item._index": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
                       "action_list.1._cleaned",
-                      "action_list.2.args.1",
+                      "action_list.1.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
                       "action_list.2._raw",
-                      "action_list.2._cleaned"
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@item._index": [
+                      "action_list.3.args.1",
+                      "action_list.3._raw",
+                      "action_list.3._cleaned",
+                      "action_list.4.args.1",
+                      "action_list.4._raw",
+                      "action_list.4._cleaned"
                     ],
                     "!@item._last": [
                       "condition"
@@ -1735,6 +1532,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -1782,6 +1605,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -1809,7 +1708,7 @@
                           }
                         ]
                       },
-                      "2": {
+                      "4": {
                         "args": {
                           "1": [
                             {
@@ -1857,15 +1756,30 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@item._index": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@item._index": [
+                      "action_list.3.args.1",
+                      "action_list.3._raw",
+                      "action_list.3._cleaned"
                     ],
                     "@local.previous_category": [
-                      "action_list.2.args.1",
-                      "action_list.2._raw",
-                      "action_list.2._cleaned"
+                      "action_list.4.args.1",
+                      "action_list.4._raw",
+                      "action_list.4._cleaned"
                     ],
                     "@item._first": [
                       "condition"
@@ -1888,6 +1802,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -1935,6 +1875,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -1962,7 +1978,7 @@
                           }
                         ]
                       },
-                      "3": {
+                      "5": {
                         "args": {
                           "1": [
                             {
@@ -2010,15 +2026,30 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@local.next_category": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
                     ],
-                    "@item._index": [
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@local.next_category": [
                       "action_list.3.args.1",
                       "action_list.3._raw",
                       "action_list.3._cleaned"
+                    ],
+                    "@item._index": [
+                      "action_list.5.args.1",
+                      "action_list.5._raw",
+                      "action_list.5._cleaned"
                     ],
                     "@item._last": [
                       "condition"
@@ -2041,6 +2072,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -2078,6 +2135,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -2125,10 +2258,25 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@item._index": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@item._index": [
+                      "action_list.3.args.1",
+                      "action_list.3._raw",
+                      "action_list.3._cleaned"
                     ],
                     "@item._first": [
                       "condition"
@@ -2151,6 +2299,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -2187,7 +2361,83 @@
                       }
                     ],
                     "action_list": {
+                      "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
                       "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "4": {
                         "args": {
                           "1": [
                             {
@@ -2235,10 +2485,25 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@item._index": [
-                      "action_list.2.args.1",
+                    "@local.categories_data_list_name": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
                       "action_list.2._raw",
-                      "action_list.2._cleaned"
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@item._index": [
+                      "action_list.4.args.1",
+                      "action_list.4._raw",
+                      "action_list.4._cleaned"
                     ],
                     "@item._last": [
                       "condition"
@@ -2288,6 +2553,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -2344,6 +2635,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -2371,7 +2738,7 @@
                           }
                         ]
                       },
-                      "3": {
+                      "5": {
                         "args": {
                           "1": [
                             {
@@ -2419,15 +2786,30 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@local.next_category": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
                     ],
-                    "@local.previous_category": [
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@local.next_category": [
                       "action_list.3.args.1",
                       "action_list.3._raw",
                       "action_list.3._cleaned"
+                    ],
+                    "@local.previous_category": [
+                      "action_list.5.args.1",
+                      "action_list.5._raw",
+                      "action_list.5._cleaned"
                     ],
                     "!@local.is_first_category": [
                       "condition"
@@ -2450,6 +2832,32 @@
                       "_cleaned": "completed | set_item | completed: true",
                       "params": {
                         "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
                       }
                     },
                     {
@@ -2496,6 +2904,82 @@
                     ],
                     "action_list": {
                       "1": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
                         "args": {
                           "1": [
                             {
@@ -2537,10 +3021,25 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@local.next_category": [
-                      "action_list.1.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._cleaned",
+                      "action_list.1.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.1._raw",
+                      "action_list.1._cleaned",
+                      "action_list.1.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@local.next_category": [
+                      "action_list.3.args.1",
+                      "action_list.3._raw",
+                      "action_list.3._cleaned"
                     ],
                     "@local.is_first_category": [
                       "condition"
@@ -2570,6 +3069,32 @@
                       ],
                       "_raw": "completed | emit: completed",
                       "_cleaned": "completed | emit: completed"
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                      "params": {
+                        "data_list_name": "@local.categories_data_list_name",
+                        "row_id": "@local.category_id"
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "task",
+                      "args": [
+                        "evaluate"
+                      ],
+                      "_raw": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "_cleaned": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                      "params": {
+                        "data_list_name": "modules",
+                        "row_id": "@local.module_id"
+                      }
                     },
                     {
                       "trigger": "uncompleted",
@@ -2606,6 +3131,82 @@
                     ],
                     "action_list": {
                       "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.categories_data_list_name",
+                            "type": "local",
+                            "fieldName": "categories_data_list_name"
+                          },
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: @local.categories_data_list_name, row_id: @local.category_id",
+                            "matchedExpression": "@local.category_id",
+                            "type": "local",
+                            "fieldName": "category_id"
+                          }
+                        ],
+                        "params": {
+                          "data_list_name": [
+                            {
+                              "fullExpression": "@local.categories_data_list_name",
+                              "matchedExpression": "@local.categories_data_list_name",
+                              "type": "local",
+                              "fieldName": "categories_data_list_name"
+                            }
+                          ],
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.category_id",
+                              "matchedExpression": "@local.category_id",
+                              "type": "local",
+                              "fieldName": "category_id"
+                            }
+                          ]
+                        }
+                      },
+                      "3": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "completed | task: evaluate | data_list_name: modules, row_id: @local.module_id",
+                            "matchedExpression": "@local.module_id",
+                            "type": "local",
+                            "fieldName": "module_id"
+                          }
+                        ],
+                        "params": {
+                          "row_id": [
+                            {
+                              "fullExpression": "@local.module_id",
+                              "matchedExpression": "@local.module_id",
+                              "type": "local",
+                              "fieldName": "module_id"
+                            }
+                          ]
+                        }
+                      },
+                      "4": {
                         "args": {
                           "1": [
                             {
@@ -2647,10 +3248,25 @@
                     "@local.template_name": [
                       "value"
                     ],
-                    "@local.previous_category": [
-                      "action_list.2.args.1",
+                    "@local.categories_data_list_name": [
                       "action_list.2._raw",
-                      "action_list.2._cleaned"
+                      "action_list.2._cleaned",
+                      "action_list.2.params.data_list_name"
+                    ],
+                    "@local.category_id": [
+                      "action_list.2._raw",
+                      "action_list.2._cleaned",
+                      "action_list.2.params.row_id"
+                    ],
+                    "@local.module_id": [
+                      "action_list.3._raw",
+                      "action_list.3._cleaned",
+                      "action_list.3.params.row_id"
+                    ],
+                    "@local.previous_category": [
+                      "action_list.4.args.1",
+                      "action_list.4._raw",
+                      "action_list.4._cleaned"
                     ],
                     "@local.is_last_category": [
                       "condition"
