@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",

@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "intro_1",
+      "completed": false,
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "Today we are learning to talk about feelings with our children. \nNoticing  emotions, both our own and our children's, helps us care for ourselves. \nNoticing and talking about feelings with our children helps them learn to express and manage their emotions – even the difficult ones.",

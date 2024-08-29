@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
@@ -12,6 +13,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/play_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/play_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/play_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/play_yc_4.svg",
@@ -40,6 +45,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "@data.characters.f3_mother.name helped her son learn by playing together. Let’s explore how she did this.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "explore_7",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_daughter_7.name to learn from her mistake when she plays a bit too rough indoors.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "explore_8",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_1.svg",
@@ -78,6 +86,7 @@
     },
     {
       "id": "explore_9",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_2.svg",
@@ -85,6 +94,7 @@
     },
     {
       "id": "explore_10",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_3.svg",
@@ -92,6 +102,7 @@
     },
     {
       "id": "explore_11",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_4.svg",
@@ -99,6 +110,7 @@
     },
     {
       "id": "explore_12",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_5.svg",
@@ -106,6 +118,7 @@
     },
     {
       "id": "explore_13",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",

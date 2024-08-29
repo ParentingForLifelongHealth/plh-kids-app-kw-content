@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "last_in_category": true,
       "text_1": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",

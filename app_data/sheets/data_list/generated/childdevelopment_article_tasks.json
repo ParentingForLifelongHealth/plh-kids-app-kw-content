@@ -5,7 +5,7 @@
   "rows": [
     {
       "id": "relax_2",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/videos/pause/loving_kindness_meditation.mp4",
       "type": "passive_short",
       "title": "Meditation",
@@ -22,12 +22,11 @@
         }
       },
       "transcript": "Today's pause is called loving kindness meditation.\nFind a comfortable sitting position, your feet flat on the floor, your hands resting in your lap.\nClose your eyes if you are comfortable, or maintain a soft gaze. \nAsk yourself, “What is my experience in this moment?” \nNotice what thoughts you are experiencing. \nNotice how you feel emotionally. \nNotice how your body feels. Notice any discomfort or tension.\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. \nYou can then say the following words silently to yourself: \nMay I be peaceful. \nMay I be safe. \nMay I be healthy. \nMay I be happy. \nMay I feel loved. \nRepeat slowly once or twice, taking your time between each phrase.\nIf you feel comfortable, you can also send thoughts of loving-kindness to your child, your partner, your family, and anyone else who is close to you in your life.\nNow, allow your focus to expand to the whole body. \nAllow your focus to expand to the sounds in the room. \nTake a moment to reflect on whether you feel any different. \nOpen your eyes, and when you are ready, continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us.",
-      "category_id": "relax",
-      "completed": false
+      "category_id": "relax"
     },
     {
       "id": "check_in_2",
-      "last_in_category": true,
+      "completed": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -76,12 +75,11 @@
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "quiz_1_option_3_text": "Sad"
     },
     {
       "id": "intro_1",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/learn_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI",
       "category_id": "intro",
@@ -89,57 +87,57 @@
       "_translations": {
         "text_1": {}
       },
+      "last_in_category": true,
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
-      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
-      "completed": false
+      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop."
     },
     {
       "id": "explore_1",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
       "text_1": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "images/facilitators_face.svg",
-      "completed": false
+      "last_in_category": false,
+      "image_asset": "images/facilitators_face.svg"
     },
     {
       "id": "explore_2",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/play_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!",
-      "completed": false
+      "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!"
     },
     {
       "id": "explore_3",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/play_yc_2.svg",
-      "text_2": "@data.characters.f3_mother.name: What would you like to do? \n\n@data.characters.f3_son_4.name: Build a house out of bed sheets! \n\n@data.characters.f3_mother.name: Great idea! What do we need to do first?",
-      "completed": false
+      "text_2": "@data.characters.f3_mother.name: What would you like to do? \n\n@data.characters.f3_son_4.name: Build a house out of bed sheets! \n\n@data.characters.f3_mother.name: Great idea! What do we need to do first?"
     },
     {
       "id": "explore_4",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/play_yc_3.svg",
-      "text_2": "@data.characters.f3_son_4.name: First, we hang one bed sheet from the top bunk bed. It’s our first wall! Then, we can use a pillow at the bottom.\n\n@data.characters.f3_mother.name: It's lovely to see you thinking everything through so carefully.",
-      "completed": false
+      "text_2": "@data.characters.f3_son_4.name: First, we hang one bed sheet from the top bunk bed. It’s our first wall! Then, we can use a pillow at the bottom.\n\n@data.characters.f3_mother.name: It's lovely to see you thinking everything through so carefully."
     },
     {
       "id": "explore_5",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/play_yc_4.svg",
-      "text_2": "@data.characters.f3_mother.name: Well done,\n@data.characters.f3_son_4.name! This is a wonderful bedsheet house. \n\n@data.characters.f3_son_4.name: Can we read our bedtime story here tonight?",
-      "completed": false
+      "text_2": "@data.characters.f3_mother.name: Well done,\n@data.characters.f3_son_4.name! This is a wonderful bedsheet house. \n\n@data.characters.f3_son_4.name: Can we read our bedtime story here tonight?"
     },
     {
       "id": "explore_6",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
       "text_1": "@data.characters.f3_mother.name helped her son learn by playing together. Let’s explore how she did this.",
       "_translations": {
@@ -159,6 +157,7 @@
       "quiz_1_option_1_text": "How to lead and give instructions",
       "quiz_1_option_2_text": "How to be innovative",
       "quiz_1_option_3_text": "How to imagine new possibilities & problem solve",
+      "last_in_category": false,
       "quiz_1_option_4_text": "Engineering skills",
       "quiz_1_feedback_4": "That’s right! By testing and trying materials to build a fort, @data.characters.f3_son_4.name is learning critical STEM skills and the parts of 3-dimensional shapes. \n\nThere is more than one answer in this list! Did you find them all?",
       "quiz_2_question": "How did @data.characters.f3_mother.name  help her son learn these skills?  There are lots of right answers to this one!",
@@ -169,63 +168,62 @@
       "quiz_2_option_3_text": "By letting him lead",
       "quiz_2_feedback_3": "Exactly! When @data.characters.f3_mother.name lets her son lead, she allows him to explore the laws of gravity (will the sheet fall?), 3-dimensional shapes, and build communication skills.",
       "quiz_2_option_4_text": "By praising him",
-      "quiz_2_feedback_4": "That’s right. When @data.characters.f3_mother.name praises her son, he learns that it is good to be curious, inventive, and attentive to detail. He is more likely to repeat these behaviours in the future because he has been praised for them.",
-      "completed": false
+      "quiz_2_feedback_4": "That’s right. When @data.characters.f3_mother.name praises her son, he learns that it is good to be curious, inventive, and attentive to detail. He is more likely to repeat these behaviours in the future because he has been praised for them."
     },
     {
       "id": "explore_7",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
       "text_1": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_daughter_7.name to learn from her mistake when she plays a bit too rough indoors.",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "images/facilitators_face.svg",
-      "completed": false
+      "last_in_category": false,
+      "image_asset": "images/facilitators_face.svg"
     },
     {
       "id": "explore_8",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_1.svg",
-      "text_2": "@data.characters.f3_uncle.name: “@data.characters.f3_daughter_7.name, please walk slowly in the house! You’re going to break something.” \n\n @data.characters.f3_daughter_7.name: “No I won’t!”",
-      "completed": false
+      "text_2": "@data.characters.f3_uncle.name: “@data.characters.f3_daughter_7.name, please walk slowly in the house! You’re going to break something.” \n\n @data.characters.f3_daughter_7.name: “No I won’t!”"
     },
     {
       "id": "explore_9",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_2.svg",
-      "text_2": "*@data.characters.f3_daughter_7.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.*",
-      "completed": false
+      "text_2": "*@data.characters.f3_daughter_7.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.*"
     },
     {
       "id": "explore_10",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_3.svg",
-      "text_2": "@data.characters.f3_uncle.name: “Are you hurt??”\n\n @data.characters.f3_daughter_7.name: “No, @data.characters.f3_uncle.name. I’m so, so sorry for breaking the vase… I didn’t see it.”",
-      "completed": false
+      "text_2": "@data.characters.f3_uncle.name: “Are you hurt??”\n\n @data.characters.f3_daughter_7.name: “No, @data.characters.f3_uncle.name. I’m so, so sorry for breaking the vase… I didn’t see it.”"
     },
     {
       "id": "explore_11",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_4.svg",
-      "text_2": "@data.characters.f3_uncle.name: “I am not happy that you broke the vase but appreciate you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n @data.characters.f3_daughter_7.name: “Yes, I should have listened. I continued running even after you asked me to walk in the house.”",
-      "completed": false
+      "text_2": "@data.characters.f3_uncle.name: “I am not happy that you broke the vase but appreciate you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n @data.characters.f3_daughter_7.name: “Yes, I should have listened. I continued running even after you asked me to walk in the house.”"
     },
     {
       "id": "explore_12",
-      "last_in_category": false,
+      "completed": false,
       "category_id": "explore",
+      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_5.svg",
-      "text_2": "@data.characters.f3_uncle.name: “It’s OK, @data.characters.f3_daughter_7.name. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n @data.characters.f3_daughter_7.name: “Okay…”",
-      "completed": false
+      "text_2": "@data.characters.f3_uncle.name: “It’s OK, @data.characters.f3_daughter_7.name. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n @data.characters.f3_daughter_7.name: “Okay…”"
     },
     {
       "id": "explore_13",
-      "last_in_category": true,
+      "completed": false,
       "category_id": "explore",
       "text_1": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
       "_translations": {
@@ -245,6 +243,7 @@
       "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
       "quiz_1_option_2_text": "He remains calm",
       "quiz_1_option_3_text": "He shows he cares most about @data.characters.f3_daughter_7.name",
+      "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_option_4_text": "He thanks @data.characters.f3_daughter_7.name for recognising her mistake",
       "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
@@ -262,13 +261,13 @@
       "quiz_1_option_6_text": "He involves @data.characters.f3_daughter_7.name to resolve the situation together",
       "quiz_1_feedback_6": "Yes, by asking her to help clean up, he shows how she can make things right again after making a mistake.",
       "quiz_2_option_5_text": "I can help to make things right again",
-      "quiz_2_feedback_5": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "completed": false
+      "quiz_2_feedback_5": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way."
     },
     {
       "id": "tips_1",
-      "last_in_category": true,
+      "completed": false,
       "category_id": "practical_tips",
+      "last_in_category": true,
       "section_1_title": "LEARN BY PLAYING",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",
@@ -280,27 +279,26 @@
       "section_3_title": "SUPPORT CURIOSITY",
       "section_3_text": "Children learn by asking questions and exploring the things they are interested in. Give your child time and space to do this. \n\nJoin your child’s activities and ask them questions to encourage them to learn more.",
       "section_3_button_text": "Learn more",
-      "section_3_extra_text": "Your child may talk a lot and have many questions - including difficult ones. You can give your child short but honest answers. \n\nIf you need a break or more information, you can take a pause and tell your child you will respond to them later.",
-      "completed": false
+      "section_3_extra_text": "Your child may talk a lot and have many questions - including difficult ones. You can give your child short but honest answers. \n\nIf you need a break or more information, you can take a pause and tell your child you will respond to them later."
     },
     {
       "id": "practise",
-      "last_in_category": true,
+      "completed": false,
       "media_asset": "/audio/learn_audio_2.mp3",
       "category_id": "practise",
       "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
       "_translations": {
         "text_1": {}
       },
+      "last_in_category": true,
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her develop at home. By playing together, we were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
-      "image_asset": "images/facilitators_face.svg",
-      "completed": false
+      "image_asset": "images/facilitators_face.svg"
     },
     {
       "id": "home_activity_1",
-      "last_in_category": true,
+      "completed": false,
       "category_id": "home_activity",
       "quiz_1_feedback_1": "That’s right! Join in on any play activity your child is doing. You will strengthen your bond and encourage your child to play and learn more.",
       "_translations": {
@@ -318,9 +316,9 @@
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_option_2_text": "Go outside together",
       "quiz_1_option_3_text": "Use household items",
+      "last_in_category": true,
       "quiz_1_option_4_text": "Ask their ideas",
-      "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do.",
-      "completed": false
+      "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do."
     }
   ]
 }
