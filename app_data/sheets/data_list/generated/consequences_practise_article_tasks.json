@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Let’s come up with some ideas for reasonable and realistic consequences.",

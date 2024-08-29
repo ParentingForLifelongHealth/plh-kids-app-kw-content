@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
@@ -12,6 +13,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "KNOW IT",
@@ -20,6 +22,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "SOLVE IT",
@@ -28,6 +31,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "TEST IT",
@@ -36,6 +40,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "REFLECT",
@@ -44,6 +49,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",

@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",

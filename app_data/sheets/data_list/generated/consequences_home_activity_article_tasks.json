@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "text_1": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child.",

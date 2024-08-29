@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
@@ -12,6 +13,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/consequences_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/consequences_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/consequences_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/consequences_yc_4.svg",
@@ -40,6 +45,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/consequences_yc_5.svg",
@@ -47,6 +53,7 @@
     },
     {
       "id": "explore_7",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",

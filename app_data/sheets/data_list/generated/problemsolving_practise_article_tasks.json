@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Let’s think of some common problems we could solve with our children.",

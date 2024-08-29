@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
@@ -12,6 +13,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_4.svg",
@@ -40,6 +45,7 @@
     },
     {
       "id": "explore_7",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
@@ -47,6 +53,7 @@
     },
     {
       "id": "explore_8",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_5.svg",
@@ -54,6 +61,7 @@
     },
     {
       "id": "explore_9",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_6.svg",
@@ -61,6 +69,7 @@
     },
     {
       "id": "explore_10",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_7.svg",
@@ -68,6 +77,7 @@
     },
     {
       "id": "explore_11",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
@@ -89,6 +99,7 @@
     },
     {
       "id": "explore_12",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",

@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "intro_1",
+      "completed": false,
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "Today's topic is about taking care of yourself \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen we lower our stress and treat ourselves kindly, it helps both us and our children.",
@@ -17,6 +18,7 @@
     },
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
@@ -24,6 +26,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/selfcare_yc_1.svg",
@@ -31,6 +34,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/selfcare_yc_2.svg",
@@ -38,6 +42,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/selfcare_yc_3.svg",
@@ -45,6 +50,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/selfcare_yc_4.svg",
@@ -52,6 +58,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
@@ -90,6 +97,7 @@
     },
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "last_in_category": true,
       "quiz_3_option_3_image_asset": "",
@@ -108,6 +116,7 @@
     },
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",
@@ -140,6 +149,7 @@
     },
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "text_1": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",

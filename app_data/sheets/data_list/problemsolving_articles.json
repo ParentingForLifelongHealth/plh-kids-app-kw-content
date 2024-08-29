@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "intro_1",
+      "completed": false,
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!",
@@ -17,6 +18,7 @@
     },
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
@@ -24,6 +26,7 @@
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "KNOW IT",
@@ -32,6 +35,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "SOLVE IT",
@@ -40,6 +44,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "TEST IT",
@@ -48,6 +53,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "REFLECT",
@@ -56,6 +62,7 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
@@ -77,6 +84,7 @@
     },
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "last_in_category": true,
       "text_1": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
@@ -99,6 +107,7 @@
     },
     {
       "id": "practise",
+      "completed": false,
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Let’s think of some common problems we could solve with our children.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "text_1": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",

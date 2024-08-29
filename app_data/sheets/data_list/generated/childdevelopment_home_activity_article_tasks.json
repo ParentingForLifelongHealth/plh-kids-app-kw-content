@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "home_activity_1",
+      "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
       "quiz_1_question": "What could you do today to encourage your child to play and learn?",

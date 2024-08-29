@@ -1011,7 +1011,7 @@
       "type": "task_progress_bar",
       "name": "task_progress_bar",
       "parameter_list": {
-        "task_group_data": "@local.category_data_list_name",
+        "task_group_data": "@local.categories_data_list_name",
         "completed_field": "completed"
       },
       "exclude_from_translation": true,
@@ -1020,16 +1020,16 @@
         "parameter_list": {
           "task_group_data": [
             {
-              "fullExpression": "@local.category_data_list_name",
-              "matchedExpression": "@local.category_data_list_name",
+              "fullExpression": "@local.categories_data_list_name",
+              "matchedExpression": "@local.categories_data_list_name",
               "type": "local",
-              "fieldName": "category_data_list_name"
+              "fieldName": "categories_data_list_name"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@local.category_data_list_name": [
+        "@local.categories_data_list_name": [
           "parameter_list.task_group_data"
         ]
       }
