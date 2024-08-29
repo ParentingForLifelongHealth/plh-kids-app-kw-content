@@ -5,7 +5,8 @@
   "rows": [
     {
       "id": "relax_3",
-      "media_asset": "/videos/pause/breath_body_awareness.mp3",
+      "last_in_category": true,
+      "media_asset": "/videos/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
       "_translations": {

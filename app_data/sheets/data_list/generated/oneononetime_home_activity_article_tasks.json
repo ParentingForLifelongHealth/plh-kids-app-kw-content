@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "How will you spend one-on-one time with your child today?",
       "quiz_1_option_1_text": "Join them when they play",

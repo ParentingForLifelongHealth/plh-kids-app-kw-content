@@ -6,6 +6,7 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "last_in_category": true,
       "text_1": "Curious to see how praise can help you and your family?\n\nPraise your child for 3 things every day, and praise yourself too for all your hard work being a parent – you deserve it!",
       "image_asset": "images/facilitators_face.svg",
       "media_type": "audio",

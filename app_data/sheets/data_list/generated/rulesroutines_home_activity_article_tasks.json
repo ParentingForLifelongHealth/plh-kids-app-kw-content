@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "text_1": "Your home activity is to set *one* rule and *one* routine with your child. \n\nRemember to be realistic and consistent, and praise your child for following each rule or routine!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",

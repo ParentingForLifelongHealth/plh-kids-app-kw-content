@@ -6,6 +6,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
+      "last_in_category": true,
       "text_1": "Today's topic is about taking care of yourself \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen we lower our stress and treat ourselves kindly, it helps both us and our children.",
       "media_type": "audio",
       "media_title": "How does taking care of myself help me and my family?",

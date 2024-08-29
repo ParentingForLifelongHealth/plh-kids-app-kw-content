@@ -5,7 +5,8 @@
   "rows": [
     {
       "id": "relax_1",
-      "media_asset": "/videos/pause/body_scan.mp3",
+      "last_in_category": true,
+      "media_asset": "/videos/pause/body_scan.mp4",
       "type": "passive_short",
       "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
       "title": "Body Scan",
@@ -27,6 +28,7 @@
     },
     {
       "id": "check_in_1",
+      "last_in_category": true,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -80,6 +82,7 @@
     },
     {
       "id": "intro_1",
+      "last_in_category": true,
       "media_asset": "/audio/care_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1C-QTp4INJ78dY-v04jdfM4Gm0z0TXloOwhI34ppttyM",
       "category_id": "intro",
@@ -94,6 +97,7 @@
     },
     {
       "id": "explore_1",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
       "_translations": {
@@ -104,13 +108,15 @@
     },
     {
       "id": "explore_2",
+      "last_in_category": false,
       "category_id": "explore",
-      "image_asset": "images/comics/selfcare_yc_1.jpg",
+      "image_asset": "images/comics/selfcare_yc_1.svg",
       "text_2": "@data.characters.f1_daughter_6.name: “@data.characters.f1_mother.name, come and play with me with my dolls!” \n\n @data.characters.f1_mother.name  *(thinking)*: “I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.”",
       "completed": false
     },
     {
       "id": "explore_3",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/selfcare_yc_2.svg",
       "text_2": "@data.characters.f1_mother.name: “Allright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.” \n\n @data.characters.f1_daughter_6.name: “Okay, @data.characters.f1_mother.name.”",
@@ -118,6 +124,7 @@
     },
     {
       "id": "explore_4",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/selfcare_yc_3.svg",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”",
@@ -125,6 +132,7 @@
     },
     {
       "id": "explore_5",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/selfcare_yc_4.svg",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!\"",
@@ -132,6 +140,7 @@
     },
     {
       "id": "explore_6",
+      "last_in_category": true,
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "/images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
@@ -180,6 +189,7 @@
     },
     {
       "id": "tips_1",
+      "last_in_category": true,
       "category_id": "practical_tips",
       "quiz_3_option_3_image_asset": "",
       "section_1_title": "Take a Pause",
@@ -198,6 +208,7 @@
     },
     {
       "id": "practise",
+      "last_in_category": true,
       "category_id": "practise",
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "_translations": {
@@ -239,6 +250,7 @@
     },
     {
       "id": "home_activity_1",
+      "last_in_category": true,
       "media_asset": "/audio/care_audio_2.mp3",
       "category_id": "home_activity",
       "text_1": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
