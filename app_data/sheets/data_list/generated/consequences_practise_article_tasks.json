@@ -6,6 +6,7 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "last_in_category": true,
       "text_1": "Let’s come up with some ideas for reasonable and realistic consequences.",
       "image_asset": "images/facilitators_face.svg",
       "quiz_1_question": "Would any of these consequences be helpful for you and your child?",

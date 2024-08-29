@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "relax_2",
+      "last_in_category": true,
       "media_asset": "/videos/pause/loving_kindness_meditation.mp4",
       "type": "passive_short",
       "title": "Meditation",
@@ -26,6 +27,7 @@
     },
     {
       "id": "check_in_8",
+      "last_in_category": true,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -79,6 +81,7 @@
     },
     {
       "id": "intro_1",
+      "last_in_category": false,
       "media_asset": "/audio/consequences_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8",
       "category_id": "intro",
@@ -93,16 +96,18 @@
     },
     {
       "id": "intro_2",
+      "last_in_category": true,
       "category_id": "intro",
       "text_1": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
       "_translations": {
         "text_1": {}
       },
-      "image_asset": "/images/comics/teach_consequences_yc_3.jpg",
+      "image_asset": "/images/comics/teach_consequences_yc_3.svg",
       "completed": false
     },
     {
       "id": "explore_1",
+      "last_in_category": false,
       "category_id": "explore",
       "text_1": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
@@ -113,6 +118,7 @@
     },
     {
       "id": "explore_2",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_1.svg",
       "text_2": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”",
@@ -120,6 +126,7 @@
     },
     {
       "id": "explore_3",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_2.svg",
       "text_2": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”",
@@ -127,6 +134,7 @@
     },
     {
       "id": "explore_4",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_3.svg",
       "text_2": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”",
@@ -134,6 +142,7 @@
     },
     {
       "id": "explore_5",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_4.svg",
       "text_2": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”",
@@ -141,6 +150,7 @@
     },
     {
       "id": "explore_6",
+      "last_in_category": false,
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_5.svg",
       "text_2": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”",
@@ -148,6 +158,7 @@
     },
     {
       "id": "explore_7",
+      "last_in_category": true,
       "category_id": "explore",
       "text_1": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",
       "_translations": {
@@ -186,6 +197,7 @@
     },
     {
       "id": "tips_1",
+      "last_in_category": true,
       "category_id": "practical_tips",
       "text_1": "Here are some easy steps to use consequences when your child misbehaves:",
       "_translations": {
@@ -211,6 +223,7 @@
     },
     {
       "id": "practise",
+      "last_in_category": true,
       "category_id": "practise",
       "text_1": "Let’s come up with some ideas for reasonable and realistic consequences.",
       "_translations": {
@@ -241,6 +254,7 @@
     },
     {
       "id": "home_activity_1",
+      "last_in_category": true,
       "media_asset": "/audio/consequences_audio_2.mp3",
       "category_id": "home_activity",
       "text_1": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child.",

@@ -296,12 +296,35 @@
     },
     {
       "name": "task_id",
+      "value": "@local.category_id",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "task_id"
+      "_nested_name": "task_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.category_id",
+            "matchedExpression": "@local.category_id",
+            "type": "local",
+            "fieldName": "category_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.category_id": [
+          "value"
+        ]
+      }
     },
     {
       "name": "completed_field",
+      "value": "completed",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "completed_field"
@@ -394,6 +417,32 @@
       }
     },
     {
+      "type": "text",
+      "name": "debug_complete",
+      "value": "complete: @local.category_row.completed",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "exclude_from_translation": true,
+      "_nested_name": "debug_complete",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "complete: @local.category_row.completed",
+            "matchedExpression": "@local.category_row.completed",
+            "type": "local",
+            "fieldName": "category_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.category_row.completed": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "task_card",
       "name": "task_card_@local.category_id",
       "action_list": [
@@ -418,7 +467,7 @@
         }
       ],
       "parameter_list": {
-        "task_id": "@local.task_id",
+        "task_id": "@local.category_id",
         "completed_field": "@local.completed_field",
         "title": "@local.card_title",
         "image": "@local.card_icon",
@@ -499,10 +548,10 @@
         "parameter_list": {
           "task_id": [
             {
-              "fullExpression": "@local.task_id",
-              "matchedExpression": "@local.task_id",
+              "fullExpression": "@local.category_id",
+              "matchedExpression": "@local.category_id",
               "type": "local",
-              "fieldName": "task_id"
+              "fieldName": "category_id"
             }
           ],
           "completed_field": [
@@ -545,15 +594,13 @@
           "action_list.0.args.1",
           "action_list.0._raw",
           "action_list.0._cleaned",
+          "parameter_list.task_id",
           "_nested_name"
         ],
         "@local.target_template": [
           "action_list.1.args.0",
           "action_list.1._raw",
           "action_list.1._cleaned"
-        ],
-        "@local.task_id": [
-          "parameter_list.task_id"
         ],
         "@local.completed_field": [
           "parameter_list.completed_field"

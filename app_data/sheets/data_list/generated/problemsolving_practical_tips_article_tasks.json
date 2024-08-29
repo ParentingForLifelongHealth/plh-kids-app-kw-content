@@ -6,6 +6,7 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "last_in_category": true,
       "text_1": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "section_1_title": "KNOW IT",
       "section_1_text": "Put the problem into words.\n\nTalk to your child about what the problem is.",

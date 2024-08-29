@@ -6,6 +6,7 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "last_in_category": true,
       "text_1": "Ready to try it out? \n\nSpend 5 minutes (or more) of one-on-one time with your child, every day.",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",

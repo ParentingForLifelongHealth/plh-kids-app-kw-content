@@ -7,8 +7,8 @@
     {
       "id": "w_1on1",
       "habit_id": "spend_time",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_1on1_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
@@ -57,7 +57,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
@@ -69,13 +69,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_praise",
       "habit_id": "praise_teen",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_praise_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to praise your teen.",
@@ -141,8 +141,8 @@
     {
       "id": "w_instruct",
       "habit_id": "instruct_positively",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_instruct_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home practice was to try out REAL, POSITIVE and EXACT instructions with your teen.",
@@ -208,8 +208,8 @@
     {
       "id": "w_stress",
       "habit_id": "breathe",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_stress_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "This week, your goal was: Whenever you are feeling stressed or upset, take five breaths in and out before you react. \n\nYour goal was also to talk to your teen about how you both felt in a stressful situation.",
@@ -258,7 +258,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Wonderful! You deserve all the happy times!",
@@ -270,13 +270,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_money",
       "habit_id": "money",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_money_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to make a family budget and savings plan.",
@@ -341,8 +341,8 @@
     },
     {
       "id": "w_rules",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_rules_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to make ONE rule with your teen.",
@@ -408,8 +408,8 @@
     {
       "id": "w_consequence",
       "habit_id": "consequence",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_consequence_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to introduce ONE positive consequence (for your teen taking responsibility) and ONE negative consequence (for your teen breaking a household rule).",
@@ -458,7 +458,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Great to hear it went well! Getting consequences right helps teens behave better and makes family life calmer.",
@@ -470,12 +470,12 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_solve",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_solve_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to try and resolve a problem or conflict together with your teen.",
@@ -524,7 +524,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Great to hear it went well! When your teen learns how to solve problems, they can use that skill their whole life. What a gift!",
@@ -536,13 +536,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_safe",
       "habit_id": "safe",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_safe_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to map risks and support systems with your teen – both in your community and online.",
@@ -591,7 +591,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Great to hear it went well! Talking about risks and support options prevents problems and really helps to keep your teen safe.",
@@ -603,13 +603,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_crisis",
       "habit_id": "safe",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_crisis_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for it.",
@@ -658,7 +658,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Great to hear it went well!",
@@ -670,12 +670,12 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_srh",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_srh_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to look at the stories in this module together with your teen and let it spark a discussion about body changes and intimate relationships.",
@@ -724,7 +724,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Well done for trying it out – you took a very important step to help your teen!",
@@ -736,13 +736,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_svp",
       "habit_id": "safe_self",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_svp_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to discuss the @data.workshop.w_svp.in_text_title with your teen.",
@@ -791,7 +791,7 @@
           "eng": "How did it go?"
         },
         "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+          "eng": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
         }
       },
       "reply_happy": "Well done for involving your teen! Discussing these difficult topics can help keep your teen safe when it matters most.",
@@ -803,13 +803,13 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "button_no_text": "@global.home_practice",
       "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+      "outro_text": "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your child will get stronger and stronger!"
     },
     {
       "id": "w_grief",
       "habit_id": "breathe",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_grief_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "This week, your goal was: Share with your teen how you feel, and ask them to also name their feelings.",
@@ -875,8 +875,8 @@
     {
       "id": "w_learn_1",
       "habit_id": "play",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_learn_1_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
@@ -937,8 +937,8 @@
     {
       "id": "w_learn_2",
       "habit_id": "play",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_learn_2_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
@@ -999,8 +999,8 @@
     {
       "id": "w_learn_3",
       "habit_id": "play",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_learn_3_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",
@@ -1061,8 +1061,8 @@
     {
       "id": "w_learn_4",
       "habit_id": "play",
-      "activity_image_ind": "plh_images/workshop_modes/individual/with_teen.svg",
-      "activity_image_tog": "plh_images/workshop_modes/group/with_teen.svg",
+      "activity_image_ind": "plh_images/workshop_modes/individual/with_child.svg",
+      "activity_image_tog": "plh_images/workshop_modes/group/with_child.svg",
       "button_no_go_to_template": "w_learn_4_home_practice",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "intro_text": "Let’s talk about how your home activity with your teen went.",

@@ -5,7 +5,8 @@
   "rows": [
     {
       "id": "relax_1",
-      "media_asset": "/videos/pause/body_scan.mp3",
+      "last_in_category": true,
+      "media_asset": "/videos/pause/body_scan.mp4",
       "type": "passive_short",
       "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
       "title": "Body Scan",

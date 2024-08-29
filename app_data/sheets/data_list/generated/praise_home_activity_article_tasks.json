@@ -6,6 +6,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "last_in_category": true,
       "text_1": "Your home activity is to praise your child every day.",
       "quiz_1_question": "What behaviours will you praise your child for? There are lots of right answers to this one!",
       "quiz_1_option_1_text": "Cleaning up or helping out",
