@@ -31,7 +31,7 @@
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "We all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during your one-on-one time.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_asset": "/audio/praise_audio_1.mp3",
@@ -43,7 +43,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -83,7 +83,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on what we saw.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Why does @data.characters.f3_mother.name praise @data.characters.f3_son_4.name?",
       "quiz_1_option_1_text": "To boost his self-esteem and confidence",
       "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, all these positive things happen.",
@@ -137,7 +137,7 @@
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Curious to see how praise can help you and your family?\n\nPraise your child for 3 things every day, and praise yourself too for all your hard work being a parent – you deserve it!",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/praise_audio_2.mp3",

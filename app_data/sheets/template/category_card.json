@@ -594,11 +594,10 @@
         "completed_field": "completed",
         "title": "@local.card_title",
         "image": "@local.card_icon",
-        "style": "button",
+        "variant": "button",
         "in_progress_icon": "images/icons/in_progress.svg",
         "completed_icon": "images/icons/tick.svg",
-        "show_progress_text": "FALSE",
-        "is_button": "TRUE"
+        "show_progress_text": "FALSE"
       },
       "condition": true,
       "exclude_from_translation": true,

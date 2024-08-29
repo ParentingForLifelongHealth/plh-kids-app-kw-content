@@ -23,7 +23,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "One-on-oOne tTime can be fun for both of you!you and your child.\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -63,7 +63,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on what we saw.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "How does @data.characters.f2_grandmother.name show @data.characters.f2_daughter_3.name that she is focusing on her ?",
       "quiz_1_option_1_text": "She says @data.characters.f2_daughter_3.name ’s name",
       "quiz_1_feedback_1": "Yes, she does all these things! \r\rBy inviting child-led play, naming her, and getting on her level, @data.characters.f2_grandmother.name is building her daughter’s confidence and making sure @data.characters.f2_daughter_3.name feels valued.",
@@ -132,7 +132,7 @@
       "completed": false,
       "category_id": "home_activity",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "How will you spend one-on-one time with your child today?",
       "quiz_1_option_1_text": "Join them when they play",
       "quiz_1_feedback_1": "Great idea!\n\nDo you every feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together.",

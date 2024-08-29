@@ -101,7 +101,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -158,7 +158,7 @@
       "quiz_1_option_2_text": "To help @data.characters.f1_daughter_6.name learn to recognise her own emotions",
       "quiz_1_option_3_text": "To teach @data.characters.f1_daughter_6.name how to solve problems on her own.",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "To distract @data.characters.f1_daughter_6.name from what’s bothering her.",
       "quiz_1_feedback_4": "Not quite. The goal isn’t to take her mind off her feelings. By naming her emotions, @data.characters.f1_father.name is helping @data.characters.f1_daughter_6.name understand what she’s feeling, so she can deal with it better next time.",
       "quiz_2_question": "What can we learn from how @data.characters.f1_father.name talks about @data.characters.f1_daughter_6.name’s emotions?",
@@ -245,7 +245,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     }
   ]
 }

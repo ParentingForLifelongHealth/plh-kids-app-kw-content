@@ -22,7 +22,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -87,7 +87,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_daughter_7.name to learn from her mistake when she plays a bit too rough indoors.",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
@@ -135,7 +135,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_daughter_7.name?",
       "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
       "quiz_1_feedback_1": "Yes, he warns her in order to avoid the mistake.",
@@ -185,7 +185,7 @@
       "category_id": "practise",
       "last_in_category": true,
       "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/learn_audio_2.mp3",

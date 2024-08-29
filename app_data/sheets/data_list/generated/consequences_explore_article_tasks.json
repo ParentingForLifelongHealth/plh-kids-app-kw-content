@@ -9,7 +9,7 @@
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -57,7 +57,7 @@
       "category_id": "explore",
       "last_in_category": true,
       "text_1": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "Why does @data.characters.f3_uncle.name use a consequence?",
       "quiz_1_option_1_text": "Because@data.characters.f3_son_4.name needs to be punished.",
       "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",

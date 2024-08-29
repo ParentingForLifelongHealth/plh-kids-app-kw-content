@@ -101,7 +101,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
@@ -179,7 +179,7 @@
         "text_1": {}
       },
       "last_in_category": false,
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
@@ -244,7 +244,7 @@
       "quiz_1_option_2_text": "He remains calm",
       "quiz_1_option_3_text": "He shows he cares most about @data.characters.f3_daughter_7.name",
       "last_in_category": true,
-      "image_asset": "images/facilitators_face.svg",
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_option_4_text": "He thanks @data.characters.f3_daughter_7.name for recognising her mistake",
       "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
       "quiz_2_question": "What does @data.characters.f3_daughter_7.name learn from @data.characters.f3_uncle.name’s response?",
@@ -294,7 +294,7 @@
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her develop at home. By playing together, we were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
-      "image_asset": "images/facilitators_face.svg"
+      "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "home_activity_1",
