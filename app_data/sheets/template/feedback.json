@@ -258,7 +258,7 @@
         "value": {}
       },
       "parameter_list": {
-        "speaker_image_asset": "images/facilitators_face.svg"
+        "speaker_image_asset": "images/kw_facilitator_rd.png"
       },
       "exclude_from_translation": true,
       "name": "text_bubble_14",
