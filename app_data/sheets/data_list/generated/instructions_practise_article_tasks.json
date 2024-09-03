@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "category_id": "practise",
       "text_1": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones.",
       "image_asset": "images/kw_facilitator_rd.png",

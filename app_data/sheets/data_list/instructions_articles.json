@@ -6,7 +6,6 @@
   "rows": [
     {
       "id": "intro_1",
-      "completed": false,
       "category_id": "intro",
       "last_in_category": true,
       "text_1": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things more happy and calm at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that belong to us!\"",
@@ -18,7 +17,6 @@
     },
     {
       "id": "explore_1",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
@@ -26,39 +24,34 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_1.svg",
+      "image_asset": "images/comics/instructions_yc_1.jpg",
       "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_2.svg",
+      "image_asset": "images/comics/instructions_yc_2.jpg",
       "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_3.svg",
-      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”\r\r @data.characters.f1_mother.name: “Once upon a time…”"
+      "image_asset": "images/comics/instructions_yc_3.jpg",
+      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_4.svg",
+      "image_asset": "images/comics/instructions_yc_4.jpg",
       "text_2": "@data.characters.f1_mother.name: “Once upon a time…”"
     },
     {
       "id": "explore_7",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
@@ -66,42 +59,37 @@
     },
     {
       "id": "explore_8",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_5.svg",
+      "image_asset": "images/comics/instructions_yc_5.jpg",
       "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!"
     },
     {
       "id": "explore_9",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_6.svg",
+      "image_asset": "images/comics/instructions_yc_6.jpg",
       "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together."
     },
     {
       "id": "explore_10",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
-      "image_asset": "images/comics/instructions_yc_7.svg",
+      "image_asset": "images/comics/instructions_yc_7.jpg",
       "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together."
     },
     {
       "id": "explore_11",
-      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "text_1": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
-      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_1_question": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?",
       "quiz_1_option_1_text": "They would have continued  to argue.",
-      "quiz_1_feedback_1": "Yes, the situation between the children would have gotten out of hand.These are all correct answers!",
+      "quiz_1_feedback_1": "Yes. The situation between the children would have gotten out of hand.These are all correct answers!",
       "quiz_1_option_2_text": "They could have hurt each other in the argument.",
-      "quiz_1_feedback_2": "Yes ,the children could have gotten so upset that they would have hurt each other. These are all correct answers!",
+      "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other. These are all correct answers!",
       "quiz_1_option_3_text": "@data.characters.f2_grandfather.name would have had to stop working in the garden.",
-      "quiz_1_feedback_3": "Yes, if @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy  trying to resolve the conflict. These are all correct answers!",
+      "quiz_1_feedback_3": "Yes. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy  trying to resolve the conflict. These are all correct answers!",
       "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
       "quiz_2_option_1_text": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
       "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
@@ -134,7 +122,6 @@
     },
     {
       "id": "tips_1",
-      "completed": false,
       "category_id": "practical_tips",
       "text_1": "Here are three tips to give positive instructions that work:",
       "section_1_title": "BE SPECIFIC",
@@ -152,7 +139,6 @@
     },
     {
       "id": "practise",
-      "completed": false,
       "category_id": "practise",
       "text_1": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones.",
       "image_asset": "images/kw_facilitator_rd.png",
@@ -170,7 +156,6 @@
     },
     {
       "id": "home_activity_1",
-      "completed": false,
       "category_id": "home_activity",
       "text_1": "Ready to give it a go? Try giving your child specific, realistic, and positive instructions. \n\nRemember to give one instruction at a time and praise them. This will help your child to follow your instructions.",
       "media_type": "audio",
@@ -179,9 +164,9 @@
       "media_transcript": "Before, I used to raise my children the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learned about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my children. It took time to learn to say “please  do  this” instead of “ don’t  do this.” \nMy children and even my husband tell me that they love this way of doing things, because now they know what needs to be done. My child said one day “I really love this new mom,” and my own stress levels have come down a lot.",
       "quiz_1_question": "Your home activity is to give your child positive instructions today. Can you do it?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Of course you cant! It might feel awkward at first, but you will get it soon! Keep up the excellent effort.",
+      "quiz_1_feedback_1": "Of course, you can! It might feel awkward at first, but you will get it soon! Keep up the excellent effort.",
       "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!"
+      "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request, you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!"
     }
   ],
   "_xlsxPath": "KW modules.xlsx"
