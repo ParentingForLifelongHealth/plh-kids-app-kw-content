@@ -466,15 +466,15 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "hp_challenges_data": {
+    "hp_challenges": {
       "flow_type": "data_list",
-      "flow_name": "hp_challenges_data",
+      "flow_name": "hp_challenges",
       "data_list_name": "hp_challenges",
       "_xlsxPath": "KW hp_review.xlsx"
     },
-    "hp_check_in_data": {
+    "hp_check_in": {
       "flow_type": "data_list",
-      "flow_name": "hp_check_in_data",
+      "flow_name": "hp_check_in",
       "data_list_name": "hp_check_in",
       "_xlsxPath": "KW hp_review.xlsx"
     },
@@ -892,7 +892,7 @@
       "flow_type": "generator",
       "flow_name": "hp_review_challenges_gen",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "hp_challenges",
         "output_flow_name": "{@gen.id}_hp_review_challenges",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -903,7 +903,7 @@
       "flow_type": "generator",
       "flow_name": "hp_review_gen",
       "parameter_list": {
-        "input_data_list": "modules",
+        "input_data_list": "hp_check_in",
         "output_flow_name": "{@gen.id}_hp_review",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
@@ -2301,13 +2301,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "instructions_hp_review": {
-      "flow_name": "instructions_hp_review",
+    "instruct_hp_review": {
+      "flow_name": "instruct_hp_review",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "instructions_hp_review_challenges": {
-      "flow_name": "instructions_hp_review_challenges",
+    "instruct_hp_review_challenges": {
+      "flow_name": "instruct_hp_review_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
