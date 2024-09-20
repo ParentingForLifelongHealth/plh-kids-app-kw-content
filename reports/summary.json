@@ -1,0 +1,216 @@
+{
+  "template_actions": [
+    {
+      "type": "app_update",
+      "count": 1
+    },
+    {
+      "type": "emit: completed",
+      "count": 270
+    },
+    {
+      "type": "emit: force_reload",
+      "count": 3
+    },
+    {
+      "type": "emit: force_reprocess",
+      "count": 5
+    },
+    {
+      "type": "emit: force_restart",
+      "count": 2
+    },
+    {
+      "type": "emit: server_sync",
+      "count": 2
+    },
+    {
+      "type": "emit: set_language",
+      "count": 1
+    },
+    {
+      "type": "emit: uncompleted",
+      "count": 268
+    },
+    {
+      "type": "feedback",
+      "count": 7
+    },
+    {
+      "type": "go_to",
+      "count": 11
+    },
+    {
+      "type": "pop_up",
+      "count": 5
+    },
+    {
+      "type": "set_field",
+      "count": 13
+    },
+    {
+      "type": "set_local",
+      "count": 7
+    },
+    {
+      "type": "user",
+      "count": 1
+    }
+  ],
+  "template_components": [
+    {
+      "type": "accordion",
+      "count": 1
+    },
+    {
+      "type": "animated_section",
+      "count": 2
+    },
+    {
+      "type": "audio",
+      "count": 1
+    },
+    {
+      "type": "button",
+      "count": 30
+    },
+    {
+      "type": "carousel",
+      "count": 1
+    },
+    {
+      "type": "combo_box",
+      "count": 2
+    },
+    {
+      "type": "data_items",
+      "count": 1
+    },
+    {
+      "type": "display_grid",
+      "count": 2
+    },
+    {
+      "type": "display_group",
+      "count": 33
+    },
+    {
+      "type": "items",
+      "count": 8
+    },
+    {
+      "type": "lottie_animation",
+      "count": 2
+    },
+    {
+      "type": "navigation_bar",
+      "count": 1
+    },
+    {
+      "type": "radio_button_grid",
+      "count": 4
+    },
+    {
+      "type": "set_variable",
+      "count": 406
+    },
+    {
+      "type": "task_card",
+      "count": 3
+    },
+    {
+      "type": "task_progress_bar",
+      "count": 1
+    },
+    {
+      "type": "template",
+      "count": 305
+    },
+    {
+      "type": "text",
+      "count": 43
+    },
+    {
+      "type": "text_area",
+      "count": 2
+    },
+    {
+      "type": "text_box",
+      "count": 5
+    },
+    {
+      "type": "text_bubble",
+      "count": 1
+    },
+    {
+      "type": "title",
+      "count": 18
+    },
+    {
+      "type": "update_action_list",
+      "count": 1
+    }
+  ],
+  "flows_by_type": [
+    {
+      "type": "data_list",
+      "subtype": null,
+      "total": 20
+    },
+    {
+      "type": "data_list",
+      "subtype": "app_config_language_list",
+      "total": 1
+    },
+    {
+      "type": "data_list",
+      "subtype": "generated",
+      "total": 82
+    },
+    {
+      "type": "data_list",
+      "subtype": "legal_terms",
+      "total": 2
+    },
+    {
+      "type": "data_list",
+      "subtype": "lifecycle_actions",
+      "total": 1
+    },
+    {
+      "type": "data_pipe",
+      "subtype": null,
+      "total": 1
+    },
+    {
+      "type": "data_pipe",
+      "subtype": "generated",
+      "total": 32
+    },
+    {
+      "type": "generator",
+      "subtype": null,
+      "total": 26
+    },
+    {
+      "type": "global",
+      "subtype": null,
+      "total": 2
+    },
+    {
+      "type": "template",
+      "subtype": null,
+      "total": 47
+    },
+    {
+      "type": "template",
+      "subtype": "generated",
+      "total": 286
+    },
+    {
+      "type": "template",
+      "subtype": "legal_terms",
+      "total": 4
+    }
+  ]
+}
