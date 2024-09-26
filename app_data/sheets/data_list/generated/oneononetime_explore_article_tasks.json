@@ -5,13 +5,15 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "One-on-one time can be fun for both of you!.\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!",
+      "last_in_category": false,
       "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/one_on_one_yc_4.svg",
@@ -40,16 +45,17 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": true,
       "text_1": "Let’s reflect on what we saw.",
+      "quiz_1_feedback_1": "Yes, she does all these things! \r\rBy inviting child-led play, naming her, and getting on her level, @data.characters.f2_grandmother.name is building her daughter’s confidence and making sure @data.characters.f2_daughter_3.name feels valued.",
+      "quiz_1_feedback_2": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
+      "quiz_1_feedback_3": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
       "quiz_1_question": "How does @data.characters.f2_grandmother.name show @data.characters.f2_daughter_3.name that she is focusing on her ?",
       "quiz_1_option_1_text": "She says @data.characters.f2_daughter_3.name ’s name",
-      "quiz_1_feedback_1": "Yes, she does all these things! \r\rBy inviting child-led play, naming her, and getting on her level, @data.characters.f2_grandmother.name is building her daughter’s confidence and making sure @data.characters.f2_daughter_3.name feels valued.",
       "quiz_1_option_2_text": "She goes down to the same level as @data.characters.f2_daughter_3.name",
-      "quiz_1_feedback_2": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
       "quiz_1_option_3_text": "She is looking at @data.characters.f2_daughter_3.name",
-      "quiz_1_feedback_3": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
+      "last_in_category": true,
       "quiz_1_option_4_text": "She asks what  @data.characters.f2_daughter_3.name wants to do",
       "quiz_1_feedback_4": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
       "quiz_1_option_5_text": "She allows @data.characters.f2_daughter_3.name to choose the activity",

@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
       "quiz_3_option_3_image_asset": "",
       "section_1_title": "Take a Pause",

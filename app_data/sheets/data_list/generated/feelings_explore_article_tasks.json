@@ -5,13 +5,15 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "Let’s check in on another family to see how talking about feelings helps them in a practical way:",
+      "last_in_category": false,
       "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/feelings_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/feelings_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/feelings_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/feelings_yc_4.svg",
@@ -40,16 +45,17 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": true,
       "text_1": "Let’s talk this through together. What happened when @data.characters.f1_father.name and @data.characters.f1_daughter_6.name decided to play catch?",
+      "quiz_1_feedback_1": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help her recognize her feelings so she can handle them better next time.",
+      "quiz_1_feedback_2": "That’s right. By naming @data.characters.f1_daughter_6.name’s emotions, @data.characters.f1_father.name models an important skill.",
+      "quiz_1_feedback_3": "Not really. While solving problems is important, the main goal here is to help @data.characters.f1_daughter_6.name recognize her emotions. Once she knows what she’s feeling, she’ll be better at solving problems next time.",
       "quiz_1_question": "Why does @data.characters.f1_father.name name @data.characters.f1_daughter_6.name’s feelings when she’s feeling angry and proud?",
       "quiz_1_option_1_text": "To make @data.characters.f1_daughter_6.name feel better instantly.",
-      "quiz_1_feedback_1": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help her recognize her feelings so she can handle them better next time.",
       "quiz_1_option_2_text": "To help @data.characters.f1_daughter_6.name learn to recognise her own emotions",
-      "quiz_1_feedback_2": "That’s right. By naming @data.characters.f1_daughter_6.name’s emotions, @data.characters.f1_father.name models an important skill.",
       "quiz_1_option_3_text": "To teach @data.characters.f1_daughter_6.name how to solve problems on her own.",
-      "quiz_1_feedback_3": "Not really. While solving problems is important, the main goal here is to help @data.characters.f1_daughter_6.name recognize her emotions. Once she knows what she’s feeling, she’ll be better at solving problems next time.",
+      "last_in_category": true,
       "quiz_1_option_4_text": "To distract @data.characters.f1_daughter_6.name from what’s bothering her.",
       "quiz_1_feedback_4": "Not quite. The goal isn’t to take her mind off her feelings. By naming her emotions, @data.characters.f1_father.name is helping @data.characters.f1_daughter_6.name understand what she’s feeling, so she can deal with it better next time.",
       "quiz_2_question": "What can we learn from how @data.characters.f1_father.name talks about @data.characters.f1_daughter_6.name’s emotions?",
