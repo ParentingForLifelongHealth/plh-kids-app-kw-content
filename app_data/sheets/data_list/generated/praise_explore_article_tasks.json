@@ -5,13 +5,15 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
+      "last_in_category": false,
       "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/praise_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/praise_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/praise_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/praise_yc_4.svg",
@@ -40,16 +45,17 @@
     },
     {
       "id": "explore_6",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": true,
       "text_1": "Let’s reflect on what we saw.",
+      "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself.",
+      "quiz_1_feedback_2": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!",
+      "quiz_1_feedback_3": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
       "quiz_1_question": "Why does @data.characters.f3_mother.name praise @data.characters.f3_son_4.name?",
       "quiz_1_option_1_text": "To boost his self-esteem and confidence",
-      "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself.",
       "quiz_1_option_2_text": "To help him deal with his frustration",
-      "quiz_1_feedback_2": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!",
       "quiz_1_option_3_text": "To encourage him to want to help more often",
-      "quiz_1_feedback_3": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
+      "last_in_category": true,
       "quiz_2_question": "What can we learn from @data.characters.f3_mother.name in how she praises @data.characters.f3_son_4.name?",
       "quiz_2_option_1_text": "She goes down to @data.characters.f3_son_4.name’s level",
       "quiz_2_feedback_1": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",

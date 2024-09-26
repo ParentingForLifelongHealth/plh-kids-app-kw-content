@@ -6,21 +6,7 @@
     {
       "id": "check_in_5",
       "completed": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
-      "text_1": "Looking after yourself matters. And how you feel matters too!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "_translatedFields": {
         "text_1": {
           "eng": "Looking after yourself matters. And how you feel matters too!"
@@ -46,6 +32,21 @@
         "quiz_1_option_3_text": {
           "eng": "Sad"
         }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Looking after yourself matters. And how you feel matters too!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",

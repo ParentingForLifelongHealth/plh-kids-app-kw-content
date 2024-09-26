@@ -5,13 +5,15 @@
   "rows": [
     {
       "id": "explore_1",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
+      "last_in_category": false,
       "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_2",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_1.svg",
@@ -19,6 +21,7 @@
     },
     {
       "id": "explore_3",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_2.svg",
@@ -26,6 +29,7 @@
     },
     {
       "id": "explore_4",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_3.svg",
@@ -33,6 +37,7 @@
     },
     {
       "id": "explore_5",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_4.svg",
@@ -40,13 +45,15 @@
     },
     {
       "id": "explore_7",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
+      "last_in_category": false,
       "image_asset": "images/kw_facilitator_rd.png"
     },
     {
       "id": "explore_8",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_5.svg",
@@ -54,6 +61,7 @@
     },
     {
       "id": "explore_9",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_6.svg",
@@ -61,6 +69,7 @@
     },
     {
       "id": "explore_10",
+      "completed": false,
       "category_id": "explore",
       "last_in_category": false,
       "image_asset": "images/comics/instructions_yc_7.svg",
@@ -68,16 +77,17 @@
     },
     {
       "id": "explore_11",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "text_1": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
+      "quiz_1_feedback_1": "Yes. The situation between the children would have gotten out of hand.These are all correct answers!",
+      "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other. These are all correct answers!",
+      "quiz_1_feedback_3": "Yes. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy  trying to resolve the conflict. These are all correct answers!",
       "quiz_1_question": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?",
       "quiz_1_option_1_text": "They would have continued  to argue.",
-      "quiz_1_feedback_1": "Yes. The situation between the children would have gotten out of hand.These are all correct answers!",
       "quiz_1_option_2_text": "They could have hurt each other in the argument.",
-      "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other. These are all correct answers!",
       "quiz_1_option_3_text": "@data.characters.f2_grandfather.name would have had to stop working in the garden.",
-      "quiz_1_feedback_3": "Yes. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy  trying to resolve the conflict. These are all correct answers!",
+      "last_in_category": false,
       "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
       "quiz_2_option_1_text": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
       "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
@@ -88,25 +98,25 @@
     },
     {
       "id": "explore_12",
+      "completed": false,
       "category_id": "explore",
-      "last_in_category": true,
       "text_1": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
-      "image_asset": "images/kw_facilitator_rd.png",
+      "quiz_1_feedback_1": "Yes, the situation between the children would have gotten out of hand.",
+      "quiz_1_feedback_2": "Yes, children could have gotten so upset that they would have hurt each other.",
+      "quiz_1_feedback_3": "Yes, if @data.characters.f2_grandfather.name had kept quiet, he would have lost more time trying to resolve the conflict.",
       "quiz_1_question": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?",
       "quiz_1_option_1_text": "They would have started to argue",
-      "quiz_1_feedback_1": "Yes, the situation between the children would have gotten out of hand.",
       "quiz_1_option_2_text": "They could have hurt each other in the argument",
-      "quiz_1_feedback_2": "Yes, children could have gotten so upset that they would have hurt each other.",
       "quiz_1_option_3_text": "@data.characters.f2_grandfather.name would have had to stop working in the garden",
-      "quiz_1_feedback_3": "Yes, if @data.characters.f2_grandfather.name had kept quiet, he would have lost more time trying to resolve the conflict.",
+      "last_in_category": true,
+      "image_asset": "images/kw_facilitator_rd.png",
       "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
       "quiz_2_option_1_text": "He draw their attention away from the problem",
       "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
       "quiz_2_option_2_text": "He involves them in a positive activity",
       "quiz_2_feedback_2": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
       "quiz_2_option_3_text": "He praises the children for their positive behaviour",
-      "quiz_2_feedback_3": "That’s right. He gives a positive instruction to redirect them, and praises them for their positive behaviour.",
-      "completed": false
+      "quiz_2_feedback_3": "That’s right. He gives a positive instruction to redirect them, and praises them for their positive behaviour."
     }
   ]
 }

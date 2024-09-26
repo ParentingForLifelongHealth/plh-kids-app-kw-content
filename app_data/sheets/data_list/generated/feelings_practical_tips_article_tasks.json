@@ -5,9 +5,10 @@
   "rows": [
     {
       "id": "tips_1",
+      "completed": false,
       "category_id": "practical_tips",
-      "last_in_category": true,
       "text_1": "With these three tips, you can help your child learn to manage their emotions well.",
+      "last_in_category": true,
       "section_1_title": "NOTICE",
       "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
       "section_1_button_text": "More tips",

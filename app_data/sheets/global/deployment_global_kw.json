@@ -34,6 +34,14 @@
       "type": "declare_global_constant",
       "name": "has_multiple_languages",
       "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_asset",
+      "value": "images/kw_facilitator_rd.png",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"
