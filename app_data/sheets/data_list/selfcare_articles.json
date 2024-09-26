@@ -7,7 +7,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
+      "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
       "media_type": "audio",
       "media_title": "How does self-care help you and your family?",
       "media_asset": "/audio/care_audio_1.mp3",
@@ -17,8 +17,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "text_1": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
-      "image_asset": "images/kw_facilitator_rd.png"
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
     },
     {
       "id": "explore_2",
@@ -47,8 +46,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "text_1": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
-      "image_asset": "images/kw_facilitator_rd.png",
+      "text_1_facilitator": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
       "quiz_1_option_1_image_asset": "/images/icons/faces/happy_face_new.svg",
       "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
@@ -98,8 +96,8 @@
     {
       "id": "practise",
       "category_id": "practise",
-      "image_asset": "images/kw_facilitator_rd.png",
-      "quiz_1_question": "Think of one thing YOU have done well recently.\n\n“Well done to me for…”",
+      "text_1_facilitator": "Think of one thing YOU have done well recently.",
+      "quiz_1_question": "“Well done to me for…”",
       "quiz_1_option_1_text": "Showing love to my children",
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_option_2_text": "Getting up, even though I felt tired",
@@ -129,7 +127,7 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
+      "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_asset": "/audio/care_audio_2.mp3",
