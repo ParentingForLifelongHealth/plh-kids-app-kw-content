@@ -6,10 +6,17 @@
     {
       "id": "tips_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some easy tips on how to connect with your child when you spend time together:"
+        }
+      },
       "category_id": "practical_tips",
-      "text_1": "Here are some easy tips on how to connect with your child when you spend time together:",
-      "last_in_category": true,
       "image_asset": "",
+      "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "section_1_title": "DO IT EVERY DAY",
       "section_1_text": "Spend at least 5 minutes with your child each day. More is better!",
       "section_2_title": "STAY FOCUSED",

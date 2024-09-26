@@ -6,6 +6,11 @@
     {
       "id": "practise",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Think of one thing YOU have done well recently."
+        }
+      },
       "category_id": "practise",
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
@@ -15,6 +20,9 @@
       "quiz_1_option_2_text": "Getting up, even though I felt tired",
       "quiz_1_option_3_text": "Smiling at someone",
       "text_1_facilitator": "Think of one thing YOU have done well recently.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "quiz_2_question": "What can you do to take care of yourself today?",
       "quiz_2_option_1_text": "Take a Pause",
       "quiz_2_feedback_1": "Excellent. Taking care of yourself is an important parenting skill!",

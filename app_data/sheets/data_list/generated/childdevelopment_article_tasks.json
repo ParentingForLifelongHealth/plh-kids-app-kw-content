@@ -82,32 +82,38 @@
       "completed": false,
       "media_asset": "/audio/learn_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI",
-      "category_id": "intro",
-      "text_1": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!",
-      "_translations": {
-        "text_1": {}
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!"
+        }
       },
-      "last_in_category": true,
+      "category_id": "intro",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
-      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop."
+      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
+      "text_1_facilitator": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_1",
       "completed": false,
-      "category_id": "explore",
-      "text_1": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
-      "_translations": {
-        "text_1": {}
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it."
+        }
       },
-      "last_in_category": false,
-      "image_asset": "images/kw_facilitator_rd.png"
+      "category_id": "explore",
+      "text_1_facilitator": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_2",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/play_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!"
     },
@@ -115,7 +121,6 @@
       "id": "explore_3",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/play_yc_2.svg",
       "text_2": "@data.characters.f3_mother.name: What would you like to do? \n\n@data.characters.f3_son_4.name: Build a house out of bed sheets! \n\n@data.characters.f3_mother.name: Great idea! What do we need to do first?"
     },
@@ -123,7 +128,6 @@
       "id": "explore_4",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/play_yc_3.svg",
       "text_2": "@data.characters.f3_son_4.name: First, we hang one bed sheet from the top bunk bed. It’s our first wall! Then, we can use a pillow at the bottom.\n\n@data.characters.f3_mother.name: It's lovely to see you thinking everything through so carefully."
     },
@@ -131,38 +135,41 @@
       "id": "explore_5",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/play_yc_4.svg",
       "text_2": "@data.characters.f3_mother.name: Well done,\n@data.characters.f3_son_4.name! This is a wonderful bedsheet house. \n\n@data.characters.f3_son_4.name: Can we read our bedtime story here tonight?"
     },
     {
       "id": "explore_6",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_mother.name helped her son learn by playing together. Let’s explore how she did this."
+        }
+      },
       "category_id": "explore",
-      "text_1": "@data.characters.f3_mother.name helped her son learn by playing together. Let’s explore how she did this.",
+      "quiz_1_feedback_1": "Actually, their play together helped @data.characters.f3_son_4.name to lead and give instructions. By self-directing, @data.characters.f3_son_4.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\r\rThere are other correct answers in this list. Did you find them all?",
       "_translations": {
-        "text_1": {},
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
       },
-      "quiz_1_feedback_1": "Yes, by self-directing, @data.characters.f3_son_4.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\r\rThere are other correct answers in this list. Did you find them all?",
       "quiz_1_feedback_2": "That’s right! By creatively imagining what a home could be, @data.characters.f3_son_4.name finds an innovative way to repurpose a bed sheet. In his imagination, he could be building a castle, bear den, or space shuttle. Innovation and creativity are critical skills for the future. \n\nThis isn’t the only thing @data.characters.f3_son_4.name learned! Did you find the other things he learned?",
-      "quiz_1_feedback_3": "That’s it! By imagining a world with a tent that doesn’t yet exist, and creatively solving a challenge, @data.characters.f3_son_4.name is learning critical skills for academic and professional success. \r\rThere are more right answers in this list. Did you find them?",
+      "quiz_1_feedback_3": "Rather than copying the home he lives in, @data.characters.f3_son_4.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a tent that doesn’t yet exist, and creatively solving a challenge, @data.characters.f3_son_4.name is learning critical skills for academic and professional success. \r\rThere are more right answers in this list. Did you find them?",
       "quiz_1_question": "What did @data.characters.f3_son_4.name learn when his mother played with him?",
-      "quiz_1_option_1_text": "How to lead and give instructions",
+      "quiz_1_option_1_text": "How to follow instructions",
       "quiz_1_option_2_text": "How to be innovative",
-      "quiz_1_option_3_text": "How to imagine new possibilities & problem solve",
-      "last_in_category": false,
+      "quiz_1_option_3_text": "How to replicate his house",
+      "text_1_facilitator": "@data.characters.f3_mother.name helped her son learn by playing together. Let’s explore how she did this.",
       "quiz_1_option_4_text": "Engineering skills",
       "quiz_1_feedback_4": "That’s right! By testing and trying materials to build a fort, @data.characters.f3_son_4.name is learning critical STEM skills and the parts of 3-dimensional shapes. \n\nThere is more than one answer in this list! Did you find them all?",
-      "quiz_2_question": "How did @data.characters.f3_mother.name  help her son learn these skills?  There are lots of right answers to this one!",
-      "quiz_2_option_1_text": "By playing with him",
-      "quiz_2_feedback_1": "Exactly! Their play time together had so many opportunities to learn new skills.",
+      "quiz_2_question": "How did @data.characters.f3_mother.name  help her son learn these skills?",
+      "quiz_2_option_1_text": "By telling him what to do",
+      "quiz_2_feedback_1": "Rather than telling him, she played with him. Their play time together created so many opportunities to learn new skills.",
       "quiz_2_option_2_text": "By showing him",
       "quiz_2_feedback_2": "Actually, by simply playing with her son and letting him lead the activity, @data.characters.f3_mother.name helps her son learn. She doesn’t have to show him how to build a fort, he learns on his own with natural consequences.",
       "quiz_2_option_3_text": "By letting him lead",
@@ -173,78 +180,109 @@
     {
       "id": "explore_7",
       "completed": false,
-      "category_id": "explore",
-      "text_1": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_daughter_7.name to learn from her mistake when she plays a bit too rough indoors.",
-      "_translations": {
-        "text_1": {}
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f1_father.name supports @data.characters.f1_daughter_6.name to learn from her mistake when she struggles putting her shoes on."
+        }
       },
-      "last_in_category": false,
-      "image_asset": "images/kw_facilitator_rd.png"
+      "category_id": "explore",
+      "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f1_father.name supports @data.characters.f1_daughter_6.name to learn from her mistake when she struggles putting her shoes on.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_8",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_1.svg",
-      "text_2": "@data.characters.f3_uncle.name: “@data.characters.f3_daughter_7.name, please walk slowly in the house! You’re going to break something.” \n\n @data.characters.f3_daughter_7.name: “No I won’t!”"
+      "text_2": "@data.characters.f1_father.name: Let me put your shoes on\n@data.characters.f1_daughter_6.name: No, I want to do it myself!"
     },
     {
       "id": "explore_9",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_2.svg",
-      "text_2": "*@data.characters.f3_daughter_7.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.*"
+      "text_2": "@data.characters.f1_father.name: Okay, @data.characters.f1_daughter_6.name, you can do it yourself.\r\r_@data.characters.f1_daughter_6.name doesn't push her foot in all the way and struggles to fasten the shoes._\r\r@data.characters.f1_daughter_6.name: I can’t do it!"
     },
     {
       "id": "explore_10",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_3.svg",
-      "text_2": "@data.characters.f3_uncle.name: “Are you hurt??”\n\n @data.characters.f3_daughter_7.name: “No, @data.characters.f3_uncle.name. I’m so, so sorry for breaking the vase… I didn’t see it.”"
+      "text_2": "@data.characters.f1_father.name: Yes, you can! How about I help you with one foot, and you do it with the other?\r\r@data.characters.f1_daughter_6.name: Okay."
     },
     {
       "id": "explore_11",
       "completed": false,
       "category_id": "explore",
-      "last_in_category": false,
       "image_asset": "images/comics/learn_experience_yc_4.svg",
-      "text_2": "@data.characters.f3_uncle.name: “I am not happy that you broke the vase but appreciate you for realising your mistake and apologising. Do you know how you could have prevented that from happening?”\n\n @data.characters.f3_daughter_7.name: “Yes, I should have listened. I continued running even after you asked me to walk in the house.”"
+      "text_2": "@data.characters.f1_father.name: Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.\r\r@data.characters.f1_daughter_6.name: I did it!\r\r@data.characters.f1_father.name: Great job,@data.characters.f1_daughter_6.name! You are getting to be such a big girl!"
     },
     {
       "id": "explore_12",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?"
+        }
+      },
       "category_id": "explore",
-      "last_in_category": false,
-      "image_asset": "images/comics/learn_experience_yc_5.svg",
-      "text_2": "@data.characters.f3_uncle.name: “It’s OK, @data.characters.f3_daughter_7.name. I’m proud that you are able to learn from your mistakes. Let’s get a broom to sweep up the pieces. We may be able to repair the vase with some glue.”\n\n @data.characters.f3_daughter_7.name: “Okay…”"
-    },
-    {
-      "id": "explore_13",
-      "completed": false,
-      "category_id": "explore",
-      "text_1": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
+      "quiz_1_feedback_1": "Rather than fixing the problem himself, @data.characters.f1_father.name gives clear and specific instructions to help her learn. @data.characters.f1_father.name carefully instructs @data.characters.f1_daughter_6.name on how to put on her shoes, helping her to do it herself.",
       "_translations": {
-        "text_1": {},
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
       },
+      "quiz_1_feedback_2": "When @data.characters.f1_daughter_6.name struggles, @data.characters.f1_father.name actually remains calm and patient. This is important when teaching children new tasks.",
+      "quiz_1_feedback_3": "Yes, praise helps our children to take more responsibility for their actions next time.",
+      "quiz_1_question": "What does @data.characters.f1_father.name do to support @data.characters.f1_daughter_6.name?",
+      "quiz_1_option_1_text": "He fixes what she was doing wrong for her.",
+      "quiz_1_option_2_text": "He get frustrated when she struggles",
+      "quiz_1_option_3_text": "He praises her when she does it herself.",
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?",
+      "quiz_1_option_4_text": "He tells her he is going to do it for her when she is struggling.",
+      "quiz_1_feedback_4": "@data.characters.f1_father.name actually encourages @data.characters.f1_daughter_6.name to keep trying after she struggles. This shows support and helps her to learn to do it herself!",
+      "quiz_2_question": "What does @data.characters.f3_daughter_7.name learn from @data.characters.f3_uncle.name’s response?",
+      "quiz_2_option_1_text": "I can keep trying even if I make a mistake.",
+      "quiz_2_feedback_1": "Exactly! @data.characters.f1_daughter_6.name learns its okay to make mistakes and keep trying because @data.characters.f1_father.name encourages her to keep trying even when she struggles.",
+      "quiz_2_option_2_text": "I am supported as I learn new things.",
+      "quiz_2_feedback_2": "Exactly! @data.characters.f1_daughter_6.name learns that she is supported while learning new tasks, as @data.characters.f1_father.name calmly guides her.",
+      "quiz_2_option_3_text": "It is important that an adult do this task for me.",
+      "quiz_2_feedback_3": "@data.characters.f1_daughter_6.name actually learns the value of trying things on her own, with @data.characters.f1_father.name offering praise and support rather than taking over the task."
+    },
+    {
+      "id": "explore_13",
+      "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!"
+        }
+      },
+      "category_id": "explore",
       "quiz_1_feedback_1": "Yes, he warns her in order to avoid the mistake.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
+      },
       "quiz_1_feedback_2": "Yes, when your child makes a mistake it is important to stay calm.",
       "quiz_1_feedback_3": "Yes, when the accident happens, he first asks if @data.characters.f3_daughter_7.name is okay!",
       "quiz_1_question": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_daughter_7.name?",
       "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
       "quiz_1_option_2_text": "He remains calm",
       "quiz_1_option_3_text": "He shows he cares most about @data.characters.f3_daughter_7.name",
-      "last_in_category": true,
-      "image_asset": "images/kw_facilitator_rd.png",
+      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
       "quiz_1_option_4_text": "He thanks @data.characters.f3_daughter_7.name for recognising her mistake",
       "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
       "quiz_2_question": "What does @data.characters.f3_daughter_7.name learn from @data.characters.f3_uncle.name’s response?",
@@ -266,9 +304,17 @@
     {
       "id": "tips_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:"
+        }
+      },
       "category_id": "practical_tips",
-      "last_in_category": true,
-      "section_1_title": "LEARN BY PLAYING",
+      "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "section_1_title": "BE PATIENT",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",
       "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",
@@ -285,20 +331,28 @@
       "id": "practise",
       "completed": false,
       "media_asset": "/audio/learn_audio_2.mp3",
-      "category_id": "practise",
-      "text_1": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "_translations": {
-        "text_1": {}
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play."
+        }
       },
-      "last_in_category": true,
+      "category_id": "practise",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
-      "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her develop at home. By playing together, we were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
-      "image_asset": "images/kw_facilitator_rd.png"
+      "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her learn and develop at home, too. We started by playing word games together, and were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
+      "text_1_facilitator": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "home_activity_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play."
+        }
+      },
       "category_id": "home_activity",
       "quiz_1_feedback_1": "That’s right! Join in on any play activity your child is doing. You will strengthen your bond and encourage your child to play and learn more.",
       "_translations": {
@@ -308,7 +362,8 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Great idea. Try to look for opportunities to play and learn, like balancing over a ridge or collecting leaves or rocks along the way.",
       "quiz_1_feedback_3": "Yes! Get creative. Anything in your home could be a music instrument, costume, or item in a role-play.",
@@ -316,7 +371,7 @@
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_option_2_text": "Go outside together",
       "quiz_1_option_3_text": "Use household items",
-      "last_in_category": true,
+      "text_1_facilitator": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play.",
       "quiz_1_option_4_text": "Ask their ideas",
       "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do."
     }
