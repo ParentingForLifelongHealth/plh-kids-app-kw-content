@@ -7,8 +7,7 @@
       "id": "explore_1",
       "completed": false,
       "category_id": "explore",
-      "text_1": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
-      "image_asset": "images/kw_facilitator_rd.png"
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
     },
     {
       "id": "explore_2",
@@ -45,12 +44,11 @@
       "quiz_1_option_1_image_asset": "/images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "/images/icons/faces/sad_face_new.svg",
-      "text_1": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
       "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
-      "image_asset": "images/kw_facilitator_rd.png",
+      "text_1_facilitator": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
       "quiz_2_question": "What does @data.characters.f1_mother.name do to manage her stress?",
       "quiz_2_option_1_text": "Take a Pause",
       "quiz_2_feedback_1": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly. She also praised herself, rewarded herself with a quiet cup of tea, and made a plan to spend time with a friend.",
