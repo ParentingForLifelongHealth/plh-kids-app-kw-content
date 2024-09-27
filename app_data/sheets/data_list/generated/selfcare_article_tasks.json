@@ -83,17 +83,33 @@
       "completed": false,
       "media_asset": "/audio/care_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1C-QTp4INJ78dY-v04jdfM4Gm0z0TXloOwhI34ppttyM",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children."
+        }
+      },
       "category_id": "intro",
-      "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
       "media_type": "audio",
       "media_title": "How does self-care help you and your family?",
-      "media_transcript": "Greetings, everyone.\n\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \n\nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing."
+      "media_transcript": "Greetings, everyone.\n\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \n\nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing.",
+      "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
+        }
+      },
       "category_id": "explore",
-      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_2",
@@ -126,6 +142,11 @@
     {
       "id": "explore_6",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed."
+        }
+      },
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "/images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
@@ -135,7 +156,8 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {}
+        "quiz_1_question": {},
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
@@ -184,6 +206,11 @@
     {
       "id": "practise",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Think of one thing YOU have done well recently."
+        }
+      },
       "category_id": "practise",
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "_translations": {
@@ -193,7 +220,8 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_feedback_3": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
@@ -226,6 +254,11 @@
       "id": "home_activity_1",
       "completed": false,
       "media_asset": "/audio/care_audio_2.mp3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!"
+        }
+      },
       "category_id": "home_activity",
       "quiz_1_feedback_1": "Excellent. Taking care of yourself is an important parenting skill!",
       "_translations": {
@@ -235,7 +268,8 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_feedback_3": "Excellent. Taking care of yourself is an important parenting skill!",
@@ -243,10 +277,10 @@
       "quiz_1_option_1_text": "Take a Pause",
       "quiz_1_option_2_text": "Praise myself",
       "quiz_1_option_3_text": "Read a book",
-      "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_transcript": "For me as a parent, it was almost impossible to find time for myself. I was always busy taking care of everyone else. When I started to @global.app_name helped push me to try to take better care of myself – even just a little bit at a time. It helpeds me AND my family! \n\nHaving a moment for myself helps me to breathe and notice how I feel. For me, five minutes to have a cup of tea makes a big difference. Now I can deal with my stress better.",
+      "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
       "quiz_1_option_4_text": "Connect with a friend",
       "quiz_1_feedback_4": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_option_5_text": "Take a nap",

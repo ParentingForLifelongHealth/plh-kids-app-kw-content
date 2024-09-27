@@ -6,9 +6,17 @@
     {
       "id": "tips_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:"
+        }
+      },
       "category_id": "practical_tips",
-      "last_in_category": true,
-      "section_1_title": "LEARN BY PLAYING",
+      "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "section_1_title": "BE PATIENT",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",
       "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",

@@ -6,8 +6,12 @@
     {
       "id": "home_activity_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Your home activity is to praise your child at least 3 times a day."
+        }
+      },
       "category_id": "home_activity",
-      "text_1": "Your home activity is to praise your child at least 3 times a day.",
       "quiz_1_feedback_1": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",
@@ -15,9 +19,12 @@
       "quiz_1_option_1_text": "Cleaning up or helping out",
       "quiz_1_option_2_text": "Being patient or polite",
       "quiz_1_option_3_text": "Trying a new skill",
-      "last_in_category": true,
       "quiz_1_option_4_text": "Playing quietly",
       "quiz_1_feedback_4": "Yes, you can praise them for these behaviours… and many more!",
+      "text_1_facilitator": "Your home activity is to praise your child at least 3 times a day.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "quiz_2_question": "Remember to also praise yourself for the good work you're doing! What’s one way you can reward yourself for your hard work as a parent?",
       "quiz_2_option_1_text": "Treat yourself to something you enjoy (e.g., a favorite snack or activity)",
       "quiz_2_feedback_1": "Great choice! Taking time to enjoy something you love is a wonderful way to recharge and recognize your efforts as a parent.",

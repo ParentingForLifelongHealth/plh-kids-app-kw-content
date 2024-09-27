@@ -6,8 +6,16 @@
     {
       "id": "explore_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
+        }
+      },
       "category_id": "explore",
-      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much."
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
+      "_translations": {
+        "text_1_facilitator": {}
+      }
     },
     {
       "id": "explore_2",
@@ -40,6 +48,11 @@
     {
       "id": "explore_6",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed."
+        }
+      },
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "/images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
@@ -49,6 +62,9 @@
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
       "text_1_facilitator": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "quiz_2_question": "What does @data.characters.f1_mother.name do to manage her stress?",
       "quiz_2_option_1_text": "Take a Pause",
       "quiz_2_feedback_1": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly. She also praised herself, rewarded herself with a quiet cup of tea, and made a plan to spend time with a friend.",

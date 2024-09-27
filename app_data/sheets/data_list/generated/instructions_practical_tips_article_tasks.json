@@ -6,8 +6,16 @@
     {
       "id": "tips_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are three tips to give positive instructions that work:"
+        }
+      },
       "category_id": "practical_tips",
-      "text_1": "Here are three tips to give positive instructions that work:",
+      "text_1_facilitator": "Here are three tips to give positive instructions that work:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "section_1_title": "BE SPECIFIC",
       "section_1_text": "Say the behaviour you want your child to do.\nBut before you do that, connect to them, so they are more likely to listen.",
       "section_1_button_text": "More",

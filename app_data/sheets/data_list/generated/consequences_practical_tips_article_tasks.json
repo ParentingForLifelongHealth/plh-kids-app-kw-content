@@ -6,9 +6,16 @@
     {
       "id": "tips_1",
       "completed": false,
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some easy steps to use consequences when your child misbehaves:"
+        }
+      },
       "category_id": "practical_tips",
-      "text_1": "Here are some easy steps to use consequences when your child misbehaves:",
-      "last_in_category": true,
+      "text_1_facilitator": "Here are some easy steps to use consequences when your child misbehaves:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "section_1_title": "BE CALM",
       "section_1_text": "Take some deep breaths or walk away from the situation if you need to.\n\nThen, respond in a calm, clear way.",
       "section_1_button_text": "More tips",
