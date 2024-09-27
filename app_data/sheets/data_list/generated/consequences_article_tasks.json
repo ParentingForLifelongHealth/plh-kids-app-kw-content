@@ -97,21 +97,6 @@
       }
     },
     {
-      "id": "intro_2",
-      "completed": false,
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow)."
-        }
-      },
-      "category_id": "intro",
-      "text_1_facilitator": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "image_asset": "/images/comics/teach_consequences_yc_3.jpg"
-    },
-    {
       "id": "explore_1",
       "completed": false,
       "_translatedFields": {

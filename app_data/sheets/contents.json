@@ -875,11 +875,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_consequences_intro_2": {
-      "flow_name": "article_consequences_intro_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_consequences_practise": {
       "flow_name": "article_consequences_practise",
       "flow_subtype": "generated",
