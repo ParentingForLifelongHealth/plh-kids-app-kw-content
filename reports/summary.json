@@ -158,13 +158,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "60020 KB",
-      "MB": "60 MB"
+      "KB": "66494 KB",
+      "MB": "66.5 MB"
     },
     {
       "assets": "unused",
-      "KB": "64854 KB",
-      "MB": "64.9 MB"
+      "KB": "65655 KB",
+      "MB": "65.7 MB"
     }
   ],
   "assets_unused": [
@@ -245,6 +245,18 @@
       "size_kb": 1042.6
     },
     {
+      "path": "audio/relax/relax_1.mp3",
+      "size_kb": 265.1
+    },
+    {
+      "path": "audio/relax/relax_2.mp3",
+      "size_kb": 404.4
+    },
+    {
+      "path": "audio/relax/relax_3.mp3",
+      "size_kb": 235.1
+    },
+    {
       "path": "audio/rules_audio_1.mp3",
       "size_kb": 427.6
     },
@@ -295,10 +307,6 @@
     {
       "path": "images/consequences.jpg",
       "size_kb": 115.1
-    },
-    {
-      "path": "images/facilitators_face.svg",
-      "size_kb": 39.3
     },
     {
       "path": "images/flags/tz.svg",
@@ -375,14 +383,6 @@
     {
       "path": "images/instructions.svg",
       "size_kb": 23.2
-    },
-    {
-      "path": "images/kw_facilitator_rd.jpg",
-      "size_kb": 35.2
-    },
-    {
-      "path": "images/kw_facilitator_sq.jpg",
-      "size_kb": 30
     },
     {
       "path": "images/logos/PLH.png",
@@ -603,114 +603,114 @@
       "path": "/images/talk_feelings_challenges.svg",
       "count": 1,
       "missing": true
-    },
+    }
+  ],
+  "asset_summary": [
     {
       "path": "audio/relax/relax_10.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 404.9
     },
     {
       "path": "audio/relax/relax_11.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 445.6
     },
     {
       "path": "audio/relax/relax_12.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 539.7
     },
     {
       "path": "audio/relax/relax_13.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 398.4
     },
     {
       "path": "audio/relax/relax_14.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 256.9
     },
     {
       "path": "audio/relax/relax_15.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 125
     },
     {
       "path": "audio/relax/relax_16.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 150.9
     },
     {
       "path": "audio/relax/relax_17.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 148
     },
     {
       "path": "audio/relax/relax_18.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 312.9
     },
     {
       "path": "audio/relax/relax_19.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 454
     },
     {
       "path": "audio/relax/relax_20.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 539.8
     },
     {
       "path": "audio/relax/relax_21.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 189.3
     },
     {
       "path": "audio/relax/relax_22.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 109.8
     },
     {
       "path": "audio/relax/relax_23.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 122.9
     },
     {
       "path": "audio/relax/relax_24.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 121.3
     },
     {
       "path": "audio/relax/relax_4.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 514.5
     },
     {
       "path": "audio/relax/relax_5.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 195.7
     },
     {
       "path": "audio/relax/relax_6.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 280.7
     },
     {
       "path": "audio/relax/relax_7.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 285.3
     },
     {
       "path": "audio/relax/relax_8.mp3",
       "count": 1,
-      "missing": true
+      "size_kb": 302
     },
     {
       "path": "audio/relax/relax_9.mp3",
       "count": 1,
-      "missing": true
-    }
-  ],
-  "asset_summary": [
+      "size_kb": 576.6
+    },
     {
       "path": "images/comics/consequences_yc_1.svg",
       "count": 3,
