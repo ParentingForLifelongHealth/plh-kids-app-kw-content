@@ -23,20 +23,6 @@
       }
     },
     {
-      "id": "intro_2",
-      "category_id": "intro",
-      "image_asset": "/images/comics/teach_consequences_yc_3.jpg",
-      "text_1_facilitator": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow).",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Some consequences happen naturally (if they break a toy, they cannot play with it). \n\nOther consequences you will set. These consequences will help your child follow the rules (if you do not pack away your toys, you won’t be allowed to play with them tomorrow)."
-        }
-      }
-    },
-    {
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
