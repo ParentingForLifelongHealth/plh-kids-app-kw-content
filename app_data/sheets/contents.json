@@ -573,7 +573,7 @@
     "app_menu": {
       "flow_type": "template",
       "flow_name": "app_menu",
-      "_xlsxPath": "app_menu.xlsx"
+      "_xlsxPath": "KW app_navigation.xlsx"
     },
     "app_update_complete": {
       "flow_type": "template",
@@ -663,7 +663,7 @@
     "footer": {
       "flow_type": "template",
       "flow_name": "footer",
-      "_xlsxPath": "templates/app_navigation.xlsx"
+      "_xlsxPath": "KW app_navigation.xlsx"
     },
     "article_check_in_1": {
       "flow_name": "article_check_in_1",
@@ -1820,13 +1820,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "instruct_hp_review": {
-      "flow_name": "instruct_hp_review",
+    "instructions_hp_review": {
+      "flow_name": "instructions_hp_review",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "instruct_hp_review_challenges": {
-      "flow_name": "instruct_hp_review_challenges",
+    "instructions_hp_review_challenges": {
+      "flow_name": "instructions_hp_review_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -2105,6 +2105,11 @@
       "flow_name": "hp_review",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
+    "hp_review_all": {
+      "flow_type": "template",
+      "flow_name": "hp_review_all",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
     "hp_review_challenges": {
       "flow_type": "template",
       "flow_name": "hp_review_challenges",
@@ -2187,7 +2192,7 @@
     "nav_buttons": {
       "flow_type": "template",
       "flow_name": "nav_buttons",
-      "_xlsxPath": "templates/app_navigation.xlsx"
+      "_xlsxPath": "KW app_navigation.xlsx"
     },
     "pair": {
       "flow_type": "template",
@@ -2238,6 +2243,11 @@
       "flow_type": "template",
       "flow_name": "section",
       "_xlsxPath": "templates/modules/articles.xlsx"
+    },
+    "settings": {
+      "flow_type": "template",
+      "flow_name": "settings",
+      "_xlsxPath": "KW app_navigation.xlsx"
     },
     "user_id": {
       "flow_type": "template",

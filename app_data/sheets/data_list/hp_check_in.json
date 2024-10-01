@@ -164,7 +164,7 @@
       "question_how": "How did it go?"
     },
     {
-      "id": "instruct",
+      "id": "instructions",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home practice was to try out POSITIVE, SPECIFIC, and REALISTIC  instructions with your child.",
       "_translations": {

@@ -15,18 +15,6 @@
           "eng": "Partners"
         }
       }
-    },
-    {
-      "id": "funders",
-      "name": "Donors",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Donors"
-        }
-      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

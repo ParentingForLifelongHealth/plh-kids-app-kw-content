@@ -1,5 +1,5 @@
 {
-  "flow_name": "instruct_hp_review_challenges",
+  "flow_name": "instructions_hp_review_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "row_id",
-          "value": "instruct",
+          "value": "instructions",
           "_translations": {
             "value": {}
           },

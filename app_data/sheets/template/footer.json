@@ -7,16 +7,16 @@
       "name": "button_list",
       "value": [
         {
+          "image": "images/icons/book_outline_white.svg",
+          "target_template": "hp_review_all"
+        },
+        {
           "image": "images/logos/plh_white.png",
           "target_template": "home_screen"
         },
         {
-          "image": "images/icons/book_outline_white.svg",
-          "target_template": "picture_books"
-        },
-        {
           "image": "images/icons/star_outline_white.svg",
-          "target_template": "relax_activities"
+          "target_template": "settings"
         }
       ],
       "type": "set_variable",
@@ -48,5 +48,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/app_navigation.xlsx"
+  "_xlsxPath": "KW app_navigation.xlsx"
 }
