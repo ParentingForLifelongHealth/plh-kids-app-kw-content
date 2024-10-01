@@ -14,7 +14,7 @@
     },
     {
       "type": "button",
-      "count": 30
+      "count": 31
     },
     {
       "type": "carousel",
@@ -43,6 +43,7 @@
     {
       "type": "items",
       "count": 9
+      "count": 9
     },
     {
       "type": "lottie_animation",
@@ -58,7 +59,7 @@
     },
     {
       "type": "set_variable",
-      "count": 405
+      "count": 397
     },
     {
       "type": "task_card",
@@ -70,11 +71,11 @@
     },
     {
       "type": "template",
-      "count": 304
+      "count": 305
     },
     {
       "type": "text",
-      "count": 43
+      "count": 52
     },
     {
       "type": "text_area",
@@ -90,7 +91,7 @@
     },
     {
       "type": "title",
-      "count": 18
+      "count": 19
     },
     {
       "type": "update_action_list",
@@ -104,7 +105,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 269
+      "count": 270
     },
     {
       "type": "emit: force_reload",
@@ -128,7 +129,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 267
+      "count": 268
     },
     {
       "type": "feedback",
@@ -136,11 +137,11 @@
     },
     {
       "type": "go_to",
-      "count": 11
+      "count": 12
     },
     {
       "type": "pop_up",
-      "count": 5
+      "count": 6
     },
     {
       "type": "set_field",
@@ -1152,7 +1153,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 285
+      "total": 294
     },
     {
       "type": "template",

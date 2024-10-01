@@ -166,6 +166,17 @@
       "_translations": {
         "value": {}
       },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "user_id"
+          ],
+          "_raw": "click | go_to: user_id",
+          "_cleaned": "click | go_to: user_id"
+        }
+      ],
       "_nested_name": "button_user_id",
       "_dynamicFields": {
         "value": [
