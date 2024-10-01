@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "These four tips will help you create rules and routines to bring more structure and peace in your home:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "These four tips will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
         "text_1_facilitator": {}

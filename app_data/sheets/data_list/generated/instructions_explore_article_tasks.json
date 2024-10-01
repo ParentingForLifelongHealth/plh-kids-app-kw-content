@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
       "_translations": {
         "text_1_facilitator": {}
@@ -19,41 +19,41 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_1.jpg",
       "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_2.jpg",
       "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_3.jpg",
       "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_4.jpg",
       "text_2": "@data.characters.f1_mother.name: “Once upon a time…”"
     },
     {
       "id": "explore_7",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
       "_translations": {
         "text_1_facilitator": {}
@@ -61,34 +61,34 @@
     },
     {
       "id": "explore_8",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_5.jpg",
       "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!"
     },
     {
       "id": "explore_9",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_6.jpg",
       "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together."
     },
     {
       "id": "explore_10",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_7.jpg",
       "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together."
     },
     {
       "id": "explore_11",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
       "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other.",
       "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict.",
@@ -110,13 +110,13 @@
     },
     {
       "id": "explore_12",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Yes, the situation between the children would have gotten out of hand.",
       "quiz_1_feedback_2": "Yes, children could have gotten so upset that they would have hurt each other.",
       "quiz_1_feedback_3": "Yes, if @data.characters.f2_grandfather.name had kept quiet, he would have lost more time trying to resolve the conflict.",

@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "media_asset": "/audio/praise_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -13,6 +12,7 @@
         }
       },
       "category_id": "practise",
+      "completed": false,
       "text_1_facilitator": "Curious to see how praise can help you and your family?\n\nPraise your child for 3 things every day, and praise yourself too for all your hard work being a parent – you deserve it!",
       "_translations": {
         "text_1_facilitator": {}

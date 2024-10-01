@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Your home activity is to praise your child at least 3 times a day."
         }
       },
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",

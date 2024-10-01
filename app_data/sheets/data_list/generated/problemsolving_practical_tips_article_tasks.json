@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
         "text_1_facilitator": {}

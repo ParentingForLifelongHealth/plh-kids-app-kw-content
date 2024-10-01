@@ -52,11 +52,6 @@
       }
     },
     {
-      "name": "activity_image",
-      "type": "set_variable",
-      "_nested_name": "activity_image"
-    },
-    {
       "name": "activity_title",
       "value": "Title of this activity",
       "_translations": {
@@ -194,33 +189,6 @@
                   },
                   "_dynamicDependencies": {
                     "@local.activity_title": [
-                      "value"
-                    ]
-                  }
-                },
-                {
-                  "type": "image",
-                  "name": "banner_image_src",
-                  "value": "@local.activity_image",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "parameter_list": {
-                    "background_box": "true"
-                  },
-                  "_nested_name": "pages_activity.content.activity_banner.banner_image_src",
-                  "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "@local.activity_image",
-                        "matchedExpression": "@local.activity_image",
-                        "type": "local",
-                        "fieldName": "activity_image"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@local.activity_image": [
                       "value"
                     ]
                   }
@@ -774,18 +742,6 @@
                   "value"
                 ]
               }
-            },
-            {
-              "type": "image",
-              "name": "banner_image_src",
-              "value": "plh_images/icons/person.svg",
-              "_translations": {
-                "value": {}
-              },
-              "parameter_list": {
-                "background_box": "true"
-              },
-              "_nested_name": "scroll_activity.activity_banner.banner_image_src"
             }
           ],
           "_nested_name": "scroll_activity.activity_banner"

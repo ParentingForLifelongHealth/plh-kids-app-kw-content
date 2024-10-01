@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "With these three tips, you can help your child learn to manage their emotions well."
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "With these three tips, you can help your child learn to manage their emotions well.",
       "_translations": {
         "text_1_facilitator": {}

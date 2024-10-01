@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:",
       "_translations": {
         "text_1_facilitator": {}

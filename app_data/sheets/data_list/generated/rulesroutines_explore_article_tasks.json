@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s look at an example together. @data.characters.f1_daughter_6.name is spending too much time watching TV before her homework is finished. @data.characters.f1_mother.name helps him create a family rule about this:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s look at an example together. @data.characters.f1_daughter_6.name is spending too much time watching TV before her homework is finished. @data.characters.f1_mother.name helps him create a family rule about this:",
       "_translations": {
         "text_1_facilitator": {}
@@ -19,48 +19,48 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_1.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_1.svg",
       "text_2": "@data.characters.f1_daughter_6.name: Can I use your phone to play games? \n\n@data.characters.f1_mother.name: Sure! But let’s set some household rules for using gadgets together. “What do you think would be a fair rule?\n@data.characters.f1_mother.name: “It is important that you get your homework done so you can do well in school. Let’s make a rule about watching TV so that you have enough time for homework, too.”\n@data.characters.f1_daughter_6.name: “Okay, @data.characters.f1_mother.name.”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_2.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_2.svg",
       "text_2": "@data.characters.f1_mother.name: “What do you think would be a fair rule?”\n@data.characters.f1_daughter_6.name: “Hmmm…well, maybe I can use the phonewatch TV as much as I want, but only after I do my homework?”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_3.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_3.svg",
       "text_2": "@data.characters.f1_mother.name: “I like that idea, but let’s limit it to 30 minutes per day so that you have time for other fun and relaxing things too. How does that sound?”\n\r@data.characters.f1_daughter_6.name: “Fine.”\r\r@data.characters.f1_mother.name: I’ll set a timer to let us know when you have 5 minutes left."
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_4.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_4.svg",
       "text_2": "@data.characters.f1_daughter_6.name: Can I create my own account for pictures and videos, Mummy? Maha has an instagram account. \n\n@data.characters.f1_mother.name: Not just yet,@data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.\n\n@data.characters.f1_daughter_6.name: Okay\n\n@data.characters.f1_mother.name: “Thank you for doing your homework before watching TV, @data.characters.f1_daughter_6.name. Last night you mentioned that your math tests have become easier for you! I am proud of you! We can increase your time to an hour each day… as long as you still do your homework first!”\n@data.characters.f1_daughter_6.name: “Thank you, @data.characters.f1_mother.name!”"
     },
     {
       "id": "explore_6",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "text_2": "@data.characters.f1_mother.name: And remember, never click on a pop-up or picture if it appears. Also, if anything ever upsets you, let us know right away. We're here to keep you safe!\n\n\n@data.characters.f1_daughter_6.name: Thank you, Mummy!"
     },
     {
       "id": "explore_7",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on how @data.characters.f1_mother.name and @data.characters.f1_daughter_6.name created a rule together."
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Not quite.. When you make rules together with your child, the rules will work better because your child will feel invoved.",
+      "completed": false,
+      "quiz_1_feedback_1": "Not quite.. When you make rules together with your child, the rules will work better because your child will feel involved.",
       "quiz_1_feedback_2": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_1_feedback_3": "Actually it’s to make @data.characters.f1_daughter_6.name feel that her ideas are valued.",
       "quiz_1_question": "Why does @data.characters.f1_mother.name ask @data.characters.f1_daughter_6.name for her ideas on what the household rule should be?",
@@ -75,12 +75,12 @@
       "quiz_1_feedback_4": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_2_question": "How does @data.characters.f1_mother.name make sure that @data.characters.f1_daughter_6.name is safe online? \n What does @data.characters.f1_mother.name do when @data.characters.f1_daughter_6.name follows the rule?",
       "quiz_2_option_1_text": "A) She creates household rules around gadget use She praises her",
-      "quiz_2_option_1_image_asset": "If you chose A, D, or E, you are correct! \r\rThe mother \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks her daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages her daughter to come talk to her if anything upsets her online\n.Yes, by doing this @data.characters.f1_mother.name makes it more likely that @data.characters.f1_daughter_6.name will keep following the rule about TV watching.",
+      "quiz_2_option_1_image_asset": "",
+      "quiz_2_feedback_1": "If you chose A, D, or E, you are correct! \r\rThe mother \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks her daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages her daughter to come talk to her if anything upsets her online\n.Yes, by doing this @data.characters.f1_mother.name makes it more likely that @data.characters.f1_daughter_6.name will keep following the rule about TV watching.",
       "quiz_2_option_2_text": "B) She allowed her daughter to create a social media account \nShe tells her she doesn’t have to follow the rule anymore.",
-      "quiz_2_option_2_image_asset": "Try again! Letting a child have a social media account too soon can be tricky. Waiting until they’re older helps make sure they’re ready and know how to use it safely and responsibly.",
-      "quiz_2_feedback_2": "Try again! @data.characters.f1_daughter_6.name still has to follow the rule, but @data.characters.f1_mother.name gives her a simple reward. By doing this, @data.characters.f1_mother.name makes it more likely that @data.characters.f1_daughter_6.name will keep following the rules about TV watching.",
+      "quiz_2_feedback_2": "Try again! Letting a child have a social media account too soon can be tricky. Waiting until they’re older helps make sure they’re ready and know how to use it safely and responsibly.",
       "quiz_2_option_3_text": "C) She allowed her daughter to use the phone only after completing her schoolwork",
-      "quiz_2_option_3_image_asset": "Try again! Letting your child use the phone after schoolwork is a smart move to teach responsibility. But you need to also set rules on screen time to keep things balanced and ensure they’re enjoying other activities too!",
+      "quiz_2_feedback_3": "Try again! Letting your child use the phone after schoolwork is a smart move to teach responsibility. But you need to also set rules on screen time to keep things balanced and ensure they’re enjoying other activities too!",
       "quiz_2_option_4_text": "D) She told her daughter to  avoid clicking on pop-ups or strange pictures",
       "quiz_2_feedback_4": "If you chose A, D, or E, you are correct! \r\rThe mother \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks her daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages her daughter to come talk to her if anything upsets her online",
       "quiz_2_option_5_text": "E) She told her daughter to come to her if anything upsets them",
@@ -88,13 +88,13 @@
     },
     {
       "id": "explore_8",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s look at another family. They have set up a routine around bedtime that is working really well!"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
       "_translations": {
         "text_1_facilitator": {}
@@ -102,44 +102,44 @@
     },
     {
       "id": "explore_9",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_5.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_5.svg",
       "text_2": "@data.characters.f2_grandmother.name: “I am so happy to see you playing quietly with your blocks, @data.characters.f2_daughter_3.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.”\n\n @data.characters.f2_daughter_3.name: “Okay!”"
     },
     {
       "id": "explore_10",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_6.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_6.svg",
       "text_2": "*5 minutes later*\n\n @data.characters.f2_grandmother.name: “Time to get ready for bed, @data.characters.f2_daughter_3.name. First, let’s get you nice and clean with a bath.”"
     },
     {
       "id": "explore_11",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_7.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_7.svg",
       "text_2": "@data.characters.f2_grandmother.name: “You were so well-behaved in the bath, @data.characters.f2_daughter_3.name. Now it is time to put your pyjamas on.”"
     },
     {
       "id": "explore_12",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_8.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_8.svg",
       "text_2": "@data.characters.f2_grandmother.name: “Well done for putting on your pyjamas by yourself, @data.characters.f2_daughter_3.name! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!”"
     },
     {
       "id": "explore_13",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_9.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_9.svg",
       "text_2": "@data.characters.f2_grandmother.name: “You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?”\n\n @data.characters.f2_daughter_3.name: “Yay! Can you read me the story about the lion?”"
     },
     {
       "id": "explore_14",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/routines_yc_10.jpg",
+      "completed": false,
+      "image_asset": "images/comics/routines_yc_10.svg",
       "text_2": "@data.characters.f2_grandmother.name: “ “The end….” I’m glad you chose that story for us to read, it’s one of my favourites! Goodnight, my baby girl. I love you very much.”\n\n @data.characters.f2_daughter_3.name: “Goodnight, @data.characters.f2_grandmother.name.”"
     }
   ]

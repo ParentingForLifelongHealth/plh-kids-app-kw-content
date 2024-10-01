@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s come up with some ideas for reasonable and realistic consequences."
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
       "quiz_1_feedback_2": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
       "quiz_1_feedback_3": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",

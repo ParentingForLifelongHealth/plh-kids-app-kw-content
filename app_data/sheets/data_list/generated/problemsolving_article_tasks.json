@@ -5,8 +5,7 @@
   "rows": [
     {
       "id": "relax_3",
-      "completed": false,
-      "media_asset": "/videos/pause/breath_body_awareness.mp4",
+      "media_asset": "video/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
       "_translations": {
@@ -22,11 +21,11 @@
         }
       },
       "transcript": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson.",
-      "category_id": "relax"
+      "category_id": "relax",
+      "completed": false
     },
     {
       "id": "check_in_9",
-      "completed": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -55,6 +54,7 @@
         }
       },
       "category_id": "check_in",
+      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -79,7 +79,6 @@
     },
     {
       "id": "intro_1",
-      "completed": false,
       "media_asset": "/audio/solve_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "_translatedFields": {
@@ -88,6 +87,7 @@
         }
       },
       "category_id": "intro",
+      "completed": false,
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me new shoes now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
@@ -98,13 +98,13 @@
     },
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
       "_translations": {
         "text_1_facilitator": {}
@@ -112,77 +112,77 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "KNOW IT"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "KNOW IT",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_1.jpg",
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
     },
     {
       "id": "explore_3",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "SOLVE IT"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "SOLVE IT",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_2.jpg",
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
       "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "TEST IT"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "TEST IT",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "image_asset": "Iimages/comics/problem_solving_yc_3.jpg",
+      "image_asset": "images/comics/problem_solving_yc_3.svg",
       "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "REFLECT"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "REFLECT",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_4.jpg",
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
       "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”"
     },
     {
       "id": "explore_6",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well so that she has enough time to sleep after getting her homework done.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -211,13 +211,13 @@
     },
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
         "text_1_facilitator": {}
@@ -241,13 +241,13 @@
     },
     {
       "id": "practise",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s think of some common problems we could solve with our children."
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -271,7 +271,6 @@
     },
     {
       "id": "home_activity_1",
-      "completed": false,
       "media_asset": "/audio/solve_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -279,6 +278,7 @@
         }
       },
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
       "_translations": {
         "quiz_1_feedback_1": {},

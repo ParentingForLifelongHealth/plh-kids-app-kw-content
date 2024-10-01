@@ -5,8 +5,7 @@
   "rows": [
     {
       "id": "relax_3",
-      "completed": false,
-      "media_asset": "/videos/pause/breath_body_awareness.mp4",
+      "media_asset": "video/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
       "_translations": {
@@ -22,11 +21,11 @@
         }
       },
       "transcript": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson.",
-      "category_id": "relax"
+      "category_id": "relax",
+      "completed": false
     },
     {
       "id": "check_in_3",
-      "completed": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -55,6 +54,7 @@
         }
       },
       "category_id": "check_in",
+      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -79,7 +79,6 @@
     },
     {
       "id": "intro_1",
-      "completed": false,
       "media_asset": "/audio/connect_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw",
       "_translatedFields": {
@@ -88,6 +87,7 @@
         }
       },
       "category_id": "intro",
+      "completed": false,
       "image_asset": "",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
@@ -99,13 +99,13 @@
     },
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!",
       "_translations": {
         "text_1_facilitator": {}
@@ -113,41 +113,41 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/one_on_one_yc_1.png",
+      "completed": false,
+      "image_asset": "images/comics/one_on_one_yc_1.svg",
       "text_2": "*@data.characters.f2_daughter_3.name and @data.characters.f2_grandmother.name are spending special time together.* \n @data.characters.f2_grandmother.name: “I have 5 minutes and I’d like to spend it with you” , @data.characters.f2_daughter_3.name. What would you like to do?”\n @data.characters.f2_daughter_3.name: “I want to play dress-up!”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/one_on_one_yc_2.png",
+      "completed": false,
+      "image_asset": "images/comics/one_on_one_yc_2.svg",
       "text_2": "@data.characters.f2_grandmother.name: “Wonderful idea, @data.characters.f2_daughter_3.name! I see you are taking out the yellow scarf with blue stripes on it.”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/one_on_one_yc_3.jpg",
+      "completed": false,
+      "image_asset": "images/comics/one_on_one_yc_3.svg",
       "text_2": "@data.characters.f2_daughter_3.name: “@data.characters.f2_grandmother.name, it’s for you.”\n @data.characters.f2_grandmother.name: “Thank you, I love this scarf!”\n @data.characters.f2_daughter_3.name: “Wear it, @data.characters.f2_grandmother.name!”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
-      "image_asset": "images/comics/one_on_one_yc_4.jpg",
+      "completed": false,
+      "image_asset": "images/comics/one_on_one_yc_4.svg",
       "text_2": "@data.characters.f2_daughter_3.name finds a dress to wear.\n @data.characters.f2_grandmother.name: “Well done for getting that dress on by yourself, @data.characters.f2_daughter_3.name. You’re learning to do so many new things for yourself!”"
     },
     {
       "id": "explore_6",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what we saw."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Yes, she does! \r\rThe simple act of calling @data.characters.f2_daughter_3.name by her name and inviting her to play helps her to feel valued and seen.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -191,13 +191,13 @@
     },
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some easy tips on how to connect with your child when you spend time together:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "image_asset": "",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
@@ -216,7 +216,6 @@
     },
     {
       "id": "practise",
-      "completed": false,
       "media_asset": "/audio/connect_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -224,6 +223,7 @@
         }
       },
       "category_id": "practise",
+      "completed": false,
       "media_type": "audio",
       "media_title": "How it helped a parent like you:",
       "media_transcript": "When I first heard I had to spend one-on-one time with my daughter, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my daughter so that she thinks we have to do everything together. \n\rBut I really wanted to build my relationship with her and I wanted her to open up about what was troubling her. \n\rSo we tried the One-on-One Time. \n\rFirst, it felt weird, but it turned out to be fun! Now we play her favourite game together and talk about things happening at school and with her friends.",
@@ -234,8 +234,8 @@
     },
     {
       "id": "home_activity_1",
-      "completed": false,
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
       "_translations": {
         "quiz_1_feedback_1": {},

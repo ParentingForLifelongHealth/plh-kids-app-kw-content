@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s think of some common problems we could solve with our children."
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
