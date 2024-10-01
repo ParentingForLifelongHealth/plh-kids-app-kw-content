@@ -55,8 +55,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 58506 KB | 58.5 MB |
-| unused | 66368 KB | 66.4 MB |
+| total | 60020 KB | 60 MB |
+| unused | 64854 KB | 64.9 MB |
 </details>
 
 <details open>
@@ -95,17 +95,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/child_development_yc_2.svg | 123.7 |
 | images/comics/child_development_yc_3.svg | 128.1 |
 | images/comics/child_development_yc_4.svg | 123 |
-| images/comics/feelings_yc_1.svg | 106.8 |
-| images/comics/feelings_yc_2.svg | 175.7 |
-| images/comics/feelings_yc_3.svg | 183.1 |
-| images/comics/feelings_yc_4.svg | 159 |
-| images/comics/instructions_yc_1.svg | 146.4 |
-| images/comics/instructions_yc_2.svg | 154.5 |
-| images/comics/instructions_yc_3.svg | 155.2 |
-| images/comics/instructions_yc_4.svg | 60.3 |
-| images/comics/instructions_yc_5.svg | 124.9 |
-| images/comics/instructions_yc_6.svg | 122.1 |
-| images/comics/instructions_yc_7.svg | 125.9 |
 | images/comics/learn_experience_yc_5.svg | 71.1 |
 | images/comics/teach_consequences_yc_3.jpg | 3174 |
 | images/consequences.jpg | 115.1 |
@@ -207,17 +196,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_7.mp3 | 1 |
 | audio/relax/relax_8.mp3 | 1 |
 | audio/relax/relax_9.mp3 | 1 |
-| images/comics/feelings_yc_1.jpg | 3 |
-| images/comics/feelings_yc_2.jpg | 3 |
-| images/comics/feelings_yc_3.jpg | 3 |
-| images/comics/feelings_yc_4.jpg | 3 |
-| images/comics/instructions_yc_1.jpg | 3 |
-| images/comics/instructions_yc_2.jpg | 3 |
-| images/comics/instructions_yc_3.jpg | 3 |
-| images/comics/instructions_yc_4.jpg | 3 |
-| images/comics/instructions_yc_5.jpg | 3 |
-| images/comics/instructions_yc_6.jpg | 3 |
-| images/comics/instructions_yc_7.jpg | 3 |
 </details>
 
 <details >
@@ -232,6 +210,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/consequences_yc_3.svg | 156.7 | 3 |
 | images/comics/consequences_yc_4.svg | 146.5 | 3 |
 | images/comics/consequences_yc_5.svg | 64.7 | 3 |
+| images/comics/feelings_yc_1.svg | 106.8 | 3 |
+| images/comics/feelings_yc_2.svg | 175.7 | 3 |
+| images/comics/feelings_yc_3.svg | 183.1 | 3 |
+| images/comics/feelings_yc_4.svg | 159 | 3 |
+| images/comics/instructions_yc_1.svg | 146.4 | 3 |
+| images/comics/instructions_yc_2.svg | 154.5 | 3 |
+| images/comics/instructions_yc_3.svg | 155.2 | 3 |
+| images/comics/instructions_yc_4.svg | 60.3 | 3 |
+| images/comics/instructions_yc_5.svg | 124.9 | 3 |
+| images/comics/instructions_yc_6.svg | 122.1 | 3 |
+| images/comics/instructions_yc_7.svg | 125.9 | 3 |
 | images/comics/learn_experience_yc_1.svg | 77.7 | 3 |
 | images/comics/learn_experience_yc_2.svg | 82.7 | 3 |
 | images/comics/learn_experience_yc_3.svg | 81.8 | 3 |

@@ -158,13 +158,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "58506 KB",
-      "MB": "58.5 MB"
+      "KB": "60020 KB",
+      "MB": "60 MB"
     },
     {
       "assets": "unused",
-      "KB": "66368 KB",
-      "MB": "66.4 MB"
+      "KB": "64854 KB",
+      "MB": "64.9 MB"
     }
   ],
   "assets_unused": [
@@ -283,50 +283,6 @@
     {
       "path": "images/comics/child_development_yc_4.svg",
       "size_kb": 123
-    },
-    {
-      "path": "images/comics/feelings_yc_1.svg",
-      "size_kb": 106.8
-    },
-    {
-      "path": "images/comics/feelings_yc_2.svg",
-      "size_kb": 175.7
-    },
-    {
-      "path": "images/comics/feelings_yc_3.svg",
-      "size_kb": 183.1
-    },
-    {
-      "path": "images/comics/feelings_yc_4.svg",
-      "size_kb": 159
-    },
-    {
-      "path": "images/comics/instructions_yc_1.svg",
-      "size_kb": 146.4
-    },
-    {
-      "path": "images/comics/instructions_yc_2.svg",
-      "size_kb": 154.5
-    },
-    {
-      "path": "images/comics/instructions_yc_3.svg",
-      "size_kb": 155.2
-    },
-    {
-      "path": "images/comics/instructions_yc_4.svg",
-      "size_kb": 60.3
-    },
-    {
-      "path": "images/comics/instructions_yc_5.svg",
-      "size_kb": 124.9
-    },
-    {
-      "path": "images/comics/instructions_yc_6.svg",
-      "size_kb": 122.1
-    },
-    {
-      "path": "images/comics/instructions_yc_7.svg",
-      "size_kb": 125.9
     },
     {
       "path": "images/comics/learn_experience_yc_5.svg",
@@ -752,61 +708,6 @@
       "path": "audio/relax/relax_9.mp3",
       "count": 1,
       "missing": true
-    },
-    {
-      "path": "images/comics/feelings_yc_1.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/feelings_yc_2.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/feelings_yc_3.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/feelings_yc_4.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_1.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_2.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_3.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_4.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_5.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_6.jpg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "images/comics/instructions_yc_7.jpg",
-      "count": 3,
-      "missing": true
     }
   ],
   "asset_summary": [
@@ -834,6 +735,61 @@
       "path": "images/comics/consequences_yc_5.svg",
       "count": 3,
       "size_kb": 64.7
+    },
+    {
+      "path": "images/comics/feelings_yc_1.svg",
+      "count": 3,
+      "size_kb": 106.8
+    },
+    {
+      "path": "images/comics/feelings_yc_2.svg",
+      "count": 3,
+      "size_kb": 175.7
+    },
+    {
+      "path": "images/comics/feelings_yc_3.svg",
+      "count": 3,
+      "size_kb": 183.1
+    },
+    {
+      "path": "images/comics/feelings_yc_4.svg",
+      "count": 3,
+      "size_kb": 159
+    },
+    {
+      "path": "images/comics/instructions_yc_1.svg",
+      "count": 3,
+      "size_kb": 146.4
+    },
+    {
+      "path": "images/comics/instructions_yc_2.svg",
+      "count": 3,
+      "size_kb": 154.5
+    },
+    {
+      "path": "images/comics/instructions_yc_3.svg",
+      "count": 3,
+      "size_kb": 155.2
+    },
+    {
+      "path": "images/comics/instructions_yc_4.svg",
+      "count": 3,
+      "size_kb": 60.3
+    },
+    {
+      "path": "images/comics/instructions_yc_5.svg",
+      "count": 3,
+      "size_kb": 124.9
+    },
+    {
+      "path": "images/comics/instructions_yc_6.svg",
+      "count": 3,
+      "size_kb": 122.1
+    },
+    {
+      "path": "images/comics/instructions_yc_7.svg",
+      "count": 3,
+      "size_kb": 125.9
     },
     {
       "path": "images/comics/learn_experience_yc_1.svg",
