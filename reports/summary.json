@@ -14,7 +14,7 @@
     },
     {
       "type": "button",
-      "count": 30
+      "count": 31
     },
     {
       "type": "carousel",
@@ -34,7 +34,7 @@
     },
     {
       "type": "display_group",
-      "count": 33
+      "count": 35
     },
     {
       "type": "image",
@@ -42,7 +42,8 @@
     },
     {
       "type": "items",
-      "count": 8
+      "count": 9
+      "count": 9
     },
     {
       "type": "lottie_animation",
@@ -58,7 +59,7 @@
     },
     {
       "type": "set_variable",
-      "count": 407
+      "count": 397
     },
     {
       "type": "task_card",
@@ -70,11 +71,11 @@
     },
     {
       "type": "template",
-      "count": 304
+      "count": 305
     },
     {
       "type": "text",
-      "count": 43
+      "count": 52
     },
     {
       "type": "text_area",
@@ -90,7 +91,7 @@
     },
     {
       "type": "title",
-      "count": 18
+      "count": 19
     },
     {
       "type": "update_action_list",
@@ -104,7 +105,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 269
+      "count": 270
     },
     {
       "type": "emit: force_reload",
@@ -128,7 +129,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 267
+      "count": 268
     },
     {
       "type": "feedback",
@@ -136,11 +137,11 @@
     },
     {
       "type": "go_to",
-      "count": 11
+      "count": 12
     },
     {
       "type": "pop_up",
-      "count": 5
+      "count": 6
     },
     {
       "type": "set_field",
@@ -163,8 +164,8 @@
     },
     {
       "assets": "unused",
-      "KB": "65655 KB",
-      "MB": "65.7 MB"
+      "KB": "65628 KB",
+      "MB": "65.6 MB"
     }
   ],
   "assets_unused": [
@@ -383,10 +384,6 @@
     {
       "path": "images/instructions.svg",
       "size_kb": 23.2
-    },
-    {
-      "path": "images/logos/PLH.png",
-      "size_kb": 26.6
     },
     {
       "path": "images/logos/favicon.png",
@@ -1082,14 +1079,14 @@
       "size_kb": 84.6
     },
     {
+      "path": "images/logos/PLH.png",
+      "count": 1,
+      "size_kb": 26.6
+    },
+    {
       "path": "images/logos/kuwait.png",
       "count": 1,
       "size_kb": 248
-    },
-    {
-      "path": "images/logos/plh.png",
-      "count": 1,
-      "size_kb": 26.6
     },
     {
       "path": "images/logos/plh_white.png",
@@ -1151,12 +1148,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 47
+      "total": 49
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 285
+      "total": 294
     },
     {
       "type": "template",

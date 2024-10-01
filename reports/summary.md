@@ -6,26 +6,26 @@
 | accordion | 1 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 30 |
+| button | 31 |
 | carousel | 1 |
 | combo_box | 2 |
 | data_items | 1 |
 | display_grid | 2 |
-| display_group | 33 |
+| display_group | 35 |
 | image | 1 |
-| items | 8 |
+| items | 9 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 407 |
+| set_variable | 397 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 304 |
-| text | 43 |
+| template | 305 |
+| text | 52 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
-| title | 18 |
+| title | 19 |
 | update_action_list | 1 |
 </details>
 
@@ -35,16 +35,16 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 269 |
+| emit: completed | 270 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 267 |
+| emit: uncompleted | 268 |
 | feedback | 7 |
-| go_to | 11 |
-| pop_up | 5 |
+| go_to | 12 |
+| pop_up | 6 |
 | set_field | 13 |
 | set_local | 7 |
 | user | 1 |
@@ -56,7 +56,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 66494 KB | 66.5 MB |
-| unused | 65655 KB | 65.7 MB |
+| unused | 65628 KB | 65.6 MB |
 </details>
 
 <details open>
@@ -120,7 +120,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
 | images/instructions.svg | 23.2 |
-| images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 6.3 |
 | images/one_on_one_challenges.svg | 13.1 |
 | images/praise.svg | 11.3 |
@@ -279,8 +278,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/kw_facilitator_rd.png | 87.3 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
+| images/logos/PLH.png | 26.6 | 1 |
 | images/logos/kuwait.png | 248 | 1 |
-| images/logos/plh.png | 26.6 | 1 |
 | images/logos/plh_white.png | 12.8 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | video/pause/body_scan.mp4 | 10418.6 | 7 |
@@ -299,7 +298,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | global |  | 2 |
-| template |  | 47 |
-| template | generated | 285 |
+| template |  | 49 |
+| template | generated | 294 |
 | template | legal_terms | 4 |
 </details>

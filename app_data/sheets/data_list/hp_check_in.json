@@ -142,7 +142,7 @@
           "eng": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!"
         },
         "outro_text": {
-          "eng": "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!"
+          "eng": "You deserve some praise, too. Thank you again for using @global.app_name. It shows you really care!"
         },
         "activity_title": {
           "eng": "How did your practice go?"
@@ -158,13 +158,13 @@
       "reply_happy": "Great to hear it went well! Keep up the praise – you will see your child do more and more of the behaviour you like to see!",
       "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see.",
       "reply_sad": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!",
-      "outro_text": "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!",
+      "outro_text": "You deserve some praise, too. Thank you again for using @global.app_name. It shows you really care!",
       "activity_title": "How did your practice go?",
       "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?"
     },
     {
-      "id": "instruct",
+      "id": "instructions",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home practice was to try out POSITIVE, SPECIFIC, and REALISTIC  instructions with your child.",
       "_translations": {

@@ -1,0 +1,31 @@
+{
+  "flow_name": "praise_hp_review_congrats",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "outro_text",
+      "value": "You deserve some praise, too. Thank you again for using @global.app_name. It shows you really care!",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "outro_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "You deserve some praise, too. Thank you again for using @global.app_name. It shows you really care!",
+            "matchedExpression": "@global.app_name",
+            "type": "global",
+            "fieldName": "app_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.app_name": [
+          "value"
+        ]
+      }
+    }
+  ]
+}
