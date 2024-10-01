@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
         "text_1_facilitator": {}
@@ -19,48 +19,48 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/consequences_yc_1.svg",
       "text_2": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/consequences_yc_2.svg",
       "text_2": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/consequences_yc_3.svg",
       "text_2": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/consequences_yc_4.svg",
       "text_2": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”"
     },
     {
       "id": "explore_6",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/consequences_yc_5.svg",
       "text_2": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”"
     },
     {
       "id": "explore_7",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "quiz_1_feedback_2": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_1_feedback_3": "Try again! @data.characters.f3_uncle.name never yelled.",

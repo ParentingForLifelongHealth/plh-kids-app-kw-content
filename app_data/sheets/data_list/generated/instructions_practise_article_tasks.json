@@ -5,13 +5,13 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones."
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "\"Please take turns with toys! Each of you can have 5 minutes.\"",
       "quiz_1_feedback_2": "\"Please speak with a quiet, indoor voice.\"",
       "quiz_1_feedback_3": "\"Please keep your food on the plate.\"",

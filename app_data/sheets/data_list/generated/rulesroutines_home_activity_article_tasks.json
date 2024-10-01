@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "completed": false,
       "media_asset": "/audio/rules_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -13,6 +12,7 @@
         }
       },
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "That's great! I hope it makes your home feel easier to manage for everyone.",
       "quiz_1_feedback_2": "That's okay. Setting rules is hard and including children can feel uncomfortable, especially if you’re not used to it. Keep trying until you find a way that works for you and your children. I promise, it will be worth it!",
       "quiz_1_question": "Can you set one routine and one rule with your child?",

@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "practise",
-      "completed": false,
       "media_asset": "/audio/feelings_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -13,6 +12,7 @@
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "It is never fun to run late, but @data.characters.f1_mother.name will miss the opportunity to help her son learn to deal with his frustration if she doesn't help him first recognise what he’s feeling.",
       "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
       "quiz_1_question": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?",

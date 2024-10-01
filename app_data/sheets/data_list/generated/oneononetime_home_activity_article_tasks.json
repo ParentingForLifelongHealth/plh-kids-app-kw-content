@@ -5,8 +5,8 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "completed": false,
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
       "quiz_1_feedback_2": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together.",
       "quiz_1_feedback_3": "Excellent idea! The journey to school or daycare can be a special time to connect with your child.",

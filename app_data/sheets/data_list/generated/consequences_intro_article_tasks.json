@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "intro_1",
-      "completed": false,
       "media_asset": "/audio/consequences_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8",
       "_translatedFields": {
@@ -14,6 +13,7 @@
         }
       },
       "category_id": "intro",
+      "completed": false,
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_transcript": "We all misbehave sometimes! \n\nAs parents, we are also sometimes tempted to scream and shout when our children misbehave. But that just makes everything worse for everyone.\n\nIf we stay calm and give our children a consequence instead, they start to learn to take responsibility for their actions and we avoid the anger that comes with hitting or shouting.",

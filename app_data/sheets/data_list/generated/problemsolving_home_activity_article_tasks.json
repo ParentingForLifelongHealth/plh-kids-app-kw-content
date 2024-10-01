@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "completed": false,
       "media_asset": "/audio/solve_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -13,6 +12,7 @@
         }
       },
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
       "quiz_1_feedback_2": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
       "quiz_1_feedback_3": "That's okay. Try to work on a simple problem with your child, before you tackle a big one together.",

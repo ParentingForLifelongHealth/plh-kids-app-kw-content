@@ -5,8 +5,7 @@
   "rows": [
     {
       "id": "relax_3",
-      "completed": false,
-      "media_asset": "/videos/pause/breath_body_awareness.mp4",
+      "media_asset": "video/pause/breath_body_awareness.mp4",
       "type": "passive_short",
       "title": "Breath and Body Awareness",
       "_translations": {
@@ -22,11 +21,11 @@
         }
       },
       "transcript": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson.",
-      "category_id": "relax"
+      "category_id": "relax",
+      "completed": false
     },
     {
       "id": "check_in_6",
-      "completed": false,
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "text_1": {
@@ -55,6 +54,7 @@
         }
       },
       "category_id": "check_in",
+      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -79,7 +79,6 @@
     },
     {
       "id": "intro_1",
-      "completed": false,
       "media_asset": "/audio/instructions_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/12kV7LV3NGRg22ss4c5FHXvsITKeiGCaUjbn3Rztxls4",
       "_translatedFields": {
@@ -88,6 +87,7 @@
         }
       },
       "category_id": "intro",
+      "completed": false,
       "media_type": "video",
       "media_title": "How will this help you and your family?",
       "media_transcript": "Let’s try something: Don’t think about a pink elephant…\nWhat did you think about? A pink elephant?\n\nThe same happens when we give negative instructions to our children. When we tell them “stop fighting” or “stop playing with your food”, they don’t know how to think about what we DO want them to do, only what we DON’T want them to do.”\n\nWhen you give a positive instruction, your child is more likely to follow it.",
@@ -98,13 +98,13 @@
     },
     {
       "id": "explore_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
       "_translations": {
         "text_1_facilitator": {}
@@ -112,41 +112,41 @@
     },
     {
       "id": "explore_2",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_1.jpg",
       "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”"
     },
     {
       "id": "explore_3",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_2.jpg",
       "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
     },
     {
       "id": "explore_4",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_3.jpg",
       "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”"
     },
     {
       "id": "explore_5",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_4.jpg",
       "text_2": "@data.characters.f1_mother.name: “Once upon a time…”"
     },
     {
       "id": "explore_7",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:"
         }
       },
       "category_id": "explore",
+      "completed": false,
       "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
       "_translations": {
         "text_1_facilitator": {}
@@ -154,34 +154,34 @@
     },
     {
       "id": "explore_8",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_5.jpg",
       "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!"
     },
     {
       "id": "explore_9",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_6.jpg",
       "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together."
     },
     {
       "id": "explore_10",
-      "completed": false,
       "category_id": "explore",
+      "completed": false,
       "image_asset": "images/comics/instructions_yc_7.jpg",
       "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together."
     },
     {
       "id": "explore_11",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -210,13 +210,13 @@
     },
     {
       "id": "explore_12",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
         }
       },
       "category_id": "explore",
+      "completed": false,
       "quiz_1_feedback_1": "Yes, the situation between the children would have gotten out of hand.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -245,13 +245,13 @@
     },
     {
       "id": "tips_1",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are three tips to give positive instructions that work:"
         }
       },
       "category_id": "practical_tips",
+      "completed": false,
       "text_1_facilitator": "Here are three tips to give positive instructions that work:",
       "_translations": {
         "text_1_facilitator": {}
@@ -271,13 +271,13 @@
     },
     {
       "id": "practise",
-      "completed": false,
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones."
         }
       },
       "category_id": "practise",
+      "completed": false,
       "quiz_1_feedback_1": "\"Please take turns with toys! Each of you can have 5 minutes.\"",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -303,7 +303,6 @@
     },
     {
       "id": "home_activity_1",
-      "completed": false,
       "media_asset": "/audio/instructions_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -311,6 +310,7 @@
         }
       },
       "category_id": "home_activity",
+      "completed": false,
       "quiz_1_feedback_1": "Of course, you can! It might feel awkward at first, but you will get it soon! Keep up the excellent effort.",
       "_translations": {
         "quiz_1_feedback_1": {},
