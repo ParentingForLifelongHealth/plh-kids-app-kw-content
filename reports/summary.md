@@ -55,8 +55,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 60020 KB | 60 MB |
-| unused | 64854 KB | 64.9 MB |
+| total | 66494 KB | 66.5 MB |
+| unused | 65655 KB | 65.7 MB |
 </details>
 
 <details open>
@@ -85,6 +85,9 @@ Assets that appear in app-data but do not have references within sheets
 | audio/learn_audio_2.mp3 | 254.5 |
 | audio/praise_audio_1.mp3 | 344 |
 | audio/praise_audio_2.mp3 | 1042.6 |
+| audio/relax/relax_1.mp3 | 265.1 |
+| audio/relax/relax_2.mp3 | 404.4 |
+| audio/relax/relax_3.mp3 | 235.1 |
 | audio/rules_audio_1.mp3 | 427.6 |
 | audio/rules_audio_2.mp3 | 742.7 |
 | audio/solve_audio_1.mp3 | 609 |
@@ -98,7 +101,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/learn_experience_yc_5.svg | 71.1 |
 | images/comics/teach_consequences_yc_3.jpg | 3174 |
 | images/consequences.jpg | 115.1 |
-| images/facilitators_face.svg | 39.3 |
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -118,8 +120,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
 | images/instructions.svg | 23.2 |
-| images/kw_facilitator_rd.jpg | 35.2 |
-| images/kw_facilitator_sq.jpg | 30 |
 | images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 6.3 |
 | images/one_on_one_challenges.svg | 13.1 |
@@ -175,27 +175,6 @@ Assets that have references within sheets but do not appear in app-data
 | /images/rulesroutines.jpg | 1 |
 | /images/selfcare.jpg | 1 |
 | /images/talk_feelings_challenges.svg | 1 |
-| audio/relax/relax_10.mp3 | 1 |
-| audio/relax/relax_11.mp3 | 1 |
-| audio/relax/relax_12.mp3 | 1 |
-| audio/relax/relax_13.mp3 | 1 |
-| audio/relax/relax_14.mp3 | 1 |
-| audio/relax/relax_15.mp3 | 1 |
-| audio/relax/relax_16.mp3 | 1 |
-| audio/relax/relax_17.mp3 | 1 |
-| audio/relax/relax_18.mp3 | 1 |
-| audio/relax/relax_19.mp3 | 1 |
-| audio/relax/relax_20.mp3 | 1 |
-| audio/relax/relax_21.mp3 | 1 |
-| audio/relax/relax_22.mp3 | 1 |
-| audio/relax/relax_23.mp3 | 1 |
-| audio/relax/relax_24.mp3 | 1 |
-| audio/relax/relax_4.mp3 | 1 |
-| audio/relax/relax_5.mp3 | 1 |
-| audio/relax/relax_6.mp3 | 1 |
-| audio/relax/relax_7.mp3 | 1 |
-| audio/relax/relax_8.mp3 | 1 |
-| audio/relax/relax_9.mp3 | 1 |
 </details>
 
 <details >
@@ -205,6 +184,27 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| audio/relax/relax_10.mp3 | 404.9 | 1 |
+| audio/relax/relax_11.mp3 | 445.6 | 1 |
+| audio/relax/relax_12.mp3 | 539.7 | 1 |
+| audio/relax/relax_13.mp3 | 398.4 | 1 |
+| audio/relax/relax_14.mp3 | 256.9 | 1 |
+| audio/relax/relax_15.mp3 | 125 | 1 |
+| audio/relax/relax_16.mp3 | 150.9 | 1 |
+| audio/relax/relax_17.mp3 | 148 | 1 |
+| audio/relax/relax_18.mp3 | 312.9 | 1 |
+| audio/relax/relax_19.mp3 | 454 | 1 |
+| audio/relax/relax_20.mp3 | 539.8 | 1 |
+| audio/relax/relax_21.mp3 | 189.3 | 1 |
+| audio/relax/relax_22.mp3 | 109.8 | 1 |
+| audio/relax/relax_23.mp3 | 122.9 | 1 |
+| audio/relax/relax_24.mp3 | 121.3 | 1 |
+| audio/relax/relax_4.mp3 | 514.5 | 1 |
+| audio/relax/relax_5.mp3 | 195.7 | 1 |
+| audio/relax/relax_6.mp3 | 280.7 | 1 |
+| audio/relax/relax_7.mp3 | 285.3 | 1 |
+| audio/relax/relax_8.mp3 | 302 | 1 |
+| audio/relax/relax_9.mp3 | 576.6 | 1 |
 | images/comics/consequences_yc_1.svg | 117.6 | 3 |
 | images/comics/consequences_yc_2.svg | 150.5 | 3 |
 | images/comics/consequences_yc_3.svg | 156.7 | 3 |
