@@ -34,7 +34,7 @@
     },
     {
       "type": "display_group",
-      "count": 35
+      "count": 33
     },
     {
       "type": "image",
@@ -42,7 +42,6 @@
     },
     {
       "type": "items",
-      "count": 9
       "count": 9
     },
     {
@@ -159,13 +158,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "66494 KB",
-      "MB": "66.5 MB"
+      "KB": "79313 KB",
+      "MB": "79.3 MB"
     },
     {
       "assets": "unused",
-      "KB": "65628 KB",
-      "MB": "65.6 MB"
+      "KB": "52809 KB",
+      "MB": "52.8 MB"
     }
   ],
   "assets_unused": [
@@ -186,64 +185,8 @@
       "size_kb": 239
     },
     {
-      "path": "audio/care_audio_1.mp3",
-      "size_kb": 527.5
-    },
-    {
-      "path": "audio/care_audio_2.mp3",
-      "size_kb": 1166.3
-    },
-    {
       "path": "audio/celebrate_audio_1.mp3",
       "size_kb": 497.1
-    },
-    {
-      "path": "audio/connect_audio_1.mp3",
-      "size_kb": 891.7
-    },
-    {
-      "path": "audio/connect_audio_2.mp3",
-      "size_kb": 981.4
-    },
-    {
-      "path": "audio/consequences_audio_1.mp3",
-      "size_kb": 800.2
-    },
-    {
-      "path": "audio/consequences_audio_2.mp3",
-      "size_kb": 1206.6
-    },
-    {
-      "path": "audio/feelings_audio_1.mp3",
-      "size_kb": 336
-    },
-    {
-      "path": "audio/feelings_audio_2.mp3",
-      "size_kb": 635.8
-    },
-    {
-      "path": "audio/instructions_audio_1.mp3",
-      "size_kb": 613.7
-    },
-    {
-      "path": "audio/instructions_audio_2.mp3",
-      "size_kb": 784.2
-    },
-    {
-      "path": "audio/learn_audio_1.mp3",
-      "size_kb": 563.1
-    },
-    {
-      "path": "audio/learn_audio_2.mp3",
-      "size_kb": 254.5
-    },
-    {
-      "path": "audio/praise_audio_1.mp3",
-      "size_kb": 344
-    },
-    {
-      "path": "audio/praise_audio_2.mp3",
-      "size_kb": 1042.6
     },
     {
       "path": "audio/relax/relax_1.mp3",
@@ -258,28 +201,8 @@
       "size_kb": 235.1
     },
     {
-      "path": "audio/rules_audio_1.mp3",
-      "size_kb": 427.6
-    },
-    {
-      "path": "audio/rules_audio_2.mp3",
-      "size_kb": 742.7
-    },
-    {
-      "path": "audio/solve_audio_1.mp3",
-      "size_kb": 609
-    },
-    {
-      "path": "audio/solve_audio_2.mp3",
-      "size_kb": 468.1
-    },
-    {
       "path": "contents.json",
       "size_kb": 5.9
-    },
-    {
-      "path": "images/childdevelopment.svg",
-      "size_kb": 20.3
     },
     {
       "path": "images/comics/child_development_yc_1.svg",
@@ -306,10 +229,6 @@
       "size_kb": 3174
     },
     {
-      "path": "images/consequences.jpg",
-      "size_kb": 115.1
-    },
-    {
       "path": "images/flags/tz.svg",
       "size_kb": 0.5
     },
@@ -330,20 +249,12 @@
       "size_kb": 0.6
     },
     {
-      "path": "images/icons/faces/happiest.svg",
-      "size_kb": 1.3
-    },
-    {
       "path": "images/icons/faces/sadder.svg",
       "size_kb": 1.1
     },
     {
       "path": "images/icons/faces/saddest.svg",
       "size_kb": 2
-    },
-    {
-      "path": "images/icons/faces/scared.svg",
-      "size_kb": 2.1
     },
     {
       "path": "images/icons/faces/tired.svg",
@@ -382,36 +293,8 @@
       "size_kb": 0.8
     },
     {
-      "path": "images/instructions.svg",
-      "size_kb": 23.2
-    },
-    {
       "path": "images/logos/favicon.png",
       "size_kb": 6.3
-    },
-    {
-      "path": "images/one_on_one_challenges.svg",
-      "size_kb": 13.1
-    },
-    {
-      "path": "images/praise.svg",
-      "size_kb": 11.3
-    },
-    {
-      "path": "images/problemsolving.svg",
-      "size_kb": 19.6
-    },
-    {
-      "path": "images/rulesroutines.jpg",
-      "size_kb": 102.2
-    },
-    {
-      "path": "images/selfcare.jpg",
-      "size_kb": 96.6
-    },
-    {
-      "path": "images/talk_feelings_challenges.svg",
-      "size_kb": 19.3
     },
     {
       "path": "lottie/bulging_circles.txt",
@@ -430,179 +313,78 @@
       "size_kb": 36376.3
     }
   ],
-  "assets_missing": [
-    {
-      "path": "/audio/care_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/care_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/connect_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/connect_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/consequences_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/consequences_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/feelings_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/feelings_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/instructions_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/instructions_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/learn_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/learn_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/praise_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/praise_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/rules_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/rules_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/solve_audio_1.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/audio/solve_audio_2.mp3",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/images/childdevelopment.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/consequences.jpg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/happiest.svg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/happy.svg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/happy_face_new.svg",
-      "count": 6,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/ok_face_new.svg",
-      "count": 6,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/sad.svg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/sad_face_new.svg",
-      "count": 6,
-      "missing": true
-    },
-    {
-      "path": "/images/icons/faces/scared.svg",
-      "count": 3,
-      "missing": true
-    },
-    {
-      "path": "/images/instructions.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/one_on_one_challenges.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/praise.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/problemsolving.svg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/rulesroutines.jpg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/selfcare.jpg",
-      "count": 1,
-      "missing": true
-    },
-    {
-      "path": "/images/talk_feelings_challenges.svg",
-      "count": 1,
-      "missing": true
-    }
-  ],
+  "assets_missing": [],
   "asset_summary": [
+    {
+      "path": "audio/care_audio_1.mp3",
+      "count": 3,
+      "size_kb": 527.5
+    },
+    {
+      "path": "audio/care_audio_2.mp3",
+      "count": 3,
+      "size_kb": 1166.3
+    },
+    {
+      "path": "audio/connect_audio_1.mp3",
+      "count": 3,
+      "size_kb": 891.7
+    },
+    {
+      "path": "audio/connect_audio_2.mp3",
+      "count": 3,
+      "size_kb": 981.4
+    },
+    {
+      "path": "audio/consequences_audio_1.mp3",
+      "count": 3,
+      "size_kb": 800.2
+    },
+    {
+      "path": "audio/consequences_audio_2.mp3",
+      "count": 3,
+      "size_kb": 1206.6
+    },
+    {
+      "path": "audio/feelings_audio_1.mp3",
+      "count": 3,
+      "size_kb": 336
+    },
+    {
+      "path": "audio/feelings_audio_2.mp3",
+      "count": 3,
+      "size_kb": 635.8
+    },
+    {
+      "path": "audio/instructions_audio_1.mp3",
+      "count": 3,
+      "size_kb": 613.7
+    },
+    {
+      "path": "audio/instructions_audio_2.mp3",
+      "count": 3,
+      "size_kb": 784.2
+    },
+    {
+      "path": "audio/learn_audio_1.mp3",
+      "count": 3,
+      "size_kb": 563.1
+    },
+    {
+      "path": "audio/learn_audio_2.mp3",
+      "count": 3,
+      "size_kb": 254.5
+    },
+    {
+      "path": "audio/praise_audio_1.mp3",
+      "count": 3,
+      "size_kb": 344
+    },
+    {
+      "path": "audio/praise_audio_2.mp3",
+      "count": 3,
+      "size_kb": 1042.6
+    },
     {
       "path": "audio/relax/relax_10.mp3",
       "count": 1,
@@ -707,6 +489,31 @@
       "path": "audio/relax/relax_9.mp3",
       "count": 1,
       "size_kb": 576.6
+    },
+    {
+      "path": "audio/rules_audio_1.mp3",
+      "count": 3,
+      "size_kb": 427.6
+    },
+    {
+      "path": "audio/rules_audio_2.mp3",
+      "count": 3,
+      "size_kb": 742.7
+    },
+    {
+      "path": "audio/solve_audio_1.mp3",
+      "count": 3,
+      "size_kb": 609
+    },
+    {
+      "path": "audio/solve_audio_2.mp3",
+      "count": 3,
+      "size_kb": 468.1
+    },
+    {
+      "path": "images/childdevelopment.svg",
+      "count": 1,
+      "size_kb": 20.3
     },
     {
       "path": "images/comics/consequences_yc_1.svg",
@@ -959,6 +766,11 @@
       "size_kb": 61.5
     },
     {
+      "path": "images/consequences.jpg",
+      "count": 1,
+      "size_kb": 115.1
+    },
+    {
       "path": "images/flags/gb.svg",
       "count": 2,
       "size_kb": 0.5
@@ -974,13 +786,18 @@
       "size_kb": 0.7
     },
     {
+      "path": "images/icons/faces/happiest.svg",
+      "count": 3,
+      "size_kb": 1.3
+    },
+    {
       "path": "images/icons/faces/happy.svg",
-      "count": 2,
+      "count": 5,
       "size_kb": 0.6
     },
     {
       "path": "images/icons/faces/happy_face_new.svg",
-      "count": 34,
+      "count": 40,
       "size_kb": 1.4
     },
     {
@@ -990,18 +807,23 @@
     },
     {
       "path": "images/icons/faces/ok_face_new.svg",
-      "count": 34,
+      "count": 40,
       "size_kb": 0.5
     },
     {
       "path": "images/icons/faces/sad.svg",
-      "count": 2,
+      "count": 5,
       "size_kb": 0.6
     },
     {
       "path": "images/icons/faces/sad_face_new.svg",
-      "count": 34,
+      "count": 40,
       "size_kb": 1.5
+    },
+    {
+      "path": "images/icons/faces/scared.svg",
+      "count": 3,
+      "size_kb": 2.1
     },
     {
       "path": "images/icons/heart.svg",
@@ -1069,6 +891,11 @@
       "size_kb": 0.3
     },
     {
+      "path": "images/instructions.svg",
+      "count": 1,
+      "size_kb": 23.2
+    },
+    {
       "path": "images/kw_facilitator_rd.png",
       "count": 1,
       "size_kb": 87.3
@@ -1092,6 +919,36 @@
       "path": "images/logos/plh_white.png",
       "count": 1,
       "size_kb": 12.8
+    },
+    {
+      "path": "images/one_on_one_challenges.svg",
+      "count": 1,
+      "size_kb": 13.1
+    },
+    {
+      "path": "images/praise.svg",
+      "count": 1,
+      "size_kb": 11.3
+    },
+    {
+      "path": "images/problemsolving.svg",
+      "count": 1,
+      "size_kb": 19.6
+    },
+    {
+      "path": "images/rulesroutines.jpg",
+      "count": 1,
+      "size_kb": 102.2
+    },
+    {
+      "path": "images/selfcare.jpg",
+      "count": 1,
+      "size_kb": 96.6
+    },
+    {
+      "path": "images/talk_feelings_challenges.svg",
+      "count": 1,
+      "size_kb": 19.3
     },
     {
       "path": "lottie/bulging_circles.json",
