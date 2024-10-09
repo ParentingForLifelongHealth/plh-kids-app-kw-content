@@ -28,6 +28,32 @@
       "section_3_text": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and this will help them to feel secure. They will learn to be more independent and responsible.",
       "section_3_button_text": "More tips",
       "section_3_extra_text": "Activities become easier when children learn and get used to a routine."
+    },
+    {
+      "id": "tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s come up with some ideas for rules and routines in your home."
+        }
+      },
+      "category_id": "practical_tips",
+      "completed": false,
+      "text_1_facilitator": "Let’s come up with some ideas for rules and routines in your home.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "section_1_title": "FIX YOUR TECH",
+      "section_1_text": "Take control of your devices to keep them safe for your children.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Set up [parental controls](https://www.internetmatters.org/parental-controls/)  on your gadgets \n\nTurn on [SafeSearch](https://www.internetmatters.org/parental-controls/entertainment-search-engines/) on your browser \n\nSet up strict [privacy settings](https://www.internetmatters.org/parental-controls/social-media/) on online  apps and games \n\nCover webcams when not in use",
+      "section_2_title": "USE SAFE ONLINE HABITS",
+      "section_2_text": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to understand and do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping) \n\nTell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
+      "section_3_title": "SPEND TIME WITH YOUR CHILD",
+      "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \r\rTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages."
     }
   ]
 }

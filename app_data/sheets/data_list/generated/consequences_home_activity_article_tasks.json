@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "media_asset": "/audio/consequences_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nYour home activity is to have a discussion with your child about one persistent challenging household rule and discuss a possible consequence. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child."
@@ -20,9 +19,6 @@
       "quiz_1_option_1_text": "Yes!",
       "quiz_1_option_2_text": "I think so!",
       "quiz_1_option_3_text": "No",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you",
-      "media_transcript": "When my children misbehaved, I would sometimes let it go and other times I would shout at them and punish them right away. But the next time they did it again! \n\n@global.app_name helped me understand that I can do things differently. Instead of punishing them, I stay calm and give them a consequence to help them change their behaviour.     \n\nGiving consequences has really helped me manage my child’s behaviour, and I have less stress feeling like I am constantly punishing my child. I wish I knew this long ago, but it is never too late to start!",
       "text_1_facilitator": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nYour home activity is to have a discussion with your child about one persistent challenging household rule and discuss a possible consequence. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child.",
       "_translations": {
         "text_1_facilitator": {}

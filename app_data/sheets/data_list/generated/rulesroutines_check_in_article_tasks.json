@@ -7,9 +7,6 @@
       "id": "check_in_7",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
-        "text_1": {
-          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
-        },
         "quiz_1_feedback_1": {
           "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
         },
@@ -37,9 +34,8 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Remember that YOU matter! Let’s check in with our emotions first.",
+      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
       "_translations": {
-        "text_1": {},
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
@@ -48,7 +44,6 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
       "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
       "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
       "quiz_1_question": "How are you feeling today?",

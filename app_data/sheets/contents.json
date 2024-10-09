@@ -548,8 +548,2655 @@
       "_xlsxPath": "KW modules.xlsx"
     }
   },
-  "data_pipe": {},
-  "generator": {},
+  "data_pipe": {
+    "prep_childdevelopment_articles": {
+      "flow_name": "prep_childdevelopment_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "childdevelopment_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_childdevelopment_categories": {
+      "flow_name": "prep_childdevelopment_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "childdevelopment_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_consequences_articles": {
+      "flow_name": "prep_consequences_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "consequences_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_consequences_categories": {
+      "flow_name": "prep_consequences_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "consequences_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_feelings_articles": {
+      "flow_name": "prep_feelings_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "feelings_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_feelings_categories": {
+      "flow_name": "prep_feelings_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "feelings_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_instructions_articles": {
+      "flow_name": "prep_instructions_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "instructions_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_instructions_categories": {
+      "flow_name": "prep_instructions_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "instructions_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_oneononetime_articles": {
+      "flow_name": "prep_oneononetime_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_oneononetime_categories": {
+      "flow_name": "prep_oneononetime_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_praise_articles": {
+      "flow_name": "prep_praise_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "praise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_praise_categories": {
+      "flow_name": "prep_praise_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "praise_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_problemsolving_articles": {
+      "flow_name": "prep_problemsolving_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "problemsolving_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_problemsolving_categories": {
+      "flow_name": "prep_problemsolving_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "problemsolving_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_rulesroutines_articles": {
+      "flow_name": "prep_rulesroutines_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "rulesroutines_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_rulesroutines_categories": {
+      "flow_name": "prep_rulesroutines_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "rulesroutines_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_selfcare_articles": {
+      "flow_name": "prep_selfcare_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_selfcare_categories": {
+      "flow_name": "prep_selfcare_categories",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_category_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_check_in_articles": {
+      "flow_name": "prep_split_check_in_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_childdevelopment_articles": {
+      "flow_name": "prep_split_childdevelopment_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "childdevelopment_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_consequences_articles": {
+      "flow_name": "prep_split_consequences_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "consequences_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_explore_articles": {
+      "flow_name": "prep_split_explore_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_explore_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_feelings_articles": {
+      "flow_name": "prep_split_feelings_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "feelings_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_home_activity_articles": {
+      "flow_name": "prep_split_home_activity_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_home_activity_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_instructions_articles": {
+      "flow_name": "prep_split_instructions_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "instructions_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_intro_articles": {
+      "flow_name": "prep_split_intro_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_intro_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_oneononetime_articles": {
+      "flow_name": "prep_split_oneononetime_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_practical_tips_articles": {
+      "flow_name": "prep_split_practical_tips_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_practical_tips_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_practise_articles": {
+      "flow_name": "prep_split_practise_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_practise_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_praise_articles": {
+      "flow_name": "prep_split_praise_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "praise_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_problemsolving_articles": {
+      "flow_name": "prep_split_problemsolving_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "problemsolving_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_relax_articles": {
+      "flow_name": "prep_split_relax_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "childdevelopment_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "oneononetime_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "praise_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "feelings_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "instructions_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "consequences_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "problemsolving_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_rulesroutines_articles": {
+      "flow_name": "prep_split_rulesroutines_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "rulesroutines_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "rulesroutines_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
+    "prep_split_selfcare_articles": {
+      "flow_name": "prep_split_selfcare_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe",
+      "_output_flows": [
+        {
+          "flow_name": "selfcare_relax_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        },
+        {
+          "flow_name": "selfcare_check_in_article_tasks",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    }
+  },
+  "generator": {
+    "check_in_article_generator": {
+      "flow_type": "generator",
+      "flow_name": "check_in_article_generator",
+      "parameter_list": {
+        "input_data_list": "check_in",
+        "output_flow_name": "article_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/check_in article_generator.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_check_in_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_14",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_15",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_check_in_16",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "childdevelopment_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "childdevelopment_article_gen",
+      "parameter_list": {
+        "input_data_list": "childdevelopment_articles",
+        "output_flow_name": "article_childdevelopment_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "childdevelopment",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_childdevelopment_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_explore_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_childdevelopment_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "childdevelopment_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "childdevelopment_category_gen",
+      "parameter_list": {
+        "input_data_list": "childdevelopment_articles",
+        "output_flow_name": "category_childdevelopment_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "childdevelopment",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_childdevelopment_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_explore_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_childdevelopment_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "consequences_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "consequences_article_gen",
+      "parameter_list": {
+        "input_data_list": "consequences_articles",
+        "output_flow_name": "article_consequences_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "consequences",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_consequences_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_consequences_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "feelings_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "feelings_article_gen",
+      "parameter_list": {
+        "input_data_list": "feelings_articles",
+        "output_flow_name": "article_feelings_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "feelings",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_feelings_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_feelings_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "feelings_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "feelings_category_gen",
+      "parameter_list": {
+        "input_data_list": "feelings_articles",
+        "output_flow_name": "category_feelings_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "feelings",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_feelings_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_feelings_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_module": {
+      "flow_type": "generator",
+      "flow_name": "gen_module",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "module_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_selfcare",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_childdevelopment",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_oneononetime",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_praise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_feelings",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_instructions",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_rulesroutines",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_consequences",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_problemsolving",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_module_overview": {
+      "flow_type": "generator",
+      "flow_name": "gen_module_overview",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "module_overview_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/modules/module_navigation.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "module_overview_selfcare",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_childdevelopment",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_oneononetime",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_praise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_feelings",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_instructions",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_rulesroutines",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_consequences",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_problemsolving",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_prep_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_prep_articles",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "prep_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "KW modules_data_pipes.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "prep_selfcare_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_childdevelopment_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_oneononetime_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_praise_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_feelings_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_instructions_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_rulesroutines_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_consequences_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_problemsolving_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        }
+      ]
+    },
+    "gen_prep_categories": {
+      "flow_type": "generator",
+      "flow_name": "gen_prep_categories",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "prep_{@gen.id}_categories",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "KW modules_data_pipes.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "prep_selfcare_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_childdevelopment_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_oneononetime_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_praise_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_feelings_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_instructions_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_rulesroutines_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_consequences_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_problemsolving_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        }
+      ]
+    },
+    "gen_relax": {
+      "flow_type": "generator",
+      "flow_name": "gen_relax",
+      "parameter_list": {
+        "input_data_list": "relax",
+        "output_flow_name": "article_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/library/relax_activities.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_relax_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_14",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_15",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_16",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_17",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_18",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_19",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_20",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_21",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_22",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_23",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_relax_24",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_relax_text": {
+      "flow_type": "generator",
+      "flow_name": "gen_relax_text",
+      "parameter_list": {
+        "input_data_list": "relax",
+        "output_flow_name": "text_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/library/relax_activities.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "text_relax_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_14",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_15",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_16",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_17",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_18",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_19",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_20",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_21",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_22",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_23",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "text_relax_24",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_split_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_split_articles",
+      "parameter_list": {
+        "input_data_list": "common_categories",
+        "output_flow_name": "prep_split_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "KW modules_data_pipes.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "prep_split_relax_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_check_in_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_intro_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_explore_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_practical_tips_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_practise_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_home_activity_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        }
+      ]
+    },
+    "gen_standard_articles": {
+      "flow_type": "generator",
+      "flow_name": "gen_standard_articles",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "prep_split_{@gen.id}_articles",
+        "output_flow_type": "data_pipe",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "KW modules_data_pipes.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "prep_split_selfcare_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_childdevelopment_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_oneononetime_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_praise_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_feelings_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_instructions_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_rulesroutines_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_consequences_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_split_problemsolving_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        }
+      ]
+    },
+    "hp_review_challenges_gen": {
+      "flow_type": "generator",
+      "flow_name": "hp_review_challenges_gen",
+      "parameter_list": {
+        "input_data_list": "hp_challenges",
+        "output_flow_name": "{@gen.id}_hp_review_challenges",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "feelings_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "praise_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "instructions_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "rulesroutines_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "consequences_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "problemsolving_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "selfcare_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "childdevelopment_hp_review_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "hp_review_congrats_gen": {
+      "flow_type": "generator",
+      "flow_name": "hp_review_congrats_gen",
+      "parameter_list": {
+        "input_data_list": "hp_check_in",
+        "output_flow_name": "{@gen.id}_hp_review_congrats",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "feelings_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "praise_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "instructions_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "rulesroutines_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "consequences_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "problemsolving_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "selfcare_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "childdevelopment_hp_review_congrats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "hp_review_gen": {
+      "flow_type": "generator",
+      "flow_name": "hp_review_gen",
+      "parameter_list": {
+        "input_data_list": "hp_check_in",
+        "output_flow_name": "{@gen.id}_hp_review",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "oneononetime_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "feelings_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "praise_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "instructions_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "rulesroutines_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "consequences_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "problemsolving_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "selfcare_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "childdevelopment_hp_review",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "instructions_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "instructions_article_gen",
+      "parameter_list": {
+        "input_data_list": "instructions_articles",
+        "output_flow_name": "article_instructions_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "instructions",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_instructions_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_explore_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_instructions_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "instructions_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "instructions_category_gen",
+      "parameter_list": {
+        "input_data_list": "instructions_articles",
+        "output_flow_name": "category_instructions_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "instructions",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_instructions_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_explore_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_instructions_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "oneononetime_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "oneononetime_article_gen",
+      "parameter_list": {
+        "input_data_list": "oneononetime_articles",
+        "output_flow_name": "article_oneononetime_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "oneononetime",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_oneononetime_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "oneononetime_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "oneononetime_category_gen",
+      "parameter_list": {
+        "input_data_list": "oneononetime_articles",
+        "output_flow_name": "category_oneononetime_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "oneononetime",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_oneononetime_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_oneononetime_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "praise_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "praise_article_gen",
+      "parameter_list": {
+        "input_data_list": "praise_articles",
+        "output_flow_name": "article_praise_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "praise",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_praise_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_intro_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_praise_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "praise_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "praise_category_gen",
+      "parameter_list": {
+        "input_data_list": "praise_articles",
+        "output_flow_name": "category_praise_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "praise",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_praise_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_intro_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_praise_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "problemsolving_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "problemsolving_article_gen",
+      "parameter_list": {
+        "input_data_list": "problemsolving_articles",
+        "output_flow_name": "article_problemsolving_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "problemsolving",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_problemsolving_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_problemsolving_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "rulesroutines_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "rulesroutines_article_gen",
+      "parameter_list": {
+        "input_data_list": "rulesroutines_articles",
+        "output_flow_name": "article_rulesroutines_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "rulesroutines",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_rulesroutines_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_10",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_12",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_14",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_explore_15",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_rulesroutines_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "selfcare_article_gen": {
+      "flow_type": "generator",
+      "flow_name": "selfcare_article_gen",
+      "parameter_list": {
+        "input_data_list": "selfcare_articles",
+        "output_flow_name": "article_selfcare_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "selfcare",
+      "_xlsxPath": "KW article_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "article_selfcare_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_selfcare_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "selfcare_category_gen": {
+      "flow_type": "generator",
+      "flow_name": "selfcare_category_gen",
+      "parameter_list": {
+        "input_data_list": "selfcare_articles",
+        "output_flow_name": "category_selfcare_@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "module_id": "selfcare",
+      "__EMPTY": "input_data_list: _categories;\noutput_flow_name: category__@gen.id;\noutput_flow_type: template;",
+      "_xlsxPath": "KW categories.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "category_selfcare_intro_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_explore_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_explore_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_explore_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_explore_4",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_explore_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_practise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "category_selfcare_home_activity_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    }
+  },
   "global": {
     "app_menu_globals": {
       "flow_type": "global",
@@ -745,11 +3392,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_childdevelopment_explore_1": {
-      "flow_name": "article_childdevelopment_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_childdevelopment_explore_10": {
       "flow_name": "article_childdevelopment_explore_10",
       "flow_subtype": "generated",
@@ -762,11 +3404,6 @@
     },
     "article_childdevelopment_explore_12": {
       "flow_name": "article_childdevelopment_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_childdevelopment_explore_13": {
-      "flow_name": "article_childdevelopment_explore_13",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -820,18 +3457,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_childdevelopment_practise": {
-      "flow_name": "article_childdevelopment_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_childdevelopment_tips_1": {
       "flow_name": "article_childdevelopment_tips_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_consequences_explore_1": {
-      "flow_name": "article_consequences_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -910,11 +3537,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_feelings_explore_6": {
-      "flow_name": "article_feelings_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_feelings_home_activity_1": {
       "flow_name": "article_feelings_home_activity_1",
       "flow_subtype": "generated",
@@ -945,16 +3567,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_instructions_explore_11": {
-      "flow_name": "article_instructions_explore_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_instructions_explore_12": {
-      "flow_name": "article_instructions_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_instructions_explore_2": {
       "flow_name": "article_instructions_explore_2",
       "flow_subtype": "generated",
@@ -972,6 +3584,11 @@
     },
     "article_instructions_explore_5": {
       "flow_name": "article_instructions_explore_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_instructions_explore_6": {
+      "flow_name": "article_instructions_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1035,11 +3652,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_oneononetime_explore_6": {
-      "flow_name": "article_oneononetime_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_oneononetime_home_activity_1": {
       "flow_name": "article_oneononetime_home_activity_1",
       "flow_subtype": "generated",
@@ -1047,11 +3659,6 @@
     },
     "article_oneononetime_intro_1": {
       "flow_name": "article_oneononetime_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_oneononetime_practise": {
-      "flow_name": "article_oneononetime_practise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1085,11 +3692,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_praise_explore_6": {
-      "flow_name": "article_praise_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_praise_home_activity_1": {
       "flow_name": "article_praise_home_activity_1",
       "flow_subtype": "generated",
@@ -1102,11 +3704,6 @@
     },
     "article_praise_intro_2": {
       "flow_name": "article_praise_intro_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_praise_practise": {
-      "flow_name": "article_praise_practise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1285,11 +3882,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_rulesroutines_explore_1": {
-      "flow_name": "article_rulesroutines_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_rulesroutines_explore_10": {
       "flow_name": "article_rulesroutines_explore_10",
       "flow_subtype": "generated",
@@ -1312,6 +3904,11 @@
     },
     "article_rulesroutines_explore_14": {
       "flow_name": "article_rulesroutines_explore_14",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_rulesroutines_explore_15": {
+      "flow_name": "article_rulesroutines_explore_15",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1375,6 +3972,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_rulesroutines_tips_2": {
+      "flow_name": "article_rulesroutines_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_selfcare_explore_1": {
       "flow_name": "article_selfcare_explore_1",
       "flow_subtype": "generated",
@@ -1400,11 +4002,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_selfcare_explore_6": {
-      "flow_name": "article_selfcare_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_selfcare_home_activity_1": {
       "flow_name": "article_selfcare_home_activity_1",
       "flow_subtype": "generated",
@@ -1425,11 +4022,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_childdevelopment_explore_1": {
-      "flow_name": "category_childdevelopment_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_childdevelopment_explore_10": {
       "flow_name": "category_childdevelopment_explore_10",
       "flow_subtype": "generated",
@@ -1442,11 +4034,6 @@
     },
     "category_childdevelopment_explore_12": {
       "flow_name": "category_childdevelopment_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_childdevelopment_explore_13": {
-      "flow_name": "category_childdevelopment_explore_13",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1500,11 +4087,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_childdevelopment_practise": {
-      "flow_name": "category_childdevelopment_practise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_childdevelopment_tips_1": {
       "flow_name": "category_childdevelopment_tips_1",
       "flow_subtype": "generated",
@@ -1532,11 +4114,6 @@
     },
     "category_feelings_explore_5": {
       "flow_name": "category_feelings_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_feelings_explore_6": {
-      "flow_name": "category_feelings_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1570,16 +4147,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_instructions_explore_11": {
-      "flow_name": "category_instructions_explore_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_instructions_explore_12": {
-      "flow_name": "category_instructions_explore_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_instructions_explore_2": {
       "flow_name": "category_instructions_explore_2",
       "flow_subtype": "generated",
@@ -1597,6 +4164,11 @@
     },
     "category_instructions_explore_5": {
       "flow_name": "category_instructions_explore_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "category_instructions_explore_6": {
+      "flow_name": "category_instructions_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1660,11 +4232,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_oneononetime_explore_6": {
-      "flow_name": "category_oneononetime_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_oneononetime_home_activity_1": {
       "flow_name": "category_oneononetime_home_activity_1",
       "flow_subtype": "generated",
@@ -1672,11 +4239,6 @@
     },
     "category_oneononetime_intro_1": {
       "flow_name": "category_oneononetime_intro_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_oneononetime_practise": {
-      "flow_name": "category_oneononetime_practise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1710,11 +4272,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "category_praise_explore_6": {
-      "flow_name": "category_praise_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "category_praise_home_activity_1": {
       "flow_name": "category_praise_home_activity_1",
       "flow_subtype": "generated",
@@ -1727,11 +4284,6 @@
     },
     "category_praise_intro_2": {
       "flow_name": "category_praise_intro_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_praise_practise": {
-      "flow_name": "category_praise_practise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1762,11 +4314,6 @@
     },
     "category_selfcare_explore_5": {
       "flow_name": "category_selfcare_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "category_selfcare_explore_6": {
-      "flow_name": "category_selfcare_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -6,7 +6,7 @@
     {
       "id": "relax_3",
       "media_asset": "video/pause/breath_body_awareness.mp4",
-      "type": "passive_short",
+      "media_type": "video",
       "title": "Breath and Body Awareness",
       "_translations": {
         "title": {},

@@ -6,7 +6,7 @@
     {
       "id": "relax_3",
       "media_asset": "video/pause/breath_body_awareness.mp4",
-      "type": "passive_short",
+      "media_type": "video",
       "title": "Breath and Body Awareness",
       "_translations": {
         "title": {},
@@ -28,9 +28,6 @@
       "id": "check_in_9",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
-        "text_1": {
-          "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
-        },
         "quiz_1_feedback_1": {
           "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
         },
@@ -58,9 +55,8 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
+      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
       "_translations": {
-        "text_1": {},
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
@@ -69,7 +65,6 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
       "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
       "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
       "quiz_1_question": "How are you feeling today?",
@@ -79,7 +74,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/solve_audio_1.mp3",
+      "media_asset": "audio/solve_audio_1.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -88,7 +84,6 @@
       },
       "category_id": "intro",
       "completed": false,
-      "media_type": "audio",
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me new shoes now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
       "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!",
@@ -271,7 +266,6 @@
     },
     {
       "id": "home_activity_1",
-      "media_asset": "/audio/solve_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!"
@@ -296,9 +290,6 @@
       "quiz_1_option_1_text": "Yes!",
       "quiz_1_option_2_text": "I think so.",
       "quiz_1_option_3_text": "No",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_transcript": "I did not have a good relationship with my daughter. She was refusing to go to school and as a result, I was always shouting at her.\n\nOnly when I started spending One-on-One Time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the four steps of problem solving to try to figure out what to do. “What can I do as a parent so you can attend school and feel safe?”\n\nOur solution was that I would go talk to the teacher to find a way forward. As well as finding a solution together, we are closer from tackling this together.",
       "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!"
     }
   ]

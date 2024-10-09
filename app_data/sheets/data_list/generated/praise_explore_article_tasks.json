@@ -15,38 +15,33 @@
       "text_1_facilitator": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
       "_translations": {
         "text_1_facilitator": {}
-      }
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "completed": false,
+      },
       "image_asset": "images/comics/praise_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: “You found one striped sock and one with dots. Let’s find socks that match.”"
     },
     {
-      "id": "explore_3",
+      "id": "explore_2",
       "category_id": "explore",
       "completed": false,
       "image_asset": "images/comics/praise_yc_2.svg",
       "text_2": "@data.characters.f3_mother.name: “Another sock! This one is white. It’s frustrating to try to find a matching pair when there are so many clothes to look through.”"
     },
     {
-      "id": "explore_4",
+      "id": "explore_3",
       "category_id": "explore",
       "completed": false,
       "image_asset": "images/comics/praise_yc_3.svg",
       "text_2": "@data.characters.f3_mother.name: “You are being very patient and looking very hard, @data.characters.f3_son_4.name. Well done for trying. I am happy you are helping me.”"
     },
     {
-      "id": "explore_5",
+      "id": "explore_4",
       "category_id": "explore",
       "completed": false,
       "image_asset": "images/comics/praise_yc_4.svg",
       "text_2": "@data.characters.f3_mother.name: “You found two socks with the same pattern! Well done for not giving up, @data.characters.f3_son_4.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?”"
     },
     {
-      "id": "explore_6",
+      "id": "explore_5",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on what we saw."
@@ -56,7 +51,7 @@
       "completed": false,
       "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself.",
       "quiz_1_feedback_2": "Not exactly, but the praise does help him deal with his frustration. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!",
-      "quiz_1_feedback_3": "No exactly, but the praise will help him want to help more often. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
+      "quiz_1_feedback_3": "Not exactly, but the praise will help him want to help more often. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
       "quiz_1_question": "Why does @data.characters.f3_mother.name praise @data.characters.f3_son_4.name?",
       "quiz_1_option_1_text": "To boost his self-esteem and confidence",
       "quiz_1_option_2_text": "To make him feel good about himself.",
