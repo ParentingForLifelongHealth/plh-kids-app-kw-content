@@ -4,7 +4,7 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "explore_1",
+      "id": "explore_2",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it."
@@ -15,12 +15,7 @@
       "text_1_facilitator": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
       "_translations": {
         "text_1_facilitator": {}
-      }
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "completed": false,
+      },
       "image_asset": "images/comics/play_yc_1.svg",
       "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!"
     },
@@ -123,7 +118,7 @@
       "id": "explore_12",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?"
+          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake."
         }
       },
       "category_id": "explore",
@@ -135,7 +130,7 @@
       "quiz_1_option_1_text": "He fixes what she was doing wrong for her.",
       "quiz_1_option_2_text": "He get frustrated when she struggles",
       "quiz_1_option_3_text": "He praises her when she does it herself.",
-      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?",
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake.",
       "_translations": {
         "text_1_facilitator": {}
       },
@@ -148,44 +143,6 @@
       "quiz_2_feedback_2": "Exactly! @data.characters.f1_daughter_6.name learns that she is supported while learning new tasks, as @data.characters.f1_father.name calmly guides her.",
       "quiz_2_option_3_text": "It is important that an adult do this task for me.",
       "quiz_2_feedback_3": "@data.characters.f1_daughter_6.name actually learns the value of trying things on her own, with @data.characters.f1_father.name offering praise and support rather than taking over the task."
-    },
-    {
-      "id": "explore_13",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!"
-        }
-      },
-      "category_id": "explore",
-      "completed": false,
-      "quiz_1_feedback_1": "Yes, he warns her in order to avoid the mistake.",
-      "quiz_1_feedback_2": "Yes, when your child makes a mistake it is important to stay calm.",
-      "quiz_1_feedback_3": "Yes, when the accident happens, he first asks if @data.characters.f3_daughter_7.name is okay!",
-      "quiz_1_question": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_daughter_7.name?",
-      "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
-      "quiz_1_option_2_text": "He remains calm",
-      "quiz_1_option_3_text": "He shows he cares most about @data.characters.f3_daughter_7.name",
-      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "quiz_1_option_4_text": "He thanks @data.characters.f3_daughter_7.name for recognising her mistake",
-      "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
-      "quiz_2_question": "What does @data.characters.f3_daughter_7.name learn from @data.characters.f3_uncle.name’s response?",
-      "quiz_2_option_1_text": "It is okay to make mistakes",
-      "quiz_2_feedback_1": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_2_text": "I am still loved even if I make mistakes",
-      "quiz_2_feedback_2": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_3_text": "I can learn from my mistakes",
-      "quiz_2_feedback_3": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_4_text": "Apologising is important",
-      "quiz_2_feedback_4": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_1_option_5_text": "He asks @data.characters.f3_daughter_7.name to reflect on her behaviour",
-      "quiz_1_feedback_5": "Yes, he helps her learn by asking her how she could have prevented the mistake.",
-      "quiz_1_option_6_text": "He involves @data.characters.f3_daughter_7.name to resolve the situation together",
-      "quiz_1_feedback_6": "Yes, by asking her to help clean up, he shows how she can make things right again after making a mistake.",
-      "quiz_2_option_5_text": "I can help to make things right again",
-      "quiz_2_feedback_5": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way."
     }
   ]
 }

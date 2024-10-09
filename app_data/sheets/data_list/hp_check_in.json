@@ -113,7 +113,7 @@
     {
       "id": "praise",
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
-      "text_goal": "Your home activity was to praise your child.",
+      "text_goal": "Your home activity is to praise your child for 3 things every day.",
       "_translations": {
         "text_goal": {},
         "reply_no": {},
@@ -127,7 +127,7 @@
       },
       "_translatedFields": {
         "text_goal": {
-          "eng": "Your home activity was to praise your child."
+          "eng": "Your home activity is to praise your child for 3 things every day."
         },
         "reply_no": {
           "eng": "It can sometimes be hard to remember to praise our children. \n\nNext time you spend one-on-one time with your child, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”"

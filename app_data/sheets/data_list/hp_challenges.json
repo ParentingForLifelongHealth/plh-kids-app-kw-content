@@ -8,7 +8,7 @@
       "id": "oneononetime",
       "number_of_challenges": "7",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to spend one-on-one time with your child?",
+      "question_text": "What challenge did you have when trying to spend one-on-one time with your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -29,7 +29,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to spend one-on-one time with your child?"
+          "eng": "What challenge did you have when trying to spend one-on-one time with your child?"
         },
         "text_challenge_1": {
           "eng": "I did not have enough time."
@@ -97,7 +97,7 @@
       "id": "feelings",
       "number_of_challenges": "7",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to talk about feelings with your child?",
+      "question_text": "What challenge did you have when trying to talk about feelings with your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -118,7 +118,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to talk about feelings with your child?"
+          "eng": "What challenge did you have when trying to talk about feelings with your child?"
         },
         "text_challenge_1": {
           "eng": "I did not have enough time."
@@ -186,7 +186,7 @@
       "id": "praise",
       "number_of_challenges": "4",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to praise your child?",
+      "question_text": "What challenge did you face when trying to praise your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -201,7 +201,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to praise your child?"
+          "eng": "What challenge did you face when trying to praise your child?"
         },
         "text_challenge_1": {
           "eng": "I forgot to do it."
@@ -245,7 +245,7 @@
       "id": "instructions",
       "number_of_challenges": "4",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to give POSITIVE, SPECIFIC, and REALISTIC instructions to your child?",
+      "question_text": "What challenge did you face when trying to give POSITIVE, SPECIFIC, and REALISTIC instructions to your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -260,7 +260,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to give POSITIVE, SPECIFIC, and REALISTIC instructions to your child?"
+          "eng": "What challenge did you face when trying to give POSITIVE, SPECIFIC, and REALISTIC instructions to your child?"
         },
         "text_challenge_1": {
           "eng": "My child did not follow my instructions even if I used the tips"
@@ -304,7 +304,7 @@
       "id": "rulesroutines",
       "number_of_challenges": "7",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to make a rule and routine together?",
+      "question_text": "What challenge did you face when trying to make a rule and routine together?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -321,7 +321,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to make a rule and routine together?"
+          "eng": "What challenge did you face when trying to make a rule and routine together?"
         },
         "text_challenge_1": {
           "eng": "My child could not agree on one specific rule or routine."
@@ -373,7 +373,7 @@
       "id": "consequences",
       "number_of_challenges": "7",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to introduce a consequence together?",
+      "question_text": "What challenge did you facewhen trying to introduce a consequence together?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -394,7 +394,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to introduce a consequence together?"
+          "eng": "What challenge did you facewhen trying to introduce a consequence together?"
         },
         "text_challenge_1": {
           "eng": "I got very angry when my child broke the rule."
@@ -464,7 +464,7 @@
       "button_go_to_template_1_a": "lib_act_w_solve",
       "button_go_to_template_2_a": "lib_act_w_solve",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to resolve the problem with your child?",
+      "question_text": "What challenge did you face when trying to resolve the problem with your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
@@ -485,7 +485,7 @@
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to resolve the problem with your child?"
+          "eng": "What challenge did you face when trying to resolve the problem with your child?"
         },
         "text_challenge_1": {
           "eng": "I forgot the steps of problem-solving."
@@ -551,20 +551,91 @@
     },
     {
       "id": "selfcare",
+      "number_of_challenges": "7",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to take care of yourself?",
+      "question_text": "What challenge did you face when trying to take care of yourself?",
       "_translations": {
         "question_text": {},
+        "text_challenge_1": {},
+        "reply_challenge_1": {},
+        "text_challenge_2": {},
+        "reply_challenge_2": {},
+        "text_challenge_3": {},
+        "reply_challenge_3": {},
+        "text_challenge_4": {},
+        "reply_challenge_4": {},
+        "text_challenge_5": {},
+        "reply_challenge_5": {},
+        "text_challenge_6": {},
+        "reply_challenge_6": {},
+        "text_challenge_7": {},
+        "reply_challenge_7": {},
         "top_text": {}
       },
       "_translatedFields": {
         "question_text": {
-          "eng": "Did you have any challenges when trying to take care of yourself?"
+          "eng": "What challenge did you face when trying to take care of yourself?"
+        },
+        "text_challenge_1": {
+          "eng": "I forgot to prioritise self-care."
+        },
+        "reply_challenge_1": {
+          "eng": "It is normal to forget to take care of ourselves, especially when we are very busy. But it can make a big difference in our ability to cope with stress. Even doing something small like making time for quiet reflection or treating yourself to something nice can really help. Try to do it today!"
+        },
+        "text_challenge_2": {
+          "eng": "I felt guilty taking time for myself."
+        },
+        "reply_challenge_2": {
+          "eng": "It’s easy to feel like you need to constantly be there for family or friends. Next time you feel that pressure, remind yourself that setting boundaries and taking time for yourself isn’t selfish – it actually helps you be more present and supportive for others."
+        },
+        "text_challenge_3": {
+          "eng": "I treated myself to something nice but still felt tired and stressed."
+        },
+        "reply_challenge_3": {
+          "eng": "Even with treating yourself, you can still feel tired and stressed. Next time you feel burnt out, try balancing treats with things like meditation, exercise, or spending time outside. These activities can help refresh your energy in a deeper way."
+        },
+        "text_challenge_4": {
+          "eng": "I felt overwhelmed by all the self-care options."
+        },
+        "reply_challenge_4": {
+          "eng": "It’s easy to get lost with so many choices out there. Try to keep it simple by starting with one or two things you enjoy. You don’t have to do everything at once!"
+        },
+        "text_challenge_5": {
+          "eng": "Self-care is not helping me."
+        },
+        "reply_challenge_5": {
+          "eng": "It can be frustrating when you don’t feel better right away. Next time this happens, remember that self-care is a long-term investment. Stick with it, and over time, you’ll start to feel the benefits!"
+        },
+        "text_challenge_6": {
+          "eng": "I struggled to disconnect from work or social media."
+        },
+        "reply_challenge_6": {
+          "eng": "With everything so connected, it’s tough to unplug and relax. Next time you feel overwhelmed, try setting boundaries by turning off notifications or scheduling some \"unplugged\" time. It’ll help you recharge and feel more refreshed!"
+        },
+        "text_challenge_7": {
+          "eng": "Other"
+        },
+        "reply_challenge_7": {
+          "eng": "If you’re facing a different challenge, feel free to share it in the WhatsApp group or bring it up during the home activity discussion in the next session. We’re here to support each other!"
         },
         "top_text": {
           "eng": "Challenges other parents experience:"
         }
       },
+      "text_challenge_1": "I forgot to prioritise self-care.",
+      "reply_challenge_1": "It is normal to forget to take care of ourselves, especially when we are very busy. But it can make a big difference in our ability to cope with stress. Even doing something small like making time for quiet reflection or treating yourself to something nice can really help. Try to do it today!",
+      "text_challenge_2": "I felt guilty taking time for myself.",
+      "reply_challenge_2": "It’s easy to feel like you need to constantly be there for family or friends. Next time you feel that pressure, remind yourself that setting boundaries and taking time for yourself isn’t selfish – it actually helps you be more present and supportive for others.",
+      "text_challenge_3": "I treated myself to something nice but still felt tired and stressed.",
+      "reply_challenge_3": "Even with treating yourself, you can still feel tired and stressed. Next time you feel burnt out, try balancing treats with things like meditation, exercise, or spending time outside. These activities can help refresh your energy in a deeper way.",
+      "text_challenge_4": "I felt overwhelmed by all the self-care options.",
+      "reply_challenge_4": "It’s easy to get lost with so many choices out there. Try to keep it simple by starting with one or two things you enjoy. You don’t have to do everything at once!",
+      "text_challenge_5": "Self-care is not helping me.",
+      "reply_challenge_5": "It can be frustrating when you don’t feel better right away. Next time this happens, remember that self-care is a long-term investment. Stick with it, and over time, you’ll start to feel the benefits!",
+      "text_challenge_6": "I struggled to disconnect from work or social media.",
+      "reply_challenge_6": "With everything so connected, it’s tough to unplug and relax. Next time you feel overwhelmed, try setting boundaries by turning off notifications or scheduling some \"unplugged\" time. It’ll help you recharge and feel more refreshed!",
+      "text_challenge_7": "Other",
+      "reply_challenge_7": "If you’re facing a different challenge, feel free to share it in the WhatsApp group or bring it up during the home activity discussion in the next session. We’re here to support each other!",
       "top_text": "Challenges other parents experience:"
     },
     {

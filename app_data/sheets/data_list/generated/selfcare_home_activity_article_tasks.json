@@ -5,10 +5,9 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "media_asset": "/audio/care_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!"
+          "eng": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter! \n\nYour home activity is to take care of yourself."
         }
       },
       "category_id": "home_activity",
@@ -20,10 +19,7 @@
       "quiz_1_option_1_text": "Take a Pause",
       "quiz_1_option_2_text": "Praise myself",
       "quiz_1_option_3_text": "Read a book",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_transcript": "For me as a parent, it was almost impossible to find time for myself. I was always busy taking care of everyone else. When I started to @global.app_name helped push me to try to take better care of myself – even just a little bit at a time. It helpeds me AND my family! \n\nHaving a moment for myself helps me to breathe and notice how I feel. For me, five minutes to have a cup of tea makes a big difference. Now I can deal with my stress better.",
-      "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter!",
+      "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter! \n\nYour home activity is to take care of yourself.",
       "_translations": {
         "text_1_facilitator": {}
       },

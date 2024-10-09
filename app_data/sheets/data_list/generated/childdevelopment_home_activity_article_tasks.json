@@ -7,7 +7,7 @@
       "id": "home_activity_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play."
+          "eng": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play."
         }
       },
       "category_id": "home_activity",
@@ -19,7 +19,7 @@
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_option_2_text": "Go outside together",
       "quiz_1_option_3_text": "Use household items",
-      "text_1_facilitator": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play.",
+      "text_1_facilitator": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play.",
       "_translations": {
         "text_1_facilitator": {}
       },

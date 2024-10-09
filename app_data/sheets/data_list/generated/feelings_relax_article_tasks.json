@@ -6,7 +6,7 @@
     {
       "id": "relax_2",
       "media_asset": "video/pause/loving_kindness_meditation.mp4",
-      "type": "passive_short",
+      "media_type": "video",
       "title": "Meditation",
       "_translations": {
         "title": {},

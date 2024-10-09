@@ -2,24 +2,5 @@
   "flow_name": "childdevelopment_practise_article_tasks",
   "flow_subtype": "generated",
   "flow_type": "data_list",
-  "rows": [
-    {
-      "id": "practise",
-      "media_asset": "/audio/learn_audio_2.mp3",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play."
-        }
-      },
-      "category_id": "practise",
-      "completed": false,
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her learn and develop at home, too. We started by playing word games together, and were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
-      "text_1_facilitator": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "_translations": {
-        "text_1_facilitator": {}
-      }
-    }
-  ]
+  "rows": []
 }

@@ -5,6 +5,11 @@
   "rows": [
     {
       "id": "home_activity_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day."
+        }
+      },
       "category_id": "home_activity",
       "completed": false,
       "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
@@ -14,6 +19,10 @@
       "quiz_1_option_1_text": "At the park",
       "quiz_1_option_2_text": "At home",
       "quiz_1_option_3_text": "While going to school or daycare",
+      "text_1_facilitator": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
       "quiz_1_option_4_text": "Other",
       "quiz_1_feedback_4": "Wonderful! No matter where you choose, spending one-on-one time with your child is what truly matters.",
       "quiz_2_question": "When will you spend one-on-one time with your child?",

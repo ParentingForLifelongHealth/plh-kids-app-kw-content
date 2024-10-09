@@ -5,7 +5,6 @@
   "rows": [
     {
       "id": "home_activity_1",
-      "media_asset": "/audio/solve_audio_2.mp3",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!"
@@ -20,9 +19,6 @@
       "quiz_1_option_1_text": "Yes!",
       "quiz_1_option_2_text": "I think so.",
       "quiz_1_option_3_text": "No",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_transcript": "I did not have a good relationship with my daughter. She was refusing to go to school and as a result, I was always shouting at her.\n\nOnly when I started spending One-on-One Time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the four steps of problem solving to try to figure out what to do. “What can I do as a parent so you can attend school and feel safe?”\n\nOur solution was that I would go talk to the teacher to find a way forward. As well as finding a solution together, we are closer from tackling this together.",
       "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
       "_translations": {
         "text_1_facilitator": {}

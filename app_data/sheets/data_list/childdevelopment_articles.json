@@ -9,7 +9,7 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_title": "How will it help me and my family?",
-      "media_asset": "/audio/learn_audio_1.mp3",
+      "media_asset": "audio/learn_audio_1.mp3",
       "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
       "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI",
       "text_1_facilitator": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!",
@@ -23,8 +23,10 @@
       }
     },
     {
-      "id": "explore_1",
+      "id": "explore_2",
       "category_id": "explore",
+      "image_asset": "images/comics/play_yc_1.svg",
+      "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!",
       "text_1_facilitator": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it.",
       "_translations": {
         "text_1_facilitator": {}
@@ -34,12 +36,6 @@
           "eng": "Children learn best by playing and doing. \n\n@data.characters.f3_mother.name wants to spend more time helping her son, @data.characters.f3_son_4.name, learn through play together. Let’s see how she does it."
         }
       }
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "image_asset": "images/comics/play_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: Hi, my love. Would you like to do something fun together? \n\n@data.characters.f3_son_4.name: Ooooh yes!"
     },
     {
       "id": "explore_3",
@@ -146,57 +142,20 @@
       "quiz_2_feedback_2": "Exactly! @data.characters.f1_daughter_6.name learns that she is supported while learning new tasks, as @data.characters.f1_father.name calmly guides her.",
       "quiz_2_option_3_text": "It is important that an adult do this task for me.",
       "quiz_2_feedback_3": "@data.characters.f1_daughter_6.name actually learns the value of trying things on her own, with @data.characters.f1_father.name offering praise and support rather than taking over the task.",
-      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?",
+      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake.",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake?"
-        }
-      }
-    },
-    {
-      "id": "explore_13",
-      "category_id": "explore",
-      "quiz_1_question": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_daughter_7.name?",
-      "quiz_1_option_1_text": "He gives an instruction to prevent the mistake",
-      "quiz_1_feedback_1": "Yes, he warns her in order to avoid the mistake.",
-      "quiz_1_option_2_text": "He remains calm",
-      "quiz_1_feedback_2": "Yes, when your child makes a mistake it is important to stay calm.",
-      "quiz_1_option_3_text": "He shows he cares most about @data.characters.f3_daughter_7.name",
-      "quiz_1_feedback_3": "Yes, when the accident happens, he first asks if @data.characters.f3_daughter_7.name is okay!",
-      "quiz_1_option_4_text": "He thanks @data.characters.f3_daughter_7.name for recognising her mistake",
-      "quiz_1_feedback_4": "Yes, praise helps our children to take more responsibility for their actions next time.",
-      "quiz_1_option_5_text": "He asks @data.characters.f3_daughter_7.name to reflect on her behaviour",
-      "quiz_1_feedback_5": "Yes, he helps her learn by asking her how she could have prevented the mistake.",
-      "quiz_1_option_6_text": "He involves @data.characters.f3_daughter_7.name to resolve the situation together",
-      "quiz_1_feedback_6": "Yes, by asking her to help clean up, he shows how she can make things right again after making a mistake.",
-      "quiz_2_question": "What does @data.characters.f3_daughter_7.name learn from @data.characters.f3_uncle.name’s response?",
-      "quiz_2_option_1_text": "It is okay to make mistakes",
-      "quiz_2_feedback_1": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_2_text": "I am still loved even if I make mistakes",
-      "quiz_2_feedback_2": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_3_text": "I can learn from my mistakes",
-      "quiz_2_feedback_3": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_4_text": "Apologising is important",
-      "quiz_2_feedback_4": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "quiz_2_option_5_text": "I can help to make things right again",
-      "quiz_2_feedback_5": "Exactly! @data.characters.f3_daughter_7.name learns important things because @data.characters.f3_uncle.name responds in a calm and supportive way.",
-      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_daughter_7.name learn from her mistake!"
+          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake."
         }
       }
     },
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_title": "BE PATIENT",
+      "section_1_title": "PLAY",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",
       "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",
@@ -219,23 +178,6 @@
       }
     },
     {
-      "id": "practise",
-      "category_id": "practise",
-      "media_type": "audio",
-      "media_title": "How it helped a parent like you:",
-      "media_asset": "/audio/learn_audio_2.mp3",
-      "media_transcript": "I thought that my daughter only started learning when she went to school. \n\n@global.app_name gave me lots of ideas for what I could do to help her learn and develop at home, too. We started by playing word games together, and were able to practise many words in a fun way. She is speaking much more now, and we are closer because of the time we spend together.",
-      "text_1_facilitator": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Want to help your child develop and grow?\n\nInvite your child to play with you today. Encourage them to ask questions and explore new things through play."
-        }
-      }
-    },
-    {
       "id": "home_activity_1",
       "category_id": "home_activity",
       "quiz_1_question": "What could you do today to encourage your child to play and learn?",
@@ -247,13 +189,13 @@
       "quiz_1_feedback_3": "Yes! Get creative. Anything in your home could be a music instrument, costume, or item in a role-play.",
       "quiz_1_option_4_text": "Ask their ideas",
       "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do.",
-      "text_1_facilitator": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play.",
+      "text_1_facilitator": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play.",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Your home activity is to invite Your Child to play with you today. \nEncourage them to ask questions and explore new things through play."
+          "eng": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play."
         }
       }
     }
