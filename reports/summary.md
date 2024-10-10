@@ -6,7 +6,7 @@
 | accordion | 1 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 31 |
+| button | 29 |
 | carousel | 1 |
 | combo_box | 2 |
 | data_items | 1 |
@@ -17,7 +17,7 @@
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 4 |
-| set_variable | 397 |
+| set_variable | 395 |
 | task_card | 3 |
 | task_progress_bar | 1 |
 | template | 285 |
@@ -27,6 +27,7 @@
 | text_bubble | 2 |
 | title | 19 |
 | update_action_list | 1 |
+| video | 1 |
 </details>
 
 <details >
@@ -44,8 +45,8 @@
 | emit: uncompleted | 248 |
 | feedback | 7 |
 | go_to | 12 |
-| pop_up | 6 |
-| set_field | 13 |
+| pop_up | 4 |
+| set_field | 12 |
 | set_local | 7 |
 | user | 1 |
 </details>

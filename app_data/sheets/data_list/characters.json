@@ -5,6 +5,9 @@
   "status": "released",
   "rows": [
     {
+      "id": "facilitator"
+    },
+    {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,
