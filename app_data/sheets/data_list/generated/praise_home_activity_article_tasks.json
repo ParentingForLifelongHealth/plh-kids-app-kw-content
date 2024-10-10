@@ -11,7 +11,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",
@@ -39,7 +38,8 @@
       "quiz_1_option_6_text": "Listening to instructions",
       "quiz_1_feedback_6": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_2_option_6_text": "Other",
-      "quiz_2_feedback_6": "Great idea! However you choose to reward yourself, it’s important to acknowledge the effort you put into parenting. You deserve it!"
+      "quiz_2_feedback_6": "Great idea! However you choose to reward yourself, it’s important to acknowledge the effort you put into parenting. You deserve it!",
+      "completed": false
     }
   ]
 }

@@ -11,7 +11,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "Of course, you can! It might feel awkward at first, but you will get it soon! Keep up the excellent effort.",
       "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request, you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!",
       "quiz_1_question": "Can you do it?",
@@ -20,7 +19,8 @@
       "text_1_facilitator": "Ready to give it a go? Your home activity is to give your child specific, realistic, and positive instructions. \n\nRemember to give one instruction at a time and praise them. This will help your child to follow your instructions.",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     }
   ]
 }

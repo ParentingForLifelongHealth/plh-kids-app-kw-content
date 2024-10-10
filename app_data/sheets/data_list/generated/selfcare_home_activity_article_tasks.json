@@ -11,7 +11,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_feedback_2": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_feedback_3": "Excellent. Taking care of yourself is an important parenting skill!",
@@ -19,16 +18,17 @@
       "quiz_1_option_1_text": "Take a Pause",
       "quiz_1_option_2_text": "Praise myself",
       "quiz_1_option_3_text": "Read a book",
+      "quiz_1_option_4_text": "Connect with a friend",
       "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter! \n\nYour home activity is to take care of yourself.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "quiz_1_option_4_text": "Connect with a friend",
       "quiz_1_feedback_4": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_option_5_text": "Take a nap",
       "quiz_1_feedback_5": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_option_6_text": "Have a cup of tea/coffee",
-      "quiz_1_feedback_6": "Excellent. Taking care of yourself is an important parenting skill!"
+      "quiz_1_feedback_6": "Excellent. Taking care of yourself is an important parenting skill!",
+      "completed": false
     }
   ]
 }

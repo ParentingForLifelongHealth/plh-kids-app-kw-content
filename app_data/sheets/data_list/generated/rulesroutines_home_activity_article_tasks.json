@@ -11,7 +11,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "That's great! I hope it makes your home feel easier to manage for everyone.",
       "quiz_1_feedback_2": "That's okay. Setting rules is hard and including children can feel uncomfortable, especially if you’re not used to it. Keep trying until you find a way that works for you and your children. I promise, it will be worth it!",
       "quiz_1_question": "Can you set one routine and one rule with your child?",
@@ -20,7 +19,8 @@
       "text_1_facilitator": "Your home activity is to set *one* rule and *one* routine with your child. \n\nRemember to be realistic and consistent, and praise your child for following each rule or routine!",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     }
   ]
 }

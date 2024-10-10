@@ -11,7 +11,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "text_1_facilitator": "Here are three tips to give positive instructions that work:",
       "_translations": {
         "text_1_facilitator": {}
@@ -27,7 +26,8 @@
       "section_3_title": "BE POSITIVE",
       "section_3_text": "Try using positive words when giving instructions. For example, instead of “Don’t shout inside,” say “Talk in a quiet voice when we’re inside.”\n\nALWAYS praise your child for following your instruction. Remember that this will make them more likely to repeat the behaviour you have just praised them for, and listen to you next time!",
       "section_3_button_text": "More",
-      "section_3_extra_text": "Give instructions in a firm voice and stay calm. Behave as if you expect your child to do what you ask.\n\nPraise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n\nAlso, be kind to yourself if you forget sometimes. Learning how to give positive instructions is not easy, but it works!"
+      "section_3_extra_text": "Give instructions in a firm voice and stay calm. Behave as if you expect your child to do what you ask.\n\nPraise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n\nAlso, be kind to yourself if you forget sometimes. Learning how to give positive instructions is not easy, but it works!",
+      "completed": false
     }
   ]
 }

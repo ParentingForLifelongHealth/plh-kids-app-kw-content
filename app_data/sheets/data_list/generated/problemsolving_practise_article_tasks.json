@@ -11,7 +11,6 @@
         }
       },
       "category_id": "practise",
-      "completed": false,
       "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
@@ -19,12 +18,13 @@
       "quiz_1_option_1_text": "Too much screen time",
       "quiz_1_option_2_text": "Coming home late",
       "quiz_1_option_3_text": "Fighting with other children",
+      "quiz_1_option_4_text": "Not sharing toys",
       "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "quiz_1_option_4_text": "Not sharing toys",
-      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "completed": false
     }
   ]
 }
