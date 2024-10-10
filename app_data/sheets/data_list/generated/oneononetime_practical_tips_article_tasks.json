@@ -11,7 +11,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "image_asset": "",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
@@ -26,7 +25,8 @@
       "section_3_title": "FOLLOW THEIR LEAD",
       "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "This will help your child feel important and valued."
+      "section_3_extra_text": "This will help your child feel important and valued.",
+      "completed": false
     }
   ]
 }

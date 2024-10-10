@@ -70,7 +70,7 @@
     },
     {
       "type": "template",
-      "count": 305
+      "count": 285
     },
     {
       "type": "text",
@@ -104,7 +104,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 270
+      "count": 250
     },
     {
       "type": "emit: force_reload",
@@ -128,7 +128,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 268
+      "count": 248
     },
     {
       "type": "feedback",
@@ -158,13 +158,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "79313 KB",
-      "MB": "79.3 MB"
+      "KB": "72031 KB",
+      "MB": "72 MB"
     },
     {
       "assets": "unused",
-      "KB": "52809 KB",
-      "MB": "52.8 MB"
+      "KB": "60091 KB",
+      "MB": "60.1 MB"
     }
   ],
   "assets_unused": [
@@ -185,8 +185,36 @@
       "size_kb": 239
     },
     {
+      "path": "audio/care_audio_2.mp3",
+      "size_kb": 1166.3
+    },
+    {
       "path": "audio/celebrate_audio_1.mp3",
       "size_kb": 497.1
+    },
+    {
+      "path": "audio/connect_audio_2.mp3",
+      "size_kb": 981.4
+    },
+    {
+      "path": "audio/consequences_audio_2.mp3",
+      "size_kb": 1206.6
+    },
+    {
+      "path": "audio/feelings_audio_2.mp3",
+      "size_kb": 635.8
+    },
+    {
+      "path": "audio/instructions_audio_2.mp3",
+      "size_kb": 784.2
+    },
+    {
+      "path": "audio/learn_audio_2.mp3",
+      "size_kb": 254.5
+    },
+    {
+      "path": "audio/praise_audio_2.mp3",
+      "size_kb": 1042.6
     },
     {
       "path": "audio/relax/relax_1.mp3",
@@ -199,6 +227,14 @@
     {
       "path": "audio/relax/relax_3.mp3",
       "size_kb": 235.1
+    },
+    {
+      "path": "audio/rules_audio_2.mp3",
+      "size_kb": 742.7
+    },
+    {
+      "path": "audio/solve_audio_2.mp3",
+      "size_kb": 468.1
     },
     {
       "path": "contents.json",
@@ -313,7 +349,13 @@
       "size_kb": 36376.3
     }
   ],
-  "assets_missing": [],
+  "assets_missing": [
+    {
+      "path": "images/facilitators_face.svg",
+      "count": 3,
+      "missing": true
+    }
+  ],
   "asset_summary": [
     {
       "path": "audio/care_audio_1.mp3",
@@ -321,19 +363,9 @@
       "size_kb": 527.5
     },
     {
-      "path": "audio/care_audio_2.mp3",
-      "count": 3,
-      "size_kb": 1166.3
-    },
-    {
       "path": "audio/connect_audio_1.mp3",
       "count": 3,
       "size_kb": 891.7
-    },
-    {
-      "path": "audio/connect_audio_2.mp3",
-      "count": 3,
-      "size_kb": 981.4
     },
     {
       "path": "audio/consequences_audio_1.mp3",
@@ -341,19 +373,9 @@
       "size_kb": 800.2
     },
     {
-      "path": "audio/consequences_audio_2.mp3",
-      "count": 3,
-      "size_kb": 1206.6
-    },
-    {
       "path": "audio/feelings_audio_1.mp3",
       "count": 3,
       "size_kb": 336
-    },
-    {
-      "path": "audio/feelings_audio_2.mp3",
-      "count": 3,
-      "size_kb": 635.8
     },
     {
       "path": "audio/instructions_audio_1.mp3",
@@ -361,29 +383,14 @@
       "size_kb": 613.7
     },
     {
-      "path": "audio/instructions_audio_2.mp3",
-      "count": 3,
-      "size_kb": 784.2
-    },
-    {
       "path": "audio/learn_audio_1.mp3",
       "count": 3,
       "size_kb": 563.1
     },
     {
-      "path": "audio/learn_audio_2.mp3",
-      "count": 3,
-      "size_kb": 254.5
-    },
-    {
       "path": "audio/praise_audio_1.mp3",
       "count": 3,
       "size_kb": 344
-    },
-    {
-      "path": "audio/praise_audio_2.mp3",
-      "count": 3,
-      "size_kb": 1042.6
     },
     {
       "path": "audio/relax/relax_10.mp3",
@@ -496,19 +503,9 @@
       "size_kb": 427.6
     },
     {
-      "path": "audio/rules_audio_2.mp3",
-      "count": 3,
-      "size_kb": 742.7
-    },
-    {
       "path": "audio/solve_audio_1.mp3",
       "count": 3,
       "size_kb": 609
-    },
-    {
-      "path": "audio/solve_audio_2.mp3",
-      "count": 3,
-      "size_kb": 468.1
     },
     {
       "path": "images/childdevelopment.svg",
@@ -807,7 +804,7 @@
     },
     {
       "path": "images/icons/faces/ok_face_new.svg",
-      "count": 40,
+      "count": 39,
       "size_kb": 0.5
     },
     {
@@ -817,7 +814,7 @@
     },
     {
       "path": "images/icons/faces/sad_face_new.svg",
-      "count": 40,
+      "count": 39,
       "size_kb": 1.5
     },
     {
@@ -862,7 +859,7 @@
     },
     {
       "path": "images/icons/smile_eyes_up.svg",
-      "count": 26,
+      "count": 27,
       "size_kb": 1
     },
     {
@@ -998,6 +995,16 @@
       "total": 1
     },
     {
+      "type": "data_pipe",
+      "subtype": "generated",
+      "total": 34
+    },
+    {
+      "type": "generator",
+      "subtype": null,
+      "total": 27
+    },
+    {
       "type": "global",
       "subtype": null,
       "total": 2
@@ -1010,7 +1017,7 @@
     {
       "type": "template",
       "subtype": "generated",
-      "total": 294
+      "total": 274
     },
     {
       "type": "template",

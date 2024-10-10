@@ -51,7 +51,6 @@
         }
       },
       "category_id": "check_in",
-      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -70,7 +69,8 @@
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad"
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     },
     {
       "id": "intro_1",
@@ -83,14 +83,14 @@
         }
       },
       "category_id": "intro",
-      "completed": false,
       "image_asset": "",
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together just the two of you will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!",
       "text_1_facilitator": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "explore_1",
@@ -100,34 +100,34 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/one_on_one_yc_1.svg",
       "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f2_grandmother.name and @data.characters.f2_daughter_3.name do this!",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "text_2": "*@data.characters.f2_daughter_3.name and @data.characters.f2_grandmother.name are spending special time together.* \n @data.characters.f2_grandmother.name: “I have 5 minutes and I’d like to spend it with you” , @data.characters.f2_daughter_3.name. What would you like to do?”\n @data.characters.f2_daughter_3.name: “I want to play dress-up!”"
+      "text_2": "*@data.characters.f2_daughter_3.name and @data.characters.f2_grandmother.name are spending special time together.* \n @data.characters.f2_grandmother.name: “I have 5 minutes and I’d like to spend it with you” , @data.characters.f2_daughter_3.name. What would you like to do?”\n @data.characters.f2_daughter_3.name: “I want to play dress-up!”",
+      "completed": false
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/one_on_one_yc_2.svg",
-      "text_2": "@data.characters.f2_grandmother.name: “Wonderful idea, @data.characters.f2_daughter_3.name! I see you are taking out the yellow scarf with blue stripes on it.”"
+      "text_2": "@data.characters.f2_grandmother.name: “Wonderful idea, @data.characters.f2_daughter_3.name! I see you are taking out the yellow scarf with blue stripes on it.”",
+      "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/one_on_one_yc_3.svg",
-      "text_2": "@data.characters.f2_daughter_3.name: “@data.characters.f2_grandmother.name, it’s for you.”\n @data.characters.f2_grandmother.name: “Thank you, I love this scarf!”\n @data.characters.f2_daughter_3.name: “Wear it, @data.characters.f2_grandmother.name!”"
+      "text_2": "@data.characters.f2_daughter_3.name: “@data.characters.f2_grandmother.name, it’s for you.”\n @data.characters.f2_grandmother.name: “Thank you, I love this scarf!”\n @data.characters.f2_daughter_3.name: “Wear it, @data.characters.f2_grandmother.name!”",
+      "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/one_on_one_yc_4.svg",
-      "text_2": "@data.characters.f2_daughter_3.name finds a dress to wear.\n @data.characters.f2_grandmother.name: “Well done for getting that dress on by yourself, @data.characters.f2_daughter_3.name. You’re learning to do so many new things for yourself!”"
+      "text_2": "@data.characters.f2_daughter_3.name finds a dress to wear.\n @data.characters.f2_grandmother.name: “Well done for getting that dress on by yourself, @data.characters.f2_daughter_3.name. You’re learning to do so many new things for yourself!”",
+      "completed": false
     },
     {
       "id": "explore_5",
@@ -137,7 +137,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "Yes, she does! \r\rThe simple act of calling @data.characters.f2_daughter_3.name by her name and inviting her to play helps her to feel valued and seen.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -155,8 +154,8 @@
       "quiz_1_option_1_text": "She says @data.characters.f2_daughter_3.name ’s name",
       "quiz_1_option_2_text": "She stays in her chair and invites @data.characters.f2_daughter_3.name to come and play by her.",
       "quiz_1_option_3_text": "She is trying to fold the clothes while she is playing with @data.characters.f2_daughter_3.name",
-      "text_1_facilitator": "Let’s reflect on what we saw.",
       "quiz_1_option_4_text": "She tells @data.characters.f2_daughter_3.name that they will play a game that she likes.",
+      "text_1_facilitator": "Let’s reflect on what we saw.",
       "quiz_1_feedback_4": "No, @data.characters.f2_grandmother.name doesn’t dictate what they will do, but asks @data.characters.f2_daughter_3.name what she would like to play. This is an important part of child-lead play.",
       "quiz_1_option_5_text": "She notices and praises what @data.characters.f2_daughter_3.name does",
       "quiz_1_feedback_5": "Yes, she does all these things! This way, @data.characters.f2_daughter_3.name knows that @data.characters.f2_grandmother.name really cares about her.",
@@ -177,7 +176,8 @@
       "quiz_3_option_2_text": "Overwhelmed",
       "quiz_3_feedback_2": "Probably not Spending special time with our children helps us to feel close to them without having to worry about work or chores.",
       "quiz_3_option_3_text": "Tired",
-      "quiz_3_feedback_3": "Probably not. Spending time with our children is relaxing because we are able to enjoy time together without it feeling like work."
+      "quiz_3_feedback_3": "Probably not. Spending time with our children is relaxing because we are able to enjoy time together without it feeling like work.",
+      "completed": false
     },
     {
       "id": "tips_1",
@@ -187,7 +187,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "image_asset": "",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
@@ -202,7 +201,8 @@
       "section_3_title": "FOLLOW THEIR LEAD",
       "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "This will help your child feel important and valued."
+      "section_3_extra_text": "This will help your child feel important and valued.",
+      "completed": false
     },
     {
       "id": "home_activity_1",
@@ -212,7 +212,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -230,8 +229,8 @@
       "quiz_1_option_1_text": "At the park",
       "quiz_1_option_2_text": "At home",
       "quiz_1_option_3_text": "While going to school or daycare",
-      "text_1_facilitator": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day.",
       "quiz_1_option_4_text": "Other",
+      "text_1_facilitator": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day.",
       "quiz_1_feedback_4": "Wonderful! No matter where you choose, spending one-on-one time with your child is what truly matters.",
       "quiz_2_question": "When will you spend one-on-one time with your child?",
       "quiz_2_option_1_text": "In the morning before starting the day",
@@ -258,7 +257,8 @@
       "quiz_3_option_5_text": "Read a book together",
       "quiz_3_feedback_5": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
       "quiz_3_option_6_text": "Do a chore together",
-      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
+      "completed": false
     }
   ]
 }

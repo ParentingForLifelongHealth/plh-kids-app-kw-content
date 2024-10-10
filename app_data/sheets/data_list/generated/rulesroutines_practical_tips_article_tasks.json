@@ -11,7 +11,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "text_1_facilitator": "These four tips will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
         "text_1_facilitator": {}
@@ -27,7 +26,8 @@
       "section_3_title": "BE CONSISTENT",
       "section_3_text": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and this will help them to feel secure. They will learn to be more independent and responsible.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "Activities become easier when children learn and get used to a routine."
+      "section_3_extra_text": "Activities become easier when children learn and get used to a routine.",
+      "completed": false
     },
     {
       "id": "tips_2",
@@ -37,7 +37,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "text_1_facilitator": "Let’s come up with some ideas for rules and routines in your home.",
       "_translations": {
         "text_1_facilitator": {}
@@ -53,7 +52,8 @@
       "section_3_title": "SPEND TIME WITH YOUR CHILD",
       "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \r\rTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!",
       "section_3_button_text": "Learn more",
-      "section_3_extra_text": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages."
+      "section_3_extra_text": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages.",
+      "completed": false
     }
   ]
 }

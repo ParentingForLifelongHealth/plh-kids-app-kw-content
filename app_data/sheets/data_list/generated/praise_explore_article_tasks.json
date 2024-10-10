@@ -11,34 +11,34 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/praise_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: “You found one striped sock and one with dots. Let’s find socks that match.”"
+      "text_2": "@data.characters.f3_mother.name: “You found one striped sock and one with dots. Let’s find socks that match.”",
+      "completed": false
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/praise_yc_2.svg",
-      "text_2": "@data.characters.f3_mother.name: “Another sock! This one is white. It’s frustrating to try to find a matching pair when there are so many clothes to look through.”"
+      "text_2": "@data.characters.f3_mother.name: “Another sock! This one is white. It’s frustrating to try to find a matching pair when there are so many clothes to look through.”",
+      "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/praise_yc_3.svg",
-      "text_2": "@data.characters.f3_mother.name: “You are being very patient and looking very hard, @data.characters.f3_son_4.name. Well done for trying. I am happy you are helping me.”"
+      "text_2": "@data.characters.f3_mother.name: “You are being very patient and looking very hard, @data.characters.f3_son_4.name. Well done for trying. I am happy you are helping me.”",
+      "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/praise_yc_4.svg",
-      "text_2": "@data.characters.f3_mother.name: “You found two socks with the same pattern! Well done for not giving up, @data.characters.f3_son_4.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?”"
+      "text_2": "@data.characters.f3_mother.name: “You found two socks with the same pattern! Well done for not giving up, @data.characters.f3_son_4.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?”",
+      "completed": false
     },
     {
       "id": "explore_5",
@@ -48,7 +48,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself.",
       "quiz_1_feedback_2": "Not exactly, but the praise does help him deal with his frustration. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!",
       "quiz_1_feedback_3": "Not exactly, but the praise will help him want to help more often. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
@@ -77,7 +76,8 @@
       "quiz_3_option_2_text": "So that he knows that he doesn’t have to help anymore again.",
       "quiz_3_feedback_2": "Actually, the hug will encourage him to help again next time! Giving a simple reward helps our children to do things that may be difficult for them again.",
       "quiz_3_option_3_text": "To encourage him to stay patient",
-      "quiz_3_feedback_3": "That’s right, giving a simple reward helps our children to do things that may be difficult for them again."
+      "quiz_3_feedback_3": "That’s right, giving a simple reward helps our children to do things that may be difficult for them again.",
+      "completed": false
     }
   ]
 }

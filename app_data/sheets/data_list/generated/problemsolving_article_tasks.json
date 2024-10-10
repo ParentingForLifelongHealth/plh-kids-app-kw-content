@@ -51,7 +51,6 @@
         }
       },
       "category_id": "check_in",
-      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -70,7 +69,8 @@
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad"
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     },
     {
       "id": "intro_1",
@@ -83,13 +83,13 @@
         }
       },
       "category_id": "intro",
-      "completed": false,
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me new shoes now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
       "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "explore_1",
@@ -99,11 +99,11 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "explore_2",
@@ -113,13 +113,13 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "KNOW IT",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/problem_solving_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
+      "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
+      "completed": false
     },
     {
       "id": "explore_3",
@@ -129,13 +129,13 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "SOLVE IT",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/problem_solving_yc_2.svg",
-      "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
+      "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n @data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n @data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”",
+      "completed": false
     },
     {
       "id": "explore_4",
@@ -145,13 +145,13 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "TEST IT",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/problem_solving_yc_3.svg",
-      "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
+      "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”",
+      "completed": false
     },
     {
       "id": "explore_5",
@@ -161,13 +161,13 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "REFLECT",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/problem_solving_yc_4.svg",
-      "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”"
+      "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”",
+      "completed": false
     },
     {
       "id": "explore_6",
@@ -177,7 +177,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well so that she has enough time to sleep after getting her homework done.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -202,7 +201,8 @@
       "quiz_2_option_2_text": "She asks @data.characters.f3_daughter_7.name to help come up with solutions",
       "quiz_2_feedback_2": "That’s right. The second step of problem solving is to jointly come up with solutions.",
       "quiz_2_option_3_text": "She slams her for not remembering to try it.",
-      "quiz_2_feedback_3": "Hm. That’s not right. \r\rThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution. ."
+      "quiz_2_feedback_3": "Hm. That’s not right. \r\rThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution. .",
+      "completed": false
     },
     {
       "id": "tips_1",
@@ -212,7 +212,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
         "text_1_facilitator": {}
@@ -232,7 +231,8 @@
       "section_4_title": "REFLECT",
       "section_4_text": "After you’ve tried it, decide with your child whether or not your solution worked.",
       "section_4_button_text": "What it Sounds Like",
-      "section_4_extra_text": "After the programme ends... \"Well that was an exciting game! I never knew I liked watching soccer so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
+      "section_4_extra_text": "After the programme ends... \"Well that was an exciting game! I never knew I liked watching soccer so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
+      "completed": false
     },
     {
       "id": "practise",
@@ -242,7 +242,6 @@
         }
       },
       "category_id": "practise",
-      "completed": false,
       "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -260,9 +259,10 @@
       "quiz_1_option_1_text": "Too much screen time",
       "quiz_1_option_2_text": "Coming home late",
       "quiz_1_option_3_text": "Fighting with other children",
-      "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
       "quiz_1_option_4_text": "Not sharing toys",
-      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+      "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
+      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "completed": false
     },
     {
       "id": "home_activity_1",
@@ -272,7 +272,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -290,7 +289,8 @@
       "quiz_1_option_1_text": "Yes!",
       "quiz_1_option_2_text": "I think so.",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!"
+      "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
+      "completed": false
     }
   ]
 }

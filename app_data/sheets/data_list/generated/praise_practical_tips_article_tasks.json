@@ -11,7 +11,6 @@
         }
       },
       "category_id": "practical_tips",
-      "completed": false,
       "text_1_facilitator": "Here are some easy tips for how to use praise:",
       "_translations": {
         "text_1_facilitator": {}
@@ -27,7 +26,8 @@
       "section_3_title": "REWARD IT",
       "section_3_text": "Give your child a simple, free reward to encourage them to do more of the behaviours that you have praised them for.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "Rewards should be simple and free. \n\nGive your child a hug, extra playtime together, or make their favourite meal. \n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour."
+      "section_3_extra_text": "Rewards should be simple and free. \n\nGive your child a hug, extra playtime together, or make their favourite meal. \n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour.",
+      "completed": false
     }
   ]
 }

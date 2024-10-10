@@ -11,7 +11,6 @@
         }
       },
       "category_id": "home_activity",
-      "completed": false,
       "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
       "quiz_1_feedback_2": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together.",
       "quiz_1_feedback_3": "Excellent idea! The journey to school or daycare can be a special time to connect with your child.",
@@ -19,11 +18,11 @@
       "quiz_1_option_1_text": "At the park",
       "quiz_1_option_2_text": "At home",
       "quiz_1_option_3_text": "While going to school or daycare",
+      "quiz_1_option_4_text": "Other",
       "text_1_facilitator": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "quiz_1_option_4_text": "Other",
       "quiz_1_feedback_4": "Wonderful! No matter where you choose, spending one-on-one time with your child is what truly matters.",
       "quiz_2_question": "When will you spend one-on-one time with your child?",
       "quiz_2_option_1_text": "In the morning before starting the day",
@@ -50,7 +49,8 @@
       "quiz_3_option_5_text": "Read a book together",
       "quiz_3_feedback_5": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
       "quiz_3_option_6_text": "Do a chore together",
-      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
+      "completed": false
     }
   ]
 }

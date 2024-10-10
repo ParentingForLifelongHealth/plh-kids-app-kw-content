@@ -30,7 +30,6 @@
         }
       },
       "category_id": "check_in",
-      "completed": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -49,7 +48,8 @@
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad"
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
     }
   ]
 }

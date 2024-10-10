@@ -11,41 +11,41 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
-      "text_2": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”"
+      "text_2": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”",
+      "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/consequences_yc_2.svg",
-      "text_2": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”"
+      "text_2": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”",
+      "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/consequences_yc_3.svg",
-      "text_2": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”"
+      "text_2": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”",
+      "completed": false
     },
     {
       "id": "explore_5",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/consequences_yc_4.svg",
-      "text_2": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”"
+      "text_2": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”",
+      "completed": false
     },
     {
       "id": "explore_6",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/consequences_yc_5.svg",
-      "text_2": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”"
+      "text_2": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”",
+      "completed": false
     },
     {
       "id": "explore_7",
@@ -55,7 +55,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "quiz_1_feedback_2": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_1_feedback_3": "Try again! @data.characters.f3_uncle.name never yelled.",
@@ -80,7 +79,8 @@
       "quiz_3_option_1_text": "He can get away with this behaviour in the future and not to take @data.characters.f3_uncle.name seriously when he gives an instruction",
       "quiz_3_feedback_1": "Exactly. It is really important to follow through with what we say, so our children learn boundaries and know they can trust our word.",
       "quiz_3_option_2_text": "That @data.characters.f3_uncle.name loves him and forgives him.",
-      "quiz_3_feedback_2": "Children actually do need consequences and the boundaries that they come with in order to feel secure and loved."
+      "quiz_3_feedback_2": "Children actually do need consequences and the boundaries that they come with in order to feel secure and loved.",
+      "completed": false
     }
   ]
 }

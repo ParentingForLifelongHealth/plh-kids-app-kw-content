@@ -20,7 +20,7 @@
 | set_variable | 397 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 305 |
+| template | 285 |
 | text | 52 |
 | text_area | 2 |
 | text_box | 5 |
@@ -35,13 +35,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 270 |
+| emit: completed | 250 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 268 |
+| emit: uncompleted | 248 |
 | feedback | 7 |
 | go_to | 12 |
 | pop_up | 6 |
@@ -55,8 +55,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 79313 KB | 79.3 MB |
-| unused | 52809 KB | 52.8 MB |
+| total | 72031 KB | 72 MB |
+| unused | 60091 KB | 60.1 MB |
 </details>
 
 <details open>
@@ -70,10 +70,19 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
+| audio/care_audio_2.mp3 | 1166.3 |
 | audio/celebrate_audio_1.mp3 | 497.1 |
+| audio/connect_audio_2.mp3 | 981.4 |
+| audio/consequences_audio_2.mp3 | 1206.6 |
+| audio/feelings_audio_2.mp3 | 635.8 |
+| audio/instructions_audio_2.mp3 | 784.2 |
+| audio/learn_audio_2.mp3 | 254.5 |
+| audio/praise_audio_2.mp3 | 1042.6 |
 | audio/relax/relax_1.mp3 | 265.1 |
 | audio/relax/relax_2.mp3 | 404.4 |
 | audio/relax/relax_3.mp3 | 235.1 |
+| audio/rules_audio_2.mp3 | 742.7 |
+| audio/solve_audio_2.mp3 | 468.1 |
 | contents.json | 5.9 |
 | images/comics/child_development_yc_1.svg | 124.5 |
 | images/comics/child_development_yc_2.svg | 123.7 |
@@ -111,6 +120,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/facilitators_face.svg | 3 |
 </details>
 
 <details >
@@ -121,19 +131,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | audio/care_audio_1.mp3 | 527.5 | 3 |
-| audio/care_audio_2.mp3 | 1166.3 | 3 |
 | audio/connect_audio_1.mp3 | 891.7 | 3 |
-| audio/connect_audio_2.mp3 | 981.4 | 3 |
 | audio/consequences_audio_1.mp3 | 800.2 | 3 |
-| audio/consequences_audio_2.mp3 | 1206.6 | 3 |
 | audio/feelings_audio_1.mp3 | 336 | 3 |
-| audio/feelings_audio_2.mp3 | 635.8 | 3 |
 | audio/instructions_audio_1.mp3 | 613.7 | 3 |
-| audio/instructions_audio_2.mp3 | 784.2 | 3 |
 | audio/learn_audio_1.mp3 | 563.1 | 3 |
-| audio/learn_audio_2.mp3 | 254.5 | 3 |
 | audio/praise_audio_1.mp3 | 344 | 3 |
-| audio/praise_audio_2.mp3 | 1042.6 | 3 |
 | audio/relax/relax_10.mp3 | 404.9 | 1 |
 | audio/relax/relax_11.mp3 | 445.6 | 1 |
 | audio/relax/relax_12.mp3 | 539.7 | 1 |
@@ -156,9 +159,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_8.mp3 | 302 | 1 |
 | audio/relax/relax_9.mp3 | 576.6 | 1 |
 | audio/rules_audio_1.mp3 | 427.6 | 3 |
-| audio/rules_audio_2.mp3 | 742.7 | 3 |
 | audio/solve_audio_1.mp3 | 609 | 3 |
-| audio/solve_audio_2.mp3 | 468.1 | 3 |
 | images/childdevelopment.svg | 20.3 | 1 |
 | images/comics/consequences_yc_1.svg | 117.6 | 3 |
 | images/comics/consequences_yc_2.svg | 150.5 | 3 |
@@ -218,9 +219,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/happy.svg | 0.6 | 5 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 40 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 40 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 39 |
 | images/icons/faces/sad.svg | 0.6 | 5 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 40 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 39 |
 | images/icons/faces/scared.svg | 2.1 | 3 |
 | images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
@@ -229,7 +230,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/parent_child_heart.svg | 3 | 10 |
 | images/icons/pencil.svg | 1.1 | 10 |
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
-| images/icons/smile_eyes_up.svg | 1 | 26 |
+| images/icons/smile_eyes_up.svg | 1 | 27 |
 | images/icons/star_outline_blue.svg | 1 | 10 |
 | images/icons/star_outline_white.svg | 1 | 1 |
 | images/icons/thought_bubble.svg | 2.1 | 10 |
@@ -263,8 +264,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | generated | 81 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
+| data_pipe | generated | 34 |
+| generator |  | 27 |
 | global |  | 2 |
 | template |  | 49 |
-| template | generated | 294 |
+| template | generated | 274 |
 | template | legal_terms | 4 |
 </details>

@@ -6,7 +6,6 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "completed": false,
       "quiz_3_option_3_image_asset": "",
       "section_1_title": "Take a Pause",
       "section_1_text": "Taking a pause helps us to feel and respond calmer in stressful moments.",
@@ -19,7 +18,8 @@
       "section_3_title": "Reward Yourself",
       "section_3_text": "What makes you happy? Find small things that you can do every day to care for yourself.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "Doing something you enjoy will give you a short break. It will help you to think more clearly and care better for your family. Caring for yourself = caring for your family!"
+      "section_3_extra_text": "Doing something you enjoy will give you a short break. It will help you to think more clearly and care better for your family. Caring for yourself = caring for your family!",
+      "completed": false
     }
   ]
 }

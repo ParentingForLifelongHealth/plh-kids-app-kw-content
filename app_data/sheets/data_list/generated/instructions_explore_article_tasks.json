@@ -11,34 +11,34 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
       "_translations": {
         "text_1_facilitator": {}
       },
       "image_asset": "images/comics/instructions_yc_1.svg",
-      "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”"
+      "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”",
+      "completed": false
     },
     {
       "id": "explore_2",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_2.svg",
-      "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
+      "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”",
+      "completed": false
     },
     {
       "id": "explore_3",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_3.svg",
-      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”"
+      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”",
+      "completed": false
     },
     {
       "id": "explore_4",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_4.svg",
-      "text_2": "@data.characters.f1_mother.name: “Once upon a time…”"
+      "text_2": "@data.characters.f1_mother.name: “Once upon a time…”",
+      "completed": false
     },
     {
       "id": "explore_5",
@@ -48,7 +48,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "She does say her daughter’s  name, but she also goes down to @data.characters.f1_daughter_2.name’s level, and gives her praise.",
       "quiz_1_feedback_2": "Try again! @data.characters.f1_mother.name does not just give an instruction right away, she first makes sure @data.characters.f1_daughter_2.name feels seen!",
       "quiz_1_feedback_3": "Try again! @data.characters.f1_mother.name first connects with her daughter by saying her name, getting down at her level, and giving her praise. This puts her in the best position to then give @data.characters.f1_daughter_2.name an instruction.",
@@ -73,7 +72,8 @@
       "quiz_3_option_1_text": "@data.characters.f1_daughter_2.name could feel confused or overwhelmed",
       "quiz_3_feedback_1": "Exactly. It is important to give one positive instruction at a time. It makes a big difference.",
       "quiz_3_option_2_text": "@data.characters.f1_daughter_2.name would respect her mother’s authority.",
-      "quiz_3_feedback_2": "Try again! It’s important to give one positive instruction at a time. This will make the instruction easier to follow."
+      "quiz_3_feedback_2": "Try again! It’s important to give one positive instruction at a time. This will make the instruction easier to follow.",
+      "completed": false
     },
     {
       "id": "explore_6",
@@ -83,32 +83,32 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
       "_translations": {
         "text_1_facilitator": {}
-      }
+      },
+      "completed": false
     },
     {
       "id": "explore_7",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_5.svg",
-      "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!"
+      "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!",
+      "completed": false
     },
     {
       "id": "explore_8",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_6.svg",
-      "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together."
+      "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together.",
+      "completed": false
     },
     {
       "id": "explore_9",
       "category_id": "explore",
-      "completed": false,
       "image_asset": "images/comics/instructions_yc_7.svg",
-      "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together."
+      "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together.",
+      "completed": false
     },
     {
       "id": "explore_10",
@@ -118,7 +118,6 @@
         }
       },
       "category_id": "explore",
-      "completed": false,
       "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
       "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other.",
       "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict.",
@@ -136,7 +135,8 @@
       "quiz_2_option_2_text": "He reminds them it’s important to get along.",
       "quiz_2_feedback_2": "Try again! He rather gives them a way to get along again by involving them in a positive activity.",
       "quiz_2_option_3_text": "He gives them a warning for a consequence.",
-      "quiz_2_feedback_3": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour."
+      "quiz_2_feedback_3": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour.",
+      "completed": false
     }
   ]
 }
