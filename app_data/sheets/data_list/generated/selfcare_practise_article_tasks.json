@@ -15,6 +15,9 @@
         "quiz_1_option_1_text": {
           "eng": "Showing love to my children"
         },
+        "quiz_1_feedback_1": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
+        },
         "quiz_1_option_2_text": {
           "eng": "Getting up, even though I felt tired"
         },
@@ -47,8 +50,9 @@
         }
       },
       "category_id": "practise",
-      "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
+      "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "_translations": {
+        "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
@@ -63,6 +67,7 @@
         "quiz_1_option_6_text": {},
         "quiz_1_feedback_6": {}
       },
+      "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_feedback_3": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_question": "“Well done to me for…”",
       "quiz_1_option_1_text": "Showing love to my children",
@@ -70,7 +75,6 @@
       "quiz_1_option_3_text": "Smiling at someone",
       "quiz_1_option_4_text": "Making food to stay strong",
       "text_1_facilitator": "Think of one thing YOU have done well recently.",
-      "quiz_1_feedback_1::eng\n": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_feedback_4": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_option_5_text": "Spending time with my children",
       "quiz_1_feedback_5": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",

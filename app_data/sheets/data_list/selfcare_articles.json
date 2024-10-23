@@ -8,22 +8,26 @@
       "id": "intro_1",
       "category_id": "intro",
       "media_type": "audio",
-      "media_title": "How does self-care help you and your family?",
       "media_asset": "audio/care_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1C-QTp4INJ78dY-v04jdfM4Gm0z0TXloOwhI34ppttyM",
       "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
       "_translations": {
         "text_1_facilitator": {},
+        "media_title": {},
         "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children."
         },
+        "media_title": {
+          "eng": "How does self-care help you and your family?"
+        },
         "media_transcript": {
           "eng": "Greetings, everyone.\n\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \n\nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing."
         }
       },
+      "media_title": "How does self-care help you and your family?",
       "media_transcript": "Greetings, everyone.\n\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \n\nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing."
     },
     {
@@ -32,12 +36,12 @@
       "image_asset": "images/comics/self_care_yc_1.svg",
       "character_1_id": "f1_daughter_6",
       "character_2_id": "f1_mother",
-      "character_2_text::eng\n": "(thinking): I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.",
       "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
-        "character_1_text": {}
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -48,58 +52,85 @@
         },
         "character_1_text": {
           "eng": "Mother, come and play with me with my dolls!"
+        },
+        "character_2_text": {
+          "eng": "(thinking) I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries."
         }
       },
       "text_2": "@data.characters.f1_daughter_6.name: “Mother, come and play with me with my dolls!” \n\n @data.characters.f1_mother.name  *(thinking)*: “I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.”",
-      "character_1_text": "Mother, come and play with me with my dolls!"
+      "character_1_text": "Mother, come and play with me with my dolls!",
+      "character_2_text": "(thinking) I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries."
     },
     {
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_6",
       "text_2": "@data.characters.f1_mother.name: “Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.” \n\n @data.characters.f1_daughter_6.name: “Okay, Mother.”",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name: “Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.” \n\n @data.characters.f1_daughter_6.name: “Okay, Mother.”"
+        },
+        "character_1_text": {
+          "eng": "Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you."
+        },
+        "character_2_text": {
+          "eng": "Okay, Mother."
         }
-      }
+      },
+      "character_1_text": "Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.",
+      "character_2_text": "Okay, Mother."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_3.svg",
+      "character_1_id": "f1_mother",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”"
+        },
+        "character_1_text": {
+          "eng": "(thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself."
         }
-      }
+      },
+      "character_1_text": "(thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_4.svg",
+      "character_1_id": "f1_mother",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!\"",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!\""
+        },
+        "character_1_text": {
+          "eng": "(thinking) What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!"
         }
-      }
+      },
+      "character_1_text": "(thinking) What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!"
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_feedback_1::eng\n": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "/images/icons/faces/sad_face_new.svg",
       "quiz_3_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
@@ -109,6 +140,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_2_question": {},
@@ -136,6 +168,9 @@
         },
         "quiz_1_question": {
           "eng": "How is @data.characters.f1_mother.name feeling at first?"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried."
         },
         "quiz_1_feedback_2": {
           "eng": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life."
@@ -199,6 +234,7 @@
         }
       },
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
+      "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_2_question": "What does @data.characters.f1_mother.name do to manage her stress?",
@@ -292,12 +328,12 @@
     {
       "id": "practise",
       "category_id": "practise",
-      "quiz_1_feedback_1::eng\n": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "text_1_facilitator": "Think of one thing YOU have done well recently.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {},
@@ -318,6 +354,9 @@
         },
         "quiz_1_option_1_text": {
           "eng": "Showing love to my children"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!"
         },
         "quiz_1_option_2_text": {
           "eng": "Getting up, even though I felt tired"
@@ -352,6 +391,7 @@
       },
       "quiz_1_question": "“Well done to me for…”",
       "quiz_1_option_1_text": "Showing love to my children",
+      "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_option_2_text": "Getting up, even though I felt tired",
       "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_option_3_text": "Smiling at someone",
@@ -366,12 +406,12 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "quiz_1_feedback_1::eng\n": "Excellent. Taking care of yourself is an important parenting skill!",
       "text_1_facilitator": "Whenever you can, pause, praise and reward yourself. And remember to connect with your family and friends - you are not alone.\n\nCare for yourself every day. You matter! \n\nYour home activity is to take care of yourself.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {},
@@ -392,6 +432,9 @@
         },
         "quiz_1_option_1_text": {
           "eng": "Take a Pause"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Excellent. Taking care of yourself is an important parenting skill!"
         },
         "quiz_1_option_2_text": {
           "eng": "Praise myself"
@@ -426,6 +469,7 @@
       },
       "quiz_1_question": "What can you do to take care of yourself today?",
       "quiz_1_option_1_text": "Take a Pause",
+      "quiz_1_feedback_1": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_option_2_text": "Praise myself",
       "quiz_1_feedback_2": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_option_3_text": "Read a book",

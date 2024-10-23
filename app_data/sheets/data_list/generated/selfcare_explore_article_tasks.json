@@ -14,6 +14,9 @@
         },
         "character_1_text": {
           "eng": "Mother, come and play with me with my dolls!"
+        },
+        "character_2_text": {
+          "eng": "(thinking) I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries."
         }
       },
       "category_id": "explore",
@@ -21,14 +24,15 @@
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {},
-        "character_1_text": {}
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "images/comics/self_care_yc_1.svg",
       "character_1_id": "f1_daughter_6",
       "character_2_id": "f1_mother",
-      "character_2_text::eng\n": "(thinking): I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.",
       "text_2": "@data.characters.f1_daughter_6.name: “Mother, come and play with me with my dolls!” \n\n @data.characters.f1_mother.name  *(thinking)*: “I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.”",
       "character_1_text": "Mother, come and play with me with my dolls!",
+      "character_2_text": "(thinking) I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish cooking and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries.",
       "completed": false
     },
     {
@@ -36,14 +40,26 @@
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name: “Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.” \n\n @data.characters.f1_daughter_6.name: “Okay, Mother.”"
+        },
+        "character_1_text": {
+          "eng": "Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you."
+        },
+        "character_2_text": {
+          "eng": "Okay, Mother."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_6",
       "text_2": "@data.characters.f1_mother.name: “Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.” \n\n @data.characters.f1_daughter_6.name: “Okay, Mother.”",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
+      "character_1_text": "Alright, @data.characters.f1_daughter_6.name, let me finish dinner quickly, and then I will come play with you.",
+      "character_2_text": "Okay, Mother.",
       "completed": false
     },
     {
@@ -51,14 +67,20 @@
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”"
+        },
+        "character_1_text": {
+          "eng": "(thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_3.svg",
+      "character_1_id": "f1_mother",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.”",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {}
       },
+      "character_1_text": "(thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.",
       "completed": false
     },
     {
@@ -66,14 +88,20 @@
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!\""
+        },
+        "character_1_text": {
+          "eng": "(thinking) What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/self_care_yc_4.svg",
+      "character_1_id": "f1_mother",
       "text_2": "@data.characters.f1_mother.name  *(thinking)*: “What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!\"",
       "_translations": {
-        "text_2": {}
+        "text_2": {},
+        "character_1_text": {}
       },
+      "character_1_text": "(thinking) What a day. I have a lot on my plate, but I am still standing and trying my best every day. Tomorrow, I should visit with my friends so we can catch up and be reminded that we aren't alone!",
       "completed": false
     },
     {
@@ -84,6 +112,9 @@
         },
         "quiz_1_question": {
           "eng": "How is @data.characters.f1_mother.name feeling at first?"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried."
         },
         "quiz_1_feedback_2": {
           "eng": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life."
@@ -150,8 +181,9 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "/images/icons/faces/sad_face_new.svg",
-      "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
+      "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "_translations": {
+        "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
@@ -175,10 +207,10 @@
         "quiz_3_option_3_text": {},
         "quiz_3_feedback_3": {}
       },
+      "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
       "text_1_facilitator": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
-      "quiz_1_feedback_1::eng\n": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "quiz_3_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_3_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_3_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
