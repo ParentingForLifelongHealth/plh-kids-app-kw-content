@@ -8,10 +8,105 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s come up with some ideas for rules and routines in your home."
+        },
+        "text_2": {
+          "eng": "Here are some of the rules and routines that other families created."
+        },
+        "quiz_1_question": {
+          "eng": "Would you like to try one of these  rules  with your child?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Your child can play after finishing homework."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "All family members eat dinner together."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Your child helps to clear the dishes after dinner."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Your child packs away the toys they played with during the day before bedtime"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home."
+        },
+        "quiz_2_question": {
+          "eng": "In which of these areas would you like to create routines  with your child?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "One-on-one time"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Wonderful! Give it a try and see how it will change your relationship with your child."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Bedtime"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Wonderful! Give it a try and see how it will change your relationship with your child. Remember bedtime routines work best when they are predictable and calm!"
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Homework"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Wonderful! Give it a try and see how it will change your relationship with your child. Remember to use positive instructions when setting up this routine."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Mealtime"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Wonderful! Give it a try and see how it will change your relationship with your child. Remember that mealtime routines work best when they are predictable."
+        },
+        "quiz_2_option_5_text": {
+          "eng": "Chores"
+        },
+        "quiz_2_feedback_5": {
+          "eng": "Wonderful! Remember to praise for following through on chore routines! Give it a try and see how it will change your relationship with your child."
+        },
+        "quiz_2_option_6_text": {
+          "eng": "TV or phone time"
+        },
+        "quiz_2_feedback_6": {
+          "eng": "Wonderful! Give it a try and see how it will change your relationship with your child."
         }
       },
       "category_id": "practise",
       "quiz_1_feedback_1": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {},
+        "quiz_2_option_5_text": {},
+        "quiz_2_feedback_5": {},
+        "quiz_2_option_6_text": {},
+        "quiz_2_feedback_6": {}
+      },
       "quiz_1_feedback_2": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home.",
       "quiz_1_feedback_3": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home.",
       "quiz_1_question": "Would you like to try one of these  rules  with your child?",
@@ -20,9 +115,6 @@
       "quiz_1_option_3_text": "Your child helps to clear the dishes after dinner.",
       "quiz_1_option_4_text": "Your child packs away the toys they played with during the day before bedtime",
       "text_1_facilitator": "Let’s come up with some ideas for rules and routines in your home.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "text_2": "Here are some of the rules and routines that other families created.",
       "quiz_1_feedback_4": "This is a great rule! Discuss it with your child and family, or come up with a different rule that will help you at home.",
       "quiz_2_question": "In which of these areas would you like to create routines  with your child?",

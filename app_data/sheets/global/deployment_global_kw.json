@@ -20,7 +20,8 @@
       "value": "terms_v202403013_accepted",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -41,7 +42,8 @@
       "value": "images/kw_facilitator_rd.png",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"
