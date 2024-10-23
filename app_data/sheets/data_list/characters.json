@@ -5,153 +5,177 @@
   "status": "released",
   "rows": [
     {
-      "id": "facilitator"
+      "id": "facilitator",
+      "name": "Sayyidah Noura",
+      "role": "facilitator"
     },
     {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,
-      "name": "Noura"
+      "name": "Noura",
+      "role": "caregiver"
     },
     {
       "id": "f1_father",
       "caps_id": "F1_FATHER",
       "family_no": 1,
-      "name": "Jassim"
+      "name": "Jassim",
+      "role": "caregiver"
     },
     {
       "id": "f1_son_18",
       "caps_id": "F1_SON_18",
       "family_no": 1,
       "age": 18,
-      "name": "Nasser"
+      "name": "Nasser",
+      "role": "child"
     },
     {
       "id": "f1_daughter_16",
       "caps_id": "F1_DAUGHTER_16",
       "family_no": 1,
       "age": 16,
-      "name": "Dana"
+      "name": "Dana",
+      "role": "child"
     },
     {
       "id": "f1_daughter_3",
       "caps_id": "F1_DAUGHTER_3",
       "family_no": 1,
       "age": 3,
-      "name": "Mariam"
+      "name": "Mariam",
+      "role": "child"
     },
     {
       "id": "f1_daughter_6",
       "caps_id": "F1_DAUGHTER_6",
       "family_no": 1,
       "age": 6,
-      "name": "Sarah"
+      "name": "Sarah",
+      "role": "child"
     },
     {
       "id": "f1_son_5",
       "caps_id": "F1_SON_5",
       "family_no": 1,
       "age": 5,
-      "name": "Abdulaziz"
+      "name": "Abdulaziz",
+      "role": "child"
     },
     {
       "id": "f1_daughter_2",
       "caps_id": "F1_DAUGHTER_2",
       "family_no": 1,
       "age": 2,
-      "name": "Layan"
+      "name": "Layan",
+      "role": "child"
     },
     {
       "id": "f2_mother",
       "caps_id": "F2_MOTHER",
       "family_no": 2,
-      "name": "Alanoud"
+      "name": "Alanoud",
+      "role": "caregiver"
     },
     {
       "id": "f2_grandmother",
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
-      "name": "Shaikha"
+      "name": "Shaikha",
+      "role": "caregiver"
     },
     {
       "id": "f2_grandfather",
       "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
-      "name": "Mubarak"
+      "name": "Mubarak",
+      "role": "caregiver"
     },
     {
       "id": "f2_daughter_17",
       "caps_id": "F2_DAUGHTER_17",
       "family_no": 2,
       "age": 17,
-      "name": "Maha"
+      "name": "Maha",
+      "role": "child"
     },
     {
       "id": "f2_son_15",
       "caps_id": "F2_SON_15",
       "family_no": 2,
-      "name": "Fahad"
+      "name": "Fahad",
+      "role": "child"
     },
     {
       "id": "f2_son_8",
       "caps_id": "F2_SON_8",
       "family_no": 2,
       "age": 8,
-      "name": "Ahmed"
+      "name": "Ahmed",
+      "role": "child"
     },
     {
       "id": "f2_daughter_3",
       "caps_id": "F2_DAUGHTER_3",
       "family_no": 2,
       "age": 3,
-      "name": "Muneera"
+      "name": "Muneera",
+      "role": "child"
     },
     {
       "id": "f3_mother",
       "caps_id": "F3_MOTHER",
       "family_no": 3,
-      "name": "Dalal"
+      "name": "Dalal",
+      "role": "caregiver"
     },
     {
       "id": "f3_uncle",
       "caps_id": "F3_UNCLE",
       "family_no": 3,
-      "name": "Khaled"
+      "name": "Khaled",
+      "role": "caregiver"
     },
     {
       "id": "f3_daughter_12",
       "caps_id": "F3_DAUGHTER_12",
       "family_no": 3,
       "age": 12,
-      "name": "Lulwa"
+      "name": "Lulwa",
+      "role": "child"
     },
     {
       "id": "f3_son_15",
       "caps_id": "F3_SON_15",
       "family_no": 3,
       "age": 15,
-      "name": "Mishari"
+      "name": "Mishari",
+      "role": "child"
     },
     {
       "id": "f3_daughter_17",
       "caps_id": "F3_DAUGHTER_17",
       "family_no": 3,
       "age": 17,
-      "name": "Farah"
+      "name": "Farah",
+      "role": "child"
     },
     {
       "id": "f3_son_4",
       "caps_id": "F3_SON_4",
       "family_no": 3,
       "age": 4,
-      "name": "Faisal"
+      "name": "Faisal",
+      "role": "child"
     },
     {
       "id": "f3_daughter_7",
       "caps_id": "F3_DAUGHTER_7",
       "family_no": 3,
       "age": 7,
-      "name": "Reem"
+      "name": "Reem",
+      "role": "child"
     }
   ],
   "_xlsxPath": "KW characters.xlsx"
