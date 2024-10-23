@@ -174,7 +174,7 @@
           "eng": "Upset"
         },
         "quiz_3_feedback_3": {
-          "eng": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful"
+          "eng": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful."
         }
       },
       "category_id": "explore",
@@ -231,7 +231,7 @@
       "quiz_3_option_2_text": "Okay",
       "quiz_3_feedback_2": "She may still have the same worries, but she also recognises she is trying her best and others are there to support her.",
       "quiz_3_option_3_text": "Upset",
-      "quiz_3_feedback_3": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful",
+      "quiz_3_feedback_3": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful.",
       "completed": false
     }
   ]

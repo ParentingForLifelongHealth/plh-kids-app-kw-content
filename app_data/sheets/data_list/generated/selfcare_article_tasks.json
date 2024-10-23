@@ -271,7 +271,7 @@
           "eng": "Upset"
         },
         "quiz_3_feedback_3": {
-          "eng": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful"
+          "eng": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful."
         }
       },
       "category_id": "explore",
@@ -328,7 +328,7 @@
       "quiz_3_option_2_text": "Okay",
       "quiz_3_feedback_2": "She may still have the same worries, but she also recognises she is trying her best and others are there to support her.",
       "quiz_3_option_3_text": "Upset",
-      "quiz_3_feedback_3": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful",
+      "quiz_3_feedback_3": "Have another look at what @data.characters.f1_mother.name does. After taking care of herself, she feels more positive and hopeful.",
       "completed": false
     },
     {
@@ -348,9 +348,6 @@
         },
         "section_2_title": {
           "eng": "Praise Myself"
-        },
-        "section_2_text": {
-          "eng": "Take a moment and think of one thing YOU did well recently. Say it aloud if you can: \"Well done for …\""
         },
         "section_2_button_text": {
           "eng": "More tips"
@@ -372,7 +369,6 @@
         }
       },
       "category_id": "practical_tips",
-      "quiz_3_option_3_image_asset": "",
       "section_1_title": "Take a Pause",
       "_translations": {
         "section_1_title": {},
@@ -380,7 +376,6 @@
         "section_1_button_text": {},
         "section_1_extra_text": {},
         "section_2_title": {},
-        "section_2_text": {},
         "section_2_button_text": {},
         "section_2_extra_text": {},
         "section_3_title": {},
@@ -392,7 +387,6 @@
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Even taking a few deep breaths makes a big difference. \n\nBy staying calm instead of reacting strongly, you can also prevent a lot of problems!",
       "section_2_title": "Praise Myself",
-      "section_2_text": "Take a moment and think of one thing YOU did well recently. Say it aloud if you can: \"Well done for …\"",
       "section_2_button_text": "More tips",
       "section_2_extra_text": "Being a parent can be hard. Praise yourself for trying your best. \n\nIdentify negative thoughts when they start and decide if they are true or helpful. If not, find positive thoughts to replace them with. \n\nFor example, instead of “I am a bad parent” say “I am feeling overwhelmed right now, but I am doing the best I can and I will talk to a friend for support”.",
       "section_3_title": "Reward Yourself",

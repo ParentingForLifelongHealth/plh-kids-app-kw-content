@@ -138,12 +138,12 @@
       "id": "explore_3",
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”"
+          "eng": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n@data.characters.f1_daughter_2.name: “Yay!”"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_3.svg",
-      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n @data.characters.f1_daughter_2.name: “Yay!”",
+      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n@data.characters.f1_daughter_2.name: “Yay!”",
       "_translations": {
         "text_2": {}
       },

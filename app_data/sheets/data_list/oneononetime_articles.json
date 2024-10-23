@@ -7,7 +7,6 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "image_asset": "",
       "media_type": "audio",
       "media_asset": "audio/connect_audio_1.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw",
@@ -253,7 +252,6 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "image_asset": "",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
         "text_1_facilitator": {},

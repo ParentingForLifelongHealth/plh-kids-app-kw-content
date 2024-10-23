@@ -89,7 +89,6 @@
         }
       },
       "category_id": "intro",
-      "image_asset": "",
       "text_1_facilitator": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
       "_translations": {
         "text_1_facilitator": {},
@@ -111,12 +110,12 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/one_on_one_yc_1.svg",
       "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
+      "image_asset": "images/comics/one_on_one_yc_1.svg",
       "text_2": "@data.characters.f3_uncle.name: I see you are playing quietly with those legos with concentration, Faisal.",
       "completed": false
     },
@@ -362,7 +361,6 @@
         }
       },
       "category_id": "practical_tips",
-      "image_asset": "",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
         "text_1_facilitator": {},

@@ -8,12 +8,16 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:"
+        },
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”"
         }
       },
       "category_id": "explore",
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
       "text_2": "@data.characters.f3_uncle.name: “You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.”",
@@ -21,30 +25,62 @@
     },
     {
       "id": "explore_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”"
+        }
+      },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_2.svg",
       "text_2": "*5 minutes later*\n @data.characters.f3_uncle.name: “It’s time to put away your toys.”\n @data.characters.f3_son_4.name: “No. Not yet!”",
+      "_translations": {
+        "text_2": {}
+      },
       "completed": false
     },
     {
       "id": "explore_4",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”"
+        }
+      },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_3.svg",
       "text_2": "@data.characters.f3_uncle.name: “ @data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.”\n\n @data.characters.f3_son_4.name: “No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game!”",
+      "_translations": {
+        "text_2": {}
+      },
       "completed": false
     },
     {
       "id": "explore_5",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”"
+        }
+      },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_4.svg",
       "text_2": "@data.characters.f3_uncle.name: “Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.”",
+      "_translations": {
+        "text_2": {}
+      },
       "completed": false
     },
     {
       "id": "explore_6",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”"
+        }
+      },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_5.svg",
       "text_2": "@data.characters.f3_uncle.name: “Good job washing your hands so well, @data.characters.f3_son_4.name.”",
+      "_translations": {
+        "text_2": {}
+      },
       "completed": false
     },
     {
@@ -52,10 +88,97 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here."
+        },
+        "quiz_1_question": {
+          "eng": "Why does @data.characters.f3_uncle.name use a consequence?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Because@data.characters.f3_son_4.name needs to be punished."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Because @data.characters.f3_son_4.name does not put his toys away even when he has a choice between listening and a consequence."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Because he already tried yelling, and it didn’t work."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Try again! @data.characters.f3_uncle.name never yelled."
+        },
+        "quiz_2_question": {
+          "eng": "How does @data.characters.f3_uncle.name give @data.characters.f3_son_4.name a consequence?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "He makes his disappointment clear."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Try again!"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "He speaks in a calm, firm way, explains why he is giving a consequence, and connects the consequence to the behaviour."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "That’s right. @data.characters.f3_uncle.name shows us that it’s important to introduce consequences when you are feeling calm and makes sure that @data.characters.f3_son_4.name understands why he can’t play after dinner. There’s one more right answer hiding! Did you find it?"
+        },
+        "quiz_2_option_3_text": {
+          "eng": "He gets a bit angry, but then makes the consequence clear."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Try again! @data.characters.f3_uncle.name stays calm."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "@data.characters.f3_uncle.name follows through with the consequence"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "That’s right. @data.characters.f3_uncle.name shows us that it’s important to follow-through for the consequence to work. There’s one more right answer hiding! Did you find it?"
+        },
+        "quiz_3_question": {
+          "eng": "What would @data.characters.f3_son_4.name learn if @data.characters.f3_uncle.name gives in or does not give the consequence? \n\n@data.characters.f3_son_4.name would learn:"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "He can get away with this behaviour in the future and not to take @data.characters.f3_uncle.name seriously when he gives an instruction"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Exactly. It is really important to follow through with what we say, so our children learn boundaries and know they can trust our word."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "That @data.characters.f3_uncle.name loves him and forgives him."
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Children actually do need consequences and the boundaries that they come with in order to feel secure and loved."
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
+      "quiz_1_feedback_1": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
       "quiz_1_feedback_2": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_1_feedback_3": "Try again! @data.characters.f3_uncle.name never yelled.",
       "quiz_1_question": "Why does @data.characters.f3_uncle.name use a consequence?",
@@ -63,12 +186,9 @@
       "quiz_1_option_2_text": "Because @data.characters.f3_son_4.name does not put his toys away even when he has a choice between listening and a consequence.",
       "quiz_1_option_3_text": "Because he already tried yelling, and it didn’t work.",
       "text_1_facilitator": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
       "quiz_2_question": "How does @data.characters.f3_uncle.name give @data.characters.f3_son_4.name a consequence?",
       "quiz_2_option_1_text": "He makes his disappointment clear.",
-      "quiz_2_option_1_image_asset": "Try again!",
+      "quiz_2_feedback_1": "Try again!",
       "quiz_2_option_2_text": "He speaks in a calm, firm way, explains why he is giving a consequence, and connects the consequence to the behaviour.",
       "quiz_2_feedback_2": "That’s right. @data.characters.f3_uncle.name shows us that it’s important to introduce consequences when you are feeling calm and makes sure that @data.characters.f3_son_4.name understands why he can’t play after dinner. There’s one more right answer hiding! Did you find it?",
       "quiz_2_option_3_text": "He gets a bit angry, but then makes the consequence clear.",
