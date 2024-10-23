@@ -27,12 +27,12 @@
       "id": "explore_2",
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos . \r@data.characters.f3_son_4.name: It’s for our pet cat ."
+          "eng": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_2.svg",
-      "text_2": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos . \r@data.characters.f3_son_4.name: It’s for our pet cat .",
+      "text_2": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat.",
       "_translations": {
         "text_2": {}
       },
@@ -42,12 +42,12 @@
       "id": "explore_3",
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f3_uncle.name: This enclosure is a cat house . It will keep your cat safe!\r@data.characters.f3_son_4.name: Now you can help make a house for you and me to sleep in."
+          "eng": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_3.svg",
-      "text_2": "@data.characters.f3_uncle.name: This enclosure is a cat house . It will keep your cat safe!\r@data.characters.f3_son_4.name: Now you can help make a house for you and me to sleep in.",
+      "text_2": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat.",
       "_translations": {
         "text_2": {}
       },
@@ -75,7 +75,7 @@
           "eng": "Let’s reflect on what we saw."
         },
         "quiz_1_question": {
-          "eng": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him ?"
+          "eng": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?"
         },
         "quiz_1_option_1_text": {
           "eng": "He says @data.characters.f3_son_4.name’s name"
@@ -108,7 +108,7 @@
           "eng": "Yes, he does all these things! This way, @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.namereally cares about him."
         },
         "quiz_2_question": {
-          "eng": "How does @data.characters.f3_son_4.namefeel?"
+          "eng": "How does @data.characters.f3_son_4.name feel?"
         },
         "quiz_2_option_1_text": {
           "eng": "Annoyed"
@@ -198,7 +198,7 @@
       },
       "quiz_1_feedback_2": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him.",
       "quiz_1_feedback_3": "False. @data.characters.f3_uncle.name gets down on @data.characters.f3_son_4.name’s level, looks at him and uses him name so  @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name is present and paying attention to him.",
-      "quiz_1_question": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him ?",
+      "quiz_1_question": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?",
       "quiz_1_option_1_text": "He says @data.characters.f3_son_4.name’s name",
       "quiz_1_option_2_text": "He invites @data.characters.f3_son_4.name to come and play by him.",
       "quiz_1_option_3_text": "He is trying to fold the clothes while he is playing with @data.characters.f3_uncle.name.",
@@ -207,7 +207,7 @@
       "quiz_1_feedback_4": "No, @data.characters.f3_uncle.name  doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play.",
       "quiz_1_option_5_text": "He notices and praises what @data.characters.f3_son_4.name does",
       "quiz_1_feedback_5": "Yes, he does all these things! This way, @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.namereally cares about him.",
-      "quiz_2_question": "How does @data.characters.f3_son_4.namefeel?",
+      "quiz_2_question": "How does @data.characters.f3_son_4.name feel?",
       "quiz_2_option_1_text": "Annoyed",
       "quiz_2_feedback_1": "Probably not! Spending one-on-one time has a big positive impact on how your child feels. He probably feels happy about being close to her uncle!",
       "quiz_2_option_2_text": "Monitored",
