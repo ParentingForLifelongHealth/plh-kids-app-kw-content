@@ -1,0 +1,42 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "organisation",
+  "status": "released",
+  "data_list_name": "organisation",
+  "rows": [
+    {
+      "id": "organisation_1",
+      "image_asset": "images/logos/kuwait.png",
+      "group": "partners",
+      "name": "Ministry of Health",
+      "_translatedFields": {
+        "name": {
+          "eng": "Ministry of Health"
+        }
+      }
+    },
+    {
+      "id": "organisation_2",
+      "image_asset": "images/logos/PLH.png",
+      "group": "partners",
+      "name": "PLH",
+      "_translatedFields": {
+        "name": {
+          "eng": "PLH"
+        }
+      }
+    },
+    {
+      "id": "organisation_3",
+      "image_asset": "images/logos/IDEMS.png",
+      "group": "partners",
+      "name": "IDEMS",
+      "_translatedFields": {
+        "name": {
+          "eng": "IDEMS"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "deployment_data_kw.xlsx"
+}

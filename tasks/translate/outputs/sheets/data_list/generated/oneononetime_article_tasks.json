@@ -1,0 +1,580 @@
+{
+  "flow_name": "oneononetime_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_3",
+      "media_asset": "video/pause/breath_body_awareness.mp4",
+      "media_type": "video",
+      "title": "Breath and Body Awareness",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breath and Body Awareness"
+        },
+        "transcript": {
+          "eng": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson."
+        }
+      },
+      "transcript": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson.",
+      "category_id": "relax",
+      "completed": false
+    },
+    {
+      "id": "check_in_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
+      "_translatedFields": {
+        "quiz_1_feedback_1": {
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "media_asset": "audio/connect_audio_1.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning."
+        },
+        "media_title": {
+          "eng": "How will it help me and my family?"
+        },
+        "media_transcript": {
+          "eng": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together just the two of you will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!"
+        }
+      },
+      "category_id": "intro",
+      "text_1_facilitator": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "How will it help me and my family?",
+      "media_transcript": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together just the two of you will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!"
+        },
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: I see you are playing quietly with those legos with concentration, Faisal."
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "images/comics/one_on_one_yc_1.svg",
+      "text_2": "@data.characters.f3_uncle.name: I see you are playing quietly with those legos with concentration, Faisal.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat."
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/one_on_one_yc_2.svg",
+      "text_2": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat.",
+      "_translations": {
+        "text_2": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat."
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/one_on_one_yc_3.svg",
+      "text_2": "@data.characters.f3_uncle.name: Wow! You are building such a tall and strong wall with those legos. \n@data.characters.f3_son_4.name: It’s for our pet cat.",
+      "_translations": {
+        "text_2": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f3_uncle.name: This house is going to keep us both safe and happy. You are such a good builder, @data.characters.f3_son_4.name."
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/one_on_one_yc_4.svg",
+      "text_2": "@data.characters.f3_uncle.name: This house is going to keep us both safe and happy. You are such a good builder, @data.characters.f3_son_4.name.",
+      "_translations": {
+        "text_2": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on what we saw."
+        },
+        "quiz_1_question": {
+          "eng": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "He says @data.characters.f3_son_4.name’s name"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "He invites @data.characters.f3_son_4.name to come and play by him."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "He is trying to fold the clothes while he is playing with @data.characters.f3_uncle.name."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "False. @data.characters.f3_uncle.name gets down on @data.characters.f3_son_4.name’s level, looks at him and uses him name so  @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name is present and paying attention to him."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "He tells @data.characters.f3_son_4.name how to build a house."
+        },
+        "quiz_1_feedback_4": {
+          "eng": "No, @data.characters.f3_uncle.name  doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "He notices and praises what @data.characters.f3_son_4.name does"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Yes, he does all these things! This way, @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.namereally cares about him."
+        },
+        "quiz_2_question": {
+          "eng": "How does @data.characters.f3_son_4.name feel?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Annoyed"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Probably not! Spending one-on-one time has a big positive impact on how your child feels. He probably feels happy about being close to her uncle!"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Monitored"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "In a good way! Spending one-on-one time will make your child feel loved!"
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Important"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "That is right. Spending one-on-one time has a big positive impact on how your child feels."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Frustrated"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Probably not. Spending one-on-one time is an opportunity to appreciate the amazing things your child can do!"
+        },
+        "quiz_2_option_5_text": {
+          "eng": "Confident"
+        },
+        "quiz_2_feedback_5": {
+          "eng": "That is right. Spending one-on-one Time has a big positive impact on how your child feels."
+        },
+        "quiz_3_question": {
+          "eng": "How does @data.characters.f3_uncle.name feel?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without also trying to do chores or work."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Overwhelmed"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Probably not Spending special time with our children helps us to feel close to them without having to worry about work or chores."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Tired"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Probably not. Spending time with our children is relaxing because we are able to enjoy time together without it feeling like work."
+        }
+      },
+      "category_id": "explore",
+      "quiz_1_feedback_1": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {},
+        "quiz_2_option_5_text": {},
+        "quiz_2_feedback_5": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {}
+      },
+      "quiz_1_feedback_2": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him.",
+      "quiz_1_feedback_3": "False. @data.characters.f3_uncle.name gets down on @data.characters.f3_son_4.name’s level, looks at him and uses him name so  @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name is present and paying attention to him.",
+      "quiz_1_question": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?",
+      "quiz_1_option_1_text": "He says @data.characters.f3_son_4.name’s name",
+      "quiz_1_option_2_text": "He invites @data.characters.f3_son_4.name to come and play by him.",
+      "quiz_1_option_3_text": "He is trying to fold the clothes while he is playing with @data.characters.f3_uncle.name.",
+      "quiz_1_option_4_text": "He tells @data.characters.f3_son_4.name how to build a house.",
+      "text_1_facilitator": "Let’s reflect on what we saw.",
+      "quiz_1_feedback_4": "No, @data.characters.f3_uncle.name  doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play.",
+      "quiz_1_option_5_text": "He notices and praises what @data.characters.f3_son_4.name does",
+      "quiz_1_feedback_5": "Yes, he does all these things! This way, @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.namereally cares about him.",
+      "quiz_2_question": "How does @data.characters.f3_son_4.name feel?",
+      "quiz_2_option_1_text": "Annoyed",
+      "quiz_2_feedback_1": "Probably not! Spending one-on-one time has a big positive impact on how your child feels. He probably feels happy about being close to her uncle!",
+      "quiz_2_option_2_text": "Monitored",
+      "quiz_2_feedback_2": "In a good way! Spending one-on-one time will make your child feel loved!",
+      "quiz_2_option_3_text": "Important",
+      "quiz_2_feedback_3": "That is right. Spending one-on-one time has a big positive impact on how your child feels.",
+      "quiz_2_option_4_text": "Frustrated",
+      "quiz_2_feedback_4": "Probably not. Spending one-on-one time is an opportunity to appreciate the amazing things your child can do!",
+      "quiz_2_option_5_text": "Confident",
+      "quiz_2_feedback_5": "That is right. Spending one-on-one Time has a big positive impact on how your child feels.",
+      "quiz_3_question": "How does @data.characters.f3_uncle.name feel?",
+      "quiz_3_option_1_text": "Happy",
+      "quiz_3_feedback_1": "Yes! Spending time with our children helps us to connect with them. We can enjoy time together without also trying to do chores or work.",
+      "quiz_3_option_2_text": "Overwhelmed",
+      "quiz_3_feedback_2": "Probably not Spending special time with our children helps us to feel close to them without having to worry about work or chores.",
+      "quiz_3_option_3_text": "Tired",
+      "quiz_3_feedback_3": "Probably not. Spending time with our children is relaxing because we are able to enjoy time together without it feeling like work.",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are some easy tips on how to connect with your child when you spend time together:"
+        },
+        "section_1_title": {
+          "eng": "DO IT EVERY DAY"
+        },
+        "section_1_text": {
+          "eng": "Spend at least 5 minutes with your child each day. More is better!"
+        },
+        "section_2_title": {
+          "eng": "STAY FOCUSED"
+        },
+        "section_2_text": {
+          "eng": "Switch off the TV, put aside phones, and remove distractions. Show your child that you are really paying attention to them."
+        },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "- Look at your child. Get down to their level. Use their name.\n- Describe what they are doing and feeling. Praise them.\n- Your child will learn a lot from what you say and do."
+        },
+        "section_3_title": {
+          "eng": "FOLLOW THEIR LEAD"
+        },
+        "section_3_text": {
+          "eng": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!"
+        },
+        "section_3_button_text": {
+          "eng": "More tips"
+        },
+        "section_3_extra_text": {
+          "eng": "This will help your child feel important and valued."
+        }
+      },
+      "category_id": "practical_tips",
+      "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_2_button_text": {},
+        "section_2_extra_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_3_button_text": {},
+        "section_3_extra_text": {}
+      },
+      "section_1_title": "DO IT EVERY DAY",
+      "section_1_text": "Spend at least 5 minutes with your child each day. More is better!",
+      "section_2_title": "STAY FOCUSED",
+      "section_2_text": "Switch off the TV, put aside phones, and remove distractions. Show your child that you are really paying attention to them.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "- Look at your child. Get down to their level. Use their name.\n- Describe what they are doing and feeling. Praise them.\n- Your child will learn a lot from what you say and do.",
+      "section_3_title": "FOLLOW THEIR LEAD",
+      "section_3_text": "Ask to spend time with your child. Let them choose what to do or talk about. \nTry different activities together. Have fun!",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "This will help your child feel important and valued.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day."
+        },
+        "quiz_1_question": {
+          "eng": "Where will you spend one-on-one time with your child?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "At the park"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "At home"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "While going to school or daycare"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Excellent idea! The journey to school or daycare can be a special time to connect with your child."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Other"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Wonderful! No matter where you choose, spending one-on-one time with your child is what truly matters."
+        },
+        "quiz_2_question": {
+          "eng": "When will you spend one-on-one time with your child?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "In the morning before starting the day"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Great start! Spending time with your child in the morning can set a positive tone for the rest of the day."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "After school or daycare"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Perfect! After school or daycare is a great time to reconnect with your child"
+        },
+        "quiz_2_option_3_text": {
+          "eng": "During mealtime"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Wonderful! Sharing a meal together is a special way to bond and enjoy each other's company"
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Before bedtime"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Lovely choice! Bedtime is a calming time to connect, share stories, and end the day on a warm note."
+        },
+        "quiz_2_option_5_text": {
+          "eng": "During a commute (e.g., driving to school or an activity)"
+        },
+        "quiz_2_feedback_5": {
+          "eng": "Excellent idea! Commutes are a valuable opportunity to chat and spend meaningful time together"
+        },
+        "quiz_2_option_6_text": {
+          "eng": "Other"
+        },
+        "quiz_2_feedback_6": {
+          "eng": "Fantastic! Whatever time you choose, making it a regular part of your routine ensures meaningful one-on-one time with your child."
+        },
+        "quiz_3_question": {
+          "eng": "How will you spend one-on-one time with your child today?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Join them when they play"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Chat before bedtime"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Eat a meal together"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Think of ways to make daily activities fun together."
+        },
+        "quiz_3_option_4_text": {
+          "eng": "Watch a TV show"
+        },
+        "quiz_3_feedback_4": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+        },
+        "quiz_3_option_5_text": {
+          "eng": "Read a book together"
+        },
+        "quiz_3_feedback_5": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+        },
+        "quiz_3_option_6_text": {
+          "eng": "Do a chore together"
+        },
+        "quiz_3_feedback_6": {
+          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+        }
+      },
+      "category_id": "home_activity",
+      "quiz_1_feedback_1": "Great choice! Spending time at the park is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {},
+        "quiz_2_option_5_text": {},
+        "quiz_2_feedback_5": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {},
+        "quiz_2_option_6_text": {},
+        "quiz_2_feedback_6": {},
+        "quiz_3_option_4_text": {},
+        "quiz_3_feedback_4": {},
+        "quiz_3_option_5_text": {},
+        "quiz_3_feedback_5": {},
+        "quiz_3_option_6_text": {},
+        "quiz_3_feedback_6": {}
+      },
+      "quiz_1_feedback_2": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together.",
+      "quiz_1_feedback_3": "Excellent idea! The journey to school or daycare can be a special time to connect with your child.",
+      "quiz_1_question": "Where will you spend one-on-one time with your child?",
+      "quiz_1_option_1_text": "At the park",
+      "quiz_1_option_2_text": "At home",
+      "quiz_1_option_3_text": "While going to school or daycare",
+      "quiz_1_option_4_text": "Other",
+      "text_1_facilitator": "Ready to try it out? \n\nYour home activity is to spend 5 minutes (or more) of one-on-one time with your child, every day.",
+      "quiz_1_feedback_4": "Wonderful! No matter where you choose, spending one-on-one time with your child is what truly matters.",
+      "quiz_2_question": "When will you spend one-on-one time with your child?",
+      "quiz_2_option_1_text": "In the morning before starting the day",
+      "quiz_2_feedback_1": "Great start! Spending time with your child in the morning can set a positive tone for the rest of the day.",
+      "quiz_2_option_2_text": "After school or daycare",
+      "quiz_2_feedback_2": "Perfect! After school or daycare is a great time to reconnect with your child",
+      "quiz_2_option_3_text": "During mealtime",
+      "quiz_2_feedback_3": "Wonderful! Sharing a meal together is a special way to bond and enjoy each other's company",
+      "quiz_2_option_4_text": "Before bedtime",
+      "quiz_2_feedback_4": "Lovely choice! Bedtime is a calming time to connect, share stories, and end the day on a warm note.",
+      "quiz_2_option_5_text": "During a commute (e.g., driving to school or an activity)",
+      "quiz_2_feedback_5": "Excellent idea! Commutes are a valuable opportunity to chat and spend meaningful time together",
+      "quiz_3_question": "How will you spend one-on-one time with your child today?",
+      "quiz_3_option_1_text": "Join them when they play",
+      "quiz_3_feedback_1": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together.",
+      "quiz_3_option_2_text": "Chat before bedtime",
+      "quiz_3_feedback_2": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together.",
+      "quiz_3_option_3_text": "Eat a meal together",
+      "quiz_3_feedback_3": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Think of ways to make daily activities fun together.",
+      "quiz_2_option_6_text": "Other",
+      "quiz_2_feedback_6": "Fantastic! Whatever time you choose, making it a regular part of your routine ensures meaningful one-on-one time with your child.",
+      "quiz_3_option_4_text": "Watch a TV show",
+      "quiz_3_feedback_4": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
+      "quiz_3_option_5_text": "Read a book together",
+      "quiz_3_feedback_5": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
+      "quiz_3_option_6_text": "Do a chore together",
+      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
+      "completed": false
+    }
+  ]
+}

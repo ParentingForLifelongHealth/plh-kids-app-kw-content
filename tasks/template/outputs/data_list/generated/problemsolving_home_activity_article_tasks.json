@@ -1,0 +1,46 @@
+{
+  "flow_name": "problemsolving_home_activity_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!"
+        },
+        "quiz_1_question": {
+          "eng": "Can you try to solve a problem with your child?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "I think so."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "That's okay. Try to work on a simple problem with your child, before you tackle a big one together."
+        }
+      },
+      "category_id": "home_activity",
+      "quiz_1_feedback_1": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
+      "quiz_1_feedback_2": "That's great! Remember to praise them for their effort, and praise yourself, too! Well done!",
+      "quiz_1_feedback_3": "That's okay. Try to work on a simple problem with your child, before you tackle a big one together.",
+      "quiz_1_question": "Can you try to solve a problem with your child?",
+      "quiz_1_option_1_text": "Yes!",
+      "quiz_1_option_2_text": "I think so.",
+      "quiz_1_option_3_text": "No",
+      "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "flow_name": "instructions_practise_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "practise",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones."
+        },
+        "quiz_1_question": {
+          "eng": "Click on each of the negative commands to see how they can be restated as a positive instruction."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "\"Stop fighting with your siblings over toys!\""
+        },
+        "quiz_1_feedback_1": {
+          "eng": "\"Please take turns with toys! Each of you can have 5 minutes.\""
+        },
+        "quiz_1_option_2_text": {
+          "eng": "\"No shouting in the house!\""
+        },
+        "quiz_1_feedback_2": {
+          "eng": "\"Please speak with a quiet, indoor voice.\""
+        },
+        "quiz_1_option_3_text": {
+          "eng": "\"Stop throwing food!\""
+        },
+        "quiz_1_feedback_3": {
+          "eng": "\"Please keep your food on the plate.\""
+        },
+        "quiz_1_option_4_text": {
+          "eng": "\"Don't write on the walls!\""
+        },
+        "quiz_1_feedback_4": {
+          "eng": "\"Please only write on paper.\""
+        },
+        "quiz_1_option_5_text": {
+          "eng": "\"No running in the house!\""
+        },
+        "quiz_1_feedback_5": {
+          "eng": "\"Please walk in the house.\""
+        }
+      },
+      "category_id": "practise",
+      "quiz_1_feedback_1": "\"Please take turns with toys! Each of you can have 5 minutes.\"",
+      "quiz_1_feedback_2": "\"Please speak with a quiet, indoor voice.\"",
+      "quiz_1_feedback_3": "\"Please keep your food on the plate.\"",
+      "quiz_1_question": "Click on each of the negative commands to see how they can be restated as a positive instruction.",
+      "quiz_1_option_1_text": "\"Stop fighting with your siblings over toys!\"",
+      "quiz_1_option_2_text": "\"No shouting in the house!\"",
+      "quiz_1_option_3_text": "\"Stop throwing food!\"",
+      "quiz_1_option_4_text": "\"Don't write on the walls!\"",
+      "text_1_facilitator": "In order to practise giving instructions that work we all need to work on turning our negative instructions into positive ones.",
+      "quiz_1_feedback_4": "\"Please only write on paper.\"",
+      "quiz_1_option_5_text": "\"No running in the house!\"",
+      "quiz_1_feedback_5": "\"Please walk in the house.\"",
+      "completed": false
+    }
+  ]
+}

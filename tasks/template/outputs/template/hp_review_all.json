@@ -1,0 +1,205 @@
+{
+  "flow_type": "template",
+  "flow_name": "hp_review_all",
+  "status": "released",
+  "rows": [
+    {
+      "name": "hp_review",
+      "value": "_hp_review",
+      "type": "set_variable",
+      "_nested_name": "hp_review"
+    },
+    {
+      "type": "display_group",
+      "name": "heading",
+      "rows": [
+        {
+          "type": "title",
+          "name": "title",
+          "value": "Home Practice Review",
+          "_nested_name": "heading.title"
+        }
+      ],
+      "_nested_name": "heading"
+    },
+    {
+      "type": "items",
+      "name": "all_hp",
+      "value": "@data.modules",
+      "rows": [
+        {
+          "type": "display_group",
+          "name": "dg_@item.id",
+          "parameter_list": {
+            "style": "column"
+          },
+          "rows": [
+            {
+              "type": "button",
+              "name": "button_@item.id",
+              "value": "@item.title",
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "go_to",
+                  "args": [
+                    "@item.id@local.hp_review"
+                  ],
+                  "_raw": "click | go_to: @item.id@local.hp_review",
+                  "_cleaned": "click | go_to: @item.id@local.hp_review"
+                }
+              ],
+              "exclude_from_translation": true,
+              "parameter_list": {
+                "style": "card"
+              },
+              "_nested_name": "all_hp.dg_@item.id.button_@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
+                    "type": "item",
+                    "fieldName": "title"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@item.id@local.hp_review",
+                          "matchedExpression": "@item.id",
+                          "type": "item",
+                          "fieldName": "id"
+                        },
+                        {
+                          "fullExpression": "@item.id@local.hp_review",
+                          "matchedExpression": "@local.hp_review",
+                          "type": "local",
+                          "fieldName": "hp_review"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | go_to: @item.id@local.hp_review",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      },
+                      {
+                        "fullExpression": "click | go_to: @item.id@local.hp_review",
+                        "matchedExpression": "@local.hp_review",
+                        "type": "local",
+                        "fieldName": "hp_review"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | go_to: @item.id@local.hp_review",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      },
+                      {
+                        "fullExpression": "click | go_to: @item.id@local.hp_review",
+                        "matchedExpression": "@local.hp_review",
+                        "type": "local",
+                        "fieldName": "hp_review"
+                      }
+                    ]
+                  }
+                },
+                "_nested_name": [
+                  {
+                    "fullExpression": "all_hp.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id.button_",
+                    "type": "item",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "all_hp.dg_@item.id.button_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "_nested_name"
+                ],
+                "@item.title": [
+                  "value"
+                ],
+                "@local.hp_review": [
+                  "action_list.0.args.0",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ],
+                "@item.id.button_": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "all_hp.dg_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "all_hp.dg_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "all_hp",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.modules",
+            "matchedExpression": "@data.modules",
+            "type": "data",
+            "fieldName": "modules"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.modules": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "KW app_navigation.xlsx"
+}

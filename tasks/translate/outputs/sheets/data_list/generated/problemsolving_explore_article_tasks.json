@@ -1,0 +1,185 @@
+{
+  "flow_name": "problemsolving_explore_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "@data.characters.f3_mother.name is concerned that @data.characters.f3_daughter_7.name is sleeping late every day and waking up tired because she starts her homework late. Let’s see how they try to solve the problem together:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "KNOW IT"
+        },
+        "text_2": {
+          "eng": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "KNOW IT",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
+      "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "SOLVE IT"
+        },
+        "text_2": {
+          "eng": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n@data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n@data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "SOLVE IT",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
+      "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n@data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n@data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "TEST IT"
+        },
+        "text_2": {
+          "eng": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "TEST IT",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "images/comics/problem_solving_yc_3.svg",
+      "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "REFLECT"
+        },
+        "text_2": {
+          "eng": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "REFLECT",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
+      "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem."
+        },
+        "quiz_1_question": {
+          "eng": "What problem did this family have?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "@data.characters.f3_daughter_7.name went to bed late"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well so that she has enough time to sleep after getting her homework done."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "@data.characters.f3_daughter_7.name did not finish her homework"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "@data.characters.f3_daughter_7.name was lazy"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "@data.characters.f3_daughter_7.name wasn’t lazy, but she was tired! She is still learning to manage her time well."
+        },
+        "quiz_2_question": {
+          "eng": "What does @data.characters.f3_mother.name do to solve the problem together with @data.characters.f3_daughter_7.name?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "She reminds @data.characters.f3_daughter_7.name that she has had this problem before."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Try again!"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "She asks @data.characters.f3_daughter_7.name to help come up with solutions"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "That’s right. The second step of problem solving is to jointly come up with solutions."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "She slams her for not remembering to try it."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Hm. That’s not right. \n\nThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution."
+        }
+      },
+      "category_id": "explore",
+      "quiz_1_feedback_1": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well so that she has enough time to sleep after getting her homework done.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
+      },
+      "quiz_1_feedback_2": "Yes, @data.characters.f3_daughter_7.name is still learning to manage her time well.",
+      "quiz_1_feedback_3": "@data.characters.f3_daughter_7.name wasn’t lazy, but she was tired! She is still learning to manage her time well.",
+      "quiz_1_question": "What problem did this family have?",
+      "quiz_1_option_1_text": "@data.characters.f3_daughter_7.name went to bed late",
+      "quiz_1_option_2_text": "@data.characters.f3_daughter_7.name did not finish her homework",
+      "quiz_1_option_3_text": "@data.characters.f3_daughter_7.name was lazy",
+      "text_1_facilitator": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
+      "quiz_2_question": "What does @data.characters.f3_mother.name do to solve the problem together with @data.characters.f3_daughter_7.name?",
+      "quiz_2_option_1_text": "She reminds @data.characters.f3_daughter_7.name that she has had this problem before.",
+      "quiz_2_feedback_1": "Try again!",
+      "quiz_2_option_2_text": "She asks @data.characters.f3_daughter_7.name to help come up with solutions",
+      "quiz_2_feedback_2": "That’s right. The second step of problem solving is to jointly come up with solutions.",
+      "quiz_2_option_3_text": "She slams her for not remembering to try it.",
+      "quiz_2_feedback_3": "Hm. That’s not right. \n\nThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution.",
+      "completed": false
+    }
+  ]
+}

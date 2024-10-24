@@ -1,0 +1,377 @@
+{
+  "flow_name": "feelings_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_2",
+      "media_asset": "video/pause/loving_kindness_meditation.mp4",
+      "media_type": "video",
+      "title": "Meditation",
+      "_translatedFields": {
+        "title": {
+          "eng": "Meditation"
+        },
+        "transcript": {
+          "eng": "Today's pause is called loving kindness meditation.\nFind a comfortable sitting position, your feet flat on the floor, your hands resting in your lap.\nClose your eyes if you are comfortable, or maintain a soft gaze. \nAsk yourself, “What is my experience in this moment?” \nNotice what thoughts you are experiencing. \nNotice how you feel emotionally. \nNotice how your body feels. Notice any discomfort or tension.\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. \nYou can then say the following words silently to yourself: \nMay I be peaceful. \nMay I be safe. \nMay I be healthy. \nMay I be happy. \nMay I feel loved. \nRepeat slowly once or twice, taking your time between each phrase.\nIf you feel comfortable, you can also send thoughts of loving-kindness to your child, your partner, your family, and anyone else who is close to you in your life.\nNow, allow your focus to expand to the whole body. \nAllow your focus to expand to the sounds in the room. \nTake a moment to reflect on whether you feel any different. \nOpen your eyes, and when you are ready, continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us."
+        }
+      },
+      "transcript": "Today's pause is called loving kindness meditation.\nFind a comfortable sitting position, your feet flat on the floor, your hands resting in your lap.\nClose your eyes if you are comfortable, or maintain a soft gaze. \nAsk yourself, “What is my experience in this moment?” \nNotice what thoughts you are experiencing. \nNotice how you feel emotionally. \nNotice how your body feels. Notice any discomfort or tension.\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. \nYou can then say the following words silently to yourself: \nMay I be peaceful. \nMay I be safe. \nMay I be healthy. \nMay I be happy. \nMay I feel loved. \nRepeat slowly once or twice, taking your time between each phrase.\nIf you feel comfortable, you can also send thoughts of loving-kindness to your child, your partner, your family, and anyone else who is close to you in your life.\nNow, allow your focus to expand to the whole body. \nAllow your focus to expand to the sounds in the room. \nTake a moment to reflect on whether you feel any different. \nOpen your eyes, and when you are ready, continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us.",
+      "category_id": "relax",
+      "completed": false
+    },
+    {
+      "id": "check_in_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
+      "_translatedFields": {
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
+      "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
+      "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "media_asset": "audio/feelings_audio_1.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1ZIMLTBvC6nXUbWbW9_Wmlgx7394yXHKqAaokytKSdpA",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today we are learning to talk about feelings with our children. \n\nNoticing  emotions, both our own and our children's, helps us care for ourselves. \n\nNoticing and talking about feelings with our children helps them learn to express and manage their emotions – even the difficult ones."
+        },
+        "media_title": {
+          "eng": "How will it help you and your family?"
+        },
+        "media_transcript": {
+          "eng": "Greetings, everyone.\n\nDoes your child ever get so upset that you don’t know what to do? \n\nYou can help your child to manage their emotions better by showing them how to talk about their feelings. In order to talk about feelings you need to first notice and then accept all the emotions we have."
+        }
+      },
+      "category_id": "intro",
+      "text_1_facilitator": "Today we are learning to talk about feelings with our children. \n\nNoticing  emotions, both our own and our children's, helps us care for ourselves. \n\nNoticing and talking about feelings with our children helps them learn to express and manage their emotions – even the difficult ones.",
+      "media_title": "How will it help you and your family?",
+      "media_transcript": "Greetings, everyone.\n\nDoes your child ever get so upset that you don’t know what to do? \n\nYou can help your child to manage their emotions better by showing them how to talk about their feelings. In order to talk about feelings you need to first notice and then accept all the emotions we have.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s check in on another family to see how talking about feelings helps them in a practical way:"
+        },
+        "text_2": {
+          "eng": "@data.characters.f1_father.name: “@data.characters.f1_daughter_6.name, I have 5 minutes to spend one-on-one time with you. What would you like to do?”\n @data.characters.f1_daughter_6.name: “Let’s play with the ball outside!”"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "Let’s check in on another family to see how talking about feelings helps them in a practical way:",
+      "image_asset": "images/comics/feelings_yc_1.svg",
+      "text_2": "@data.characters.f1_father.name: “@data.characters.f1_daughter_6.name, I have 5 minutes to spend one-on-one time with you. What would you like to do?”\n @data.characters.f1_daughter_6.name: “Let’s play with the ball outside!”",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_daughter_6.name: “I can’t do it!”\n@data.characters.f1_father.name: “I see that your hands are tight and you are speaking loudly. It looks like you are upset, @data.characters.f1_daughter_6.name. It’s not easy, let’s practise a little bit more. I know you can do it.”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/feelings_yc_2.svg",
+      "text_2": "@data.characters.f1_daughter_6.name: “I can’t do it!”\n@data.characters.f1_father.name: “I see that your hands are tight and you are speaking loudly. It looks like you are upset, @data.characters.f1_daughter_6.name. It’s not easy, let’s practise a little bit more. I know you can do it.”",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_father.name: “Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_6.name!”\n@data.characters.f1_daughter_6.name: “Let’s do 10!”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/feelings_yc_3.svg",
+      "text_2": "@data.characters.f1_father.name: “Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_6.name!”\n@data.characters.f1_daughter_6.name: “Let’s do 10!”",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_father.name: “Well done! I am very happy to be able to spend this time with you, @data.characters.f1_daughter_6.name.”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/feelings_yc_4.svg",
+      "text_2": "@data.characters.f1_father.name: “Well done! I am very happy to be able to spend this time with you, @data.characters.f1_daughter_6.name.”",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s talk this through together. What happened when @data.characters.f1_father.name and @data.characters.f1_daughter_6.name decided to play catch?"
+        },
+        "quiz_1_question": {
+          "eng": "Why does @data.characters.f1_father.name name @data.characters.f1_daughter_6.name’s feelings when she’s feeling angry and proud?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "To make @data.characters.f1_daughter_6.name feel better instantly."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help her recognize her feelings so she can handle them better next time."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "To help @data.characters.f1_daughter_6.name learn to recognise her own emotions"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s right. By naming @data.characters.f1_daughter_6.name’s emotions, @data.characters.f1_father.name models an important skill."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "To teach @data.characters.f1_daughter_6.name how to solve problems on her own."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Not really. While solving problems is important, the main goal here is to help @data.characters.f1_daughter_6.name recognize her emotions. Once she knows what she’s feeling, she’ll be better at solving problems next time."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "To distract @data.characters.f1_daughter_6.name from what’s bothering her."
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Not quite. The goal isn’t to take her mind off her feelings. By naming her emotions, @data.characters.f1_father.name is helping @data.characters.f1_daughter_6.name understand what she’s feeling, so she can deal with it better next time."
+        },
+        "quiz_2_question": {
+          "eng": "What can we learn from how @data.characters.f1_father.name talks about @data.characters.f1_daughter_6.name’s emotions?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "He names @data.characters.f1_daughter_6.name’s positive emotions"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Yes, he does! But he also names  @data.characters.f1_daughter_6.name’s  difficult emotions. @data.characters.f1_father.name shows us that it is important to identify  both positive *and* difficult emotions for our children."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "He doesn’t want her to feel frustrated so he ignores it."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Not quite.  @data.characters.f1_father.name accepts whatever emotions @data.characters.f1_daughter_6.name’s is feeling. @data.characters.f1_father.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "He uses words to describe @data.characters.f1_daughter_6.name’s emotions"
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Yes, @data.characters.f1_father.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "He hides his own feelings with @data.characters.f1_daughter_6.name"
+        },
+        "quiz_2_feedback_4": {
+          "eng": "He doesn’t hide his own emotions, he names them. By talking about his own feeling of happiness,  @data.characters.f1_father.name models how his daughter can do the same."
+        },
+        "quiz_2_option_5_text": {
+          "eng": "He stays calm despite @data.characters.f1_daughter_6.name’s frustration"
+        },
+        "quiz_2_feedback_5": {
+          "eng": "Yes, @data.characters.f1_father.name shows us that his daughter’s difficult emotions are not something she needs to ignore or be scared of.."
+        },
+        "quiz_3_question": {
+          "eng": "What would have happened if @data.characters.f1_father.name had criticised or ignored @data.characters.f1_daughter_6.name’s frustration?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "@data.characters.f1_daughter_6.name’s frustration would have passed."
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Incorrect. Without the ability to deal with her feelings, the frustration @data.characters.f1_daughter_6.name was feeling would have increased."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "The same problem would happen again next time"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Correct. Noticing and naming emotions is very important to support our children and help them learn how to deal with their emotions."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "@data.characters.f1_daughter_6.name would have learned how to catch a ball anyway."
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Incorrect. Noticing and naming emotions is very important to support our children and help them learn new skills."
+        }
+      },
+      "category_id": "explore",
+      "quiz_1_feedback_1": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help her recognize her feelings so she can handle them better next time.",
+      "quiz_1_feedback_2": "That’s right. By naming @data.characters.f1_daughter_6.name’s emotions, @data.characters.f1_father.name models an important skill.",
+      "quiz_1_feedback_3": "Not really. While solving problems is important, the main goal here is to help @data.characters.f1_daughter_6.name recognize her emotions. Once she knows what she’s feeling, she’ll be better at solving problems next time.",
+      "quiz_1_question": "Why does @data.characters.f1_father.name name @data.characters.f1_daughter_6.name’s feelings when she’s feeling angry and proud?",
+      "quiz_1_option_1_text": "To make @data.characters.f1_daughter_6.name feel better instantly.",
+      "quiz_1_option_2_text": "To help @data.characters.f1_daughter_6.name learn to recognise her own emotions",
+      "quiz_1_option_3_text": "To teach @data.characters.f1_daughter_6.name how to solve problems on her own.",
+      "quiz_1_option_4_text": "To distract @data.characters.f1_daughter_6.name from what’s bothering her.",
+      "text_1_facilitator": "Let’s talk this through together. What happened when @data.characters.f1_father.name and @data.characters.f1_daughter_6.name decided to play catch?",
+      "quiz_1_feedback_4": "Not quite. The goal isn’t to take her mind off her feelings. By naming her emotions, @data.characters.f1_father.name is helping @data.characters.f1_daughter_6.name understand what she’s feeling, so she can deal with it better next time.",
+      "quiz_2_question": "What can we learn from how @data.characters.f1_father.name talks about @data.characters.f1_daughter_6.name’s emotions?",
+      "quiz_2_option_1_text": "He names @data.characters.f1_daughter_6.name’s positive emotions",
+      "quiz_2_feedback_1": "Yes, he does! But he also names  @data.characters.f1_daughter_6.name’s  difficult emotions. @data.characters.f1_father.name shows us that it is important to identify  both positive *and* difficult emotions for our children.",
+      "quiz_2_option_2_text": "He doesn’t want her to feel frustrated so he ignores it.",
+      "quiz_2_feedback_2": "Not quite.  @data.characters.f1_father.name accepts whatever emotions @data.characters.f1_daughter_6.name’s is feeling. @data.characters.f1_father.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_3_text": "He uses words to describe @data.characters.f1_daughter_6.name’s emotions",
+      "quiz_2_feedback_3": "Yes, @data.characters.f1_father.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_option_4_text": "He hides his own feelings with @data.characters.f1_daughter_6.name",
+      "quiz_2_feedback_4": "He doesn’t hide his own emotions, he names them. By talking about his own feeling of happiness,  @data.characters.f1_father.name models how his daughter can do the same.",
+      "quiz_2_option_5_text": "He stays calm despite @data.characters.f1_daughter_6.name’s frustration",
+      "quiz_2_feedback_5": "Yes, @data.characters.f1_father.name shows us that his daughter’s difficult emotions are not something she needs to ignore or be scared of..",
+      "quiz_3_question": "What would have happened if @data.characters.f1_father.name had criticised or ignored @data.characters.f1_daughter_6.name’s frustration?",
+      "quiz_3_option_1_text": "@data.characters.f1_daughter_6.name’s frustration would have passed.",
+      "quiz_3_feedback_1": "Incorrect. Without the ability to deal with her feelings, the frustration @data.characters.f1_daughter_6.name was feeling would have increased.",
+      "quiz_3_option_2_text": "The same problem would happen again next time",
+      "quiz_3_feedback_2": "Correct. Noticing and naming emotions is very important to support our children and help them learn how to deal with their emotions.",
+      "quiz_3_option_3_text": "@data.characters.f1_daughter_6.name would have learned how to catch a ball anyway.",
+      "quiz_3_feedback_3": "Incorrect. Noticing and naming emotions is very important to support our children and help them learn new skills.",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "With these three tips, you can help your child learn to manage their emotions well."
+        },
+        "section_1_title": {
+          "eng": "NOTICE"
+        },
+        "section_1_text": {
+          "eng": "Recognise the *positive* and *difficult* emotions that you and your child feel."
+        },
+        "section_1_button_text": {
+          "eng": "More tips"
+        },
+        "section_1_extra_text": {
+          "eng": "To recognise feelings, pay attention to your thoughts and to your and your child’s words and actions."
+        },
+        "section_2_title": {
+          "eng": "ACCEPT"
+        },
+        "section_2_text": {
+          "eng": "Be open to how you and your child feel. All feelings are okay."
+        },
+        "section_2_button_text": {
+          "eng": "More tips"
+        },
+        "section_2_extra_text": {
+          "eng": "There are six basic emotions. Each send us an important message:\nHappy: Keep doing things that make you feel good.  \nSad: Something important in your life needs attention.\nAngry: Stand up for yourself and set limits.\nDisgusted: Move away from something you don't like.\nSurprised: Stop and pay attention for a moment.\nAfraid: Run away from danger.\n \nAs children get older, they learn to identify lots of other emotions, like feeling excited, frustrated, proud, lonely, peaceful, guilty, or confused."
+        },
+        "section_3_title": {
+          "eng": "TALK"
+        },
+        "section_3_text": {
+          "eng": "Use words to describe your and your child’s emotions, so they can learn to do the same. \n \nThis may be hard at first, but it is an important step to help manage emotions!"
+        },
+        "section_3_button_text": {
+          "eng": "More tips"
+        },
+        "section_3_extra_text": {
+          "eng": "Describe how you see your child’s emotion in a calm way. For example:\n \n*“I notice you’re stomping your feet, talking loudly, and your face looks a bit upset. What are you feeling?”*\n \nShare your own feelings with your child. For example: \n \n*“I know I feel the same way when I can’t go out when I want to.”*\n \nThis shows your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too."
+        }
+      },
+      "category_id": "practical_tips",
+      "text_1_facilitator": "With these three tips, you can help your child learn to manage their emotions well.",
+      "section_1_title": "NOTICE",
+      "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
+      "section_1_button_text": "More tips",
+      "section_1_extra_text": "To recognise feelings, pay attention to your thoughts and to your and your child’s words and actions.",
+      "section_2_title": "ACCEPT",
+      "section_2_text": "Be open to how you and your child feel. All feelings are okay.",
+      "section_2_button_text": "More tips",
+      "section_2_extra_text": "There are six basic emotions. Each send us an important message:\nHappy: Keep doing things that make you feel good.  \nSad: Something important in your life needs attention.\nAngry: Stand up for yourself and set limits.\nDisgusted: Move away from something you don't like.\nSurprised: Stop and pay attention for a moment.\nAfraid: Run away from danger.\n \nAs children get older, they learn to identify lots of other emotions, like feeling excited, frustrated, proud, lonely, peaceful, guilty, or confused.",
+      "section_3_title": "TALK",
+      "section_3_text": "Use words to describe your and your child’s emotions, so they can learn to do the same. \n \nThis may be hard at first, but it is an important step to help manage emotions!",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "Describe how you see your child’s emotion in a calm way. For example:\n \n*“I notice you’re stomping your feet, talking loudly, and your face looks a bit upset. What are you feeling?”*\n \nShare your own feelings with your child. For example: \n \n*“I know I feel the same way when I can’t go out when I want to.”*\n \nThis shows your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too.",
+      "completed": false
+    },
+    {
+      "id": "practise",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s put the tips you have learnt in action:"
+        },
+        "quiz_1_question": {
+          "eng": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Tie his shoes for him and get out the door. We are late!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "It is never fun to run late, but @data.characters.f1_mother.name will miss the opportunity to help her son learn to deal with his frustration if she doesn't help him first recognise what he’s feeling."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Understand that her son is feeling frustrated. Sit down and help him name his feelings."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!"
+        }
+      },
+      "category_id": "practise",
+      "quiz_1_feedback_1": "It is never fun to run late, but @data.characters.f1_mother.name will miss the opportunity to help her son learn to deal with his frustration if she doesn't help him first recognise what he’s feeling.",
+      "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
+      "quiz_1_question": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?",
+      "quiz_1_option_1_text": "Tie his shoes for him and get out the door. We are late!",
+      "quiz_1_option_2_text": "Understand that her son is feeling frustrated. Sit down and help him name his feelings.",
+      "text_1_facilitator": "Let’s put the tips you have learnt in action:",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Your home activity is to talk with your child about their feelings during one-on-one time today. It can be something simple, like noticing that they find joy when they play!"
+        },
+        "quiz_1_question": {
+          "eng": "Are you up for trying? Can you help your child notice their feelings during one-on-one time today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's great! It might be awkward to talk about feelings at first, but it will get better for everyone with practice."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's okay. Learning to share emotions with our children can be challenging. Take a minute after one-on-one time today to think through the emotions you saw your child display. You might also want to think about the things that you felt!"
+        }
+      },
+      "category_id": "home_activity",
+      "quiz_1_feedback_1": "That's great! It might be awkward to talk about feelings at first, but it will get better for everyone with practice.",
+      "quiz_1_feedback_2": "That's okay. Learning to share emotions with our children can be challenging. Take a minute after one-on-one time today to think through the emotions you saw your child display. You might also want to think about the things that you felt!",
+      "quiz_1_question": "Are you up for trying? Can you help your child notice their feelings during one-on-one time today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "Your home activity is to talk with your child about their feelings during one-on-one time today. It can be something simple, like noticing that they find joy when they play!",
+      "completed": false
+    }
+  ]
+}

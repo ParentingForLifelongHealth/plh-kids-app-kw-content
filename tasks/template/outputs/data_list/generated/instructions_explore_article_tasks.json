@@ -1,0 +1,268 @@
+{
+  "flow_name": "instructions_explore_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:"
+        },
+        "text_2": {
+          "eng": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name gives instructions @data.characters.f1_daughter_2.name:",
+      "image_asset": "images/comics/instructions_yc_1.svg",
+      "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.\r\r@data.characters.f1_mother.name: “It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.”",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_2.svg",
+      "text_2": "*3 minutes later*\n @data.characters.f1_mother.name: “3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.”\n @data.characters.f1_daughter_2.name: “Okay.”",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n@data.characters.f1_daughter_2.name: “Yay!”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_3.svg",
+      "text_2": "@data.characters.f1_mother.name: “Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.”\n@data.characters.f1_daughter_2.name: “Yay!”",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f1_mother.name: “Once upon a time…”"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_4.svg",
+      "text_2": "@data.characters.f1_mother.name: “Once upon a time…”",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on what we can learn from @data.characters.f1_mother.name and @data.characters.f1_daughter_2.name."
+        },
+        "quiz_1_question": {
+          "eng": "How does @data.characters.f1_mother.name connect with @data.characters.f1_daughter_2.name before giving an instruction?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "@data.characters.f1_mother.name says her daughter’s name"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "She does say her daughter’s  name, but she also goes down to @data.characters.f1_daughter_2.name’s level, and gives her praise."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "She reminds @data.characters.f1_daughter_2.name that she has a responsibility to keep her toys clean."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Try again! @data.characters.f1_mother.name does not just give an instruction right away, she first makes sure @data.characters.f1_daughter_2.name feels seen!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "She starts cleaning up the blocks for @data.characters.f1_daughter_2.name to set an example."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Try again! @data.characters.f1_mother.name first connects with her daughter by saying her name, getting down at her level, and giving her praise. This puts her in the best position to then give @data.characters.f1_daughter_2.name an instruction."
+        },
+        "quiz_2_question": {
+          "eng": "What steps does @data.characters.f1_mother.name take to help @data.characters.f1_daughter_2.name follow her instruction?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "She warns @data.characters.f1_daughter_2.name that misbehaviour is not acceptable."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "She gives @data.characters.f1_daughter_2.name a transition warning & follows through with what she said."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Correct! All these steps make it more likely that @data.characters.f1_daughter_2.name follows @data.characters.f1_mother.name’s instruction. She also praises her daughter."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "She makes @data.characters.f1_daughter_2.name feel guilty for taking too long."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Try again! Making her feel guilty will mean it is harder for @data.characters.f1_daughter_2.name to feel motivated to follow instructions both now and in the future. It will also feel stressful for @data.characters.f1_mother.name."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "She tells her to stop playing and start cleaning."
+        },
+        "quiz_2_feedback_4": {
+          "eng": "Try again! She gives @data.characters.f1_daughter_2.name a positive instructure, “clean up” without a negative one “stop playing.”"
+        },
+        "quiz_3_question": {
+          "eng": "What would have happened if @data.characters.f1_mother.name had said: “@data.characters.f1_daughter_2.name, stop playing with your blocks, and don’t go to bed with dirty teeth!”"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "@data.characters.f1_daughter_2.name could feel confused or overwhelmed"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Exactly. It is important to give one positive instruction at a time. It makes a big difference."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "@data.characters.f1_daughter_2.name would respect her mother’s authority."
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Try again! It’s important to give one positive instruction at a time. This will make the instruction easier to follow."
+        }
+      },
+      "category_id": "explore",
+      "quiz_1_feedback_1": "She does say her daughter’s  name, but she also goes down to @data.characters.f1_daughter_2.name’s level, and gives her praise.",
+      "quiz_1_feedback_2": "Try again! @data.characters.f1_mother.name does not just give an instruction right away, she first makes sure @data.characters.f1_daughter_2.name feels seen!",
+      "quiz_1_feedback_3": "Try again! @data.characters.f1_mother.name first connects with her daughter by saying her name, getting down at her level, and giving her praise. This puts her in the best position to then give @data.characters.f1_daughter_2.name an instruction.",
+      "quiz_1_question": "How does @data.characters.f1_mother.name connect with @data.characters.f1_daughter_2.name before giving an instruction?",
+      "quiz_1_option_1_text": "@data.characters.f1_mother.name says her daughter’s name",
+      "quiz_1_option_2_text": "She reminds @data.characters.f1_daughter_2.name that she has a responsibility to keep her toys clean.",
+      "quiz_1_option_3_text": "She starts cleaning up the blocks for @data.characters.f1_daughter_2.name to set an example.",
+      "text_1_facilitator": "Let’s reflect on what we can learn from @data.characters.f1_mother.name and @data.characters.f1_daughter_2.name.",
+      "quiz_2_question": "What steps does @data.characters.f1_mother.name take to help @data.characters.f1_daughter_2.name follow her instruction?",
+      "quiz_2_option_1_text": "She warns @data.characters.f1_daughter_2.name that misbehaviour is not acceptable.",
+      "quiz_2_feedback_1": "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through.",
+      "quiz_2_option_2_text": "She gives @data.characters.f1_daughter_2.name a transition warning & follows through with what she said.",
+      "quiz_2_feedback_2": "Correct! All these steps make it more likely that @data.characters.f1_daughter_2.name follows @data.characters.f1_mother.name’s instruction. She also praises her daughter.",
+      "quiz_2_option_3_text": "She makes @data.characters.f1_daughter_2.name feel guilty for taking too long.",
+      "quiz_2_feedback_3": "Try again! Making her feel guilty will mean it is harder for @data.characters.f1_daughter_2.name to feel motivated to follow instructions both now and in the future. It will also feel stressful for @data.characters.f1_mother.name.",
+      "quiz_2_option_4_text": "She tells her to stop playing and start cleaning.",
+      "quiz_2_feedback_4": "Try again! She gives @data.characters.f1_daughter_2.name a positive instructure, “clean up” without a negative one “stop playing.”",
+      "quiz_3_question": "What would have happened if @data.characters.f1_mother.name had said: “@data.characters.f1_daughter_2.name, stop playing with your blocks, and don’t go to bed with dirty teeth!”",
+      "quiz_3_option_1_text": "@data.characters.f1_daughter_2.name could feel confused or overwhelmed",
+      "quiz_3_feedback_1": "Exactly. It is important to give one positive instruction at a time. It makes a big difference.",
+      "quiz_3_option_2_text": "@data.characters.f1_daughter_2.name would respect her mother’s authority.",
+      "quiz_3_feedback_2": "Try again! It’s important to give one positive instruction at a time. This will make the instruction easier to follow.",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:"
+        }
+      },
+      "category_id": "explore",
+      "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts! \n\n@data.characters.f2_grandfather.name is working in the garden while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball:",
+      "completed": false
+    },
+    {
+      "id": "explore_7",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!"
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_5.svg",
+      "text_2": "@data.characters.f2_daughter_3.name: Give it back to me!\n\n@data.characters.f2_son_8.name: But I want it!",
+      "completed": false
+    },
+    {
+      "id": "explore_8",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together."
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_6.svg",
+      "text_2": "@data.characters.f2_grandfather.name: @data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name come and help me plant these vegetables together.",
+      "completed": false
+    },
+    {
+      "id": "explore_9",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together."
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_7.svg",
+      "text_2": "@data.characters.f2_grandfather.name: Thank you for coming to help me. We are going to grow lots of delicious vegetables together.",
+      "completed": false
+    },
+    {
+      "id": "explore_10",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
+        },
+        "quiz_1_question": {
+          "eng": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "They would have played ball together."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Unlikely. The situation between the children would have gotten out of hand."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "They could have hurt each other in the argument."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Yes. The children could have gotten so upset that they would have hurt each other."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Nothing. @data.characters.f2_grandfather.name would carried on working in the garden."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict."
+        },
+        "quiz_2_question": {
+          "eng": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "He reminds them it’s important to get along."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "Try again! He rather gives them a way to get along again by involving them in a positive activity."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "He gives them a warning for a consequence."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour."
+        }
+      },
+      "category_id": "explore",
+      "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
+      "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other.",
+      "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict.",
+      "quiz_1_question": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?",
+      "quiz_1_option_1_text": "They would have played ball together.",
+      "quiz_1_option_2_text": "They could have hurt each other in the argument.",
+      "quiz_1_option_3_text": "Nothing. @data.characters.f2_grandfather.name would carried on working in the garden.",
+      "text_1_facilitator": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
+      "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
+      "quiz_2_option_1_text": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
+      "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
+      "quiz_2_option_2_text": "He reminds them it’s important to get along.",
+      "quiz_2_feedback_2": "Try again! He rather gives them a way to get along again by involving them in a positive activity.",
+      "quiz_2_option_3_text": "He gives them a warning for a consequence.",
+      "quiz_2_feedback_3": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour.",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "flow_name": "oneononetime_intro_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "media_asset": "audio/connect_audio_1.mp3",
+      "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning."
+        },
+        "media_title": {
+          "eng": "How will it help me and my family?"
+        },
+        "media_transcript": {
+          "eng": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together just the two of you will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!"
+        }
+      },
+      "category_id": "intro",
+      "text_1_facilitator": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special, time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
+      },
+      "media_title": "How will it help me and my family?",
+      "media_transcript": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together just the two of you will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!",
+      "completed": false
+    }
+  ]
+}
