@@ -461,18 +461,14 @@
     {
       "id": "problemsolving",
       "number_of_challenges": "6",
-      "button_go_to_template_1_a": "lib_act_w_solve",
-      "button_go_to_template_2_a": "lib_act_w_solve",
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to resolve the problem with your child?",
       "_translations": {
         "question_text": {},
         "text_challenge_1": {},
         "reply_challenge_1": {},
-        "button_text_1_a": {},
         "text_challenge_2": {},
         "reply_challenge_2": {},
-        "button_text_2_a": {},
         "text_challenge_3": {},
         "reply_challenge_3": {},
         "text_challenge_4": {},
@@ -493,17 +489,11 @@
         "reply_challenge_1": {
           "eng": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child – it will make a big difference!"
         },
-        "button_text_1_a": {
-          "eng": "Four steps of problem-solving"
-        },
         "text_challenge_2": {
           "eng": "I started with the solutions right away."
         },
         "reply_challenge_2": {
           "eng": "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions."
-        },
-        "button_text_2_a": {
-          "eng": "Four steps of problem solving"
         },
         "text_challenge_3": {
           "eng": "We could not agree on a solution to try out and we got into an argument."
@@ -535,10 +525,8 @@
       },
       "text_challenge_1": "I forgot the steps of problem-solving.",
       "reply_challenge_1": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child – it will make a big difference!",
-      "button_text_1_a": "Four steps of problem-solving",
       "text_challenge_2": "I started with the solutions right away.",
       "reply_challenge_2": "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions.",
-      "button_text_2_a": "Four steps of problem solving",
       "text_challenge_3": "We could not agree on a solution to try out and we got into an argument.",
       "reply_challenge_3": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not yet calm. You could agree to try one solution first and then another. Also, if you get stuck, try to get together later to agree on the solution together.",
       "text_challenge_4": "I got angry when the problem came up and I forgot to use the problem-solving steps.",

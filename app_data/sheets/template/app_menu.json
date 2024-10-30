@@ -34,7 +34,6 @@
               "_cleaned": "click | go_to:/template"
             }
           ],
-          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_templates"
         },
         {
@@ -53,7 +52,6 @@
               "_cleaned": "click | reset_app"
             }
           ],
-          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_reset"
         },
         {
@@ -84,7 +82,6 @@
             }
           ],
           "condition": "!@fields._feedback_sidebar_open",
-          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_open_feedback",
           "_dynamicFields": {
             "condition": [
@@ -130,7 +127,6 @@
             }
           ],
           "condition": "@fields._feedback_sidebar_open",
-          "exclude_from_translation": true,
           "_nested_name": "dg_dev.button_close_feedback",
           "_dynamicFields": {
             "condition": [
