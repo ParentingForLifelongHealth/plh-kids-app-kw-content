@@ -7,6 +7,12 @@
       "data_list_name": "about_this_app",
       "_xlsxPath": "deployment_data_kw.xlsx"
     },
+    "activities": {
+      "flow_type": "data_list",
+      "flow_name": "activities",
+      "data_list_name": "activities",
+      "_xlsxPath": "KW activities.xlsx"
+    },
     "language": {
       "flow_type": "data_list",
       "flow_name": "language",

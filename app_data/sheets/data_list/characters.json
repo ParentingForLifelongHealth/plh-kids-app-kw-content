@@ -22,13 +22,13 @@
       "caps_id": "F1_MOTHER",
       "family_no": 1,
       "role": "caregiver",
-      "name": "Noura",
+      "name": "Mother",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Noura"
+          "eng": "Mother"
         }
       }
     },
@@ -37,13 +37,13 @@
       "caps_id": "F1_FATHER",
       "family_no": 1,
       "role": "caregiver",
-      "name": "Jassim",
+      "name": "Father",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Jassim"
+          "eng": "Father"
         }
       }
     },
@@ -148,13 +148,13 @@
       "caps_id": "F2_MOTHER",
       "family_no": 2,
       "role": "caregiver",
-      "name": "Alanoud",
+      "name": "Mother",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Alanoud"
+          "eng": "Mother"
         }
       }
     },
@@ -163,7 +163,7 @@
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
       "role": "caregiver",
-      "name": "Shaikha",
+      "name": "Grandmother",
       "_translations": {
         "name": {}
       },
@@ -256,13 +256,13 @@
       "caps_id": "F3_MOTHER",
       "family_no": 3,
       "role": "caregiver",
-      "name": "Dalal",
+      "name": "Mother",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Dalal"
+          "eng": "Mother"
         }
       }
     },
@@ -271,13 +271,13 @@
       "caps_id": "F3_UNCLE",
       "family_no": 3,
       "role": "caregiver",
-      "name": "Khaled",
+      "name": "Uncle",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Khaled"
+          "eng": "Uncle"
         }
       }
     },
