@@ -22,7 +22,7 @@
           "eng": "No"
         },
         "quiz_1_feedback_2": {
-          "eng": "That's okay. It may take time to learn how to rephrase your requests. After the next request, you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!"
+          "eng": "That's okay. It may take time to learn how to rephrase your requests. After the next request you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!"
         }
       },
       "category_id": "home_activity",
@@ -35,7 +35,7 @@
         "quiz_1_option_2_text": {},
         "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request, you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!",
+      "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!",
       "quiz_1_question": "Can you do it?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",

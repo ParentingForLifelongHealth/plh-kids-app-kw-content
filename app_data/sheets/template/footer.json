@@ -19,6 +19,7 @@
           "target_template": "settings"
         }
       ],
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "button_list"
     },

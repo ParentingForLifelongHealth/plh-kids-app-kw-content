@@ -4,24 +4,23 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "media_asset": "video/pause/body_scan.mp4",
-      "media_type": "video",
-      "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
-      "title": "Body Scan",
+      "id": "relax_17",
+      "media_asset": "audio/relax/relax_17.mp3",
+      "media_type": "audio",
+      "title": "Praise yourself",
       "_translations": {
         "title": {},
         "transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body Scan"
+          "eng": "Praise yourself"
         },
         "transcript": {
-          "eng": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson."
+          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
         }
       },
-      "transcript": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson.",
+      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
       "category_id": "relax",
       "completed": false
     }

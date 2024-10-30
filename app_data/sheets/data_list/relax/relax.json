@@ -1,0 +1,182 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "relax",
+  "data_list_name": "relax",
+  "status": "released",
+  "flow_subtype": "relax",
+  "rows": [
+    {
+      "id": "relax_1",
+      "media_asset": "video/pause/body_scan.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
+      "title": "Body Scan",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body Scan"
+        },
+        "transcript": {
+          "eng": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson."
+        }
+      },
+      "transcript": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson."
+    },
+    {
+      "id": "relax_4",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "media_type": "audio",
+      "title": "Breathe to three",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to three"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+        }
+      },
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
+    },
+    {
+      "id": "relax_6",
+      "media_asset": "audio/relax/relax_6.mp3",
+      "media_type": "audio",
+      "title": "Think about today",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Think about today"
+        },
+        "transcript": {
+          "eng": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for."
+        }
+      },
+      "transcript": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for."
+    },
+    {
+      "id": "relax_8",
+      "media_asset": "audio/relax/relax_8.mp3",
+      "media_type": "audio",
+      "title": "Small things",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Small things"
+        },
+        "transcript": {
+          "eng": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!"
+        }
+      },
+      "transcript": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!"
+    },
+    {
+      "id": "relax_10",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "title": "Feel the ground",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel the ground"
+        },
+        "transcript": {
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+        }
+      },
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
+    },
+    {
+      "id": "relax_11",
+      "media_asset": "audio/relax/relax_11.mp3",
+      "media_type": "audio",
+      "title": "Counting sounds",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Counting sounds"
+        },
+        "transcript": {
+          "eng": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+        }
+      },
+      "transcript": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+    },
+    {
+      "id": "relax_17",
+      "media_asset": "audio/relax/relax_17.mp3",
+      "media_type": "audio",
+      "title": "Praise yourself",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Praise yourself"
+        },
+        "transcript": {
+          "eng": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+        }
+      },
+      "transcript": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!"
+    },
+    {
+      "id": "relax_21",
+      "media_asset": "audio/relax/relax_21.mp3",
+      "media_type": "audio",
+      "title": "List of things",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "List of things"
+        },
+        "transcript": {
+          "eng": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+        }
+      },
+      "transcript": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!"
+    },
+    {
+      "id": "relax_24",
+      "media_asset": "audio/relax/relax_24.mp3",
+      "media_type": "audio",
+      "title": "Angry? Take a break",
+      "_translations": {
+        "title": {},
+        "transcript": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Angry? Take a break"
+        },
+        "transcript": {
+          "eng": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
+        }
+      },
+      "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
+    }
+  ],
+  "_xlsxPath": "KW relax.xlsx"
+}

@@ -34,6 +34,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "text_box_tracker",
       "_dynamicFields": {
@@ -109,6 +110,7 @@
       "parameter_list": {
         "placeholder": "@local.placeholder"
       },
+      "exclude_from_translation": true,
       "_nested_name": "text_box",
       "_dynamicFields": {
         "action_list": {
@@ -191,7 +193,7 @@
     {
       "type": "text",
       "name": "reply",
-      "value": "Thank you for sharing your challenge! We will use this feedback to make @global.parent_app better.",
+      "value": "Thank you for sharing your challenge! We will use this feedback to make @global.app_name better.",
       "_translations": {
         "value": {}
       },
@@ -200,10 +202,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Thank you for sharing your challenge! We will use this feedback to make @global.parent_app better.",
-            "matchedExpression": "@global.parent_app",
+            "fullExpression": "Thank you for sharing your challenge! We will use this feedback to make @global.app_name better.",
+            "matchedExpression": "@global.app_name",
             "type": "global",
-            "fieldName": "parent_app"
+            "fieldName": "app_name"
           }
         ],
         "hidden": [
@@ -216,7 +218,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@global.parent_app": [
+        "@global.app_name": [
           "value"
         ],
         "!@local.text_box": [

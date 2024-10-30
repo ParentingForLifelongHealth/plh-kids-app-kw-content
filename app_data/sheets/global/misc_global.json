@@ -532,6 +532,54 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login",
+      "value": "Login",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_with_existing_account",
+      "value": "Login with existing account",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "create_an_account",
+      "value": "Create an account",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "would_you_like_to_create_an_account?_this_will_allow_you_to_retrieve_your_data_if_you_lose_your_device.",
+      "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "already_have_an_account?_log_in_here.",
+      "value": "Already have an account? Log in here.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip",
+      "value": "Skip",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"
