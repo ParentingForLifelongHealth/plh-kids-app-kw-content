@@ -6,21 +6,45 @@
   "rows": [
     {
       "id": "organisation_1",
-      "name": "Ministry of Health",
       "image_asset": "images/logos/kuwait.png",
-      "group": "partners"
+      "group": "partners",
+      "name": "Ministry of Health",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Ministry of Health"
+        }
+      }
     },
     {
       "id": "organisation_2",
-      "name": "PLH",
       "image_asset": "images/logos/PLH.png",
-      "group": "partners"
+      "group": "partners",
+      "name": "PLH",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "PLH"
+        }
+      }
     },
     {
       "id": "organisation_3",
-      "name": "IDEMS",
       "image_asset": "images/logos/IDEMS.png",
-      "group": "partners"
+      "group": "partners",
+      "name": "IDEMS",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "IDEMS"
+        }
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

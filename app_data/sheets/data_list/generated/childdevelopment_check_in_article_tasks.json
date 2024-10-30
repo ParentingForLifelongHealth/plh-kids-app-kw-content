@@ -4,17 +4,23 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "check_in_2",
+      "id": "check_in_3",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear you are in a positive space."
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
+          "eng": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping."
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -27,28 +33,44 @@
         },
         "quiz_1_option_3_text": {
           "eng": "Sad"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Stressed"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Tired"
         }
       },
       "category_id": "check_in",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_5": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_option_5_text": {}
       },
-      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
-      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
+      "quiz_1_feedback_2": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_feedback_4": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!",
+      "quiz_1_feedback_5": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping.",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "quiz_1_option_4_text": "Stressed",
+      "quiz_1_option_5_text": "Tired",
       "completed": false
     }
   ]

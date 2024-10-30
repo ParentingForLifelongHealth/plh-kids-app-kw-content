@@ -4,38 +4,44 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "media_asset": "video/pause/breath_body_awareness.mp4",
-      "media_type": "video",
-      "title": "Breath and Body Awareness",
+      "id": "relax_24",
+      "media_asset": "audio/relax/relax_24.mp3",
+      "media_type": "audio",
+      "title": "Angry? Take a break",
       "_translations": {
         "title": {},
         "transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Breath and Body Awareness"
+          "eng": "Angry? Take a break"
         },
         "transcript": {
-          "eng": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson."
+          "eng": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
         }
       },
-      "transcript": "Today's pause is called breath and body awareness.\nClose your eyes if you like or maintain a soft gaze. \nStart by taking a deep breath.\nNotice how you are feeling emotionally. \nNotice how your body feels. \nContinue to take deep breaths.\nFeel your breath as it goes in [pause] \nand out.\nNotice any emotions you are feeling. Are there feelings of happiness, excitement, worry?\nWhatever you are feeling is okay.\nNow, expand your awareness to your whole body. \n[pause]\nListen to the sounds in the room.\nTake a moment to reflect on whether you feel any different. \nWhen you are ready, open your eyes and continue to your lesson with a sense of calm. \nThank you for taking a moment to pause with us. It's time for today's lesson.",
+      "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
       "category_id": "relax",
       "completed": false
     },
     {
-      "id": "check_in_9",
+      "id": "check_in_16",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "quiz_1_feedback_1": {
-          "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
+          "eng": "Amazing, life is the best when you're feeling good."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!"
+          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you will feel better soon."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!"
+          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Stress is part of life. However, when it gets too stressful it’s okay to ask someone to help you with your tasks."
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Everyone feels tired and fed up sometimes. Hopefully, you will feel better after getting some rest."
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -48,55 +54,71 @@
         },
         "quiz_1_option_3_text": {
           "eng": "Sad"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Stressed"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Tired"
         }
       },
       "category_id": "check_in",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_5": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_option_5_text": {}
       },
-      "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
-      "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
+      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you will feel better soon.",
+      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
+      "quiz_1_feedback_4": "Stress is part of life. However, when it gets too stressful it’s okay to ask someone to help you with your tasks.",
+      "quiz_1_feedback_5": "Everyone feels tired and fed up sometimes. Hopefully, you will feel better after getting some rest.",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "quiz_1_option_4_text": "Stressed",
+      "quiz_1_option_5_text": "Tired",
       "completed": false
     },
     {
       "id": "intro_1",
       "media_asset": "audio/solve_audio_1.mp3",
-      "media_type": "audio",
+      "media_type": "video",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!"
+          "eng": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift to give them!"
         },
         "media_title": {
           "eng": "How will it help me and my family?"
         },
         "media_transcript": {
-          "eng": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me new shoes now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life."
+          "eng": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me a new toy now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life."
         }
       },
       "category_id": "intro",
-      "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift!",
+      "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift to give them!",
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
         "media_transcript": {}
       },
       "media_title": "How will it help me and my family?",
-      "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me new shoes now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
+      "media_transcript": "Greetings, everyone.\n\nAs parents, it can feel like we have to solve a million problems for our children every day: Where is my toy car? I am not going to school! Why can’t you buy me a new toy now?\n\nBy involving our children in solving problems, they learn to find solutions more and more independently. \n\nLife has its challenges. If you help your child solve small problems today, you give them the skills to deal with any bigger challenges later in life.",
       "completed": false
     },
     {
@@ -119,18 +141,31 @@
         "text_1_facilitator": {
           "eng": "KNOW IT"
         },
-        "text_2": {
-          "eng": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
+        "character_1_text": {
+          "eng": "Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed."
+        },
+        "character_2_text": {
+          "eng": "But I still have so much homework to do!"
+        },
+        "character_3_text": {
+          "eng": "Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework."
         }
       },
       "category_id": "explore",
       "text_1_facilitator": "KNOW IT",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "image_asset": "images/comics/problem_solving_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.\n\n@data.characters.f3_daughter_7.name: But I still have so much homework to do!\n\n@data.characters.f3_mother.name: Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
+      "character_1_id": "@data.characters.f3_mother.name",
+      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "character_3_id": "@data.characters.f3_mother.name",
+      "character_1_text": "Come on, @data.characters.f3_daughter_7.name, it's time to get ready for bed.",
+      "character_2_text": "But I still have so much homework to do!",
+      "character_3_text": "Hmm, this is the third night in a row that you haven’t gone to bed on time because of homework.",
       "completed": false
     },
     {
@@ -140,17 +175,41 @@
           "eng": "SOLVE IT"
         },
         "text_2": {
-          "eng": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n@data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n@data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”"
+          "eng": ""
+        },
+        "character_1_text": {
+          "eng": "How can we make sure you get all your homework done and still get to bed on time so that you get enough sleep?"
+        },
+        "character_2_text": {
+          "eng": "Maybe I can start earlier?"
+        },
+        "character_3_text": {
+          "eng": "Shall we make a rule that you start your homework an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start."
+        },
+        "character_4_text": {
+          "eng": "Okay, Mama."
         }
       },
       "category_id": "explore",
       "text_1_facilitator": "SOLVE IT",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {},
+        "text_2": {},
+        "character_4_text": {}
       },
       "image_asset": "images/comics/problem_solving_yc_2.svg",
-      "text_2": "@data.characters.f3_mother.name: \"How can we make sure you get all your work done and still get to bed on time so that you get enough sleep?”\n\n@data.characters.f3_daughter_7.name: “Maybe I can start earlier?”\n\n@data.characters.f3_mother.name: “Shall we make a rule that you start your homework half an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.”\n\n@data.characters.f3_daughter_7.name: “Okay, @data.characters.f3_mother.name.”",
+      "character_1_id": "@data.characters.f3_mother.name",
+      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "character_3_id": "@data.characters.f3_mother.name",
+      "character_1_text": "How can we make sure you get all your homework done and still get to bed on time so that you get enough sleep?",
+      "character_2_text": "Maybe I can start earlier?",
+      "character_3_text": "Shall we make a rule that you start your homework an hour after you get home from school? That way, you can finish it and have some time to eat and relax before bed, too! I am happy to help you remember when to start.",
+      "character_4_id": "@data.characters.f3_daughter_7.name",
+      "text_2": "",
+      "character_4_text": "Okay, Mama.",
       "completed": false
     },
     {
@@ -159,18 +218,31 @@
         "text_1_facilitator": {
           "eng": "TEST IT"
         },
-        "text_2": {
-          "eng": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”"
+        "character_1_text": {
+          "eng": "@data.characters.f3_daughter_7.name, have you started your homework yet?"
+        },
+        "character_2_text": {
+          "eng": "I'll start now, Mama! But can you help me with this one problem? I was having trouble with it yesterday."
+        },
+        "character_3_text": {
+          "eng": "Of course, my dear."
         }
       },
       "category_id": "explore",
       "text_1_facilitator": "TEST IT",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "image_asset": "images/comics/problem_solving_yc_3.svg",
-      "text_2": "*The next day.*\n\n @data.characters.f3_mother.name: “@data.characters.f3_daughter_7.name, have you started your homework yet?”\n\n @data.characters.f3_daughter_7.name: “I'll start now, @data.characters.f3_mother.name! But can you help me with this one problem? I was having trouble with it yesterday.”\n\n @data.characters.f3_mother.name: “Of course, my dear.”",
+      "character_1_id": "@data.characters.f3_mother.name",
+      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "character_3_id": "@data.characters.f3_mother.name",
+      "character_1_text": "@data.characters.f3_daughter_7.name, have you started your homework yet?",
+      "character_2_text": "I'll start now, Mama! But can you help me with this one problem? I was having trouble with it yesterday.",
+      "character_3_text": "Of course, my dear.",
       "completed": false
     },
     {
@@ -179,25 +251,32 @@
         "text_1_facilitator": {
           "eng": "REFLECT"
         },
-        "text_2": {
-          "eng": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”"
+        "character_1_text": {
+          "eng": "Look, Mama, I'm ready for bed earlier tonight!"
+        },
+        "character_2_text": {
+          "eng": "Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!"
         }
       },
       "category_id": "explore",
       "text_1_facilitator": "REFLECT",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "images/comics/problem_solving_yc_4.svg",
-      "text_2": "*Later that same day.*\n\n @data.characters.f3_daughter_7.name: “Look, @data.characters.f3_mother.name, I'm ready for bed earlier tonight!”\n\n @data.characters.f3_mother.name: “Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!”",
+      "character_1_id": "@data.characters.f3_daughter_7.name",
+      "character_2_id": "@data.characters.f3_mother.name",
+      "character_1_text": "Look, Mama, I'm ready for bed earlier tonight!",
+      "character_2_text": "Well done, @data.characters.f3_daughter_7.name. I’m proud that we figured that problem out together. Now you can be well-rested for tomorrow, and your homework is complete!",
       "completed": false
     },
     {
       "id": "explore_6",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem."
+          "eng": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name worked together to solve their problem."
         },
         "quiz_1_question": {
           "eng": "What problem did this family have?"
@@ -236,10 +315,10 @@
           "eng": "That’s right. The second step of problem solving is to jointly come up with solutions."
         },
         "quiz_2_option_3_text": {
-          "eng": "She slams her for not remembering to try it."
+          "eng": "She criticises her for not remembering to try the solution."
         },
         "quiz_2_feedback_3": {
-          "eng": "Hm. That’s not right. \n\nThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution."
+          "eng": "Hm. That’s not right. \r\rThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution."
         }
       },
       "category_id": "explore",
@@ -267,14 +346,14 @@
       "quiz_1_option_1_text": "@data.characters.f3_daughter_7.name went to bed late",
       "quiz_1_option_2_text": "@data.characters.f3_daughter_7.name did not finish her homework",
       "quiz_1_option_3_text": "@data.characters.f3_daughter_7.name was lazy",
-      "text_1_facilitator": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name  worked together to solve their problem.",
+      "text_1_facilitator": "Let’s reflect on how @data.characters.f3_mother.name and @data.characters.f3_daughter_7.name worked together to solve their problem.",
       "quiz_2_question": "What does @data.characters.f3_mother.name do to solve the problem together with @data.characters.f3_daughter_7.name?",
       "quiz_2_option_1_text": "She reminds @data.characters.f3_daughter_7.name that she has had this problem before.",
       "quiz_2_feedback_1": "Try again!",
       "quiz_2_option_2_text": "She asks @data.characters.f3_daughter_7.name to help come up with solutions",
       "quiz_2_feedback_2": "That’s right. The second step of problem solving is to jointly come up with solutions.",
-      "quiz_2_option_3_text": "She slams her for not remembering to try it.",
-      "quiz_2_feedback_3": "Hm. That’s not right. \n\nThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution.",
+      "quiz_2_option_3_text": "She criticises her for not remembering to try the solution.",
+      "quiz_2_feedback_3": "Hm. That’s not right. \r\rThe third step to solving a problem is for @data.characters.f3_mother.name to encourage and support @data.characters.f3_daughter_7.name to try out the solution.",
       "completed": false
     },
     {
@@ -293,7 +372,7 @@
           "eng": "What it Sounds Like"
         },
         "section_1_extra_text": {
-          "eng": "\"I can hear you arguing because you don’t want to watch the same television programme. I know I said you both could watch TV after you’ve helped clean up after dinner but we only have one television set. What should we do about this?\""
+          "eng": "\"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\""
         },
         "section_2_title": {
           "eng": "SOLVE IT"
@@ -305,7 +384,7 @@
           "eng": "What it Sounds Like"
         },
         "section_2_extra_text": {
-          "eng": "\"One option is for us not to turn the television on at all. Or you could take turns choosing a programme. Or you could select a programme you both want to watch. What do you both think?\""
+          "eng": "\"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\""
         },
         "section_3_title": {
           "eng": "TRY IT"
@@ -317,7 +396,7 @@
           "eng": "What it Sounds Like"
         },
         "section_3_extra_text": {
-          "eng": "The next day at after the dinner dishes are clean...\n\"Okay boys, do you remember what we said last night about the TV? Who can remember the solution we came up with?\"\n\"That's right – well done for remembering! Let's try to pick a programme that you both want to watch – I may even come watch with you!\""
+          "eng": "The next day after the room has been tidied up by the children...\n\n\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\"\n\"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\""
         },
         "section_4_title": {
           "eng": "REFLECT"
@@ -329,7 +408,7 @@
           "eng": "What it Sounds Like"
         },
         "section_4_extra_text": {
-          "eng": "After the programme ends... \"Well that was an exciting game! I never knew I liked watching soccer so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
+          "eng": "After the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
         }
       },
       "category_id": "practical_tips",
@@ -356,19 +435,19 @@
       "section_1_title": "KNOW IT",
       "section_1_text": "Put the problem into words.\n\nTalk to your child about what the problem is.",
       "section_1_button_text": "What it Sounds Like",
-      "section_1_extra_text": "\"I can hear you arguing because you don’t want to watch the same television programme. I know I said you both could watch TV after you’ve helped clean up after dinner but we only have one television set. What should we do about this?\"",
+      "section_1_extra_text": "\"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"",
       "section_2_title": "SOLVE IT",
       "section_2_text": "Together, think of possible solutions to this problem.\nWhat could you or your child do differently in this situation in the future?",
       "section_2_button_text": "What it Sounds Like",
-      "section_2_extra_text": "\"One option is for us not to turn the television on at all. Or you could take turns choosing a programme. Or you could select a programme you both want to watch. What do you both think?\"",
+      "section_2_extra_text": "\"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
       "section_3_title": "TRY IT",
       "section_3_text": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!",
       "section_3_button_text": "What it Sounds Like",
-      "section_3_extra_text": "The next day at after the dinner dishes are clean...\n\"Okay boys, do you remember what we said last night about the TV? Who can remember the solution we came up with?\"\n\"That's right – well done for remembering! Let's try to pick a programme that you both want to watch – I may even come watch with you!\"",
+      "section_3_extra_text": "The next day after the room has been tidied up by the children...\n\n\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\"\n\"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\"",
       "section_4_title": "REFLECT",
       "section_4_text": "After you’ve tried it, decide with your child whether or not your solution worked.",
       "section_4_button_text": "What it Sounds Like",
-      "section_4_extra_text": "After the programme ends... \"Well that was an exciting game! I never knew I liked watching soccer so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
+      "section_4_extra_text": "After the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
       "completed": false
     },
     {
@@ -387,7 +466,7 @@
           "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
         },
         "quiz_1_option_2_text": {
-          "eng": "Coming home late"
+          "eng": "Going to sleep late"
         },
         "quiz_1_feedback_2": {
           "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
@@ -411,23 +490,23 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_question": "Do you experience any of these problems at home?",
       "quiz_1_option_1_text": "Too much screen time",
-      "quiz_1_option_2_text": "Coming home late",
+      "quiz_1_option_2_text": "Going to sleep late",
       "quiz_1_option_3_text": "Fighting with other children",
       "quiz_1_option_4_text": "Not sharing toys",
       "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
-      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "completed": false
     },
     {

@@ -4,39 +4,44 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "media_asset": "video/pause/body_scan.mp4",
-      "media_type": "video",
-      "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
-      "title": "Body Scan",
+      "id": "relax_10",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "title": "Feel the ground",
       "_translations": {
         "title": {},
         "transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body Scan"
+          "eng": "Feel the ground"
         },
         "transcript": {
-          "eng": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson."
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
         }
       },
-      "transcript": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson.",
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
       "category_id": "relax",
       "completed": false
     },
     {
-      "id": "check_in_4",
+      "id": "check_in_6",
       "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "_translatedFields": {
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy! Keep up the good work."
+          "eng": "Wonderful, I am so happy things are going well. Keep up the good work."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+          "eng": "We all have better and worse days. The fact that you are here on this app shows courage and commitment!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+          "eng": "Sorry to hear that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Everyone feels stressed sometimes. Take a short walk to release your stress!"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "Taking care of children can make you tired. Take a short power nap if you can!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -49,28 +54,44 @@
         },
         "quiz_1_option_3_text": {
           "eng": "Sad"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Stressed"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Tired"
         }
       },
       "category_id": "check_in",
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_5": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_option_5_text": {}
       },
-      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+      "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here on this app shows courage and commitment!",
+      "quiz_1_feedback_3": "Sorry to hear that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_feedback_4": "Everyone feels stressed sometimes. Take a short walk to release your stress!",
+      "quiz_1_feedback_5": "Taking care of children can make you tired. Take a short power nap if you can!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "quiz_1_option_4_text": "Stressed",
+      "quiz_1_option_5_text": "Tired",
       "completed": false
     },
     {
@@ -105,48 +126,48 @@
           "eng": "Sad"
         },
         "quiz_1_feedback_4": {
-          "eng": "Sometimes, when we are praised for actions that we don't feel we deserve, we get sad. It is okay to feel sad, but remember that just being here is worthy of praise! Keep your chin up!"
+          "eng": "Sometimes, when we are praised for actions that we don't feel we deserve, we get sad. It is okay to feel sad, but remember that just being here is worthy of praise!"
         }
       },
       "category_id": "intro",
       "quiz_1_option_1_image_asset": "images/icons/faces/happiest.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/happy.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/scared.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/sad.svg",
       "quiz_1_feedback_1": "That's great! Being praised often makes us feel proud.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "That's great! Being praised often makes us feel happy!",
       "quiz_1_feedback_3": "Sometimes being praised makes us feel embarrassed, usually because we are not used to it. It will get easier with practice! Giving praise helps children learn the behaviours you want to see.",
+      "quiz_1_feedback_4": "Sometimes, when we are praised for actions that we don't feel we deserve, we get sad. It is okay to feel sad, but remember that just being here is worthy of praise!",
       "quiz_1_question": "How did the message above make you feel?",
       "quiz_1_option_1_text": "Proud",
       "quiz_1_option_2_text": "Happy",
       "quiz_1_option_3_text": "Embarrassed",
       "quiz_1_option_4_text": "Sad",
-      "quiz_1_option_4_image_asset": "images/icons/faces/sad.svg",
       "text_1_facilitator": "Today we are learning about giving our children praise. \n\nPraise is good for building positive relationships, and is also helpful at encouraging good behaviour!\n\nWell done for taking time to learn how to strengthen your relationship with your child. It shows you really care!",
-      "quiz_1_feedback_4": "Sometimes, when we are praised for actions that we don't feel we deserve, we get sad. It is okay to feel sad, but remember that just being here is worthy of praise! Keep your chin up!",
       "completed": false
     },
     {
       "id": "intro_2",
       "media_asset": "audio/praise_audio_1.mp3",
-      "media_type": "audio",
+      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "We all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during your one-on-one time."
         },
         "media_title": {
-          "eng": "How will it help me and my family?"
+          "eng": "How will it help you and your family?"
         },
         "media_transcript": {
           "eng": "Greetings, everyone.\n\nWhen was the last time you were praised? Can you praise yourself for something right now? Praise makes us all feel good. \n\nIt is good to praise our children when they have done well, because when we do that, they will do more of that good behaviour we want to see.\n\nAnd let's remember to praise ourselves too, for big or small things!"
@@ -159,7 +180,7 @@
         "media_title": {},
         "media_transcript": {}
       },
-      "media_title": "How will it help me and my family?",
+      "media_title": "How will it help you and your family?",
       "media_transcript": "Greetings, everyone.\n\nWhen was the last time you were praised? Can you praise yourself for something right now? Praise makes us all feel good. \n\nIt is good to praise our children when they have done well, because when we do that, they will do more of that good behaviour we want to see.\n\nAnd let's remember to praise ourselves too, for big or small things!",
       "completed": false
     },
@@ -167,64 +188,68 @@
       "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time."
+          "eng": "Let’s see how a father praises his daughter, @data.characters.f1_daughter_2.name during one-on-one time."
         },
-        "text_2": {
-          "eng": "@data.characters.f3_mother.name: “You found one striped sock and one with dots. Let’s find socks that match.”"
+        "character_1_text": {
+          "eng": "You found one blue slipper and one with stripes. Let’s find slippers that match and place them neatly on the shoe rack."
         }
       },
       "category_id": "explore",
-      "text_1_facilitator": "Let’s see how a mother praises her son, @data.characters.f3_son_4.name during one-on-one time.",
+      "text_1_facilitator": "Let’s see how a father praises his daughter, @data.characters.f1_daughter_2.name during one-on-one time.",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "character_1_text": {}
       },
       "image_asset": "images/comics/praise_yc_1.svg",
-      "text_2": "@data.characters.f3_mother.name: “You found one striped sock and one with dots. Let’s find socks that match.”",
+      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_text": "You found one blue slipper and one with stripes. Let’s find slippers that match and place them neatly on the shoe rack.",
       "completed": false
     },
     {
       "id": "explore_2",
       "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f3_mother.name: “Another sock! This one is white. It’s frustrating to try to find a matching pair when there are so many clothes to look through.”"
+        "character_1_text": {
+          "eng": "Another slipper! This one is white. It’s frustrating to try to find a matching pair when there are so many house slippers on the floor."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_2.svg",
-      "text_2": "@data.characters.f3_mother.name: “Another sock! This one is white. It’s frustrating to try to find a matching pair when there are so many clothes to look through.”",
+      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_text": "Another slipper! This one is white. It’s frustrating to try to find a matching pair when there are so many house slippers on the floor.",
       "_translations": {
-        "text_2": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "explore_3",
       "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f3_mother.name: “You are being very patient and looking very hard, @data.characters.f3_son_4.name. Well done for trying. I am happy you are helping me.”"
+        "character_1_text": {
+          "eng": "You are being very patient and looking very hard, @data.characters.f1_daughter_2.name. Well done for trying. I am happy you are helping me."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_3.svg",
-      "text_2": "@data.characters.f3_mother.name: “You are being very patient and looking very hard, @data.characters.f3_son_4.name. Well done for trying. I am happy you are helping me.”",
+      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_text": "You are being very patient and looking very hard, @data.characters.f1_daughter_2.name. Well done for trying. I am happy you are helping me.",
       "_translations": {
-        "text_2": {}
+        "character_1_text": {}
       },
       "completed": false
     },
     {
       "id": "explore_4",
       "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f3_mother.name: “You found two socks with the same pattern! Well done for not giving up, @data.characters.f3_son_4.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?”"
+        "character_1_text": {
+          "eng": "You found two slippers with the same colour! Well done for not giving up, @data.characters.f1_daughter_2.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_4.svg",
-      "text_2": "@data.characters.f3_mother.name: “You found two socks with the same pattern! Well done for not giving up, @data.characters.f3_son_4.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?”",
+      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_text": "You found two slippers with the same colour! Well done for not giving up, @data.characters.f1_daughter_2.name! \n\nBecause you helped me so well, I now have 5 extra minutes to play with you. What would you like to play?",
       "_translations": {
-        "text_2": {}
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -235,83 +260,83 @@
           "eng": "Let’s reflect on what we saw."
         },
         "quiz_1_question": {
-          "eng": "Why does @data.characters.f3_mother.name praise @data.characters.f3_son_4.name?"
+          "eng": "Why does @data.characters.f1_father.name praise his daughter, @data.characters.f1_daughter_2.name?"
         },
         "quiz_1_option_1_text": {
-          "eng": "To boost his self-esteem and confidence"
+          "eng": "To boost her self-esteem and confidence"
         },
         "quiz_1_feedback_1": {
-          "eng": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself."
+          "eng": "Exactly! When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, she feels good about herself."
         },
         "quiz_1_option_2_text": {
-          "eng": "To make him feel good about himself."
+          "eng": "To make her feel good about herself."
         },
         "quiz_1_feedback_2": {
-          "eng": "Not exactly, but the praise does help him deal with his frustration. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!"
+          "eng": "Not exactly, but the praise does help her deal with his frustration. When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, they want to keep looking for the slipper!"
         },
         "quiz_1_option_3_text": {
           "eng": "To encourage him to work harder"
         },
         "quiz_1_feedback_3": {
-          "eng": "Not exactly, but the praise will help him want to help more often. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!"
+          "eng": "Not exactly, but the praise will help her want to help more often. When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, she will remember being praised and be more likely to help her father in the future!"
         },
         "quiz_2_question": {
-          "eng": "What can we learn from @data.characters.f3_mother.name in how she praises @data.characters.f3_son_4.name?"
+          "eng": "What can we learn from @data.characters.f1_father.name in how he praises @data.characters.f1_daughter_2.name?"
         },
         "quiz_2_option_1_text": {
-          "eng": "She yells so he is sure to hear her."
+          "eng": "He yells so she is sure to hear him."
         },
         "quiz_2_feedback_1": {
-          "eng": "False. @data.characters.f3_mother.name doesn’t yell at all but she does go down to @data.characters.f3_son_4.name’s level. This is important so she can connect to him. @data.characters.f3_mother.name’s actions show us that the way we give praise is also important."
+          "eng": "False. @data.characters.f1_father.name doesn’t yell at all but he does go down to @data.characters.f1_daughter_2.name’s level. This is important so he can connect to her. @data.characters.f1_father.name’s actions show us that the way we give praise is also important."
         },
         "quiz_2_option_2_text": {
-          "eng": "She uses his name and makes eye contact"
+          "eng": "He uses her name and makes eye contact"
         },
         "quiz_2_feedback_2": {
-          "eng": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important."
+          "eng": "True! All @data.characters.f1_father.name’s actions show us that the way we give praise is also important."
         },
         "quiz_2_option_3_text": {
-          "eng": "She tells him he is a “good boy”."
+          "eng": "He tells her she is a “good girl”."
         },
         "quiz_2_feedback_3": {
-          "eng": "False. @data.characters.f3_mother.name praises her son for something specific and provides the praise immediately. This shows us that the way we give praise  is important for it to be effective."
+          "eng": "False. @data.characters.f1_father.name praises her daughter for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective."
         },
         "quiz_2_option_4_text": {
-          "eng": "She praises him for the process of trying and not for the result."
+          "eng": "He praises her for the process of trying and not for the result."
         },
         "quiz_2_feedback_4": {
-          "eng": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important."
+          "eng": "True! All @data.characters.f1_father.name’s actions show us that the way we give praise is also important."
         },
         "quiz_2_option_5_text": {
-          "eng": "She does not criticise his mistake"
+          "eng": "He does not criticise his mistake"
         },
         "quiz_2_feedback_5": {
-          "eng": "True! All @data.characters.f3_mother.name’s actions show us that how we give praise is also important."
+          "eng": "True! All @data.characters.f1_father.name’s actions show us that how we give praise is also important."
         },
         "quiz_3_question": {
-          "eng": "Why does @data.characters.f3_mother.name give @data.characters.f3_son_4.name a hug and extra playtime together?"
+          "eng": "Why does @data.characters.f1_father.name give @data.characters.f1_daughter_2.name a hug and extra playtime together?"
         },
         "quiz_3_option_1_text": {
-          "eng": "Because she loves him."
+          "eng": "Because he loves her."
         },
         "quiz_3_feedback_1": {
-          "eng": "The hug does show love, but it also rewards him for helping with a chore. Giving a simple reward helps our children to do things that may be difficult for them again."
+          "eng": "The hug does show love, but it also rewards her for helping him. Giving a simple reward helps our children to do things that may be difficult for them again."
         },
         "quiz_3_option_2_text": {
-          "eng": "So that he knows that he doesn’t have to help anymore again."
+          "eng": "So that she knows that she doesn’t have to help anymore again."
         },
         "quiz_3_feedback_2": {
-          "eng": "Actually, the hug will encourage him to help again next time! Giving a simple reward helps our children to do things that may be difficult for them again."
+          "eng": "Actually, the hug will encourage her to help again next time! Giving a simple reward helps our children to do things that may be difficult for them again."
         },
         "quiz_3_option_3_text": {
-          "eng": "To encourage him to stay patient"
+          "eng": "To encourage her to stay patient"
         },
         "quiz_3_feedback_3": {
           "eng": "That’s right, giving a simple reward helps our children to do things that may be difficult for them again."
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Exactly! When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he feels good about himself.",
+      "quiz_1_feedback_1": "Exactly! When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, she feels good about herself.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -340,30 +365,30 @@
         "quiz_3_option_3_text": {},
         "quiz_3_feedback_3": {}
       },
-      "quiz_1_feedback_2": "Not exactly, but the praise does help him deal with his frustration. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, they want to keep looking for the socks!",
-      "quiz_1_feedback_3": "Not exactly, but the praise will help him want to help more often. When @data.characters.f3_mother.name praises @data.characters.f3_son_4.name, he will remember being praised and be more likely to help with chores in the future!",
-      "quiz_1_question": "Why does @data.characters.f3_mother.name praise @data.characters.f3_son_4.name?",
-      "quiz_1_option_1_text": "To boost his self-esteem and confidence",
-      "quiz_1_option_2_text": "To make him feel good about himself.",
+      "quiz_1_feedback_2": "Not exactly, but the praise does help her deal with his frustration. When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, they want to keep looking for the slipper!",
+      "quiz_1_feedback_3": "Not exactly, but the praise will help her want to help more often. When @data.characters.f1_father.name praises @data.characters.f1_daughter_2.name, she will remember being praised and be more likely to help her father in the future!",
+      "quiz_1_question": "Why does @data.characters.f1_father.name praise his daughter, @data.characters.f1_daughter_2.name?",
+      "quiz_1_option_1_text": "To boost her self-esteem and confidence",
+      "quiz_1_option_2_text": "To make her feel good about herself.",
       "quiz_1_option_3_text": "To encourage him to work harder",
       "text_1_facilitator": "Let’s reflect on what we saw.",
-      "quiz_2_question": "What can we learn from @data.characters.f3_mother.name in how she praises @data.characters.f3_son_4.name?",
-      "quiz_2_option_1_text": "She yells so he is sure to hear her.",
-      "quiz_2_feedback_1": "False. @data.characters.f3_mother.name doesn’t yell at all but she does go down to @data.characters.f3_son_4.name’s level. This is important so she can connect to him. @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",
-      "quiz_2_option_2_text": "She uses his name and makes eye contact",
-      "quiz_2_feedback_2": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",
-      "quiz_2_option_3_text": "She tells him he is a “good boy”.",
-      "quiz_2_feedback_3": "False. @data.characters.f3_mother.name praises her son for something specific and provides the praise immediately. This shows us that the way we give praise  is important for it to be effective.",
-      "quiz_2_option_4_text": "She praises him for the process of trying and not for the result.",
-      "quiz_2_feedback_4": "True! All @data.characters.f3_mother.name’s actions show us that the way we give praise is also important.",
-      "quiz_2_option_5_text": "She does not criticise his mistake",
-      "quiz_2_feedback_5": "True! All @data.characters.f3_mother.name’s actions show us that how we give praise is also important.",
-      "quiz_3_question": "Why does @data.characters.f3_mother.name give @data.characters.f3_son_4.name a hug and extra playtime together?",
-      "quiz_3_option_1_text": "Because she loves him.",
-      "quiz_3_feedback_1": "The hug does show love, but it also rewards him for helping with a chore. Giving a simple reward helps our children to do things that may be difficult for them again.",
-      "quiz_3_option_2_text": "So that he knows that he doesn’t have to help anymore again.",
-      "quiz_3_feedback_2": "Actually, the hug will encourage him to help again next time! Giving a simple reward helps our children to do things that may be difficult for them again.",
-      "quiz_3_option_3_text": "To encourage him to stay patient",
+      "quiz_2_question": "What can we learn from @data.characters.f1_father.name in how he praises @data.characters.f1_daughter_2.name?",
+      "quiz_2_option_1_text": "He yells so she is sure to hear him.",
+      "quiz_2_feedback_1": "False. @data.characters.f1_father.name doesn’t yell at all but he does go down to @data.characters.f1_daughter_2.name’s level. This is important so he can connect to her. @data.characters.f1_father.name’s actions show us that the way we give praise is also important.",
+      "quiz_2_option_2_text": "He uses her name and makes eye contact",
+      "quiz_2_feedback_2": "True! All @data.characters.f1_father.name’s actions show us that the way we give praise is also important.",
+      "quiz_2_option_3_text": "He tells her she is a “good girl”.",
+      "quiz_2_feedback_3": "False. @data.characters.f1_father.name praises her daughter for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
+      "quiz_2_option_4_text": "He praises her for the process of trying and not for the result.",
+      "quiz_2_feedback_4": "True! All @data.characters.f1_father.name’s actions show us that the way we give praise is also important.",
+      "quiz_2_option_5_text": "He does not criticise his mistake",
+      "quiz_2_feedback_5": "True! All @data.characters.f1_father.name’s actions show us that how we give praise is also important.",
+      "quiz_3_question": "Why does @data.characters.f1_father.name give @data.characters.f1_daughter_2.name a hug and extra playtime together?",
+      "quiz_3_option_1_text": "Because he loves her.",
+      "quiz_3_feedback_1": "The hug does show love, but it also rewards her for helping him. Giving a simple reward helps our children to do things that may be difficult for them again.",
+      "quiz_3_option_2_text": "So that she knows that she doesn’t have to help anymore again.",
+      "quiz_3_feedback_2": "Actually, the hug will encourage her to help again next time! Giving a simple reward helps our children to do things that may be difficult for them again.",
+      "quiz_3_option_3_text": "To encourage her to stay patient",
       "quiz_3_feedback_3": "That’s right, giving a simple reward helps our children to do things that may be difficult for them again.",
       "completed": false
     },
@@ -526,13 +551,15 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_5": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "quiz_1_option_4_text": {},
+        "quiz_1_option_5_text": {},
         "text_1_facilitator": {},
-        "quiz_1_feedback_4": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
@@ -542,8 +569,6 @@
         "quiz_2_feedback_3": {},
         "quiz_2_feedback_4": {},
         "quiz_2_option_5_text": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
         "quiz_1_option_6_text": {},
         "quiz_1_feedback_6": {},
         "quiz_2_option_6_text": {},
@@ -551,13 +576,15 @@
       },
       "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_feedback_4": "Yes, you can praise them for these behaviours… and many more!",
+      "quiz_1_feedback_5": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_question": "What is one behaviour your child regularly shows in their daily routine that you can praise them for?\nThere are lots of right answers to this one!",
       "quiz_1_option_1_text": "Cleaning up or helping out",
       "quiz_1_option_2_text": "Being patient or polite",
       "quiz_1_option_3_text": "Trying a new skill",
       "quiz_1_option_4_text": "Playing quietly",
+      "quiz_1_option_5_text": "Getting ready for school or bed",
       "text_1_facilitator": "Curious to see how praise can help you and your family?\n\nYour home activity is to praise your child for 3 things every day, and praise yourself too for all your hard work being a parent – you deserve it!",
-      "quiz_1_feedback_4": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_2_question": "Remember to also praise yourself for the good work you're doing! What’s one way you can reward yourself for your hard work as a parent?",
       "quiz_2_option_1_text": "Treat yourself to something you enjoy (e.g., a favourite snack or activity)",
       "quiz_2_feedback_1": "Great choice! Taking time to enjoy something you love is a wonderful way to recharge and recognize your efforts as a parent.",
@@ -567,8 +594,6 @@
       "quiz_2_feedback_3": "Fantastic! Reflecting on your accomplishments helps you see how much you’re doing right. You deserve to celebrate your hard work!",
       "quiz_2_feedback_4": "Do something fun with your child that you both enjoy",
       "quiz_2_option_5_text": "Wonderful choice! Sharing a fun activity with your child not only rewards you but also strengthens your bond. You’re doing an amazing job!",
-      "quiz_1_option_5_text": "Getting ready for school or bed",
-      "quiz_1_feedback_5": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_option_6_text": "Listening to instructions",
       "quiz_1_feedback_6": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_2_option_6_text": "Other",

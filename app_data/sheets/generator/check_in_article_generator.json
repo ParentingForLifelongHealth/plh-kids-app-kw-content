@@ -78,22 +78,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_check_in_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_check_in_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "article_check_in_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_check_in_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -113,37 +103,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_check_in_9",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_check_in_10",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_check_in_11",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_check_in_12",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "article_check_in_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_check_in_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_check_in_15",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

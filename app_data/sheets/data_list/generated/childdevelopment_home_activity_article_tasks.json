@@ -22,7 +22,7 @@
           "eng": "Go outside together"
         },
         "quiz_1_feedback_2": {
-          "eng": "Great idea. Try to look for opportunities to play and learn, like balancing over a ridge or collecting leaves or rocks along the way."
+          "eng": "Great idea. Try to look for opportunities to play and learn, like balancing on a step or collecting seashells or rocks along the way."
         },
         "quiz_1_option_3_text": {
           "eng": "Use household items"
@@ -43,23 +43,23 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {}
       },
-      "quiz_1_feedback_2": "Great idea. Try to look for opportunities to play and learn, like balancing over a ridge or collecting leaves or rocks along the way.",
+      "quiz_1_feedback_2": "Great idea. Try to look for opportunities to play and learn, like balancing on a step or collecting seashells or rocks along the way.",
       "quiz_1_feedback_3": "Yes! Get creative. Anything in your home could be a music instrument, costume, or item in a role-play.",
+      "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do.",
       "quiz_1_question": "What could you do today to encourage your child to play and learn?",
       "quiz_1_option_1_text": "Join their play",
       "quiz_1_option_2_text": "Go outside together",
       "quiz_1_option_3_text": "Use household items",
       "quiz_1_option_4_text": "Ask their ideas",
       "text_1_facilitator": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play.",
-      "quiz_1_feedback_4": "Exactly. If you are not sure how you could play together, your child will have many ideas for what you could do.",
       "completed": false
     }
   ]

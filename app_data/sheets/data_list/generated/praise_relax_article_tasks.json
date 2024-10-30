@@ -4,24 +4,23 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "media_asset": "video/pause/body_scan.mp4",
-      "media_type": "video",
-      "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
-      "title": "Body Scan",
+      "id": "relax_10",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "title": "Feel the ground",
       "_translations": {
         "title": {},
         "transcript": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body Scan"
+          "eng": "Feel the ground"
         },
         "transcript": {
-          "eng": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson."
+          "eng": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!"
         }
       },
-      "transcript": "Today's pause is called a body scan. Begin by closing your eyes or maintaining a soft gaze. \nTake a full breath in and a long breath out.\nNow, bringing awareness to the top of your body,\nyour head,\nface,\nneck,\nshoulders.\nNoticing any sensations, movements, any places of holding. \nContinue to scan your body, moving down the arms and hands and into your fingers.\nSense the back of your body and your lower back. \nFeeling the contact of your body with the chair if you are seated. \nNow, sensing your upper legs, your lower legs, and the feet. \nTake a full, deep breath in and a long breath out. Finish this pause by opening your eyes. \n\nThank you for taking a moment to pause with us. It's time for today's lesson.",
+      "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
       "category_id": "relax",
       "completed": false
     }
