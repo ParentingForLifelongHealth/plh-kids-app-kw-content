@@ -3,6 +3,7 @@
   "flow_name": "hp_check_in",
   "status": "released",
   "data_list_name": "hp_check_in",
+  "flow_subtype": "hp_review",
   "rows": [
     {
       "id": "oneononetime",

@@ -3,6 +3,7 @@
   "flow_name": "characters",
   "data_list_name": "characters",
   "status": "released",
+  "flow_subtype": "characters",
   "rows": [
     {
       "id": "facilitator",
@@ -169,7 +170,7 @@
       },
       "_translatedFields": {
         "name": {
-          "eng": "Shaikha"
+          "eng": "Grandmother"
         }
       }
     },
@@ -178,13 +179,13 @@
       "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
       "role": "caregiver",
-      "name": "Mubarak",
+      "name": "Grandfather",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mubarak"
+          "eng": "Grandfather"
         }
       }
     },

@@ -3,6 +3,7 @@
   "flow_name": "hp_challenges",
   "status": "released",
   "data_list_name": "hp_challenges",
+  "flow_subtype": "hp_review",
   "rows": [
     {
       "id": "oneononetime",

@@ -3,6 +3,7 @@
   "flow_name": "activities",
   "data_list_name": "activities",
   "status": "released",
+  "flow_subtype": "activities",
   "rows": [
     {
       "id": "cooking_with_math",
