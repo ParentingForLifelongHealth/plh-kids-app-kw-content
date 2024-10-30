@@ -61,12 +61,16 @@
       "image_asset": "images/comics/instructions_yc_2.svg",
       "character_1_id": "@data.characters.f1_father.name",
       "character_2_id": "@data.characters.f1_daughter_2.name",
-      "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
+      "text_2": "After 3 minutes",
       "_translations": {
+        "text_2": {},
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
+        "text_2": {
+          "eng": "After 3 minutes"
+        },
         "character_1_text": {
           "eng": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks."
         },
@@ -74,6 +78,7 @@
           "eng": "Okay"
         }
       },
+      "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
       "character_2_text": "Okay"
     },
     {
@@ -239,10 +244,10 @@
           "eng": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts!"
         },
         "text_2": {
-          "eng": "@data.characters.f2_grandfather.name walks by carrying two bags of groceries while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball in the garden."
+          "eng": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden"
         }
       },
-      "text_2": "@data.characters.f2_grandfather.name walks by carrying two bags of groceries while his granddaughter, @data.characters.f2_daughter_3.name and grandson, @data.characters.f2_son_8.name are playing with a ball in the garden."
+      "text_2": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden"
     },
     {
       "id": "explore_7",
@@ -269,14 +274,14 @@
       "id": "explore_8",
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_6.svg",
-      "character_1_id": "@data.characters.f2_grandfather.name",
-      "character_1_text": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help me carry these grocery bags inside the house.",
+      "character_1_id": "@data.characters.f2_grandmother.name",
+      "character_1_text": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help your grandfather carry these grocery bags inside the house.",
       "_translations": {
         "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help me carry these grocery bags inside the house."
+          "eng": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help your grandfather carry these grocery bags inside the house."
         }
       }
     },
@@ -298,7 +303,7 @@
     {
       "id": "explore_10",
       "category_id": "explore",
-      "text_1_facilitator": "Let’s reflect on what @data.characters.f2_grandfather.name did here.",
+      "text_1_facilitator": "Let’s reflect on what @data.characters.f2_grandfather.name and @data.characters.f2_grandmother.name did here.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -318,10 +323,10 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s reflect on what @data.characters.f2_grandfather.name did here."
+          "eng": "Let’s reflect on what @data.characters.f2_grandfather.name and @data.characters.f2_grandmother.name did here."
         },
         "quiz_1_question": {
-          "eng": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?"
+          "eng": "What would have happened if @data.characters.f2_grandmother.name had not paid attention to the children?"
         },
         "quiz_1_option_1_text": {
           "eng": "They would have played ball together."
@@ -339,43 +344,43 @@
           "eng": "Nothing. @data.characters.f2_grandfather.name would have carried the bags inside the house."
         },
         "quiz_1_feedback_3": {
-          "eng": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict."
+          "eng": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he and @data.characters.f2_grandmother.name would have had to spend more time and energy trying to resolve the conflict."
         },
         "quiz_2_question": {
-          "eng": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?"
+          "eng": "What does @data.characters.f2_grandmother.name do to prevent the argument from getting out of hand?"
         },
         "quiz_2_option_1_text": {
-          "eng": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise."
+          "eng": "She draws their attention away from the problem, involves them in a positive activity, and gives them praise."
         },
         "quiz_2_feedback_1": {
-          "eng": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour."
+          "eng": "That’s right. She quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour."
         },
         "quiz_2_option_2_text": {
-          "eng": "He reminds them it’s important to get along."
+          "eng": "She reminds them it’s important to get along."
         },
         "quiz_2_feedback_2": {
-          "eng": "Try again! He rather gives them a way to get along again by involving them in a positive activity."
+          "eng": "Try again! She rather gives them a way to get along again by involving them in a positive activity."
         },
         "quiz_2_option_3_text": {
-          "eng": "He gives them a warning for a consequence."
+          "eng": "She gives them a warning for a consequence."
         },
         "quiz_2_feedback_3": {
           "eng": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour."
         }
       },
-      "quiz_1_question": "What would have happened if @data.characters.f2_grandfather.name had not paid attention to the children?",
+      "quiz_1_question": "What would have happened if @data.characters.f2_grandmother.name had not paid attention to the children?",
       "quiz_1_option_1_text": "They would have played ball together.",
       "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
       "quiz_1_option_2_text": "They could have hurt each other in the argument.",
       "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other.",
       "quiz_1_option_3_text": "Nothing. @data.characters.f2_grandfather.name would have carried the bags inside the house.",
-      "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he would have had to spend more time and energy trying to resolve the conflict.",
-      "quiz_2_question": "What does @data.characters.f2_grandfather.name do to prevent the argument from getting out of hand?",
-      "quiz_2_option_1_text": "He draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
-      "quiz_2_feedback_1": "That’s right. He quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
-      "quiz_2_option_2_text": "He reminds them it’s important to get along.",
-      "quiz_2_feedback_2": "Try again! He rather gives them a way to get along again by involving them in a positive activity.",
-      "quiz_2_option_3_text": "He gives them a warning for a consequence.",
+      "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he and @data.characters.f2_grandmother.name would have had to spend more time and energy trying to resolve the conflict.",
+      "quiz_2_question": "What does @data.characters.f2_grandmother.name do to prevent the argument from getting out of hand?",
+      "quiz_2_option_1_text": "She draws their attention away from the problem, involves them in a positive activity, and gives them praise.",
+      "quiz_2_feedback_1": "That’s right. She quickly intervenes to distract them, and gives a positive instruction to redirect them to a positive behaviour.",
+      "quiz_2_option_2_text": "She reminds them it’s important to get along.",
+      "quiz_2_feedback_2": "Try again! She rather gives them a way to get along again by involving them in a positive activity.",
+      "quiz_2_option_3_text": "She gives them a warning for a consequence.",
       "quiz_2_feedback_3": "Try again! Giving a consequence would not help them to resolve the conflict. Instead, giving them praise encourages them to continue their positive behaviour."
     },
     {

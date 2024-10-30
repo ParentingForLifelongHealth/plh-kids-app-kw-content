@@ -301,13 +301,13 @@
           "eng": "Let’s look at another family. They have set up a routine around bedtime that is working really well!"
         },
         "character_1_text": {
-          "eng": "I am so happy to see you playing quietly with your legos, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together."
+          "eng": "I am so happy to see you playing quietly with your building blocks, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together."
         },
         "character_2_text": {
           "eng": "Okay!"
         }
       },
-      "character_1_text": "I am so happy to see you playing quietly with your legos, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.",
+      "character_1_text": "I am so happy to see you playing quietly with your building blocks, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.",
       "character_2_text": "Okay!"
     },
     {
@@ -545,7 +545,7 @@
           "eng": "More tips"
         },
         "section_2_extra_text": {
-          "eng": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but “pick up all of your legos”."
+          "eng": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but “pick up all of your building blocks”."
         },
         "section_3_title": {
           "eng": "BE CONSISTENT"
@@ -567,7 +567,7 @@
       "section_2_title": "BE REALISTIC",
       "section_2_text": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later.",
       "section_2_button_text": "More tips",
-      "section_2_extra_text": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but “pick up all of your legos”.",
+      "section_2_extra_text": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but “pick up all of your building blocks”.",
       "section_3_title": "BE CONSISTENT",
       "section_3_text": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and this will help them to feel secure. They will learn to be more independent and responsible.",
       "section_3_button_text": "More tips",

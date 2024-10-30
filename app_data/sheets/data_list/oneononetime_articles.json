@@ -45,10 +45,10 @@
           "eng": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!"
         },
         "character_1_text": {
-          "eng": "I see you are playing quietly with those legos with concentration, Faisal."
+          "eng": "I see you are playing quietly with those building blocks with concentration, Faisal."
         }
       },
-      "character_1_text": "I see you are playing quietly with those legos with concentration, Faisal."
+      "character_1_text": "I see you are playing quietly with those building blocks with concentration, Faisal."
     },
     {
       "id": "explore_2",
@@ -56,14 +56,14 @@
       "image_asset": "images/comics/one_on_one_yc_2.svg",
       "character_1_id": "@data.characters.f3_uncle.name",
       "character_2_id": "@data.characters.f3_son_4.name",
-      "character_1_text": "Wow! You are building such a tall and strong wall with those legos.",
+      "character_1_text": "Wow! You are building such a tall and strong wall with those building blocks.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Wow! You are building such a tall and strong wall with those legos."
+          "eng": "Wow! You are building such a tall and strong wall with those building blocks."
         },
         "character_2_text": {
           "eng": "It’s for our pet cat."

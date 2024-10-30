@@ -107,7 +107,7 @@
           "eng": "How will it help you and your family?"
         },
         "media_transcript": {
-          "eng": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop."
+          "eng": "Hello!\nDo you know that children learn best through playing? \n\nAnd let’s be honest, which child does not like to play? \n\nLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop."
         }
       },
       "category_id": "intro",
@@ -118,7 +118,7 @@
         "media_transcript": {}
       },
       "media_title": "How will it help you and your family?",
-      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\rAnd let’s be honest, which child does not like to play? \n\rLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
+      "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\nAnd let’s be honest, which child does not like to play? \n\nLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
       "completed": false
     },
     {
@@ -348,13 +348,13 @@
           "eng": "No, I want to do it myself!"
         },
         "character_3_text": {
-          "eng": "Okay, @data.characters.f1_daughter_6.name, you can do it yourself."
+          "eng": "Okay, @data.characters.f3_son_4.name, you can do it yourself."
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_1.svg",
-      "character_1_id": "@data.characters.f1_father.name",
-      "character_2_id": "@data.characters.f1_daughter_6.name",
+      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_2_id": "@data.characters.f3_son_4.name",
       "character_1_text": "Let me put your shoes on.",
       "_translations": {
         "character_1_text": {},
@@ -362,15 +362,15 @@
         "character_3_text": {}
       },
       "character_2_text": "No, I want to do it myself!",
-      "character_3_id": "@data.characters.f1_father.name",
-      "character_3_text": "Okay, @data.characters.f1_daughter_6.name, you can do it yourself.",
+      "character_3_id": "@data.characters.f3_uncle.name",
+      "character_3_text": "Okay, @data.characters.f3_son_4.name, you can do it yourself.",
       "completed": false
     },
     {
       "id": "explore_9",
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f1_daughter_6.name doesn't push her foot in all the way and struggles to fasten the shoes."
+          "eng": "@data.characters.f1_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes."
         },
         "character_1_text": {
           "eng": "I can’t do it!"
@@ -384,8 +384,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_2.svg",
-      "character_1_id": "@data.characters.f1_daughter_6.name",
-      "character_2_id": "@data.characters.f1_father.name",
+      "character_1_id": "@data.characters.f1_son_4.name",
+      "character_2_id": "@data.characters.f3_uncle.name",
       "character_1_text": "I can’t do it!",
       "_translations": {
         "character_1_text": {},
@@ -394,9 +394,9 @@
         "text_2": {}
       },
       "character_2_text": "Yes, you can! How about I help you with one foot, and you do it with the other?",
-      "character_3_id": "@data.characters.f1_daughter_6.name",
+      "character_3_id": "@data.characters.f3_son_4.name",
       "character_3_text": "Okay.",
-      "text_2": "@data.characters.f1_daughter_6.name doesn't push her foot in all the way and struggles to fasten the shoes.",
+      "text_2": "@data.characters.f1_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes.",
       "completed": false
     },
     {
@@ -409,13 +409,13 @@
           "eng": "I did it!"
         },
         "character_3_text": {
-          "eng": "Great job,@data.characters.f1_daughter_6.name! You are becoming a strong girl!"
+          "eng": "Great job,@data.characters.f3_son_4.name! You are becoming a strong boy!"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_4.svg",
-      "character_1_id": "@data.characters.f1_father.name",
-      "character_2_id": "@data.characters.f1_daughter_6.name",
+      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_2_id": "@data.characters.f3_son_4.name",
       "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
       "_translations": {
         "character_1_text": {},
@@ -423,67 +423,67 @@
         "character_3_text": {}
       },
       "character_2_text": "I did it!",
-      "character_3_id": "@data.characters.f1_father.name",
-      "character_3_text": "Great job,@data.characters.f1_daughter_6.name! You are becoming a strong girl!",
+      "character_3_id": "@data.characters.f3_uncle.name",
+      "character_3_text": "Great job,@data.characters.f3_son_4.name! You are becoming a strong boy!",
       "completed": false
     },
     {
       "id": "explore_11",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake."
+          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name help him learn from the mistake."
         },
         "quiz_1_question": {
-          "eng": "What does @data.characters.f1_father.name do to support @data.characters.f1_daughter_6.name?"
+          "eng": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_son_4.name?"
         },
         "quiz_1_option_1_text": {
-          "eng": "He fixes what she was doing wrong for her."
+          "eng": "He fixes what he was doing wrong for him."
         },
         "quiz_1_feedback_1": {
-          "eng": "Rather than fixing the problem himself, @data.characters.f1_father.name gives clear and specific instructions to help her learn. @data.characters.f1_father.name carefully instructs @data.characters.f1_daughter_6.name on how to put on her shoes, helping her to do it herself."
+          "eng": "Rather than fixing the problem himself, @data.characters.f3_uncle.name gives clear and specific instructions to help him learn. @data.characters.f3_uncle.name carefully instructs @data.characters.f3_son_4.name on how to put on his shoes, helping him to do it himself."
         },
         "quiz_1_option_2_text": {
-          "eng": "He get frustrated when she struggles"
+          "eng": "He get frustrated when he struggles"
         },
         "quiz_1_feedback_2": {
-          "eng": "When @data.characters.f1_daughter_6.name struggles, @data.characters.f1_father.name actually remains calm and patient. This is important when teaching children new tasks."
+          "eng": "When @data.characters.f3_son_4.name struggles, @data.characters.f3_uncle.name actually remains calm and patient. This is important when teaching children new tasks."
         },
         "quiz_1_option_3_text": {
-          "eng": "He praises her when she does it herself."
+          "eng": "He praises him when he does it himself."
         },
         "quiz_1_feedback_3": {
           "eng": "Yes, praise helps our children to take more responsibility for their actions next time."
         },
         "quiz_1_option_4_text": {
-          "eng": "He tells her he is going to do it for her when she is struggling."
+          "eng": "He tells him he is going to do it for him when he is struggling."
         },
         "quiz_1_feedback_4": {
-          "eng": "@data.characters.f1_father.name actually encourages @data.characters.f1_daughter_6.name to keep trying after she struggles. This shows support and helps her to learn to do it herself!"
+          "eng": "@data.characters.f3_uncle.name actually encourages @data.characters.f3_son_4.name to keep trying after he struggles. This shows support and helps him to learn to do it himself!"
         },
         "quiz_2_question": {
-          "eng": "What does @data.characters.f1_daughter_6.name learn from @data.characters.f1_father’s response?"
+          "eng": "What does @data.characters.f3_son_4.name learn from @data.characters.f3_uncle.name’s response?"
         },
         "quiz_2_option_1_text": {
           "eng": "I can keep trying even if I make a mistake."
         },
         "quiz_2_feedback_1": {
-          "eng": "Exactly! @data.characters.f1_daughter_6.name learns it’s okay to make mistakes and keep trying because @data.characters.f1_father.name encourages her to keep trying even when she struggles."
+          "eng": "Exactly! @data.characters.f3_son_4.namelearns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles."
         },
         "quiz_2_option_2_text": {
           "eng": "I am supported as I learn new things."
         },
         "quiz_2_feedback_2": {
-          "eng": "Exactly! @data.characters.f1_daughter_6.name learns that she is supported while learning new tasks, as @data.characters.f1_father.name calmly guides her."
+          "eng": "Exactly! @data.characters.f3_son_4.name learns that he is supported while learning new tasks, as @data.characters.f3_uncle.name calmly guides him."
         },
         "quiz_2_option_3_text": {
           "eng": "It is important that an adult do this task for me."
         },
         "quiz_2_feedback_3": {
-          "eng": "@data.characters.f1_daughter_6.name actually learns the value of trying things on her own, with @data.characters.f1_father.name offering praise and support rather than taking over the task."
+          "eng": "@data.characters.f3_son_4.name actually learns the value of trying things on his own, with @data.characters.f3_uncle.name offering praise and support rather than taking over the task."
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Rather than fixing the problem himself, @data.characters.f1_father.name gives clear and specific instructions to help her learn. @data.characters.f1_father.name carefully instructs @data.characters.f1_daughter_6.name on how to put on her shoes, helping her to do it herself.",
+      "quiz_1_feedback_1": "Rather than fixing the problem himself, @data.characters.f3_uncle.name gives clear and specific instructions to help him learn. @data.characters.f3_uncle.name carefully instructs @data.characters.f3_son_4.name on how to put on his shoes, helping him to do it himself.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -503,22 +503,22 @@
         "quiz_2_option_3_text": {},
         "quiz_2_feedback_3": {}
       },
-      "quiz_1_feedback_2": "When @data.characters.f1_daughter_6.name struggles, @data.characters.f1_father.name actually remains calm and patient. This is important when teaching children new tasks.",
+      "quiz_1_feedback_2": "When @data.characters.f3_son_4.name struggles, @data.characters.f3_uncle.name actually remains calm and patient. This is important when teaching children new tasks.",
       "quiz_1_feedback_3": "Yes, praise helps our children to take more responsibility for their actions next time.",
-      "quiz_1_feedback_4": "@data.characters.f1_father.name actually encourages @data.characters.f1_daughter_6.name to keep trying after she struggles. This shows support and helps her to learn to do it herself!",
-      "quiz_1_question": "What does @data.characters.f1_father.name do to support @data.characters.f1_daughter_6.name?",
-      "quiz_1_option_1_text": "He fixes what she was doing wrong for her.",
-      "quiz_1_option_2_text": "He get frustrated when she struggles",
-      "quiz_1_option_3_text": "He praises her when she does it herself.",
-      "quiz_1_option_4_text": "He tells her he is going to do it for her when she is struggling.",
-      "text_1_facilitator": "Let’s look at how @data.characters.f1_father.name helped @data.characters.f1_daughter_6.name help her learn from the mistake.",
-      "quiz_2_question": "What does @data.characters.f1_daughter_6.name learn from @data.characters.f1_father’s response?",
+      "quiz_1_feedback_4": "@data.characters.f3_uncle.name actually encourages @data.characters.f3_son_4.name to keep trying after he struggles. This shows support and helps him to learn to do it himself!",
+      "quiz_1_question": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_son_4.name?",
+      "quiz_1_option_1_text": "He fixes what he was doing wrong for him.",
+      "quiz_1_option_2_text": "He get frustrated when he struggles",
+      "quiz_1_option_3_text": "He praises him when he does it himself.",
+      "quiz_1_option_4_text": "He tells him he is going to do it for him when he is struggling.",
+      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name help him learn from the mistake.",
+      "quiz_2_question": "What does @data.characters.f3_son_4.name learn from @data.characters.f3_uncle.name’s response?",
       "quiz_2_option_1_text": "I can keep trying even if I make a mistake.",
-      "quiz_2_feedback_1": "Exactly! @data.characters.f1_daughter_6.name learns it’s okay to make mistakes and keep trying because @data.characters.f1_father.name encourages her to keep trying even when she struggles.",
+      "quiz_2_feedback_1": "Exactly! @data.characters.f3_son_4.namelearns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles.",
       "quiz_2_option_2_text": "I am supported as I learn new things.",
-      "quiz_2_feedback_2": "Exactly! @data.characters.f1_daughter_6.name learns that she is supported while learning new tasks, as @data.characters.f1_father.name calmly guides her.",
+      "quiz_2_feedback_2": "Exactly! @data.characters.f3_son_4.name learns that he is supported while learning new tasks, as @data.characters.f3_uncle.name calmly guides him.",
       "quiz_2_option_3_text": "It is important that an adult do this task for me.",
-      "quiz_2_feedback_3": "@data.characters.f1_daughter_6.name actually learns the value of trying things on her own, with @data.characters.f1_father.name offering praise and support rather than taking over the task.",
+      "quiz_2_feedback_3": "@data.characters.f3_son_4.name actually learns the value of trying things on his own, with @data.characters.f3_uncle.name offering praise and support rather than taking over the task.",
       "completed": false
     },
     {

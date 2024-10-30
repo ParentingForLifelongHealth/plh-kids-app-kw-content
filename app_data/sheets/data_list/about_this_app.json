@@ -6,13 +6,13 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+      "text": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+          "eng": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }

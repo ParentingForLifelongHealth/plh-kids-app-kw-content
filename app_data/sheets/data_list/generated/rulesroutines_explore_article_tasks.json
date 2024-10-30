@@ -272,7 +272,7 @@
           "eng": "Let’s look at another family. They have set up a routine around bedtime that is working really well!"
         },
         "character_1_text": {
-          "eng": "I am so happy to see you playing quietly with your legos, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together."
+          "eng": "I am so happy to see you playing quietly with your building blocks, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together."
         },
         "character_2_text": {
           "eng": "Okay!"
@@ -287,7 +287,7 @@
       },
       "character_1_id": "@data.characters.mother.name",
       "character_2_id": "@data.characters.f3_son_4.name",
-      "character_1_text": "I am so happy to see you playing quietly with your legos, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.",
+      "character_1_text": "I am so happy to see you playing quietly with your building blocks, @data.characters.f3_son_4.name. In 5 minutes, it will be time to get ready for bed. When you are ready for bed, we can read a story together.",
       "character_2_text": "Okay!",
       "completed": false
     },
