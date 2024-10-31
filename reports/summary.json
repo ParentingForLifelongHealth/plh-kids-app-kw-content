@@ -1,10 +1,6 @@
 {
   "template_components": [
     {
-      "type": "accordion",
-      "count": 1
-    },
-    {
       "type": "animated_section",
       "count": 2
     },
@@ -14,11 +10,7 @@
     },
     {
       "type": "button",
-      "count": 29
-    },
-    {
-      "type": "carousel",
-      "count": 1
+      "count": 27
     },
     {
       "type": "combo_box",
@@ -29,12 +21,8 @@
       "count": 1
     },
     {
-      "type": "display_grid",
-      "count": 2
-    },
-    {
       "type": "display_group",
-      "count": 33
+      "count": 31
     },
     {
       "type": "image",
@@ -42,7 +30,7 @@
     },
     {
       "type": "items",
-      "count": 9
+      "count": 8
     },
     {
       "type": "lottie_animation",
@@ -54,11 +42,11 @@
     },
     {
       "type": "radio_button_grid",
-      "count": 4
+      "count": 3
     },
     {
       "type": "set_variable",
-      "count": 384
+      "count": 302
     },
     {
       "type": "task_card",
@@ -70,11 +58,11 @@
     },
     {
       "type": "template",
-      "count": 237
+      "count": 236
     },
     {
       "type": "text",
-      "count": 51
+      "count": 50
     },
     {
       "type": "text_area",
@@ -90,7 +78,7 @@
     },
     {
       "type": "title",
-      "count": 19
+      "count": 16
     },
     {
       "type": "update_action_list",
@@ -140,7 +128,7 @@
     },
     {
       "type": "go_to",
-      "count": 12
+      "count": 10
     },
     {
       "type": "pop_up",
@@ -148,7 +136,7 @@
     },
     {
       "type": "set_field",
-      "count": 12
+      "count": 11
     },
     {
       "type": "set_local",
@@ -162,12 +150,12 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "23976 KB",
+      "KB": "23974 KB",
       "MB": "24 MB"
     },
     {
       "assets": "unused",
-      "KB": "108146 KB",
+      "KB": "108148 KB",
       "MB": "108.1 MB"
     }
   ],
@@ -359,6 +347,14 @@
     {
       "path": "images/icons/faces/tired.svg",
       "size_kb": 2.4
+    },
+    {
+      "path": "images/icons/heart.svg",
+      "size_kb": 0.6
+    },
+    {
+      "path": "images/icons/heart_filled.svg",
+      "size_kb": 1.4
     },
     {
       "path": "images/icons/in_progress_white.svg",
@@ -825,16 +821,6 @@
       "size_kb": 2.1
     },
     {
-      "path": "images/icons/heart.svg",
-      "count": 1,
-      "size_kb": 0.6
-    },
-    {
-      "path": "images/icons/heart_filled.svg",
-      "count": 1,
-      "size_kb": 1.4
-    },
-    {
       "path": "images/icons/in_progress.svg",
       "count": 3,
       "size_kb": 1.1
@@ -964,11 +950,26 @@
     {
       "type": "data_list",
       "subtype": null,
-      "total": 19
+      "total": 3
+    },
+    {
+      "type": "data_list",
+      "subtype": "activities",
+      "total": 1
     },
     {
       "type": "data_list",
       "subtype": "app_config_language_list",
+      "total": 1
+    },
+    {
+      "type": "data_list",
+      "subtype": "characters",
+      "total": 1
+    },
+    {
+      "type": "data_list",
+      "subtype": "check_in",
       "total": 1
     },
     {
@@ -978,12 +979,27 @@
     },
     {
       "type": "data_list",
+      "subtype": "hp_review",
+      "total": 2
+    },
+    {
+      "type": "data_list",
       "subtype": "legal_terms",
       "total": 2
     },
     {
       "type": "data_list",
       "subtype": "lifecycle_actions",
+      "total": 1
+    },
+    {
+      "type": "data_list",
+      "subtype": "modules",
+      "total": 11
+    },
+    {
+      "type": "data_list",
+      "subtype": "relax",
       "total": 1
     },
     {
@@ -1004,7 +1020,7 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 48
+      "total": 42
     },
     {
       "type": "template",
