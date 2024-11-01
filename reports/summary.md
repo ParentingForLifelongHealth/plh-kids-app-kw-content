@@ -3,29 +3,26 @@
 
 | type | count |
 | --- | --- |
-| accordion | 1 |
 | animated_section | 2 |
 | audio | 1 |
-| button | 29 |
-| carousel | 1 |
+| button | 27 |
 | combo_box | 2 |
 | data_items | 1 |
-| display_grid | 2 |
-| display_group | 33 |
+| display_group | 31 |
 | image | 1 |
-| items | 9 |
+| items | 8 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
-| radio_button_grid | 4 |
-| set_variable | 384 |
+| radio_button_grid | 3 |
+| set_variable | 302 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 237 |
-| text | 51 |
+| template | 236 |
+| text | 50 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
-| title | 19 |
+| title | 16 |
 | update_action_list | 1 |
 | video | 1 |
 </details>
@@ -44,9 +41,9 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 224 |
 | feedback | 7 |
-| go_to | 12 |
+| go_to | 10 |
 | pop_up | 4 |
-| set_field | 12 |
+| set_field | 11 |
 | set_local | 7 |
 | user | 1 |
 </details>
@@ -56,8 +53,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 23976 KB | 24 MB |
-| unused | 108146 KB | 108.1 MB |
+| total | 23974 KB | 24 MB |
+| unused | 108148 KB | 108.1 MB |
 </details>
 
 <details open>
@@ -114,6 +111,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/tired.svg | 2.4 |
+| images/icons/heart.svg | 0.6 |
+| images/icons/heart_filled.svg | 1.4 |
 | images/icons/in_progress_white.svg | 1.1 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause.svg | 0.7 |
@@ -227,8 +226,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/sad.svg | 0.6 | 5 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 33 |
 | images/icons/faces/scared.svg | 2.1 | 3 |
-| images/icons/heart.svg | 0.6 | 1 |
-| images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 3 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/parent_child_heart.svg | 3 | 10 |
@@ -261,15 +258,21 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 19 |
+| data_list |  | 3 |
+| data_list | activities | 1 |
 | data_list | app_config_language_list | 1 |
+| data_list | characters | 1 |
+| data_list | check_in | 1 |
 | data_list | generated | 81 |
+| data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
+| data_list | modules | 11 |
+| data_list | relax | 1 |
 | data_pipe | generated | 34 |
 | generator |  | 26 |
 | global |  | 3 |
-| template |  | 48 |
+| template |  | 42 |
 | template | generated | 226 |
 | template | legal_terms | 4 |
 </details>

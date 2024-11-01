@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_check_in_4",
+  "flow_name": "article_problemsolving_check_in_16",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -41,7 +41,7 @@
         },
         {
           "name": "article_id",
-          "value": "check_in_4",
+          "value": "check_in_16",
           "_translations": {
             "value": {}
           },

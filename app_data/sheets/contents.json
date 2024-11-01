@@ -1311,55 +1311,55 @@
       "flow_type": "generator",
       "flow_name": "check_in_article_generator",
       "parameter_list": {
-        "input_data_list": "check_in",
-        "output_flow_name": "article_@gen.id",
+        "input_data_list": "modules",
+        "output_flow_name": "article_{@gen.id}_@gen.check_in_id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/modules/check_in article_generator.xlsx",
+      "_xlsxPath": "KW check_in article_generator.xlsx",
       "_output_flows": [
         {
-          "flow_name": "article_check_in_1",
+          "flow_name": "article_selfcare_check_in_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_3",
+          "flow_name": "article_childdevelopment_check_in_3",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_4",
+          "flow_name": "article_oneononetime_check_in_4",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_6",
+          "flow_name": "article_praise_check_in_6",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_7",
+          "flow_name": "article_feelings_check_in_7",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_8",
+          "flow_name": "article_instructions_check_in_8",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_12",
+          "flow_name": "article_rulesroutines_check_in_12",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_13",
+          "flow_name": "article_consequences_check_in_13",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_check_in_16",
+          "flow_name": "article_problemsolving_check_in_16",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3067,48 +3067,8 @@
       "flow_name": "footer",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
-    "article_check_in_1": {
-      "flow_name": "article_check_in_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_12": {
-      "flow_name": "article_check_in_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_13": {
-      "flow_name": "article_check_in_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_16": {
-      "flow_name": "article_check_in_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_3": {
-      "flow_name": "article_check_in_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_4": {
-      "flow_name": "article_check_in_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_6": {
-      "flow_name": "article_check_in_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_7": {
-      "flow_name": "article_check_in_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_check_in_8": {
-      "flow_name": "article_check_in_8",
+    "article_childdevelopment_check_in_3": {
+      "flow_name": "article_childdevelopment_check_in_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3177,6 +3137,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_consequences_check_in_13": {
+      "flow_name": "article_consequences_check_in_13",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_consequences_explore_2": {
       "flow_name": "article_consequences_explore_2",
       "flow_subtype": "generated",
@@ -3227,6 +3192,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_feelings_check_in_7": {
+      "flow_name": "article_feelings_check_in_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_feelings_explore_1": {
       "flow_name": "article_feelings_explore_1",
       "flow_subtype": "generated",
@@ -3269,6 +3239,11 @@
     },
     "article_feelings_tips_1": {
       "flow_name": "article_feelings_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_instructions_check_in_8": {
+      "flow_name": "article_instructions_check_in_8",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3342,6 +3317,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_oneononetime_check_in_4": {
+      "flow_name": "article_oneononetime_check_in_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_oneononetime_explore_1": {
       "flow_name": "article_oneononetime_explore_1",
       "flow_subtype": "generated",
@@ -3379,6 +3359,11 @@
     },
     "article_oneononetime_tips_1": {
       "flow_name": "article_oneononetime_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_praise_check_in_6": {
+      "flow_name": "article_praise_check_in_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3424,6 +3409,11 @@
     },
     "article_praise_tips_1": {
       "flow_name": "article_praise_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_problemsolving_check_in_16": {
+      "flow_name": "article_problemsolving_check_in_16",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -3522,6 +3512,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_rulesroutines_check_in_12": {
+      "flow_name": "article_rulesroutines_check_in_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_rulesroutines_explore_10": {
       "flow_name": "article_rulesroutines_explore_10",
       "flow_subtype": "generated",
@@ -3614,6 +3609,11 @@
     },
     "article_rulesroutines_tips_2": {
       "flow_name": "article_rulesroutines_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_selfcare_check_in_1": {
+      "flow_name": "article_selfcare_check_in_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
