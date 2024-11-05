@@ -215,7 +215,7 @@
           "eng": "He says @data.characters.f3_son_4.name’s name."
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
+          "eng": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
         },
         "quiz_1_option_2_text": {
           "eng": "He invites @data.characters.f3_son_4.name to come and play with him."
@@ -297,7 +297,7 @@
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
+      "quiz_1_feedback_1": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},

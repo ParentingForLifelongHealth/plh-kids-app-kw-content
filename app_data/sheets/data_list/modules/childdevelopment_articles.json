@@ -162,7 +162,7 @@
           "eng": "How to follow instructions"
         },
         "quiz_1_feedback_1": {
-          "eng": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\r\rThere are other correct answers in this list. Did you find them all?"
+          "eng": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\n\nThere are other correct answers in this list. Did you find them all?"
         },
         "quiz_1_option_2_text": {
           "eng": "How to be innovative"
@@ -174,7 +174,7 @@
           "eng": "How to replicate her house"
         },
         "quiz_1_feedback_3": {
-          "eng": "Rather than copying the home he lives in, @data.characters.f1_daughter_2.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a house that doesn’t yet exist, and creatively solving a challenge, @data.characters.f1_daughter_2.name is learning critical skills for academic and professional success. \r\rThere are more right answers in this list. Did you find them?"
+          "eng": "Rather than copying the home he lives in, @data.characters.f1_daughter_2.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a house that doesn’t yet exist, and creatively solving a challenge, @data.characters.f1_daughter_2.name is learning critical skills for academic and professional success. \n\nThere are more right answers in this list. Did you find them?"
         },
         "quiz_1_option_4_text": {
           "eng": "Engineering skills"
@@ -212,11 +212,11 @@
       },
       "quiz_1_question": "What did @data.characters.f1_daughter_2.name learn when her father played with her?",
       "quiz_1_option_1_text": "How to follow instructions",
-      "quiz_1_feedback_1": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\r\rThere are other correct answers in this list. Did you find them all?",
+      "quiz_1_feedback_1": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\n\nThere are other correct answers in this list. Did you find them all?",
       "quiz_1_option_2_text": "How to be innovative",
       "quiz_1_feedback_2": "That’s right! By creatively imagining what a home could be, @data.characters.f1_daughter_2.name finds an innovative way to repurpose a pillow. In her imagination, she could be building a castle, a tent, or space shuttle. Innovation and creativity are critical skills for the future. \n\nThis isn’t the only thing @data.characters.f1_daughter_2.name learned! Did you find the other things she learned?",
       "quiz_1_option_3_text": "How to replicate her house",
-      "quiz_1_feedback_3": "Rather than copying the home he lives in, @data.characters.f1_daughter_2.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a house that doesn’t yet exist, and creatively solving a challenge, @data.characters.f1_daughter_2.name is learning critical skills for academic and professional success. \r\rThere are more right answers in this list. Did you find them?",
+      "quiz_1_feedback_3": "Rather than copying the home he lives in, @data.characters.f1_daughter_2.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a house that doesn’t yet exist, and creatively solving a challenge, @data.characters.f1_daughter_2.name is learning critical skills for academic and professional success. \n\nThere are more right answers in this list. Did you find them?",
       "quiz_1_option_4_text": "Engineering skills",
       "quiz_1_feedback_4": "That’s right! By testing and trying materials to build a house, @data.characters.f1_daughter_2.name is learning critical STEM skills and the parts of 3-dimensional shapes. \n\nThere is more than one answer in this list! Did you find them all?",
       "quiz_2_question": "How did @data.characters.f1_father.name help his daughter learn these skills?",
@@ -424,7 +424,7 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:",
+      "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:",
       "_translations": {
         "text_1_facilitator": {},
         "section_1_title": {},
@@ -442,7 +442,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Children grow and change at every age, and your support makes all the difference! \rHere are tips to help your child thrive:"
+          "eng": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:"
         },
         "section_1_title": {
           "eng": "PLAY"
@@ -454,7 +454,7 @@
           "eng": "Learn more"
         },
         "section_1_extra_text": {
-          "eng": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together."
+          "eng": "Through play, you also learn what kind of support your child may need.\n\nSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together."
         },
         "section_2_title": {
           "eng": "BE PATIENT"
@@ -484,7 +484,7 @@
       "section_1_title": "PLAY",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",
-      "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\rSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",
+      "section_1_extra_text": "Through play, you also learn what kind of support your child may need.\n\nSupport your child to play and make friends with other children, so they learn how to interact with others well. \n\nIf your child starts to feel overwhelmed with anything in their day, help them reduce their stress by taking a pause and playing together.",
       "section_2_title": "BE PATIENT",
       "section_2_text": "Learning new things takes time. Be patient and encourage your child to keep trying things they may find hard. \n\nStay calm when they get angry or frustrated - your child will learn to do the same over time.",
       "section_2_button_text": "Learn more",

@@ -155,7 +155,7 @@
           "eng": "He says @data.characters.f3_son_4.name’s name."
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
+          "eng": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
         },
         "quiz_1_option_2_text": {
           "eng": "He invites @data.characters.f3_son_4.name to come and play with him."
@@ -238,7 +238,7 @@
       },
       "quiz_1_question": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?",
       "quiz_1_option_1_text": "He says @data.characters.f3_son_4.name’s name.",
-      "quiz_1_feedback_1": "Yes, he does! \r\rThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
+      "quiz_1_feedback_1": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
       "quiz_1_option_2_text": "He invites @data.characters.f3_son_4.name to come and play with him.",
       "quiz_1_feedback_2": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him.",
       "quiz_1_option_3_text": "He is trying to help build the house while he is playing with @data.characters.f3_uncle.name.",

@@ -236,7 +236,7 @@
           "eng": "Because@data.characters.f3_son_4.name needs to be punished."
         },
         "quiz_1_feedback_1": {
-          "eng": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts."
+          "eng": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts."
         },
         "quiz_1_option_2_text": {
           "eng": "Because @data.characters.f3_son_4.name does not put his toys away even when he has a choice between listening and a consequence."
@@ -300,7 +300,7 @@
         }
       },
       "category_id": "explore",
-      "quiz_1_feedback_1": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
+      "quiz_1_feedback_1": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "_translations": {
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
@@ -336,7 +336,7 @@
       "text_1_facilitator": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",
       "quiz_2_option_1_image_asset": "Try again!",
       "quiz_3_option_4_image_asset": "Why does @data.characters.f3_uncle.name use a consequence?",
-      "quiz_3_option_5_image_asset": "Try again! \r\rConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
+      "quiz_3_option_5_image_asset": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "quiz_3_option_6_image_asset": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_2_question": "How does @data.characters.f3_uncle.name give @data.characters.f3_son_4.name a consequence?",
       "quiz_2_option_1_text": "He makes his disappointment clear.",
