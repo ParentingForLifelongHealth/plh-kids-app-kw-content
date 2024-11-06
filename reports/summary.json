@@ -22,7 +22,7 @@
     },
     {
       "type": "display_group",
-      "count": 31
+      "count": 32
     },
     {
       "type": "image",
@@ -46,7 +46,7 @@
     },
     {
       "type": "set_variable",
-      "count": 302
+      "count": 329
     },
     {
       "type": "task_card",
@@ -58,7 +58,7 @@
     },
     {
       "type": "template",
-      "count": 236
+      "count": 178
     },
     {
       "type": "text",
@@ -74,7 +74,7 @@
     },
     {
       "type": "text_bubble",
-      "count": 2
+      "count": 3
     },
     {
       "type": "title",
@@ -96,7 +96,7 @@
     },
     {
       "type": "emit: completed",
-      "count": 226
+      "count": 164
     },
     {
       "type": "emit: force_reload",
@@ -120,7 +120,7 @@
     },
     {
       "type": "emit: uncompleted",
-      "count": 224
+      "count": 162
     },
     {
       "type": "feedback",
@@ -882,7 +882,7 @@
     },
     {
       "path": "images/kw_facilitator_rd.png",
-      "count": 1,
+      "count": 24,
       "size_kb": 87.3
     },
     {
@@ -1010,7 +1010,7 @@
     {
       "type": "generator",
       "subtype": null,
-      "total": 26
+      "total": 20
     },
     {
       "type": "global",
@@ -1020,12 +1020,12 @@
     {
       "type": "template",
       "subtype": null,
-      "total": 42
+      "total": 43
     },
     {
       "type": "template",
       "subtype": "generated",
-      "total": 226
+      "total": 164
     },
     {
       "type": "template",

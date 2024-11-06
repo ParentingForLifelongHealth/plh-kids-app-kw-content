@@ -46,10 +46,10 @@
           "eng": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!"
         },
         "character_1_text": {
-          "eng": "I see you are playing quietly with those building blocks with concentration, Faisal."
+          "eng": "I see you are playing quietly with those legos with concentration, Faisal."
         }
       },
-      "character_1_text": "I see you are playing quietly with those building blocks with concentration, Faisal."
+      "character_1_text": "I see you are playing quietly with those legos with concentration, Faisal."
     },
     {
       "id": "explore_2",
@@ -57,14 +57,14 @@
       "image_asset": "images/comics/one_on_one_yc_2.svg",
       "character_1_id": "@data.characters.f3_uncle.name",
       "character_2_id": "@data.characters.f3_son_4.name",
-      "character_1_text": "Wow! You are building such a tall and strong wall with those building blocks.",
+      "character_1_text": "Wow! You are building such a tall and strong wall with those legos.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Wow! You are building such a tall and strong wall with those building blocks."
+          "eng": "Wow! You are building such a tall and strong wall with those legos."
         },
         "character_2_text": {
           "eng": "It’s for our pet cat."
@@ -152,7 +152,7 @@
           "eng": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?"
         },
         "quiz_1_option_1_text": {
-          "eng": "He says @data.characters.f3_son_4.name’s name."
+          "eng": "He says @data.characters.f3_son_4.name’s name"
         },
         "quiz_1_feedback_1": {
           "eng": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen."
@@ -237,7 +237,7 @@
         }
       },
       "quiz_1_question": "How does @data.characters.f3_uncle.name show @data.characters.f3_son_4.name that he is focusing on him?",
-      "quiz_1_option_1_text": "He says @data.characters.f3_son_4.name’s name.",
+      "quiz_1_option_1_text": "He says @data.characters.f3_son_4.name’s name",
       "quiz_1_feedback_1": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
       "quiz_1_option_2_text": "He invites @data.characters.f3_son_4.name to come and play with him.",
       "quiz_1_feedback_2": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him.",

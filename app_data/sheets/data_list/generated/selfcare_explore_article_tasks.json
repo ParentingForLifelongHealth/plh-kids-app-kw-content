@@ -24,8 +24,8 @@
         "character_2_text": {}
       },
       "image_asset": "images/comics/self_care_yc_1.svg",
-      "character_1_id": "@data.characters.f1_daughter_6.name",
-      "character_2_id": "@data.characters.f1_mother.name",
+      "character_1_id": "f1_daughter_6",
+      "character_2_id": "f1_mother",
       "character_1_text": "Mama, come and play with me with my dolls!",
       "character_2_text": "(🤔_thinking_) I am feeling so stressed. Let me take a deep breath... Phewww… Maybe I can finish preparing dinner and then take a few minutes to play with @data.characters.f1_daughter_6.name. It will take my mind off all these worries",
       "completed": false

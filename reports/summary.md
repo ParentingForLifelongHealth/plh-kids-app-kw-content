@@ -8,20 +8,20 @@
 | button | 27 |
 | combo_box | 2 |
 | data_items | 1 |
-| display_group | 31 |
+| display_group | 32 |
 | image | 1 |
 | items | 8 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | radio_button_grid | 3 |
-| set_variable | 302 |
+| set_variable | 329 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 236 |
+| template | 178 |
 | text | 50 |
 | text_area | 2 |
 | text_box | 5 |
-| text_bubble | 2 |
+| text_bubble | 3 |
 | title | 16 |
 | update_action_list | 1 |
 | video | 1 |
@@ -33,13 +33,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 226 |
+| emit: completed | 164 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
 | emit: force_restart | 2 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 224 |
+| emit: uncompleted | 162 |
 | feedback | 7 |
 | go_to | 10 |
 | pop_up | 4 |
@@ -238,7 +238,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/tick.svg | 0.3 | 2 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/instructions.svg | 23.2 | 1 |
-| images/kw_facilitator_rd.png | 87.3 | 1 |
+| images/kw_facilitator_rd.png | 87.3 | 24 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/kuwait.png | 248 | 1 |
@@ -270,9 +270,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules | 11 |
 | data_list | relax | 1 |
 | data_pipe | generated | 34 |
-| generator |  | 26 |
+| generator |  | 20 |
 | global |  | 3 |
-| template |  | 42 |
-| template | generated | 226 |
+| template |  | 43 |
+| template | generated | 164 |
 | template | legal_terms | 4 |
 </details>
