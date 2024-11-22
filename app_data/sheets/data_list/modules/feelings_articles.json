@@ -35,8 +35,8 @@
       "id": "explore_1",
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "text_1_facilitator": "Let’s look at another family to see how talking about feelings helps them in a practical way:",
       "_translations": {
         "text_1_facilitator": {},
@@ -61,8 +61,8 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_2.svg",
-      "character_1_id": "@data.characters.f3_son_4.name",
-      "character_2_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_son_4",
+      "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
       "_translations": {
         "character_1_text": {},
@@ -82,8 +82,8 @@
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_3.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "Five kicks in a row! You seem really proud to have made it to five, @data.characters.f3_son_4.name!",
       "_translations": {
         "character_1_text": {},
@@ -103,7 +103,7 @@
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Well done! I am very happy to be able to spend this time with you, @data.characters.f3_son_4.name",
       "_translations": {
         "character_1_text": {}

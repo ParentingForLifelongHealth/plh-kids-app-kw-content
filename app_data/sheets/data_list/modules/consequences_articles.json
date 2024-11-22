@@ -35,7 +35,7 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
         "text_1_facilitator": {},
@@ -55,8 +55,8 @@
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_2.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "text_2": "5 minutes later",
       "_translations": {
         "text_2": {},
@@ -81,8 +81,8 @@
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_3.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.",
       "_translations": {
         "character_1_text": {},
@@ -102,7 +102,7 @@
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.",
       "_translations": {
         "character_1_text": {}
@@ -117,7 +117,7 @@
       "id": "explore_6",
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_5.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Good job washing your hands so well, @data.characters.f3_son_4.name.",
       "_translations": {
         "character_1_text": {}

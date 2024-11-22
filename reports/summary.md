@@ -7,18 +7,20 @@
 | audio | 1 |
 | button | 27 |
 | combo_box | 2 |
-| data_items | 1 |
-| display_group | 32 |
+| data_items | 10 |
+| display_group | 35 |
 | image | 1 |
-| items | 8 |
+| items | 9 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
+| plh_module_list_item | 1 |
 | radio_button_grid | 3 |
-| set_variable | 329 |
+| set_field | 1 |
+| set_variable | 378 |
 | task_card | 3 |
 | task_progress_bar | 1 |
-| template | 178 |
-| text | 50 |
+| template | 195 |
+| text | 37 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 3 |
@@ -33,17 +35,17 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 164 |
+| emit: completed | 172 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 5 |
-| emit: force_restart | 2 |
+| emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 162 |
+| emit: uncompleted | 171 |
 | feedback | 7 |
-| go_to | 10 |
+| go_to | 11 |
 | pop_up | 4 |
-| set_field | 11 |
+| set_field | 10 |
 | set_local | 7 |
 | user | 1 |
 </details>
@@ -53,8 +55,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 23974 KB | 24 MB |
-| unused | 108148 KB | 108.1 MB |
+| total | 24012 KB | 24 MB |
+| unused | 108157 KB | 108.2 MB |
 </details>
 
 <details open>
@@ -113,7 +115,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/tired.svg | 2.4 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/heart_filled.svg | 1.4 |
+| images/icons/home.svg | 0.4 |
+| images/icons/home_active.svg | 0.4 |
 | images/icons/in_progress_white.svg | 1.1 |
+| images/icons/local_library.svg | 1.6 |
+| images/icons/local_library_active.svg | 1.6 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause.svg | 0.7 |
 | images/icons/pause_white.svg | 0.7 |
@@ -121,6 +127,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
+| images/icons/settings.svg | 2.4 |
+| images/icons/settings_active.svg | 2.4 |
 | images/logos/favicon.png | 6.3 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
@@ -137,8 +145,8 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/icons/faces/stress_face_new.svg | 27 |
-| images/icons/faces/tired_face_new.svg | 27 |
+| images/icons/faces/stress_face_new.svg | 18 |
+| images/icons/faces/tired_face_new.svg | 18 |
 </details>
 
 <details >
@@ -148,109 +156,112 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
-| audio/care_audio_1.mp3 | 527.5 | 3 |
-| audio/connect_audio_1.mp3 | 891.7 | 3 |
-| audio/consequences_audio_1.mp3 | 800.2 | 3 |
-| audio/feelings_audio_1.mp3 | 336 | 3 |
-| audio/instructions_audio_1.mp3 | 613.7 | 3 |
-| audio/learn_audio_1.mp3 | 563.1 | 3 |
-| audio/praise_audio_1.mp3 | 344 | 3 |
-| audio/relax/relax_10.mp3 | 404.9 | 3 |
-| audio/relax/relax_11.mp3 | 445.6 | 3 |
-| audio/relax/relax_17.mp3 | 148 | 3 |
-| audio/relax/relax_21.mp3 | 189.3 | 3 |
-| audio/relax/relax_24.mp3 | 121.3 | 3 |
-| audio/relax/relax_4.mp3 | 514.5 | 3 |
-| audio/relax/relax_6.mp3 | 280.7 | 3 |
-| audio/relax/relax_8.mp3 | 302 | 3 |
-| audio/rules_audio_1.mp3 | 427.6 | 3 |
-| audio/solve_audio_1.mp3 | 609 | 3 |
-| images/childdevelopment.svg | 20.3 | 1 |
-| images/comics/consequences_yc_1.svg | 117.6 | 3 |
-| images/comics/consequences_yc_2.svg | 150.5 | 3 |
-| images/comics/consequences_yc_3.svg | 156.7 | 3 |
-| images/comics/consequences_yc_4.svg | 146.5 | 3 |
-| images/comics/consequences_yc_5.svg | 64.7 | 3 |
-| images/comics/feelings_yc_1.svg | 106.8 | 3 |
-| images/comics/feelings_yc_2.svg | 175.7 | 3 |
-| images/comics/feelings_yc_3.svg | 183.1 | 3 |
-| images/comics/feelings_yc_4.svg | 159 | 3 |
-| images/comics/instructions_yc_1.svg | 146.4 | 3 |
-| images/comics/instructions_yc_2.svg | 154.5 | 3 |
-| images/comics/instructions_yc_3.svg | 155.2 | 3 |
-| images/comics/instructions_yc_4.svg | 60.3 | 3 |
-| images/comics/instructions_yc_5.svg | 124.9 | 3 |
-| images/comics/instructions_yc_6.svg | 122.1 | 3 |
-| images/comics/instructions_yc_7.svg | 125.9 | 3 |
-| images/comics/learn_experience_yc_1.svg | 77.7 | 3 |
-| images/comics/learn_experience_yc_2.svg | 82.7 | 3 |
-| images/comics/learn_experience_yc_4.svg | 82.5 | 3 |
-| images/comics/one_on_one_yc_1.svg | 61 | 3 |
-| images/comics/one_on_one_yc_2.svg | 65.5 | 3 |
-| images/comics/one_on_one_yc_3.svg | 65.5 | 3 |
-| images/comics/one_on_one_yc_4.svg | 67 | 3 |
-| images/comics/play_yc_1.svg | 286.4 | 3 |
-| images/comics/play_yc_2.svg | 283.3 | 3 |
-| images/comics/play_yc_3.svg | 80.8 | 3 |
-| images/comics/play_yc_4.svg | 98.5 | 3 |
-| images/comics/praise_yc_1.svg | 98.7 | 3 |
-| images/comics/praise_yc_2.svg | 100.5 | 3 |
-| images/comics/praise_yc_3.svg | 96.5 | 3 |
-| images/comics/praise_yc_4.svg | 105 | 3 |
-| images/comics/problem_solving_yc_1.svg | 42.1 | 3 |
-| images/comics/problem_solving_yc_2.svg | 48.3 | 3 |
-| images/comics/problem_solving_yc_3.svg | 47 | 3 |
-| images/comics/problem_solving_yc_4.svg | 42.1 | 3 |
-| images/comics/routines_yc_1.svg | 55.9 | 3 |
-| images/comics/routines_yc_10.svg | 111.8 | 3 |
-| images/comics/routines_yc_2.svg | 62.4 | 3 |
-| images/comics/routines_yc_3.svg | 60.7 | 3 |
-| images/comics/routines_yc_4.svg | 74.3 | 3 |
-| images/comics/routines_yc_6.svg | 47.2 | 3 |
-| images/comics/routines_yc_7.svg | 140.7 | 3 |
-| images/comics/routines_yc_8.svg | 96.8 | 3 |
-| images/comics/routines_yc_9.svg | 116.9 | 3 |
-| images/comics/self_care_yc_1.svg | 100.6 | 3 |
-| images/comics/self_care_yc_2.svg | 65.9 | 3 |
-| images/comics/self_care_yc_3.svg | 145.9 | 3 |
-| images/comics/self_care_yc_4.svg | 61.5 | 3 |
-| images/consequences.jpg | 115.1 | 1 |
+| audio/care_audio_1.mp3 | 527.5 | 2 |
+| audio/connect_audio_1.mp3 | 891.7 | 2 |
+| audio/consequences_audio_1.mp3 | 800.2 | 2 |
+| audio/feelings_audio_1.mp3 | 336 | 2 |
+| audio/instructions_audio_1.mp3 | 613.7 | 2 |
+| audio/learn_audio_1.mp3 | 563.1 | 2 |
+| audio/praise_audio_1.mp3 | 344 | 2 |
+| audio/relax/relax_10.mp3 | 404.9 | 2 |
+| audio/relax/relax_11.mp3 | 445.6 | 2 |
+| audio/relax/relax_17.mp3 | 148 | 2 |
+| audio/relax/relax_21.mp3 | 189.3 | 2 |
+| audio/relax/relax_24.mp3 | 121.3 | 2 |
+| audio/relax/relax_4.mp3 | 514.5 | 2 |
+| audio/relax/relax_6.mp3 | 280.7 | 2 |
+| audio/relax/relax_8.mp3 | 302 | 2 |
+| audio/rules_audio_1.mp3 | 427.6 | 2 |
+| audio/solve_audio_1.mp3 | 609 | 2 |
+| images/childdevelopment.svg | 20.3 | 2 |
+| images/comics/consequences_yc_1.svg | 117.6 | 2 |
+| images/comics/consequences_yc_2.svg | 150.5 | 2 |
+| images/comics/consequences_yc_3.svg | 156.7 | 2 |
+| images/comics/consequences_yc_4.svg | 146.5 | 2 |
+| images/comics/consequences_yc_5.svg | 64.7 | 2 |
+| images/comics/feelings_yc_1.svg | 106.8 | 2 |
+| images/comics/feelings_yc_2.svg | 175.7 | 2 |
+| images/comics/feelings_yc_3.svg | 183.1 | 2 |
+| images/comics/feelings_yc_4.svg | 159 | 2 |
+| images/comics/instructions_yc_1.svg | 146.4 | 2 |
+| images/comics/instructions_yc_2.svg | 154.5 | 2 |
+| images/comics/instructions_yc_3.svg | 155.2 | 2 |
+| images/comics/instructions_yc_4.svg | 60.3 | 2 |
+| images/comics/instructions_yc_5.svg | 124.9 | 2 |
+| images/comics/instructions_yc_6.svg | 122.1 | 2 |
+| images/comics/instructions_yc_7.svg | 125.9 | 2 |
+| images/comics/learn_experience_yc_1.svg | 77.7 | 2 |
+| images/comics/learn_experience_yc_2.svg | 82.7 | 2 |
+| images/comics/learn_experience_yc_4.svg | 82.5 | 2 |
+| images/comics/one_on_one_yc_1.svg | 61 | 2 |
+| images/comics/one_on_one_yc_2.svg | 65.5 | 2 |
+| images/comics/one_on_one_yc_3.svg | 65.5 | 2 |
+| images/comics/one_on_one_yc_4.svg | 67 | 2 |
+| images/comics/play_yc_1.svg | 286.4 | 2 |
+| images/comics/play_yc_2.svg | 283.3 | 2 |
+| images/comics/play_yc_3.svg | 80.8 | 2 |
+| images/comics/play_yc_4.svg | 98.5 | 2 |
+| images/comics/praise_yc_1.svg | 98.7 | 2 |
+| images/comics/praise_yc_2.svg | 100.5 | 2 |
+| images/comics/praise_yc_3.svg | 96.5 | 2 |
+| images/comics/praise_yc_4.svg | 105 | 2 |
+| images/comics/problem_solving_yc_1.svg | 42.1 | 2 |
+| images/comics/problem_solving_yc_2.svg | 48.3 | 2 |
+| images/comics/problem_solving_yc_3.svg | 47 | 2 |
+| images/comics/problem_solving_yc_4.svg | 42.1 | 2 |
+| images/comics/routines_yc_1.svg | 55.9 | 2 |
+| images/comics/routines_yc_10.svg | 111.8 | 2 |
+| images/comics/routines_yc_2.svg | 62.4 | 2 |
+| images/comics/routines_yc_3.svg | 60.7 | 2 |
+| images/comics/routines_yc_4.svg | 74.3 | 2 |
+| images/comics/routines_yc_6.svg | 47.2 | 2 |
+| images/comics/routines_yc_7.svg | 140.7 | 2 |
+| images/comics/routines_yc_8.svg | 96.8 | 2 |
+| images/comics/routines_yc_9.svg | 116.9 | 2 |
+| images/comics/self_care_yc_1.svg | 100.6 | 2 |
+| images/comics/self_care_yc_2.svg | 65.9 | 2 |
+| images/comics/self_care_yc_3.svg | 145.9 | 2 |
+| images/comics/self_care_yc_4.svg | 61.5 | 2 |
+| images/consequences.jpg | 115.1 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/kw.svg | 0.5 | 2 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
-| images/icons/faces/happiest.svg | 1.3 | 3 |
-| images/icons/faces/happy.svg | 0.6 | 5 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 33 |
+| images/icons/expand_circle_right.png | 0.9 | 1 |
+| images/icons/faces/happiest.svg | 1.3 | 2 |
+| images/icons/faces/happy.svg | 0.6 | 4 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 22 |
 | images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 33 |
-| images/icons/faces/sad.svg | 0.6 | 5 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 33 |
-| images/icons/faces/scared.svg | 2.1 | 3 |
-| images/icons/in_progress.svg | 1.1 | 3 |
-| images/icons/magnifying_glass.svg | 0.9 | 10 |
-| images/icons/parent_child_heart.svg | 3 | 10 |
-| images/icons/pencil.svg | 1.1 | 10 |
-| images/icons/smile_eyes_down.svg | 0.9 | 11 |
-| images/icons/smile_eyes_up.svg | 1 | 20 |
-| images/icons/star_outline_blue.svg | 1 | 10 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 22 |
+| images/icons/faces/sad.svg | 0.6 | 4 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 22 |
+| images/icons/faces/scared.svg | 2.1 | 2 |
+| images/icons/in_progress.svg | 1.1 | 2 |
+| images/icons/locked.png | 0.9 | 1 |
+| images/icons/magnifying_glass.svg | 0.9 | 1 |
+| images/icons/parent_child_heart.svg | 3 | 1 |
+| images/icons/pencil.svg | 1.1 | 1 |
+| images/icons/smile_eyes_down.svg | 0.9 | 2 |
+| images/icons/smile_eyes_up.svg | 1 | 11 |
+| images/icons/star_outline_blue.svg | 1 | 1 |
 | images/icons/star_outline_white.svg | 1 | 1 |
-| images/icons/thought_bubble.svg | 2.1 | 10 |
-| images/icons/tick.svg | 0.3 | 2 |
+| images/icons/thought_bubble.svg | 2.1 | 1 |
+| images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
-| images/instructions.svg | 23.2 | 1 |
+| images/instructions.svg | 23.2 | 2 |
 | images/kw_facilitator_rd.png | 87.3 | 24 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
+| images/logos/app_logo.png | 36 | 1 |
 | images/logos/kuwait.png | 248 | 1 |
 | images/logos/plh_white.png | 12.8 | 1 |
-| images/one_on_one_challenges.svg | 13.1 | 1 |
-| images/praise.svg | 11.3 | 1 |
-| images/problemsolving.svg | 19.6 | 1 |
-| images/rulesroutines.jpg | 102.2 | 1 |
-| images/selfcare.jpg | 96.6 | 1 |
-| images/talk_feelings_challenges.svg | 19.3 | 1 |
+| images/one_on_one_challenges.svg | 13.1 | 2 |
+| images/praise.svg | 11.3 | 2 |
+| images/problemsolving.svg | 19.6 | 2 |
+| images/rulesroutines.jpg | 102.2 | 2 |
+| images/selfcare.jpg | 96.6 | 2 |
+| images/talk_feelings_challenges.svg | 19.3 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
-| video/pause/body_scan.mp4 | 10418.6 | 3 |
+| video/pause/body_scan.mp4 | 10418.6 | 2 |
 </details>
 
 <details >
@@ -263,16 +274,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | app_config_language_list | 1 |
 | data_list | characters | 1 |
 | data_list | check_in | 1 |
-| data_list | generated | 81 |
+| data_list | generated | 10 |
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_list | modules | 11 |
 | data_list | relax | 1 |
-| data_pipe | generated | 34 |
-| generator |  | 20 |
+| data_pipe |  | 1 |
+| data_pipe | generated | 9 |
+| generator |  | 19 |
 | global |  | 3 |
-| template |  | 43 |
-| template | generated | 164 |
+| template |  | 46 |
+| template | generated | 182 |
 | template | legal_terms | 4 |
 </details>

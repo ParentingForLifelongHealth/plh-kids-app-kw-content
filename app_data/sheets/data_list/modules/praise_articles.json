@@ -97,14 +97,14 @@
       "id": "explore_1",
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_1.svg",
-      "text_1_facilitator": "@data.characters.f2_daughter_3.name’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)",
+      "text_1_facilitator": "@data.characters.f2_daughter_3’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
         "text_1_facilitator": {},
         "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_daughter_3.name’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)"
+          "eng": "@data.characters.f2_daughter_3’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)"
         },
         "text_2": {
           "eng": "(On the TV ) 1-1 draw at interval between Manchester United and Arsenal!"
@@ -116,7 +116,7 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_2.svg",
-      "character_1_id": "@data.characters.f2_grandfather.name",
+      "character_1_id": "f2_grandfather",
       "text_2": "The match stops for a break.",
       "_translations": {
         "text_2": {},
@@ -150,7 +150,7 @@
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_4.svg",
-      "character_1_id": "@data.characters.f2_grandfather.name",
+      "character_1_id": "f2_grandfather",
       "character_1_text": "@data.characters.f2_daughter_3.name, you played nice and quietly by yourself while I watched the match. Now I will play with you for a bit. What would you like to do?",
       "_translations": {
         "character_1_text": {}

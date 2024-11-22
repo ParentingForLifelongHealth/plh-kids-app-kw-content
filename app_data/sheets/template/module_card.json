@@ -282,7 +282,7 @@
     },
     {
       "name": "click_template",
-      "value": "module_overview_@local.module_id",
+      "value": "module_landing_@local.module_id",
       "_translations": {
         "value": {}
       },
@@ -292,7 +292,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "module_overview_@local.module_id",
+            "fullExpression": "module_landing_@local.module_id",
             "matchedExpression": "@local.module_id",
             "type": "local",
             "fieldName": "module_id"

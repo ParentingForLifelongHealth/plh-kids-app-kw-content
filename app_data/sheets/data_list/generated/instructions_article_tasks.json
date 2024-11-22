@@ -142,7 +142,7 @@
         "character_1_text": {}
       },
       "image_asset": "images/comics/instructions_yc_1.svg",
-      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_id": "f1_father",
       "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.",
       "character_1_text": "It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.",
       "completed": false
@@ -162,7 +162,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_2.svg",
-      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_id": "f1_father",
       "text_2": "After 3 minutes",
       "_translations": {
         "text_2": {},
@@ -170,7 +170,7 @@
         "character_2_text": {}
       },
       "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
-      "character_2_id": "@data.characters.f1_daughter_2.name",
+      "character_2_id": "f1_daughter_2",
       "character_2_text": "Okay",
       "completed": false
     },
@@ -186,13 +186,13 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_3.svg",
-      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_id": "f1_father",
       "character_1_text": "Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "@data.characters.f1_daughter_2.name",
+      "character_2_id": "f1_daughter_2",
       "character_2_text": "Yay!",
       "completed": false
     },
@@ -205,7 +205,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_4.svg",
-      "character_1_id": "@data.characters.f1_father.name",
+      "character_1_id": "f1_father",
       "character_1_text": "Once upon a time…",
       "_translations": {
         "character_1_text": {}
@@ -358,13 +358,13 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_5.svg",
-      "character_1_id": "@data.characters.f2_daughter_3.name",
+      "character_1_id": "f2_daughter_3",
       "character_1_text": "Give it back to me!",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "@data.characters.f2_son_8.name",
+      "character_2_id": "f2_son_8",
       "character_2_text": "But I want it!",
       "completed": false
     },
@@ -377,7 +377,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_6.svg",
-      "character_1_id": "@data.characters.f2_grandmother.name",
+      "character_1_id": "f2_grandmother",
       "character_1_text": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help your grandfather carry these grocery bags inside the house.",
       "_translations": {
         "character_1_text": {}
@@ -393,7 +393,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_7.svg",
-      "character_1_id": "@data.characters.f2_grandfather.name",
+      "character_1_id": "f2_grandfather",
       "character_1_text": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries you just gave her.",
       "_translations": {
         "character_1_text": {}

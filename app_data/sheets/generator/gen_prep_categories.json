@@ -11,10 +11,6 @@
   "rows": [
     {
       "operation": "append_columns",
-      "args_list": [
-        "completed: FALSE",
-        "task_child: {@gen.id}_{@row.id}_article_tasks"
-      ],
       "input_source": "common_categories",
       "output_target": "{@gen.id}_category_tasks"
     }

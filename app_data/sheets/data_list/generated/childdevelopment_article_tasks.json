@@ -142,8 +142,8 @@
         "character_2_text": {}
       },
       "image_asset": "images/comics/play_yc_1.svg",
-      "character_1_id": "@data.characters.f1_father.name",
-      "character_2_id": "@data.characters.f1_daughter_2.name",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_2",
       "character_1_text": "Hi, dear. Would you like to do something fun together?",
       "character_2_text": "Ooooh yes!",
       "completed": false
@@ -163,8 +163,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/play_yc_2.svg",
-      "character_1_id": "@data.characters.f1_father.name",
-      "character_2_id": "@data.characters.f1_daughter_2.name",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_2",
       "character_1_text": "What would you like to do?",
       "_translations": {
         "character_1_text": {},
@@ -172,7 +172,7 @@
         "character_3_text": {}
       },
       "character_2_text": "Build a house out of pillows!",
-      "character_3_id": "@data.characters.f1_father.name",
+      "character_3_id": "f1_father",
       "character_3_text": "Great idea! What do we need to do first?",
       "completed": false
     },
@@ -188,8 +188,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/play_yc_3.svg",
-      "character_1_id": "@data.characters.f1_daughter_2.name",
-      "character_2_id": "@data.characters.f1_father.name",
+      "character_1_id": "f1_daughter_2",
+      "character_2_id": "f1_father",
       "character_1_text": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
       "_translations": {
         "character_1_text": {},
@@ -210,8 +210,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/play_yc_4.svg",
-      "character_1_id": "@data.characters.f1_father.name",
-      "character_2_id": "@data.characters.f1_daughter_2.name",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
       "_translations": {
         "character_1_text": {},
@@ -353,8 +353,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "Let me put your shoes on.",
       "_translations": {
         "character_1_text": {},
@@ -362,7 +362,7 @@
         "character_3_text": {}
       },
       "character_2_text": "No, I want to do it myself!",
-      "character_3_id": "@data.characters.f3_uncle.name",
+      "character_3_id": "f3_uncle",
       "character_3_text": "Okay, @data.characters.f3_son_4.name, you can do it yourself.",
       "completed": false
     },
@@ -384,8 +384,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_2.svg",
-      "character_1_id": "@data.characters.f1_son_4.name",
-      "character_2_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f1_son_4",
+      "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
       "_translations": {
         "character_1_text": {},
@@ -394,7 +394,7 @@
         "text_2": {}
       },
       "character_2_text": "Yes, you can! How about I help you with one foot, and you do it with the other?",
-      "character_3_id": "@data.characters.f3_son_4.name",
+      "character_3_id": "f3_son_4",
       "character_3_text": "Okay.",
       "text_2": "@data.characters.f1_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes.",
       "completed": false
@@ -414,8 +414,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/learn_experience_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
       "_translations": {
         "character_1_text": {},
@@ -423,7 +423,7 @@
         "character_3_text": {}
       },
       "character_2_text": "I did it!",
-      "character_3_id": "@data.characters.f3_uncle.name",
+      "character_3_id": "f3_uncle",
       "character_3_text": "Great job,@data.characters.f3_son_4.name! You are becoming a strong boy!",
       "completed": false
     },
