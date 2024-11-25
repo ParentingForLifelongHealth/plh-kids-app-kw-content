@@ -34,7 +34,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_1.svg",
+      "image_asset": "images/comics/child_development_yc_1.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "text_1_facilitator": "Children learn best by playing and doing. \n\n@data.characters.f1_father.name wants to spend more time helping his daughter , @data.characters.f1_daughter_2.name, learn through play together. Let’s see how he does it.",
@@ -60,7 +60,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_2.svg",
+      "image_asset": "images/comics/child_development_yc_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "character_3_id": "f1_father",
@@ -87,7 +87,7 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_3.svg",
+      "image_asset": "images/comics/child_development_yc_3.svg",
       "character_1_id": "f1_daughter_2",
       "character_2_id": "f1_father",
       "character_1_text": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
@@ -108,7 +108,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_4.svg",
+      "image_asset": "images/comics/child_development_yc_4.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
@@ -232,6 +232,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
+      "image_asset": "images/comics/child_development_yc_5.svg",
       "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f1_father.name supports @data.characters.f1_daughter_6.name to learn from her mistake when she struggles to put on her shoes.",
       "_translations": {
         "text_1_facilitator": {}
@@ -245,7 +246,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_1.svg",
+      "image_asset": "images/comics/child_development_yc_6.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_son_4",
       "character_3_id": "f3_uncle",
@@ -272,7 +273,7 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_2.svg",
+      "image_asset": "images/comics/child_development_yc_7.svg",
       "character_1_id": "f1_son_4",
       "character_2_id": "f3_uncle",
       "character_3_id": "f3_son_4",
@@ -304,7 +305,7 @@
     {
       "id": "explore_10",
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_4.svg",
+      "image_asset": "images/comics/child_development_yc_8.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_son_4",
       "character_3_id": "f3_uncle",

@@ -63,11 +63,11 @@
         }
       },
       "category_id": "check_in",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
-      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stressed.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "It is great to hear you are feeling positive today. Your presence makes a real difference for your family!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -578,5 +578,10 @@
       "text_1_facilitator": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nYour home activity is to have a discussion with your child about one persistent challenging household rule and discuss a possible consequence. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child.",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

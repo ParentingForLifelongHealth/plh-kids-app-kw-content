@@ -174,5 +174,16 @@
       "locked": true,
       "task_child": "problemsolving_article_tasks"
     }
-  ]
+  ],
+  "_metadata": {
+    "number": {
+      "type": "number"
+    },
+    "completed": {
+      "type": "boolean"
+    },
+    "locked": {
+      "type": "boolean"
+    }
+  }
 }

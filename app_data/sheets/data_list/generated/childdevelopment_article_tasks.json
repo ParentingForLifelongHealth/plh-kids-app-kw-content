@@ -63,11 +63,11 @@
         }
       },
       "category_id": "check_in",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
-      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stressed.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -141,7 +141,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/comics/play_yc_1.svg",
+      "image_asset": "images/comics/child_development_yc_1.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Hi, dear. Would you like to do something fun together?",
@@ -162,7 +162,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_2.svg",
+      "image_asset": "images/comics/child_development_yc_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "character_1_text": "What would you like to do?",
@@ -187,7 +187,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_3.svg",
+      "image_asset": "images/comics/child_development_yc_3.svg",
       "character_1_id": "f1_daughter_2",
       "character_2_id": "f1_father",
       "character_1_text": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
@@ -209,7 +209,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/play_yc_4.svg",
+      "image_asset": "images/comics/child_development_yc_4.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
@@ -336,6 +336,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "image_asset": "images/comics/child_development_yc_5.svg",
       "completed": false
     },
     {
@@ -352,7 +353,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_1.svg",
+      "image_asset": "images/comics/child_development_yc_6.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_son_4",
       "character_1_text": "Let me put your shoes on.",
@@ -383,7 +384,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_2.svg",
+      "image_asset": "images/comics/child_development_yc_7.svg",
       "character_1_id": "f1_son_4",
       "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
@@ -413,7 +414,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/learn_experience_yc_4.svg",
+      "image_asset": "images/comics/child_development_yc_8.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_son_4",
       "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
@@ -654,5 +655,10 @@
       "text_1_facilitator": "Want to help your child develop and grow?\n\nYour home activity is to invite your child to play with you today. Encourage them to ask questions and explore new things through play.",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

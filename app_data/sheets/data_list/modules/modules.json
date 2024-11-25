@@ -150,5 +150,10 @@
       }
     }
   ],
-  "_xlsxPath": "KW modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx",
+  "_metadata": {
+    "number": {
+      "type": "number"
+    }
+  }
 }

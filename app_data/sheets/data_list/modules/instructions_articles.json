@@ -235,6 +235,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
+      "image_asset": "images/comics/instructions_yc_8.svg",
       "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts!",
       "_translations": {
         "text_1_facilitator": {},
@@ -253,7 +254,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "images/comics/instructions_yc_5.svg",
+      "image_asset": "images/comics/instructions_yc_9.svg",
       "character_1_id": "f2_daughter_3",
       "character_2_id": "f2_son_8",
       "character_1_text": "Give it back to me!",
@@ -274,7 +275,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "images/comics/instructions_yc_6.svg",
+      "image_asset": "images/comics/instructions_yc_10.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help your grandfather carry these grocery bags inside the house.",
       "_translations": {
@@ -289,7 +290,7 @@
     {
       "id": "explore_9",
       "category_id": "explore",
-      "image_asset": "images/comics/instructions_yc_7.svg",
+      "image_asset": "images/comics/instructions_yc_11.svg",
       "character_1_id": "f2_grandfather",
       "character_1_text": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries you just gave her.",
       "_translations": {

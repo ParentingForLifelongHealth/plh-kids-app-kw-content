@@ -329,6 +329,7 @@
     },
     {
       "type": "data_items",
+      "name": "loop_outer",
       "value": "module_tasks",
       "parameter_list": {
         "filter": "@item.id == @local.module_id"
@@ -336,69 +337,214 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "button",
-          "name": "button_start",
-          "value": "Let's begin",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "go_to",
-              "args": [
-                "@local.module_start_at_uncompleted"
-              ],
-              "_raw": "click | go_to: @local.module_start_at_uncompleted",
-              "_cleaned": "click | go_to: @local.module_start_at_uncompleted"
-            }
-          ],
-          "parameter_list": {
-            "icon": "@local.icon_asset"
-          },
+          "type": "display_group",
+          "name": "dg_module_not_completed",
           "condition": "!@item.completed",
-          "_nested_name": "data_items_17.button_start",
-          "_dynamicFields": {
-            "action_list": {
-              "0": {
-                "args": {
-                  "0": [
+          "rows": [
+            {
+              "type": "data_items",
+              "name": "loop_inner",
+              "value": "@local.articles_data_list_name",
+              "parameter_list": {
+                "limit": "1"
+              },
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "button",
+                  "name": "button_start",
+                  "value": "Let's begin",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "action_list": [
                     {
-                      "fullExpression": "@local.module_start_at_uncompleted",
-                      "matchedExpression": "@local.module_start_at_uncompleted",
-                      "type": "local",
-                      "fieldName": "module_start_at_uncompleted"
+                      "trigger": "click",
+                      "action_id": "go_to",
+                      "args": [
+                        "@local.module_start_at_uncompleted"
+                      ],
+                      "_raw": "click | go_to: @local.module_start_at_uncompleted",
+                      "_cleaned": "click | go_to: @local.module_start_at_uncompleted"
                     }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
-                    "matchedExpression": "@local.module_start_at_uncompleted",
-                    "type": "local",
-                    "fieldName": "module_start_at_uncompleted"
+                  ],
+                  "parameter_list": {
+                    "icon": "@local.icon_asset"
+                  },
+                  "hidden": "@item.completed",
+                  "_nested_name": "loop_outer.dg_module_not_completed.loop_inner.button_start",
+                  "_dynamicFields": {
+                    "action_list": {
+                      "0": {
+                        "args": {
+                          "0": [
+                            {
+                              "fullExpression": "@local.module_start_at_uncompleted",
+                              "matchedExpression": "@local.module_start_at_uncompleted",
+                              "type": "local",
+                              "fieldName": "module_start_at_uncompleted"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
+                            "matchedExpression": "@local.module_start_at_uncompleted",
+                            "type": "local",
+                            "fieldName": "module_start_at_uncompleted"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
+                            "matchedExpression": "@local.module_start_at_uncompleted",
+                            "type": "local",
+                            "fieldName": "module_start_at_uncompleted"
+                          }
+                        ]
+                      }
+                    },
+                    "parameter_list": {
+                      "icon": [
+                        {
+                          "fullExpression": "@local.icon_asset",
+                          "matchedExpression": "@local.icon_asset",
+                          "type": "local",
+                          "fieldName": "icon_asset"
+                        }
+                      ]
+                    },
+                    "hidden": [
+                      {
+                        "fullExpression": "@item.completed",
+                        "matchedExpression": "@item.completed",
+                        "type": "item",
+                        "fieldName": "completed"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.module_start_at_uncompleted": [
+                      "action_list.0.args.0",
+                      "action_list.0._raw",
+                      "action_list.0._cleaned"
+                    ],
+                    "@local.icon_asset": [
+                      "parameter_list.icon"
+                    ],
+                    "@item.completed": [
+                      "hidden"
+                    ]
                   }
-                ],
-                "_cleaned": [
+                },
+                {
+                  "type": "button",
+                  "name": "button_continue",
+                  "value": "Continue",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "action_list": [
+                    {
+                      "trigger": "click",
+                      "action_id": "go_to",
+                      "args": [
+                        "@local.module_start_at_uncompleted"
+                      ],
+                      "_raw": "click | go_to: @local.module_start_at_uncompleted",
+                      "_cleaned": "click | go_to: @local.module_start_at_uncompleted"
+                    }
+                  ],
+                  "parameter_list": {
+                    "icon": "@local.icon_asset"
+                  },
+                  "hidden": "!@item.completed",
+                  "_nested_name": "loop_outer.dg_module_not_completed.loop_inner.button_continue",
+                  "_dynamicFields": {
+                    "action_list": {
+                      "0": {
+                        "args": {
+                          "0": [
+                            {
+                              "fullExpression": "@local.module_start_at_uncompleted",
+                              "matchedExpression": "@local.module_start_at_uncompleted",
+                              "type": "local",
+                              "fieldName": "module_start_at_uncompleted"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
+                            "matchedExpression": "@local.module_start_at_uncompleted",
+                            "type": "local",
+                            "fieldName": "module_start_at_uncompleted"
+                          }
+                        ],
+                        "_cleaned": [
+                          {
+                            "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
+                            "matchedExpression": "@local.module_start_at_uncompleted",
+                            "type": "local",
+                            "fieldName": "module_start_at_uncompleted"
+                          }
+                        ]
+                      }
+                    },
+                    "parameter_list": {
+                      "icon": [
+                        {
+                          "fullExpression": "@local.icon_asset",
+                          "matchedExpression": "@local.icon_asset",
+                          "type": "local",
+                          "fieldName": "icon_asset"
+                        }
+                      ]
+                    },
+                    "hidden": [
+                      {
+                        "fullExpression": "!@item.completed",
+                        "matchedExpression": "!@item.completed",
+                        "type": "item",
+                        "fieldName": "completed"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.module_start_at_uncompleted": [
+                      "action_list.0.args.0",
+                      "action_list.0._raw",
+                      "action_list.0._cleaned"
+                    ],
+                    "@local.icon_asset": [
+                      "parameter_list.icon"
+                    ],
+                    "!@item.completed": [
+                      "hidden"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "loop_outer.dg_module_not_completed.loop_inner",
+              "_dynamicFields": {
+                "value": [
                   {
-                    "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
-                    "matchedExpression": "@local.module_start_at_uncompleted",
+                    "fullExpression": "@local.articles_data_list_name",
+                    "matchedExpression": "@local.articles_data_list_name",
                     "type": "local",
-                    "fieldName": "module_start_at_uncompleted"
+                    "fieldName": "articles_data_list_name"
                   }
                 ]
+              },
+              "_dynamicDependencies": {
+                "@local.articles_data_list_name": [
+                  "value"
+                ]
               }
-            },
-            "parameter_list": {
-              "icon": [
-                {
-                  "fullExpression": "@local.icon_asset",
-                  "matchedExpression": "@local.icon_asset",
-                  "type": "local",
-                  "fieldName": "icon_asset"
-                }
-              ]
-            },
+            }
+          ],
+          "_nested_name": "loop_outer.dg_module_not_completed",
+          "_dynamicFields": {
             "condition": [
               {
                 "fullExpression": "!@item.completed",
@@ -409,101 +555,6 @@
             ]
           },
           "_dynamicDependencies": {
-            "@local.module_start_at_uncompleted": [
-              "action_list.0.args.0",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ],
-            "@local.icon_asset": [
-              "parameter_list.icon"
-            ],
-            "!@item.completed": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_continue",
-          "value": "Continue",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "go_to",
-              "args": [
-                "@local.module_start_at_uncompleted"
-              ],
-              "_raw": "click | go_to: @local.module_start_at_uncompleted",
-              "_cleaned": "click | go_to: @local.module_start_at_uncompleted"
-            }
-          ],
-          "parameter_list": {
-            "icon": "@local.icon_asset"
-          },
-          "condition": "!@item.completed",
-          "_nested_name": "data_items_17.button_continue",
-          "_dynamicFields": {
-            "action_list": {
-              "0": {
-                "args": {
-                  "0": [
-                    {
-                      "fullExpression": "@local.module_start_at_uncompleted",
-                      "matchedExpression": "@local.module_start_at_uncompleted",
-                      "type": "local",
-                      "fieldName": "module_start_at_uncompleted"
-                    }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
-                    "matchedExpression": "@local.module_start_at_uncompleted",
-                    "type": "local",
-                    "fieldName": "module_start_at_uncompleted"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | go_to: @local.module_start_at_uncompleted",
-                    "matchedExpression": "@local.module_start_at_uncompleted",
-                    "type": "local",
-                    "fieldName": "module_start_at_uncompleted"
-                  }
-                ]
-              }
-            },
-            "parameter_list": {
-              "icon": [
-                {
-                  "fullExpression": "@local.icon_asset",
-                  "matchedExpression": "@local.icon_asset",
-                  "type": "local",
-                  "fieldName": "icon_asset"
-                }
-              ]
-            },
-            "condition": [
-              {
-                "fullExpression": "!@item.completed",
-                "matchedExpression": "!@item.completed",
-                "type": "item",
-                "fieldName": "completed"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.module_start_at_uncompleted": [
-              "action_list.0.args.0",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ],
-            "@local.icon_asset": [
-              "parameter_list.icon"
-            ],
             "!@item.completed": [
               "condition"
             ]
@@ -531,7 +582,7 @@
             "icon": "@local.icon_asset"
           },
           "condition": "@item.completed",
-          "_nested_name": "data_items_17.button_restart",
+          "_nested_name": "loop_outer.button_restart",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -597,8 +648,7 @@
           }
         }
       ],
-      "name": "data_items_17",
-      "_nested_name": "data_items_17",
+      "_nested_name": "loop_outer",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [
