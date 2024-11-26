@@ -5,7 +5,7 @@
   "rows": [
     {
       "name": "modules_data_list_name",
-      "value": "modules",
+      "value": "module_tasks",
       "_translations": {
         "value": {}
       },

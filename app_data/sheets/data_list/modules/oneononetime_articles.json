@@ -35,7 +35,7 @@
       "id": "explore_1",
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!",
       "_translations": {
         "text_1_facilitator": {},
@@ -55,8 +55,8 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_2.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "Wow! You are building such a tall and strong wall with those building blocks.",
       "_translations": {
         "character_1_text": {},
@@ -76,8 +76,8 @@
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_3.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "This enclosure is a cat house. It will keep your cat safe!",
       "_translations": {
         "character_1_text": {},
@@ -97,7 +97,7 @@
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/comics/one_on_one_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "This house is going to keep us both safe and happy. You are such a good builder, @data.characters.f3_son_4.name.",
       "_translations": {
         "character_1_text": {}

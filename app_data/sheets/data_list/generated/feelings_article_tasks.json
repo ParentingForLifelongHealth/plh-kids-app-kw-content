@@ -63,11 +63,11 @@
         }
       },
       "category_id": "check_in",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
-      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stressed.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -142,8 +142,8 @@
         "character_2_text": {}
       },
       "image_asset": "images/comics/feelings_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "@data.characters.f3_son_4.name, I have 5 minutes to spend one-on-one time with you. What would you like to do?",
       "character_2_text": "Let’s play with the ball outside!",
       "completed": false
@@ -160,8 +160,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_2.svg",
-      "character_1_id": "@data.characters.f3_son_4.name",
-      "character_2_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_son_4",
+      "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
       "_translations": {
         "character_1_text": {},
@@ -182,8 +182,8 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_3.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
       "character_1_text": "Five kicks in a row! You seem really proud to have made it to five, @data.characters.f3_son_4.name!",
       "_translations": {
         "character_1_text": {},
@@ -201,7 +201,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/feelings_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Well done! I am very happy to be able to spend this time with you, @data.characters.f3_son_4.name",
       "_translations": {
         "character_1_text": {}
@@ -509,5 +509,10 @@
       "text_1_facilitator": "Your home activity is to talk with your child about their feelings during one-on-one time today. It can be something simple, like noticing that they find joy when they play!",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

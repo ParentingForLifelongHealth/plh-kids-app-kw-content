@@ -34,7 +34,8 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "character_1_id": "@data.characters.f3_son_4.name",
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
+      "character_1_id": "f3_son_4",
       "character_1_text": "Give it to me!",
       "_translations": {
         "character_1_text": {}
@@ -48,9 +49,9 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/comics/problem_solving_yc_1.svg",
-      "character_1_id": "@data.characters.f3_mother.name",
-      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_daughter_7",
       "character_1_text": "@data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name, please share the magnet tiles",
       "_translations": {
         "character_1_text": {},
@@ -69,9 +70,9 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/comics/problem_solving_yc_2.svg",
-      "character_1_id": "@data.characters.f3_mother.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "image_asset": "images/comics/problem_solving_yc_3.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_son_4",
       "text_1_facilitator": "KNOW IT",
       "_translations": {
         "text_1_facilitator": {},
@@ -100,10 +101,10 @@
     {
       "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "images/comics/problem_solving_yc_3.svg",
-      "character_1_id": "@data.characters.f3_mother.name",
-      "character_2_id": "@data.characters.f3_son_4.name",
-      "character_3_id": "@data.characters.f3_daughter_7.name",
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_son_4",
+      "character_3_id": "f3_daughter_7",
       "text_1_facilitator": "SOLVE IT",
       "_translations": {
         "text_1_facilitator": {},
@@ -132,9 +133,9 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/comics/problem_solving_yc_4.svg",
-      "character_1_id": "@data.characters.f3_mother.name",
-      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "image_asset": "images/comics/problem_solving_yc_5.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_daughter_7",
       "text_1_facilitator": "TEST IT",
       "_translations": {
         "text_1_facilitator": {},

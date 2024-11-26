@@ -63,11 +63,11 @@
         }
       },
       "category_id": "check_in",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
-      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stressed.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -129,7 +129,8 @@
         }
       },
       "category_id": "explore",
-      "character_1_id": "@data.characters.f3_son_4.name",
+      "image_asset": "images/comics/problem_solving_yc_1.svg",
+      "character_1_id": "f3_son_4",
       "character_1_text": "Give it to me!",
       "_translations": {
         "character_1_text": {}
@@ -147,14 +148,14 @@
         }
       },
       "category_id": "explore",
-      "character_1_id": "@data.characters.f3_mother.name",
+      "image_asset": "images/comics/problem_solving_yc_2.svg",
+      "character_1_id": "f3_mother",
       "character_1_text": "@data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name, please share the magnet tiles",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "images/comics/problem_solving_yc_1.svg",
-      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "character_2_id": "f3_daughter_7",
       "character_2_text": "But I need them to make my house!",
       "completed": false
     },
@@ -182,10 +183,10 @@
         "character_2_text": {},
         "text_2": {}
       },
-      "character_1_id": "@data.characters.f3_mother.name",
+      "image_asset": "images/comics/problem_solving_yc_3.svg",
+      "character_1_id": "f3_mother",
       "character_1_text": "Well, what is the problem?",
-      "image_asset": "images/comics/problem_solving_yc_2.svg",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_2_id": "f3_son_4",
       "character_2_text": "There are not enough magnet tiles to build two houses.",
       "text_2": "",
       "completed": false
@@ -214,12 +215,12 @@
         "character_2_text": {},
         "character_3_text": {}
       },
-      "character_1_id": "@data.characters.f3_mother.name",
+      "image_asset": "images/comics/problem_solving_yc_4.svg",
+      "character_1_id": "f3_mother",
       "character_1_text": "What do you think we could do to solve this problem?",
-      "image_asset": "images/comics/problem_solving_yc_3.svg",
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_2_id": "f3_son_4",
       "character_2_text": "We could build one together!",
-      "character_3_id": "@data.characters.f3_daughter_7.name",
+      "character_3_id": "f3_daughter_7",
       "character_3_text": "Yeah, that would be fun!",
       "completed": false
     },
@@ -243,10 +244,10 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_1_id": "@data.characters.f3_mother.name",
+      "image_asset": "images/comics/problem_solving_yc_5.svg",
+      "character_1_id": "f3_mother",
       "character_1_text": "Excellent idea, @data.characters.f3_son_4.name! Can I help too?",
-      "image_asset": "images/comics/problem_solving_yc_4.svg",
-      "character_2_id": "@data.characters.f3_daughter_7.name",
+      "character_2_id": "f3_daughter_7",
       "character_2_text": "Yay!",
       "completed": false
     },
@@ -536,5 +537,10 @@
       "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }

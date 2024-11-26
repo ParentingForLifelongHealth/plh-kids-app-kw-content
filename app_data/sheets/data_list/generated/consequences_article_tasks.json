@@ -63,11 +63,11 @@
         }
       },
       "category_id": "check_in",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "quiz_1_option_4_image_asset": "images/icons/faces/stress_face_new.svg",
-      "quiz_1_option_5_image_asset": "images/icons/faces/tired_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad.svg",
+      "quiz_1_option_4_image_asset": "images/icons/faces/stressed.svg",
+      "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "It is great to hear you are feeling positive today. Your presence makes a real difference for your family!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -138,7 +138,7 @@
         "character_1_text": {}
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
       "completed": false
     },
@@ -157,14 +157,14 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_2.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "It’s time to put away your toys",
       "_translations": {
         "character_1_text": {},
         "text_2": {},
         "character_2_text": {}
       },
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_2_id": "f3_son_4",
       "text_2": "5 minutes later",
       "character_2_text": "No. Not yet!",
       "completed": false
@@ -181,13 +181,13 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_3.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
-      "character_2_id": "@data.characters.f3_son_4.name",
+      "character_2_id": "f3_son_4",
       "character_2_text": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game",
       "completed": false
     },
@@ -200,7 +200,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_4.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.",
       "_translations": {
         "character_1_text": {}
@@ -216,7 +216,7 @@
       },
       "category_id": "explore",
       "image_asset": "images/comics/consequences_yc_5.svg",
-      "character_1_id": "@data.characters.f3_uncle.name",
+      "character_1_id": "f3_uncle",
       "character_1_text": "Good job washing your hands so well, @data.characters.f3_son_4.name.",
       "_translations": {
         "character_1_text": {}
@@ -578,5 +578,10 @@
       "text_1_facilitator": "Remember that praising your child for the things you would like them to keep doing is a good way to see more positive behaviour in your home. \n\nYour home activity is to have a discussion with your child about one persistent challenging household rule and discuss a possible consequence. \n\nUsing fair and realistic consequences is also part of building a positive relationship with your child.",
       "completed": false
     }
-  ]
+  ],
+  "_metadata": {
+    "completed": {
+      "type": "boolean"
+    }
+  }
 }
