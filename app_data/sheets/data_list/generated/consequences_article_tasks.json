@@ -233,7 +233,7 @@
           "eng": "Why does @data.characters.f3_uncle.name use a consequence?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Because@data.characters.f3_son_4.name needs to be punished."
+          "eng": "Because @data.characters.f3_son_4.name needs to be punished."
         },
         "quiz_1_feedback_1": {
           "eng": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts."
@@ -330,7 +330,7 @@
       "quiz_1_feedback_2": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_1_feedback_3": "Try again! @data.characters.f3_uncle.name never yelled.",
       "quiz_1_question": "Why does @data.characters.f3_uncle.name use a consequence?",
-      "quiz_1_option_1_text": "Because@data.characters.f3_son_4.name needs to be punished.",
+      "quiz_1_option_1_text": "Because @data.characters.f3_son_4.name needs to be punished.",
       "quiz_1_option_2_text": "Because @data.characters.f3_son_4.name does not put his toys away even when he has a choice between listening and a consequence.",
       "quiz_1_option_3_text": "Because he already tried yelling, and it didn’t work.",
       "text_1_facilitator": "Let’s reflect on how @data.characters.f3_uncle.name used a consequence here.",

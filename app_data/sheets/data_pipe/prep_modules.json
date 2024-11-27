@@ -7,7 +7,6 @@
       "operation": "append_columns",
       "args_list": [
         "completed: FALSE",
-        "locked: TRUE",
         "task_child: {@row.id}_article_tasks"
       ],
       "input_source": "modules",

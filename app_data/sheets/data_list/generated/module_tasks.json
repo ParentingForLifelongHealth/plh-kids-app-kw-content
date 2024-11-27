@@ -19,7 +19,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "selfcare_article_tasks"
     },
     {
@@ -38,7 +37,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "childdevelopment_article_tasks"
     },
     {
@@ -57,7 +55,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "oneononetime_article_tasks"
     },
     {
@@ -76,7 +73,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "praise_article_tasks"
     },
     {
@@ -95,7 +91,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "feelings_article_tasks"
     },
     {
@@ -114,7 +109,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "instructions_article_tasks"
     },
     {
@@ -133,7 +127,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "rulesroutines_article_tasks"
     },
     {
@@ -152,7 +145,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "consequences_article_tasks"
     },
     {
@@ -171,7 +163,6 @@
         }
       },
       "completed": false,
-      "locked": true,
       "task_child": "problemsolving_article_tasks"
     }
   ],
@@ -180,9 +171,6 @@
       "type": "number"
     },
     "completed": {
-      "type": "boolean"
-    },
-    "locked": {
       "type": "boolean"
     }
   }
