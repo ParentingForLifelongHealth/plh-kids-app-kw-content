@@ -178,6 +178,13 @@
       "exclude_from_translation": true,
       "rows": [
         {
+          "name": "is_locked",
+          "value": false,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "module_list.is_locked"
+        },
+        {
           "type": "data_items",
           "name": "loop_modules",
           "value": "@data.module_tasks",
@@ -227,7 +234,7 @@
                 },
                 {
                   "name": "is_locked",
-                  "value": "@item.locked",
+                  "value": "@local.is_locked",
                   "_translations": {
                     "value": {}
                   },
@@ -237,10 +244,10 @@
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "@item.locked",
-                        "matchedExpression": "@item.locked",
-                        "type": "item",
-                        "fieldName": "locked"
+                        "fullExpression": "@local.is_locked",
+                        "matchedExpression": "@local.is_locked",
+                        "type": "local",
+                        "fieldName": "is_locked"
                       }
                     ],
                     "_nested_name": [
@@ -253,7 +260,7 @@
                     ]
                   },
                   "_dynamicDependencies": {
-                    "@item.locked": [
+                    "@local.is_locked": [
                       "value"
                     ],
                     "@item.id.is_locked": [
@@ -285,6 +292,31 @@
                 "@item.id": [
                   "name",
                   "_nested_name"
+                ]
+              }
+            },
+            {
+              "name": "is_locked",
+              "value": "!@item.completed",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "module_list.loop_modules.is_locked",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "!@item.completed",
+                    "matchedExpression": "!@item.completed",
+                    "type": "item",
+                    "fieldName": "completed"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "!@item.completed": [
+                  "value"
                 ]
               }
             }
