@@ -71,7 +71,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 9301 KB | 9.3 MB |
-| unused | 191004 KB | 191 MB |
+| unused | 247126 KB | 247.1 MB |
 </details>
 
 <details open>
@@ -111,6 +111,14 @@ Assets that appear in app-data but do not have references within sheets
 | audio/rules_audio_2.mp3 | 742.7 |
 | audio/solve_audio_2.mp3 | 468.1 |
 | contents.json | 5.9 |
+| images/comics/child_development_yc_1.jpg | 2102.5 |
+| images/comics/child_development_yc_2.jpg | 2077.7 |
+| images/comics/child_development_yc_3.jpg | 2320 |
+| images/comics/child_development_yc_4.jpg | 2281.7 |
+| images/comics/child_development_yc_5.jpg | 2304.1 |
+| images/comics/child_development_yc_6.jpg | 2288.2 |
+| images/comics/child_development_yc_7.jpg | 2266.3 |
+| images/comics/child_development_yc_8.jpg | 2133 |
 | images/comics/consequences_yc_1.jpg | 2294.8 |
 | images/comics/consequences_yc_2.jpg | 2281.6 |
 | images/comics/consequences_yc_3.jpg | 2301.8 |
@@ -121,9 +129,13 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/feelings_yc_3.jpg | 4517.2 |
 | images/comics/feelings_yc_4.jpg | 3152.7 |
 | images/comics/instructions_yc_1.jpg | 2586.1 |
+| images/comics/instructions_yc_10.jpg | 2509.5 |
+| images/comics/instructions_yc_11.jpg | 2491.8 |
 | images/comics/instructions_yc_2.jpg | 2569.3 |
 | images/comics/instructions_yc_3.jpg | 2600.3 |
-| images/comics/instructions_yc_4.jpg | 2270.7 |
+| images/comics/instructions_yc_4.jpg | 2330 |
+| images/comics/instructions_yc_8.jpg | 2360.1 |
+| images/comics/instructions_yc_9.jpg | 2372.5 |
 | images/comics/one_on_one_yc_1.jpg | 2616.7 |
 | images/comics/one_on_one_yc_2.jpg | 2778 |
 | images/comics/one_on_one_yc_3.jpg | 2671.5 |
@@ -132,7 +144,18 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/praise_yc_2.jpg | 2099.7 |
 | images/comics/praise_yc_3.jpg | 2165.9 |
 | images/comics/praise_yc_4.jpg | 1814.8 |
+| images/comics/problem_solving_1.jpg | 2123.1 |
+| images/comics/problem_solving_2.jpg | 2438.3 |
+| images/comics/problem_solving_3.jpg | 2631.2 |
+| images/comics/problem_solving_4.jpg | 2723.8 |
+| images/comics/problem_solving_5.jpg | 2723.3 |
 | images/comics/routines_yc_1.jpg | 2223.7 |
+| images/comics/routines_yc_11.jpg | 2596 |
+| images/comics/routines_yc_12.jpg | 2010 |
+| images/comics/routines_yc_13.jpg | 3244.7 |
+| images/comics/routines_yc_14.jpg | 2388.7 |
+| images/comics/routines_yc_15.jpg | 3263.5 |
+| images/comics/routines_yc_16.jpg | 2412.7 |
 | images/comics/routines_yc_2.jpg | 2224.9 |
 | images/comics/routines_yc_3.jpg | 2230.2 |
 | images/comics/routines_yc_4.jpg | 2224.9 |

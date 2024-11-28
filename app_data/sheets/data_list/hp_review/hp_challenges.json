@@ -11,22 +11,54 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you have when trying to spend one-on-one time with your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "text_challenge_7": {},
-        "reply_challenge_7": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "text_challenge_7": {
+          "kw_ar": true
+        },
+        "reply_challenge_7": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -100,22 +132,54 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you have when trying to talk about feelings with your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "text_challenge_7": {},
-        "reply_challenge_7": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "text_challenge_7": {
+          "kw_ar": true
+        },
+        "reply_challenge_7": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -189,16 +253,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to praise your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -248,16 +332,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to give POSITIVE, SPECIFIC, and REALISTIC instructions to your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -307,18 +411,42 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to make a rule and routine together?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -376,22 +504,54 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to introduce a consequence together?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "text_challenge_7": {},
-        "reply_challenge_7": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "text_challenge_7": {
+          "kw_ar": true
+        },
+        "reply_challenge_7": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -465,20 +625,48 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to resolve the problem with your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -544,22 +732,54 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What challenge did you face when trying to take care of yourself?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "text_challenge_7": {},
-        "reply_challenge_7": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "text_challenge_7": {
+          "kw_ar": true
+        },
+        "reply_challenge_7": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -633,18 +853,42 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "Did you have any challenges when trying to play with your child?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "top_text": {}
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "question_text": {

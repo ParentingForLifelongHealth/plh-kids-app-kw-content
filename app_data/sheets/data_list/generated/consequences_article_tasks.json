@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "List of things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "It is great to hear you are feeling positive today. Your presence makes a real difference for your family!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
       "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
@@ -113,9 +139,15 @@
       "category_id": "intro",
       "text_1_facilitator": "Today's lesson is about helping our children follow instructions and rules by using consequences\n\nConsequences are the results of actions and behaviours. Parents can use a planned consequence when children don’t follow a rule or instruction. \n\nFor example if a child doesn’t follow the rule to put away their toys before dinner, then a consequence could be that the child can’t watch YouTube after dinner. \n\nGiving clear consequences teaches children that their actions affect themselves and others.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will it help you and your family?",
       "media_transcript": "We all misbehave sometimes! \n\nAs parents, we are also sometimes tempted to scream and shout when our children misbehave. But that just makes everything worse for everyone.\n\nIf we stay calm and give our children a consequence instead, they start to learn to take responsibility for their actions and we avoid the anger that comes with hitting or shouting.",
@@ -134,8 +166,12 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -160,9 +196,15 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "It’s time to put away your toys",
       "_translations": {
-        "character_1_text": {},
-        "text_2": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "text_2": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f3_son_4",
       "text_2": "5 minutes later",
@@ -184,8 +226,12 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f3_son_4",
       "character_2_text": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game",
@@ -203,7 +249,9 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -219,7 +267,9 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "Good job washing your hands so well, @data.characters.f3_son_4.name.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -303,29 +353,73 @@
       "quiz_1_feedback_1": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "_translations": {
         "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
         "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_feedback_4": {},
-        "quiz_3_feedback_5": {},
-        "quiz_3_feedback_6": {}
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Yes! Using a consequence in this situation is a good way to help @data.characters.f3_son_4.name learn to make decisions.",
       "quiz_1_feedback_3": "Try again! @data.characters.f3_uncle.name never yelled.",
@@ -414,23 +508,57 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are some easy steps to use consequences when your child misbehaves:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_4_button_text": {},
-        "section_4_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
+        "section_4_title": {
+          "kw_ar": true
+        },
+        "section_4_text": {
+          "kw_ar": true
+        },
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "BE CALM",
       "section_1_text": "Take some deep breaths or walk away from the situation if you need to.\n\nThen, respond in a calm, clear way.",
@@ -499,20 +627,48 @@
       "category_id": "practise",
       "quiz_1_feedback_1": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
       "quiz_1_feedback_3": "Great. Discuss this (or another) consequence with your child and family, and try it out together.",
@@ -560,14 +716,30 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "That's great! Don't forget to take a pause before you give the consequence so that you're able to remain calm and praise yourself afterwards for a job well done!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's great! Don't forget to take a pause before you give the consequence so that you're able to remain calm and praise yourself afterwards for a job well done!",
       "quiz_1_feedback_3": "That's okay. Keep trying. It will get easier in time. You can start by considering smaller behaviours that your child struggles with and planning a fair consequence in advance so you're ready. Remember to take a pause to calm down before you respond.",

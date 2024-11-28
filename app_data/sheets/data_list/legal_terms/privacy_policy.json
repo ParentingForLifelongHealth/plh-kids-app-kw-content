@@ -10,7 +10,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Jfhqzbv7dPoPi8X_snj5E2Mu8IEe11HIMG-hV7lZrBU",
       "text": "Your data is important to us. This @global.privacy_policy sets out our policies for the collection, use, and disclosure of personal information in the use of @global.app_name.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nPlease read this @global.privacy_policy carefully. By downloading or using the app, you agree to the collection and use of information in relation to this policy. By using the @global.app_name, you agree to these terms. Please read the policy before sharing any information.\n\nThe terms used in this @global.privacy_policy have the same meanings as in our @global.terms_and_conditions, which are accessible within the app, unless otherwise defined in this @global.privacy_policy.",
       "_translations": {
-        "text": {}
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -22,8 +24,12 @@
       "id": "section_1",
       "title": "Children’s Privacy",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -39,8 +45,12 @@
       "id": "section_2",
       "title": "What information does the app collect about you and how do we use it?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -56,8 +66,12 @@
       "id": "section_3",
       "title": "Why do you collect such data as described?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -73,8 +87,12 @@
       "id": "section_4",
       "title": "Who has access to information shared?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -90,8 +108,12 @@
       "id": "section_5",
       "title": "How is information shared?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -107,8 +129,12 @@
       "id": "section_6",
       "title": "What about third-party service providers and websites?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -124,8 +150,12 @@
       "id": "section_7",
       "title": "How long do we keep your data?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -141,8 +171,12 @@
       "id": "section_8",
       "title": "How do we keep your data secure?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -158,8 +192,12 @@
       "id": "section_9",
       "title": "Limitations of Liability for Information Disclosure",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -175,8 +213,12 @@
       "id": "section_10",
       "title": "Your data protection rights",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -192,8 +234,12 @@
       "id": "section_11",
       "title": "Removing the app",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -209,8 +255,12 @@
       "id": "section_12",
       "title": "Changes to the @global.privacy_policy",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -226,8 +276,12 @@
       "id": "section_13",
       "title": "Contact Us",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "kw_ar": true
+        },
+        "text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

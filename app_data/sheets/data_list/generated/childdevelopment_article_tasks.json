@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "Breathe to three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!",
       "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
@@ -113,9 +139,15 @@
       "category_id": "intro",
       "text_1_facilitator": "Today's topic is about helping your child learn and grow. \n\nPlaying with your child is important for their growth and learning, both in and out of school. This is true for all children, including those with disabilities.\n\nDid you know that playing helps your child learn what is expected and how to get along with others?\n\nChildren learn a lot by asking questions. Support their interests and curiosity, and be patient when they make mistakes. We all learn from our mistakes!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will it help you and your family?",
       "media_transcript": "Hello!\nDo you know that children learn best through playing? \n\nAnd let’s be honest, which child does not like to play? \n\nLearning takes time, but there is a lot that you can do as a parent to help your child. Let them play and explore. Let them ask questions and learn from mistakes. And be patient. Your support will help them grow and develop.",
@@ -137,9 +169,15 @@
       "category_id": "explore",
       "text_1_facilitator": "Children learn best by playing and doing. \n\n@data.characters.f1_father.name wants to spend more time helping his daughter , @data.characters.f1_daughter_2.name, learn through play together. Let’s see how he does it.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/child_development_yc_1.svg",
       "character_1_id": "f1_father",
@@ -167,9 +205,15 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "What would you like to do?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        },
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Build a house out of pillows!",
       "character_3_id": "f1_father",
@@ -192,8 +236,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "It's lovely to see you thinking everything through so carefully.",
       "completed": false
@@ -214,8 +262,12 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Can we read our bedtime story here tonight?",
       "completed": false
@@ -285,24 +337,58 @@
       "quiz_1_feedback_1": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\n\nThere are other correct answers in this list. Did you find them all?",
       "_translations": {
         "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {}
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That’s right! By creatively imagining what a home could be, @data.characters.f1_daughter_2.name finds an innovative way to repurpose a pillow. In her imagination, she could be building a castle, a tent, or space shuttle. Innovation and creativity are critical skills for the future. \n\nThis isn’t the only thing @data.characters.f1_daughter_2.name learned! Did you find the other things she learned?",
       "quiz_1_feedback_3": "Rather than copying the home he lives in, @data.characters.f1_daughter_2.name is encouraged to imagine new possibilities & problem solve. By imagining a world with a house that doesn’t yet exist, and creatively solving a challenge, @data.characters.f1_daughter_2.name is learning critical skills for academic and professional success. \n\nThere are more right answers in this list. Did you find them?",
@@ -358,9 +444,15 @@
       "character_2_id": "f3_son_4",
       "character_1_text": "Let me put your shoes on.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        },
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "No, I want to do it myself!",
       "character_3_id": "f3_uncle",
@@ -389,10 +481,18 @@
       "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {},
-        "text_2": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        },
+        "character_3_text": {
+          "kw_ar": true
+        },
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Yes, you can! How about I help you with one foot, and you do it with the other?",
       "character_3_id": "f3_son_4",
@@ -419,9 +519,15 @@
       "character_2_id": "f3_son_4",
       "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        },
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "I did it!",
       "character_3_id": "f3_uncle",
@@ -486,23 +592,57 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Rather than fixing the problem himself, @data.characters.f3_uncle.name gives clear and specific instructions to help him learn. @data.characters.f3_uncle.name carefully instructs @data.characters.f3_son_4.name on how to put on his shoes, helping him to do it himself.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "When @data.characters.f3_son_4.name struggles, @data.characters.f3_uncle.name actually remains calm and patient. This is important when teaching children new tasks.",
       "quiz_1_feedback_3": "Yes, praise helps our children to take more responsibility for their actions next time.",
@@ -569,18 +709,40 @@
       "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
         "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "PLAY",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
@@ -633,16 +795,36 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "That’s right! Join in on any play activity your child is doing. You will strengthen your bond and encourage your child to play and learn more.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Great idea. Try to look for opportunities to play and learn, like balancing on a step or collecting seashells or rocks along the way.",
       "quiz_1_feedback_3": "Yes! Get creative. Anything in your home could be a music instrument, costume, or item in a role-play.",

@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "Feel the ground",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here on this app shows courage and commitment!",
       "quiz_1_feedback_3": "Sorry to hear that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
@@ -136,16 +162,36 @@
       "quiz_1_option_4_image_asset": "images/icons/faces/sad.svg",
       "quiz_1_feedback_1": "That's great! Being praised often makes us feel proud.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's great! Being praised often makes us feel happy!",
       "quiz_1_feedback_3": "Sometimes being praised makes us feel embarrassed, usually because we are not used to it. It will get easier with practice! Giving praise helps children learn the behaviours you want to see.",
@@ -176,9 +222,15 @@
       "category_id": "intro",
       "text_1_facilitator": "We all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during your one-on-one time.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will it help you and your family?",
       "media_transcript": "Greetings, everyone.\n\nWhen was the last time you were praised? Can you praise yourself for something right now? Praise makes us all feel good. \n\nIt is good to praise our children when they have done well, because when we do that, they will do more of that good behaviour we want to see.\n\nAnd let's remember to praise ourselves too, for big or small things!",
@@ -198,7 +250,9 @@
       "text_1_facilitator": "@data.characters.f2_daughter_3’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/praise_yc_1.svg",
       "text_2": "(On the TV ) 1-1 draw at interval between Manchester United and Arsenal!",
@@ -218,8 +272,12 @@
       "image_asset": "images/comics/praise_yc_2.svg",
       "text_2": "The match stops for a break.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {}
+        "text_2": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "character_1_id": "f2_grandfather",
       "character_1_text": "@data.characters.f2_daughter_3.name, thank you for playing quietly on the floor. I really like that.",
@@ -236,7 +294,9 @@
       "image_asset": "images/comics/praise_yc_3.svg",
       "text_2": "(On the TV) 2-2 final score! What a match!",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -252,7 +312,9 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "@data.characters.f2_daughter_3.name, you played nice and quietly by yourself while I watched the match. Now I will play with you for a bit. What would you like to do?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -335,30 +397,78 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Exactly! When @data.characters.f2_grandfather.name praises @data.characters.f2_daughter_3.name, she is more likely to repeat the positive behaviour",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Not exactly, but the praise does help her to identify what behaviour is expected of her.",
       "quiz_1_feedback_3": "Not exactly, but the praise will help build a positive relationship and encourage her positive behaviour in the future.",
@@ -431,19 +541,45 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are some easy tips for how to use praise:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "SEE IT",
       "section_1_text": "Look for anything good or helpful that your child does or tries to do when you want to praise them.",
@@ -541,31 +677,81 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "Yes, you can praise them for these behaviours… and many more!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_feedback_4": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_option_6_text": {},
-        "quiz_2_feedback_6": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_6": {
+          "kw_ar": true
+        },
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_2_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Yes, you can praise them for these behaviours… and many more!",
       "quiz_1_feedback_3": "Yes, you can praise them for these behaviours… and many more!",

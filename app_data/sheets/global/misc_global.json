@@ -8,7 +8,9 @@
       "name": "list",
       "value": "List",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -16,7 +18,9 @@
       "name": "map",
       "value": "Map",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -24,7 +28,9 @@
       "name": "module",
       "value": "Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -32,7 +38,9 @@
       "name": "start_here",
       "value": "Start here",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -40,7 +48,9 @@
       "name": "home",
       "value": "Home",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -48,7 +58,9 @@
       "name": "library",
       "value": "Library",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -56,7 +68,9 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -64,7 +78,9 @@
       "name": "completed",
       "value": "Completed",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -72,7 +88,9 @@
       "name": "check-in",
       "value": "Check-in",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -80,7 +98,9 @@
       "name": "let’s_begin",
       "value": "Let’s Begin",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -88,7 +108,9 @@
       "name": "continue",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -96,7 +118,9 @@
       "name": "restart",
       "value": "Restart",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -104,7 +128,9 @@
       "name": "in_1_day",
       "value": "In 1 day",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -112,7 +138,9 @@
       "name": "in_2_days",
       "value": "In 2 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -120,7 +148,9 @@
       "name": "in_3_days",
       "value": "In 3 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -128,7 +158,9 @@
       "name": "in_4_days",
       "value": "In 4 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -136,7 +168,9 @@
       "name": "in_5_days",
       "value": "In 5 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -144,7 +178,9 @@
       "name": "in_6_days",
       "value": "In 6 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -152,7 +188,9 @@
       "name": "in_7_days",
       "value": "In 7 days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -160,7 +198,9 @@
       "name": "learn_more",
       "value": "Learn More",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -168,7 +208,9 @@
       "name": "madam_noura",
       "value": "Madam Noura",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -176,7 +218,9 @@
       "name": "select_a_response",
       "value": "Select a response",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -184,7 +228,9 @@
       "name": "congratulations",
       "value": "Congratulations",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -192,7 +238,9 @@
       "name": "well_done_for_finishing_this_module",
       "value": "Well done for finishing this module",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -200,7 +248,9 @@
       "name": "unlock_your_moment_of_play",
       "value": "Unlock your moment of play",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -208,7 +258,9 @@
       "name": "moments_of_play",
       "value": "Moments of Play",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -216,7 +268,9 @@
       "name": "complete_your_modules_and_home_activities_to_unlock_new_moments_of_play",
       "value": "Complete your modules and home activities to unlock new moments of play",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -224,7 +278,9 @@
       "name": "filter",
       "value": "Filter",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -232,7 +288,9 @@
       "name": "all_games",
       "value": "All Games",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -240,7 +298,9 @@
       "name": "unlocked",
       "value": "Unlocked",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -248,7 +308,9 @@
       "name": "favourites",
       "value": "Favourites",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -256,7 +318,9 @@
       "name": "by_age",
       "value": "By age",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -264,7 +328,9 @@
       "name": "for_2-3",
       "value": "For 2-3",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -272,7 +338,9 @@
       "name": "for_4-5",
       "value": "For 4-5",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -280,7 +348,9 @@
       "name": "for_6-7",
       "value": "For 6-7",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -288,7 +358,9 @@
       "name": "for_7-8",
       "value": "For 7-8",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -296,7 +368,9 @@
       "name": "for_8-9",
       "value": "For 8-9",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -304,7 +378,9 @@
       "name": "source",
       "value": "Source",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -312,7 +388,9 @@
       "name": "close",
       "value": "Close",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -320,7 +398,9 @@
       "name": "profile",
       "value": "Profile",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -328,7 +408,9 @@
       "name": "switch_language",
       "value": "Switch Language",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -336,7 +418,9 @@
       "name": "your_parentapp_code",
       "value": "Your ParentApp Code",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -344,7 +428,9 @@
       "name": "account",
       "value": "Account",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -352,7 +438,9 @@
       "name": "general",
       "value": "General",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -360,7 +448,9 @@
       "name": "feedback",
       "value": "Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -368,7 +458,9 @@
       "name": "about_dayem",
       "value": "About Dayem",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -376,7 +468,9 @@
       "name": "terms_and_conditions",
       "value": "Terms and Conditions",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -384,7 +478,9 @@
       "name": "privacy_policy",
       "value": "Privacy Policy",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -392,7 +488,9 @@
       "name": "developer_mode",
       "value": "Developer Mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -400,7 +498,9 @@
       "name": "version",
       "value": "Version",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -408,7 +508,9 @@
       "name": "submit",
       "value": "Submit",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -416,7 +518,9 @@
       "name": "enter_your_developer_code",
       "value": "Enter your Developer Code",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -424,7 +528,9 @@
       "name": "to_launch_the_app_in_developer_mode,_enter_your_dev_code_and_tap_submit",
       "value": "To launch the app in developer mode, enter your dev code and tap Submit",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -432,7 +538,9 @@
       "name": "what_is_your_name_or_nickname?",
       "value": "What is your name or nickname?",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -440,7 +548,9 @@
       "name": "what_is_your_gender?",
       "value": "What is your gender?",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -448,7 +558,9 @@
       "name": "male",
       "value": "Male",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -456,7 +568,9 @@
       "name": "female",
       "value": "Female",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -464,7 +578,9 @@
       "name": "prefer_not_to_say",
       "value": "Prefer not to say",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -472,7 +588,9 @@
       "name": "save",
       "value": "Save",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -480,7 +598,9 @@
       "name": "sync_now",
       "value": "Sync Now",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -488,7 +608,9 @@
       "name": "your_code",
       "value": "Your Code",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -496,7 +618,9 @@
       "name": "you_may_be_asked_to_share_this_code_with_people_who_will_support_your_dayem_app_journey.",
       "value": "You may be asked to share this code with people who will support your Dayem App journey.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -504,7 +628,9 @@
       "name": "copy_code",
       "value": "Copy Code",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -522,7 +648,9 @@
       "name": "type_here",
       "value": "Type here",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -530,7 +658,9 @@
       "name": "app_feedback",
       "value": "App feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -538,7 +668,9 @@
       "name": "login",
       "value": "Login",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -546,7 +678,9 @@
       "name": "login_with_existing_account",
       "value": "Login with existing account",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -554,7 +688,9 @@
       "name": "create_an_account",
       "value": "Create an account",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -562,7 +698,9 @@
       "name": "would_you_like_to_create_an_account?_this_will_allow_you_to_retrieve_your_data_if_you_lose_your_device.",
       "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -570,7 +708,9 @@
       "name": "already_have_an_account?_log_in_here.",
       "value": "Already have an account? Log in here.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -578,7 +718,9 @@
       "name": "skip",
       "value": "Skip",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     }
   ],

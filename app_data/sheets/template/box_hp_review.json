@@ -7,7 +7,9 @@
       "name": "yes",
       "value": "Yes",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "yes"
@@ -16,7 +18,9 @@
       "name": "no",
       "value": "No",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "no"

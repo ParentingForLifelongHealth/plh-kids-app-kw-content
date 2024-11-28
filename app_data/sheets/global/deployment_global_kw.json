@@ -10,7 +10,9 @@
       "name": "app_name",
       "value": "Dayem App",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -27,7 +29,9 @@
       "name": "deployment_terms_text",
       "value": "30 October 2024",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {

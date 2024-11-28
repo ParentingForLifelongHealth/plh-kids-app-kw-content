@@ -21,7 +21,9 @@
           "name": "title",
           "value": "Home Practice Review",
           "_translations": {
-            "value": {}
+            "value": {
+              "kw_ar": true
+            }
           },
           "_nested_name": "heading.title"
         }

@@ -195,6 +195,38 @@
     "md5Checksum": "977ba51e3fe8221361b16e98d3c2f03f",
     "size_kb": 20.3
   },
+  "images/comics/child_development_yc_1.jpg": {
+    "md5Checksum": "0656511e0a88c77c831d3f8c96ff497b",
+    "size_kb": 2102.5
+  },
+  "images/comics/child_development_yc_2.jpg": {
+    "md5Checksum": "a13a905e06426b3c5cc907cb7624f592",
+    "size_kb": 2077.7
+  },
+  "images/comics/child_development_yc_3.jpg": {
+    "md5Checksum": "1c91128de96579d361ff084b9ea7235e",
+    "size_kb": 2320
+  },
+  "images/comics/child_development_yc_4.jpg": {
+    "md5Checksum": "e09a46cc3ffcb85b9246ff1595da91b1",
+    "size_kb": 2281.7
+  },
+  "images/comics/child_development_yc_5.jpg": {
+    "md5Checksum": "e9b318f57d45805163c38265108640fd",
+    "size_kb": 2304.1
+  },
+  "images/comics/child_development_yc_6.jpg": {
+    "md5Checksum": "4618aca69ac7a61621df191ae74ba675",
+    "size_kb": 2288.2
+  },
+  "images/comics/child_development_yc_7.jpg": {
+    "md5Checksum": "cd2efe6871f45d88011dccff54417363",
+    "size_kb": 2266.3
+  },
+  "images/comics/child_development_yc_8.jpg": {
+    "md5Checksum": "343ee973e945e2ff5784ac290a81cf25",
+    "size_kb": 2133
+  },
   "images/comics/consequences_yc_1.jpg": {
     "md5Checksum": "e6e45e3925174a7a1972a5ca264ac6cf",
     "size_kb": 2294.8
@@ -235,6 +267,14 @@
     "md5Checksum": "d6373bf18ca7aadc354d45b724fdf88d",
     "size_kb": 2586.1
   },
+  "images/comics/instructions_yc_10.jpg": {
+    "md5Checksum": "207fab508433a40b0aad09f794434a15",
+    "size_kb": 2509.5
+  },
+  "images/comics/instructions_yc_11.jpg": {
+    "md5Checksum": "b836f9dd04c07b9fd13430d3c1eac69c",
+    "size_kb": 2491.8
+  },
   "images/comics/instructions_yc_2.jpg": {
     "md5Checksum": "88dd8a1097c89df7435b7631859a0f24",
     "size_kb": 2569.3
@@ -244,8 +284,16 @@
     "size_kb": 2600.3
   },
   "images/comics/instructions_yc_4.jpg": {
-    "md5Checksum": "8d40cf8ec18389a3b8e231bd599080a9",
-    "size_kb": 2270.7
+    "md5Checksum": "db683ec57d123277ba6667af24a354ed",
+    "size_kb": 2330
+  },
+  "images/comics/instructions_yc_8.jpg": {
+    "md5Checksum": "d644256a6f67ad3ac48292392a8c4668",
+    "size_kb": 2360.1
+  },
+  "images/comics/instructions_yc_9.jpg": {
+    "md5Checksum": "8da401c34737c9ea512fa28d5a6c35d3",
+    "size_kb": 2372.5
   },
   "images/comics/one_on_one_yc_1.jpg": {
     "md5Checksum": "cc8facb71a24f95c9823ffc77a71100b",
@@ -279,9 +327,53 @@
     "md5Checksum": "08bda27504b3bb97bb8afde238d0a5ee",
     "size_kb": 1814.8
   },
+  "images/comics/problem_solving_1.jpg": {
+    "md5Checksum": "5edd5ecbe8a003cbbeae06fe5d1e5c4d",
+    "size_kb": 2123.1
+  },
+  "images/comics/problem_solving_2.jpg": {
+    "md5Checksum": "163f4f971aa26fe57922cd4c8d41d3b7",
+    "size_kb": 2438.3
+  },
+  "images/comics/problem_solving_3.jpg": {
+    "md5Checksum": "c494ac3175b0694f11637911f960a204",
+    "size_kb": 2631.2
+  },
+  "images/comics/problem_solving_4.jpg": {
+    "md5Checksum": "0354da0d3a78d7772b9fada9f4a75b9b",
+    "size_kb": 2723.8
+  },
+  "images/comics/problem_solving_5.jpg": {
+    "md5Checksum": "e872be554c076f833a47d2a8bc3e98a8",
+    "size_kb": 2723.3
+  },
   "images/comics/routines_yc_1.jpg": {
     "md5Checksum": "1bc7538cef486eb61599653cca7ed886",
     "size_kb": 2223.7
+  },
+  "images/comics/routines_yc_11.jpg": {
+    "md5Checksum": "4c6aff5936bcffbc839b092bd8deecb0",
+    "size_kb": 2596
+  },
+  "images/comics/routines_yc_12.jpg": {
+    "md5Checksum": "2df7c8315b50f1640f9d1405602c2aea",
+    "size_kb": 2010
+  },
+  "images/comics/routines_yc_13.jpg": {
+    "md5Checksum": "1eed1292ba9c169fe382f66dbeb48839",
+    "size_kb": 3244.7
+  },
+  "images/comics/routines_yc_14.jpg": {
+    "md5Checksum": "e258ec5f4d272da628b99941f27a90dc",
+    "size_kb": 2388.7
+  },
+  "images/comics/routines_yc_15.jpg": {
+    "md5Checksum": "59bc59734abf8129b44fe1c57106fa8b",
+    "size_kb": 3263.5
+  },
+  "images/comics/routines_yc_16.jpg": {
+    "md5Checksum": "99fa1f7cd65469feed6865ff7bb9b429",
+    "size_kb": 2412.7
   },
   "images/comics/routines_yc_2.jpg": {
     "md5Checksum": "09f46f60a0e40116b0a4f623ff713dde",

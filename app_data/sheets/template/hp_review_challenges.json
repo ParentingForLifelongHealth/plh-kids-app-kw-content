@@ -452,7 +452,9 @@
       "name": "text_other_challenge",
       "value": "My challenge is not listed here.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_other_challenge"
@@ -1107,7 +1109,9 @@
       "name": "placeholder",
       "value": "Tap and choose",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "placeholder"

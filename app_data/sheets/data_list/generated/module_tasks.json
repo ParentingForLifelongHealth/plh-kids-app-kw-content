@@ -11,7 +11,9 @@
       "check_in_id": "check_in_1",
       "title": "Taking Care of Yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -29,7 +31,9 @@
       "check_in_id": "check_in_3",
       "title": "Child Development",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -47,7 +51,9 @@
       "check_in_id": "check_in_4",
       "title": "One-on-One Time",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -65,7 +71,9 @@
       "check_in_id": "check_in_6",
       "title": "Praise",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -83,7 +91,9 @@
       "check_in_id": "check_in_7",
       "title": "Feelings",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -101,7 +111,9 @@
       "check_in_id": "check_in_8",
       "title": "Instructions",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -119,7 +131,9 @@
       "check_in_id": "check_in_12",
       "title": "Rules",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -137,7 +151,9 @@
       "check_in_id": "check_in_13",
       "title": "Consequences",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -155,7 +171,9 @@
       "check_in_id": "check_in_16",
       "title": "Solve Problems",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
