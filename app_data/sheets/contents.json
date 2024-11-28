@@ -228,7 +228,7 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "app_launch.xlsx",
+      "_xlsxPath": "templates/kids app_launch.xlsx",
       "_metadata": {
         "priority": {
           "type": "number"
@@ -335,6 +335,18 @@
       "data_list_name": "relax",
       "flow_subtype": "relax",
       "_xlsxPath": "KW relax.xlsx"
+    },
+    "user_gender": {
+      "flow_type": "data_list",
+      "flow_name": "user_gender",
+      "data_list_name": "user_gender",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
+    },
+    "user_type": {
+      "flow_type": "data_list",
+      "flow_name": "user_type",
+      "data_list_name": "user_type",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     }
   },
   "data_pipe": {
@@ -1913,6 +1925,11 @@
       "flow_type": "global",
       "flow_name": "misc_global",
       "_xlsxPath": "deployment_data_kw.xlsx"
+    },
+    "user_data_global": {
+      "flow_type": "global",
+      "flow_name": "user_data_global",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     }
   },
   "template": {
@@ -3120,6 +3137,11 @@
       "flow_type": "template",
       "flow_name": "settings",
       "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "user_data": {
+      "flow_type": "template",
+      "flow_name": "user_data",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     },
     "user_id": {
       "flow_type": "template",

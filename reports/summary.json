@@ -19,11 +19,11 @@
       },
       {
         "type": "button",
-        "count": 41
+        "count": 42
       },
       {
         "type": "combo_box",
-        "count": 2
+        "count": 4
       },
       {
         "type": "data_items",
@@ -111,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 67
+        "count": 69
       },
       {
         "type": "text_area",
@@ -127,7 +127,7 @@
       },
       {
         "type": "title",
-        "count": 25
+        "count": 26
       },
       {
         "type": "toggle_bar",
@@ -155,11 +155,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 194
+        "count": 195
       },
       {
         "type": "emit: force_reload",
-        "count": 4
+        "count": 3
       },
       {
         "type": "emit: force_reprocess",
@@ -199,7 +199,7 @@
       },
       {
         "type": "set_field",
-        "count": 12
+        "count": 15
       },
       {
         "type": "set_item",
@@ -1303,7 +1303,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 3
+        "total": 5
       },
       {
         "type": "data_list",
@@ -1373,12 +1373,12 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 3
+        "total": 4
       },
       {
         "type": "template",
         "subtype": null,
-        "total": 47
+        "total": 48
       },
       {
         "type": "template",

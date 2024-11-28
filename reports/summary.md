@@ -7,8 +7,8 @@
 | accordion_section | 1 |
 | animated_section | 2 |
 | audio | 3 |
-| button | 41 |
-| combo_box | 2 |
+| button | 42 |
+| combo_box | 4 |
 | data_items | 13 |
 | debug_toggle | 1 |
 | display_grid | 1 |
@@ -30,11 +30,11 @@
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 229 |
-| text | 67 |
+| text | 69 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 3 |
-| title | 25 |
+| title | 26 |
 | toggle_bar | 1 |
 | update_action_list | 2 |
 | video | 2 |
@@ -47,8 +47,8 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 194 |
-| emit: force_reload | 4 |
+| emit: completed | 195 |
+| emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
@@ -58,7 +58,7 @@
 | go_to | 18 |
 | pop_up | 4 |
 | reset_app | 1 |
-| set_field | 12 |
+| set_field | 15 |
 | set_item | 3 |
 | set_local | 15 |
 | task | 3 |
@@ -335,7 +335,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 3 |
+| data_list |  | 5 |
 | data_list | activities | 1 |
 | data_list | app_config_language_list | 1 |
 | data_list | characters | 1 |
@@ -349,8 +349,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 1 |
 | data_pipe | generated | 18 |
 | generator |  | 21 |
-| global |  | 3 |
-| template |  | 47 |
+| global |  | 4 |
+| template |  | 48 |
 | template | generated | 191 |
 | template | legal_terms | 4 |
 </details>
