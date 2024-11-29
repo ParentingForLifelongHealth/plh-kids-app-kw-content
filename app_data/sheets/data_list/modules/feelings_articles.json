@@ -8,8 +8,8 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "media_type": "video",
-      "media_asset": "audio/feelings_audio_1.mp3",
+      "media_type": "audio",
+      "media_asset": "audio/care_audio/feelings_audio.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1ZIMLTBvC6nXUbWbW9_Wmlgx7394yXHKqAaokytKSdpA",
       "text_1_facilitator": "Today we are learning to talk about feelings with our children. \n\nNoticing emotions, both our own and our children's, helps us care for ourselves. \n\nNoticing and talking about feelings with our children helps them learn to express and manage their emotions – even the difficult ones.",
       "_translations": {

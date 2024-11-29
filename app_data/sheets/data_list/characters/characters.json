@@ -8,7 +8,7 @@
     {
       "id": "facilitator",
       "role": "facilitator",
-      "image_asset": "images/kw_facilitator_rd.png",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Noura",
       "_translations": {
         "name": {}
@@ -61,7 +61,7 @@
       "family_no": 1,
       "age": 18,
       "role": "child",
-      "image_asset": "images/kw_f1_son_18.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Nasser",
       "_translations": {
         "name": {
@@ -80,7 +80,7 @@
       "family_no": 1,
       "age": 16,
       "role": "child",
-      "image_asset": "images/kw_f1_daughter_16.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Dana",
       "_translations": {
         "name": {
@@ -94,12 +94,12 @@
       }
     },
     {
-      "id": "f1_daughter_3",
-      "caps_id": "F1_DAUGHTER_3",
+      "id": "f1_daughter_2",
+      "caps_id": "F1_DAUGHTER_2",
       "family_no": 1,
       "age": 3,
       "role": "child",
-      "image_asset": "images/kw_f1_daughter_3.svg",
+      "image_asset": "images/kw_f1_daughter_2.svg",
       "name": "Mariam",
       "_translations": {
         "name": {
@@ -137,7 +137,7 @@
       "family_no": 1,
       "age": 5,
       "role": "child",
-      "image_asset": "images/kw_f1_son_5.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Abdulaziz",
       "_translations": {
         "name": {
@@ -151,12 +151,12 @@
       }
     },
     {
-      "id": "f1_daughter_2",
-      "caps_id": "F1_DAUGHTER_2",
+      "id": "f1_daughter_3",
+      "caps_id": "F1_DAUGHTER_3",
       "family_no": 1,
       "age": 2,
       "role": "child",
-      "image_asset": "images/kw_f1_daughter_2.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Layan",
       "_translations": {
         "name": {
@@ -174,7 +174,7 @@
       "caps_id": "F2_MOTHER",
       "family_no": 2,
       "role": "caregiver",
-      "image_asset": "images/kw_f2_mother.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Mother",
       "_translations": {
         "name": {
@@ -229,7 +229,7 @@
       "family_no": 2,
       "age": 17,
       "role": "child",
-      "image_asset": "images/kw_f2_daughter_17.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Maha",
       "_translations": {
         "name": {
@@ -247,7 +247,7 @@
       "caps_id": "F2_SON_15",
       "family_no": 2,
       "role": "child",
-      "image_asset": "images/kw_f2_son_15.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Fahad",
       "_translations": {
         "name": {
@@ -340,7 +340,7 @@
       "family_no": 3,
       "age": 12,
       "role": "child",
-      "image_asset": "images/kw_f3_daughter_12.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Lulwa",
       "_translations": {
         "name": {
@@ -359,7 +359,7 @@
       "family_no": 3,
       "age": 15,
       "role": "child",
-      "image_asset": "images/kw_f3_son_15.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Mishari",
       "_translations": {
         "name": {
@@ -378,7 +378,7 @@
       "family_no": 3,
       "age": 17,
       "role": "child",
-      "image_asset": "images/kw_f3_daughter_17.svg",
+      "image_asset": "images/kw_f1_mother.svg",
       "name": "Farah",
       "_translations": {
         "name": {

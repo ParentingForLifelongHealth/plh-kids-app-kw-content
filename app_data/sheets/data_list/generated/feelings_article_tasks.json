@@ -122,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/feelings_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/feelings_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1ZIMLTBvC6nXUbWbW9_Wmlgx7394yXHKqAaokytKSdpA",
       "_translatedFields": {
         "text_1_facilitator": {

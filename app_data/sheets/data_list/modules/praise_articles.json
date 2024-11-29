@@ -91,8 +91,8 @@
     {
       "id": "intro_2",
       "category_id": "intro",
-      "media_type": "video",
-      "media_asset": "audio/praise_audio_1.mp3",
+      "media_type": "audio",
+      "media_asset": "audio/care_audio/praise_audio.mp3",
       "text_1_facilitator": "We all feel better when we are praised.\n\nPraising your child when they behave well will make them want to behave that way more often. \n\nIt also creates a positive and loving relationship between you.\n\nBegin by praising your child during your one-on-one time.",
       "_translations": {
         "text_1_facilitator": {

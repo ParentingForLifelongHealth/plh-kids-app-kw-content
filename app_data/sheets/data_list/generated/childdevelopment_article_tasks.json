@@ -122,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/learn_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/childdevelopment_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1wUVFb8x-bFKkith4JeGM5zFS82qpNuHvmcSe1loSUwI",
       "_translatedFields": {
         "text_1_facilitator": {

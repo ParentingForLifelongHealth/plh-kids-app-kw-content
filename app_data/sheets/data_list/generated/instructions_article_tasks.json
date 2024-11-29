@@ -122,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/instructions_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/instructions_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/12kV7LV3NGRg22ss4c5FHXvsITKeiGCaUjbn3Rztxls4",
       "_translatedFields": {
         "text_1_facilitator": {

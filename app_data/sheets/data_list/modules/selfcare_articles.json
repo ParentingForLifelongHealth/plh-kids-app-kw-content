@@ -8,8 +8,8 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "media_type": "video",
-      "media_asset": "audio/care_audio_1.mp3",
+      "media_type": "audio",
+      "media_asset": "audio/care_audio/selfcare_audio.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1C-QTp4INJ78dY-v04jdfM4Gm0z0TXloOwhI34ppttyM",
       "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
       "_translations": {

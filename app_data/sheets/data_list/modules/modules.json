@@ -8,7 +8,7 @@
     {
       "id": "selfcare",
       "number": 1,
-      "image_asset": "images/selfcare.jpg",
+      "image_asset": "images/self_care_yc.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
       "title": "Taking Care of Yourself",
@@ -26,7 +26,7 @@
     {
       "id": "childdevelopment",
       "number": 2,
-      "image_asset": "images/childdevelopment.svg",
+      "image_asset": "images/child_development_yc.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_3",
       "title": "Child Development",
@@ -44,7 +44,7 @@
     {
       "id": "oneononetime",
       "number": 3,
-      "image_asset": "images/one_on_one_challenges.svg",
+      "image_asset": "images/one_on_one_yc.svg",
       "relax_id": "relax_8",
       "check_in_id": "check_in_4",
       "title": "One-on-One Time",
@@ -62,7 +62,7 @@
     {
       "id": "praise",
       "number": 4,
-      "image_asset": "images/praise.svg",
+      "image_asset": "images/feelings_yc.svg",
       "relax_id": "relax_10",
       "check_in_id": "check_in_6",
       "title": "Praise",
@@ -80,7 +80,7 @@
     {
       "id": "feelings",
       "number": 5,
-      "image_asset": "images/talk_feelings_challenges.svg",
+      "image_asset": "images/praise_yc.svg",
       "relax_id": "relax_11",
       "check_in_id": "check_in_7",
       "title": "Feelings",
@@ -98,7 +98,7 @@
     {
       "id": "instructions",
       "number": 6,
-      "image_asset": "images/instructions.svg",
+      "image_asset": "images/instructions_yc.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_8",
       "title": "Instructions",
@@ -116,7 +116,7 @@
     {
       "id": "rulesroutines",
       "number": 7,
-      "image_asset": "images/rulesroutines.jpg",
+      "image_asset": "images/routines_yc.svg",
       "relax_id": "relax_17",
       "check_in_id": "check_in_12",
       "title": "Rules",
@@ -134,7 +134,7 @@
     {
       "id": "consequences",
       "number": 8,
-      "image_asset": "images/consequences.jpg",
+      "image_asset": "images/consequences_yc.svg",
       "relax_id": "relax_21",
       "check_in_id": "check_in_13",
       "title": "Consequences",
@@ -152,7 +152,7 @@
     {
       "id": "problemsolving",
       "number": 9,
-      "image_asset": "images/problemsolving.svg",
+      "image_asset": "images/problem_solving_yc.svg",
       "relax_id": "relax_24",
       "check_in_id": "check_in_16",
       "title": "Solve Problems",
