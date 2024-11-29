@@ -28,9 +28,13 @@
     {
       "type": "display_group",
       "name": "dg_top",
+      "parameter_list": {
+        "sticky": "top"
+      },
       "exclude_from_translation": true,
       "style_list": [
-        "justify-content: space-between"
+        "justify-content: space-between",
+        "padding: 0 24px"
       ],
       "rows": [
         {
@@ -42,7 +46,7 @@
           },
           "exclude_from_translation": true,
           "style_list": [
-            "width: 100px"
+            "width: 96px"
           ],
           "_nested_name": "dg_top.image"
         },
