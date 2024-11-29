@@ -442,7 +442,9 @@
                   "name": "button_continue",
                   "value": "Continue",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "kw_ar": true
+                    }
                   },
                   "action_list": [
                     {
@@ -565,7 +567,9 @@
           "name": "button_restart",
           "value": "Restart",
           "_translations": {
-            "value": {}
+            "value": {
+              "kw_ar": true
+            }
           },
           "action_list": [
             {

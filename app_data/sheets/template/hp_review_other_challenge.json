@@ -76,7 +76,9 @@
       "name": "text",
       "value": "Sorry we missed this!",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "text"
     },
@@ -85,7 +87,9 @@
       "name": "question_text",
       "value": "Do you want to share it with us?",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -185,7 +189,9 @@
       "name": "placeholder",
       "value": "Tap and type",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "placeholder"
@@ -195,7 +201,9 @@
       "name": "reply",
       "value": "Thank you for sharing your challenge! We will use this feedback to make @global.app_name better.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "hidden": "!@local.text_box",
       "_nested_name": "reply",

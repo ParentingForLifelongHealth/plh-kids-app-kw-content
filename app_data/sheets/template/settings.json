@@ -12,7 +12,9 @@
           "name": "title",
           "value": "Settings",
           "_translations": {
-            "value": {}
+            "value": {
+              "kw_ar": true
+            }
           },
           "_nested_name": "heading.title"
         }

@@ -10,15 +10,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to spend 5 minutes of one-on-one time with your child.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -63,15 +81,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to talk with your child about their feelings during one-on-one time.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -116,15 +152,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity is to praise your child for 3 things every day.",
       "_translations": {
-        "text_goal": {},
-        "reply_no": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "question_how": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -169,15 +223,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to try out POSITIVE, SPECIFIC, and REALISTIC  instructions with your child.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -222,15 +294,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to make ONE rule and ONE routine with your child.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -275,15 +365,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to discuss a possible consequence with your child about one persistent challenging household rule.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -328,15 +436,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your goal was to to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -381,15 +507,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to take care of yourself.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -434,15 +578,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "text_goal": "Your home activity was to play with your child.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "activity_title": {},
-        "question_done": {},
-        "reply_no": {},
-        "question_how": {},
-        "outro_text": {}
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_goal": {

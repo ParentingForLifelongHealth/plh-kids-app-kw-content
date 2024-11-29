@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "Counting sounds",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself today, you deserve it.",
       "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
@@ -96,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/feelings_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/feelings_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1ZIMLTBvC6nXUbWbW9_Wmlgx7394yXHKqAaokytKSdpA",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -113,9 +139,15 @@
       "category_id": "intro",
       "text_1_facilitator": "Today we are learning to talk about feelings with our children. \n\nNoticing emotions, both our own and our children's, helps us care for ourselves. \n\nNoticing and talking about feelings with our children helps them learn to express and manage their emotions – even the difficult ones.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will it help you and your family?",
       "media_transcript": "Greetings, everyone.\n\nDoes your child ever get so upset that you don’t know what to do? \n\nYou can help your child to manage their emotions better by showing them how to talk about their feelings. In order to talk about feelings you need to first notice and then accept all the emotions we have.",
@@ -137,9 +169,15 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s look at another family to see how talking about feelings helps them in a practical way:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/feelings_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -164,8 +202,12 @@
       "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "I see that your hands are tight and you are speaking loudly. It looks like you are upset, @data.characters.f3_son_4.name. It’s not easy, let’s practise a little bit more. I know you can do it.",
       "completed": false
@@ -186,8 +228,12 @@
       "character_2_id": "f3_son_4",
       "character_1_text": "Five kicks in a row! You seem really proud to have made it to five, @data.characters.f3_son_4.name!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Let’s do 10!",
       "completed": false
@@ -204,7 +250,9 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "Well done! I am very happy to be able to spend this time with you, @data.characters.f3_son_4.name",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -299,34 +347,90 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Not quite. Naming emotions might not make someone feel better right away. The goal is to help him recognize his feelings so he can handle them better next time.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_feedback_5": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That’s right. By naming @data.characters.f3_son_4.name’s emotions, @data.characters.f3_uncle.name models an important skill.",
       "quiz_1_feedback_3": "Not really. While solving problems is important, the main goal here is to help @data.characters.f3_son_4.name recognize his emotions. Once he knows what he’s feeling, he’ll be better at solving problems next time.",
@@ -403,19 +507,45 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "With these three tips, you can help your child learn to manage their emotions well.",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "NOTICE",
       "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
@@ -456,12 +586,24 @@
       "category_id": "practise",
       "quiz_1_feedback_1": "It is never fun to run late, but @data.characters.f1_mother.name will miss the opportunity to help her son learn to deal with his frustration if she doesn't help him first recognise what he’s feeling.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
       "quiz_1_question": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?",
@@ -495,12 +637,24 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "That's great! It might be awkward to talk about feelings at first, but it will get better for everyone with practice.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's okay. Learning to share emotions with our children can be challenging. Take a minute after one-on-one time today to think through the emotions you saw your child display. You might also want to think about the things that you felt!",
       "quiz_1_question": "Are you up for trying? Can you help your child notice their feelings during one-on-one time today?",

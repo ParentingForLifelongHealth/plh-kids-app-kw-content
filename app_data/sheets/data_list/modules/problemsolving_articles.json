@@ -9,13 +9,19 @@
       "id": "intro_1",
       "category_id": "intro",
       "media_type": "video",
-      "media_asset": "audio/solve_audio_1.mp3",
+      "media_asset": "audio/care_audio/problem_solving_audio.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift to give them!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -38,7 +44,9 @@
       "character_1_id": "f3_son_4",
       "character_1_text": "Give it to me!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -54,8 +62,12 @@
       "character_2_id": "f3_daughter_7",
       "character_1_text": "@data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name, please share the magnet tiles",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -75,10 +87,16 @@
       "character_2_id": "f3_son_4",
       "text_1_facilitator": "KNOW IT",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -107,10 +125,18 @@
       "character_3_id": "f3_daughter_7",
       "text_1_facilitator": "SOLVE IT",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        },
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -138,9 +164,15 @@
       "character_2_id": "f3_daughter_7",
       "text_1_facilitator": "TEST IT",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -161,21 +193,51 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s reflect on how @data.characters.f3_mother.name, @data.characters.f3_daughter_7.name and @data.characters.f3_son_4.name worked together to solve their problem.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -244,23 +306,57 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_4_button_text": {},
-        "section_4_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
+        "section_4_title": {
+          "kw_ar": true
+        },
+        "section_4_text": {
+          "kw_ar": true
+        },
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -337,16 +433,36 @@
       "category_id": "practise",
       "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -395,14 +511,30 @@
       "category_id": "home_activity",
       "text_1_facilitator": "Your home activity is to identify a problem your child may have and practise the four steps of problem-solving together: \nKnow It, Solve It, Try It, Reflect. \n\nKnowing how to solve problems is something they can use for the rest of their lives!",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

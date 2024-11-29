@@ -12,8 +12,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
       "title": "Body Scan",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,8 +35,12 @@
       "media_type": "audio",
       "title": "Breathe to three",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -50,8 +58,12 @@
       "media_type": "audio",
       "title": "Think about today",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -69,8 +81,12 @@
       "media_type": "audio",
       "title": "Small things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -88,8 +104,12 @@
       "media_type": "audio",
       "title": "Feel the ground",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -107,8 +127,12 @@
       "media_type": "audio",
       "title": "Counting sounds",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -126,8 +150,12 @@
       "media_type": "audio",
       "title": "Praise yourself",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -145,8 +173,12 @@
       "media_type": "audio",
       "title": "List of things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -164,8 +196,12 @@
       "media_type": "audio",
       "title": "Angry? Take a break",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

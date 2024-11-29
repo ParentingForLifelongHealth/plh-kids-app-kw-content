@@ -10,8 +10,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1xep26StwlEqZ46sqUvwjfOkiNPc_RfcUYV9mk1eiRu8",
       "title": "Body Scan",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -71,17 +75,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
       "quiz_1_feedback_3": "Sorry to hear that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
@@ -97,8 +123,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/care_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/selfcare_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1C-QTp4INJ78dY-v04jdfM4Gm0z0TXloOwhI34ppttyM",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -114,9 +140,15 @@
       "category_id": "intro",
       "text_1_facilitator": "**Welcome to your first lesson**\n\nToday's topic is about self-care. \n\nWe often forget to take care of ourselves, but it's really important, especially if you are a parent!\n\nWhen you reduce stress and treat yourselves kindly, it helps both you and your children.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How does self-care help you and your family?",
       "media_transcript": "Greetings, everyone.\n\nThere are times when we experience challenges, face problems, and do not know what to do. It is important to take care of ourselves every day, so we are ready to handle those times well and stay calm. \n\nWhen we are calm, we are in a good state to think positively and come up with positive solutions to any challenges we may be facing.",
@@ -138,9 +170,15 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s look at how @data.characters.f1_mother.name manages to take care of herself when life gets a bit too much.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/self_care_yc_1.svg",
       "character_1_id": "f1_daughter_6",
@@ -165,8 +203,12 @@
       "character_2_id": "f1_daughter_6",
       "character_1_text": "Alright, @data.characters.f1_daughter_6.name, let me finish preparing lunch quickly, and then I will come play with you.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Okay, Mama.",
       "completed": false
@@ -183,7 +225,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "(🤔_thinking_) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -199,7 +243,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "(🤔_thinking_) What a day. I have a lot of things to do, but I am still standing and trying my best every day. Tomorrow, I should visit my friends so we can catch up and be reminded that we aren't alone!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -282,29 +328,75 @@
       "quiz_1_option_3_image_asset": "/images/icons/faces/sad_face_new.svg",
       "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_feedback_5": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
@@ -377,17 +469,39 @@
       "quiz_3_option_2_text": "",
       "_translations": {
         "quiz_3_option_2_text": {},
-        "quiz_3_feedback_5": {},
-        "quiz_3_option_6_text": {},
-        "quiz_3_feedback_6": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {}
+        "quiz_3_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_6": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        }
       },
       "quiz_3_option_6_image_asset": "More tips",
       "quiz_3_feedback_5": "Take a Pause",
@@ -452,20 +566,48 @@
       "category_id": "practise",
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "quiz_1_feedback_3": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
@@ -531,20 +673,48 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "Excellent. Taking care of yourself is an important parenting skill!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Excellent. Taking care of yourself is an important parenting skill!",
       "quiz_1_feedback_3": "Excellent. Taking care of yourself is an important parenting skill!",

@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "Think about today",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Sometimes things go great and sometimes they do not. Sometimes we do not quite know what to think... and that is totally okay!  Praise yourself for being here on this app and trying – you are moving forward.",
       "quiz_1_feedback_3": "Sorry to hear that things are difficult right now. Take a deep breath and know that you are valued by your family and friends.",
@@ -96,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/instructions_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/instructions_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/12kV7LV3NGRg22ss4c5FHXvsITKeiGCaUjbn3Rztxls4",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -113,9 +139,15 @@
       "category_id": "intro",
       "text_1_facilitator": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things more happy and calm at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that belong to us!\"",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will this help you and your family?",
       "media_transcript": "Let’s try something: Don’t think about a pink elephant…\nWhat did you think about? A pink elephant?\n\nThe same happens when we give negative instructions to our children. When we tell them “stop fighting” or “stop playing with your food”, they don’t know how to think about what we DO want them to do, only what we DON’T want them to do.”\n\nWhen you give a positive instruction, your child is more likely to follow it.",
@@ -137,9 +169,15 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s see how @data.characters.f1_father.name gives instructions @data.characters.f1_daughter_2.name:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "text_2": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/instructions_yc_1.svg",
       "character_1_id": "f1_father",
@@ -165,9 +203,15 @@
       "character_1_id": "f1_father",
       "text_2": "After 3 minutes",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
       "character_2_id": "f1_daughter_2",
@@ -189,8 +233,12 @@
       "character_1_id": "f1_father",
       "character_1_text": "Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f1_daughter_2",
       "character_2_text": "Yay!",
@@ -208,7 +256,9 @@
       "character_1_id": "f1_father",
       "character_1_text": "Once upon a time…",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -282,27 +332,69 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "He does say his daughter’s name, but he also goes down to @data.characters.f1_daughter_2.name’s level, and gives her praise.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Try again! @data.characters.f1_father.name does not just give an instruction right away, he first makes sure @data.characters.f1_daughter_2.name feels seen!",
       "quiz_1_feedback_3": "Try again! @data.characters.f1_father.name first connects with his daughter by saying her name, getting down at her level, and giving her praise. This puts him in the best position to then give @data.characters.f1_daughter_2.name an instruction.",
@@ -340,8 +432,12 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/instructions_yc_8.svg",
       "text_2": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden",
@@ -362,8 +458,12 @@
       "character_1_id": "f2_daughter_3",
       "character_1_text": "Give it back to me!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f2_son_8",
       "character_2_text": "But I want it!",
@@ -381,7 +481,9 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name please come and help your grandfather carry these grocery bags inside the house.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -397,7 +499,9 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries you just gave her.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -453,21 +557,51 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Unlikely. The situation between the children would have gotten out of hand.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Yes. The children could have gotten so upset that they would have hurt each other.",
       "quiz_1_feedback_3": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he and @data.characters.f2_grandmother.name would have had to spend more time and energy trying to resolve the conflict.",
@@ -531,19 +665,45 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are three tips to give positive instructions that work:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "BE SPECIFIC",
       "section_1_text": "Say the behaviour you want your child to do.\nBut before you do that, connect to them, so they are more likely to listen.",
@@ -602,18 +762,42 @@
       "category_id": "practise",
       "quiz_1_feedback_1": "\"Please take turns with toys! Each of you can have 5 minutes.\"",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "\"Please speak with a quiet, indoor voice.\"",
       "quiz_1_feedback_3": "\"Please keep your food on the plate.\"",
@@ -653,12 +837,24 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "Of course, you can! It might feel awkward at first, but you will get it soon! Keep up the excellent effort.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!",
       "quiz_1_question": "Can you do it?",

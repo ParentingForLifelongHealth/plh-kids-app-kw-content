@@ -17,9 +17,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1GiePRd8Qk_TEKcQXjR__v2O5SQBw_dOeU-5gOOIfpT0",
       "title": "Fun with Food",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -46,9 +52,15 @@
       "media_type": "youtube",
       "title": "Object Sorting Adventure",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -76,9 +88,15 @@
       "media_type": "youtube",
       "title": "Pattern Discovery",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -106,9 +124,15 @@
       "media_type": "youtube",
       "title": "Guess the emotion!",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -136,9 +160,13 @@
       "media_type": "youtube",
       "title": "Photo Puzzle",
       "_translations": {
-        "title": {},
+        "title": {
+          "kw_ar": true
+        },
         "transcript": {},
-        "attribution": {}
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -163,9 +191,15 @@
       "media_type": "youtube",
       "title": "Animal Acting",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -192,9 +226,15 @@
       "media_type": "youtube",
       "title": "Cotton Colours",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -219,9 +259,15 @@
       "media_type": "youtube",
       "title": "Follow the leader",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -246,8 +292,12 @@
       "media_type": "youtube",
       "title": "Book Sharing Time",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -270,9 +320,15 @@
       "media_type": "youtube",
       "title": "String and create",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -299,9 +355,15 @@
       "media_type": "youtube",
       "title": "Freeze Dance",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -327,9 +389,15 @@
       "media_type": "youtube",
       "title": "Shadow Play",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -354,9 +422,15 @@
       "media_type": "youtube",
       "title": "Mini Obstacle Race",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -381,9 +455,15 @@
       "media_type": "youtube",
       "title": "Letter Hunt",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -405,9 +485,15 @@
       "media_type": "youtube",
       "title": "Shape and Colour",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -429,9 +515,15 @@
       "media_type": "youtube",
       "title": "Mystery Bag",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -453,8 +545,12 @@
       "media_type": "youtube",
       "title": "Body Outline",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -476,9 +572,15 @@
       "media_type": "youtube",
       "title": "Paper Ball Game",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -504,8 +606,12 @@
       "media_type": "youtube",
       "title": "Leader Says",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -528,9 +634,15 @@
       "media_type": "youtube",
       "title": "Superhero Costume Raffle",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -556,9 +668,15 @@
       "media_type": "youtube",
       "title": "What We See",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -585,9 +703,15 @@
       "media_type": "youtube",
       "title": "Treasure Hunt",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -613,9 +737,13 @@
       "media_type": "youtube",
       "title": "Shine a light",
       "_translations": {
-        "title": {},
+        "title": {
+          "kw_ar": true
+        },
         "transcript": {},
-        "attribution": {}
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -644,9 +772,15 @@
       "media_type": "youtube",
       "title": "Building Blocks Dictionary",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -673,9 +807,15 @@
       "media_type": "youtube",
       "title": "Colour Hunt",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -704,9 +844,15 @@
       "media_type": "youtube",
       "title": "I Spy",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -735,8 +881,12 @@
       "media_type": "youtube",
       "title": "Games with Pictures",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -758,8 +908,12 @@
       "media_type": "youtube",
       "title": "Playtime with books",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -781,9 +935,15 @@
       "media_type": "youtube",
       "title": "Opposites Game",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -811,8 +971,12 @@
       "media_type": "youtube",
       "title": "Blanket Forts",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -835,9 +999,15 @@
       "media_type": "youtube",
       "title": "Tricky Tower",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -864,9 +1034,15 @@
       "media_type": "youtube",
       "title": "Flip the blanket",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -893,9 +1069,15 @@
       "media_type": "youtube",
       "title": "Can you catch it?",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -922,9 +1104,15 @@
       "media_type": "youtube",
       "title": "Unseen Guesses",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -951,9 +1139,15 @@
       "media_type": "youtube",
       "title": "Things that make me happy",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -980,9 +1174,15 @@
       "media_type": "youtube",
       "title": "Nature Game",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1008,9 +1208,15 @@
       "media_type": "youtube",
       "title": "Raise the bottles",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1036,8 +1242,12 @@
       "media_type": "youtube",
       "title": "Baking Time",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1060,8 +1270,12 @@
       "media_type": "youtube",
       "title": "Secret Handshake",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1083,9 +1297,15 @@
       "media_type": "youtube",
       "title": "Extreme balancing",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1115,9 +1335,15 @@
       "media_type": "youtube",
       "title": "Olympic Challenge",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1144,9 +1370,15 @@
       "media_type": "youtube",
       "title": "Create silly characters",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1172,8 +1404,12 @@
       "media_type": "youtube",
       "title": "Guess the animal",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1195,9 +1431,15 @@
       "media_type": "youtube",
       "title": "Balloon Tennis",
       "_translations": {
-        "title": {},
-        "transcript": {},
-        "attribution": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        },
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

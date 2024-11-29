@@ -8,7 +8,9 @@
       "name": "outro_text",
       "value": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "outro_text"
     }

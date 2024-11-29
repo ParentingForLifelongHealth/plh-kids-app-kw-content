@@ -142,7 +142,9 @@
       "name": "button_completed",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "action_list": [
         {

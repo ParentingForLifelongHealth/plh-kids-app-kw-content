@@ -9,8 +9,12 @@
       "media_type": "audio",
       "title": "Small things",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "kw_ar": true
+        },
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -70,17 +74,39 @@
       "quiz_1_option_5_image_asset": "images/icons/faces/tired.svg",
       "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Sorry to hear that things are difficult. All families struggle. @global.app_name is here to help!",
       "quiz_1_feedback_3": "If you feel something went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
@@ -96,8 +122,8 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "audio/connect_audio_1.mp3",
-      "media_type": "video",
+      "media_asset": "audio/care_audio/oneononetime_audio.mp3",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1WRNJpPrNpLvHefE7gk4-SFJyjmw_MFpx42mihXGN1dw",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -113,9 +139,15 @@
       "category_id": "intro",
       "text_1_facilitator": "Today we are learning about spending one-on-one time with your child. \n\nSpending dedicated, special time with your child will make them feel valued and loved.\nIt will also build trust and respect, and support their learning.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "media_title": {
+          "kw_ar": true
+        },
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "media_title": "How will it help me and my family?",
       "media_transcript": "Greetings!\n\nIt turns out that our children don’t need lots of gifts. The best gift we can give them is to spend time with them.\n\nSpending time together (just the two of you) will help you to understand your child better and help them to learn new things.\n\nHaving this time together with your child will feel special because it will help them feel loved and valued. And that will make everything easier at home!",
@@ -134,8 +166,12 @@
       "category_id": "explore",
       "text_1_facilitator": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/one_on_one_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -157,8 +193,12 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "Wow! You are building such a tall and strong wall with those building blocks.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f3_son_4",
       "character_2_text": "It’s for our pet cat.",
@@ -179,8 +219,12 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "This enclosure is a cat house. It will keep your cat safe!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        },
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f3_son_4",
       "character_2_text": "Now you can help make a house for you and me to sleep in.",
@@ -198,7 +242,9 @@
       "character_1_id": "f3_uncle",
       "character_1_text": "This house is going to keep us both safe and happy. You are such a good builder, @data.characters.f3_son_4.name.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -300,35 +346,93 @@
       "quiz_1_feedback_1": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
       "_translations": {
         "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_option_5_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_feedback_5": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_5_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "False. @data.characters.f3_uncle.name is able to get down on the same level as @data.characters.f3_son_4.name. This helps @data.characters.f3_son_4.name know that his uncle is paying attention to playing with him.",
       "quiz_1_feedback_3": "False. @data.characters.f3_uncle.name gets down on @data.characters.f3_son_4.name’s level, looks at him and uses him name so @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name is present and paying attention to him.",
@@ -401,17 +505,39 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_title": "DO IT EVERY DAY",
       "section_1_text": "Spend at least 5 minutes with your child each day. More is better!",
@@ -540,42 +666,114 @@
       "category_id": "home_activity",
       "quiz_1_feedback_1": "Great choice! Spending time at the beach is a wonderful way to spend one-on-one time with your child and enjoy some fresh air together.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {},
-        "quiz_2_option_5_text": {},
-        "quiz_2_feedback_5": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {},
-        "quiz_2_option_6_text": {},
-        "quiz_2_feedback_6": {},
-        "quiz_3_option_4_text": {},
-        "quiz_3_feedback_4": {},
-        "quiz_3_option_5_text": {},
-        "quiz_3_feedback_5": {},
-        "quiz_3_option_6_text": {},
-        "quiz_3_feedback_6": {}
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_2_question": {
+          "kw_ar": true
+        },
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_2_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_2_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_6": {
+          "kw_ar": true
+        },
+        "quiz_3_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together.",
       "quiz_1_feedback_3": "Excellent idea! The journey to school or daycare can be a special time to connect with your child.",

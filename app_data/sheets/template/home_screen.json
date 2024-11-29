@@ -7,7 +7,9 @@
       "name": "false_text",
       "value": "List",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "false_text"
@@ -16,7 +18,9 @@
       "name": "true_text",
       "value": "Map",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "true_text"
