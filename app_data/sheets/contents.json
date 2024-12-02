@@ -1246,175 +1246,117 @@
         }
       ]
     },
-    "hp_review_challenges_gen": {
+    "gen_stack_module": {
       "flow_type": "generator",
-      "flow_name": "hp_review_challenges_gen",
+      "flow_name": "gen_stack_module",
       "parameter_list": {
-        "input_data_list": "hp_challenges",
-        "output_flow_name": "{@gen.id}_hp_review_challenges",
+        "input_data_list": "modules",
+        "output_flow_name": "stack_module_@gen.id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_xlsxPath": "KW module_navigation.xlsx",
       "_output_flows": [
         {
-          "flow_name": "oneononetime_hp_review_challenges",
+          "flow_name": "stack_module_selfcare",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "feelings_hp_review_challenges",
+          "flow_name": "stack_module_childdevelopment",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "praise_hp_review_challenges",
+          "flow_name": "stack_module_oneononetime",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "instructions_hp_review_challenges",
+          "flow_name": "stack_module_praise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "rulesroutines_hp_review_challenges",
+          "flow_name": "stack_module_feelings",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "consequences_hp_review_challenges",
+          "flow_name": "stack_module_instructions",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "problemsolving_hp_review_challenges",
+          "flow_name": "stack_module_rulesroutines",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "selfcare_hp_review_challenges",
+          "flow_name": "stack_module_consequences",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "childdevelopment_hp_review_challenges",
+          "flow_name": "stack_module_problemsolving",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
       ]
     },
-    "hp_review_congrats_gen": {
+    "gen_stack_module_start_at_unc": {
       "flow_type": "generator",
-      "flow_name": "hp_review_congrats_gen",
+      "flow_name": "gen_stack_module_start_at_unc",
       "parameter_list": {
-        "input_data_list": "hp_check_in",
-        "output_flow_name": "{@gen.id}_hp_review_congrats",
+        "input_data_list": "modules",
+        "output_flow_name": "stack_module_{@gen.id}_start_at_uncompleted",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_xlsxPath": "KW module_navigation.xlsx",
       "_output_flows": [
         {
-          "flow_name": "oneononetime_hp_review_congrats",
+          "flow_name": "stack_module_selfcare_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "feelings_hp_review_congrats",
+          "flow_name": "stack_module_childdevelopment_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "praise_hp_review_congrats",
+          "flow_name": "stack_module_oneononetime_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "instructions_hp_review_congrats",
+          "flow_name": "stack_module_praise_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "rulesroutines_hp_review_congrats",
+          "flow_name": "stack_module_feelings_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "consequences_hp_review_congrats",
+          "flow_name": "stack_module_instructions_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "problemsolving_hp_review_congrats",
+          "flow_name": "stack_module_rulesroutines_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "selfcare_hp_review_congrats",
+          "flow_name": "stack_module_consequences_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "childdevelopment_hp_review_congrats",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
-    "hp_review_gen": {
-      "flow_type": "generator",
-      "flow_name": "hp_review_gen",
-      "parameter_list": {
-        "input_data_list": "hp_check_in",
-        "output_flow_name": "{@gen.id}_hp_review",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "oneononetime_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "feelings_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "praise_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "instructions_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "rulesroutines_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "consequences_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "problemsolving_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "selfcare_hp_review",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "childdevelopment_hp_review",
+          "flow_name": "stack_module_problemsolving_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -1906,6 +1848,64 @@
           "flow_type": "template"
         }
       ]
+    },
+    "stack_hp_review_gen": {
+      "flow_type": "generator",
+      "flow_name": "stack_hp_review_gen",
+      "parameter_list": {
+        "input_data_list": "hp_check_in",
+        "output_flow_name": "stack_hp_review_{@gen.id}",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "stack_hp_review_oneononetime",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_feelings",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_praise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_instructions",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_rulesroutines",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_consequences",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_problemsolving",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_selfcare",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_hp_review_childdevelopment",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
     }
   },
   "global": {
@@ -1958,16 +1958,6 @@
       "flow_type": "template",
       "flow_name": "article",
       "_xlsxPath": "templates/modules/articles.xlsx"
-    },
-    "box_duo": {
-      "flow_type": "template",
-      "flow_name": "box_duo",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
-    },
-    "box_hp_review": {
-      "flow_type": "template",
-      "flow_name": "box_hp_review",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
     },
     "category_card": {
       "flow_type": "template",
@@ -2664,66 +2654,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "childdevelopment_hp_review": {
-      "flow_name": "childdevelopment_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "childdevelopment_hp_review_challenges": {
-      "flow_name": "childdevelopment_hp_review_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "childdevelopment_hp_review_congrats": {
-      "flow_name": "childdevelopment_hp_review_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "consequences_hp_review": {
-      "flow_name": "consequences_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "consequences_hp_review_challenges": {
-      "flow_name": "consequences_hp_review_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "consequences_hp_review_congrats": {
-      "flow_name": "consequences_hp_review_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "feelings_hp_review": {
-      "flow_name": "feelings_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "feelings_hp_review_challenges": {
-      "flow_name": "feelings_hp_review_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "feelings_hp_review_congrats": {
-      "flow_name": "feelings_hp_review_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "instructions_hp_review": {
-      "flow_name": "instructions_hp_review",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "instructions_hp_review_challenges": {
-      "flow_name": "instructions_hp_review_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "instructions_hp_review_congrats": {
-      "flow_name": "instructions_hp_review_congrats",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_childdevelopment": {
       "flow_name": "module_childdevelopment",
       "flow_subtype": "generated",
@@ -2904,78 +2834,138 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "oneononetime_hp_review": {
-      "flow_name": "oneononetime_hp_review",
+    "stack_hp_review_childdevelopment": {
+      "flow_name": "stack_hp_review_childdevelopment",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "oneononetime_hp_review_challenges": {
-      "flow_name": "oneononetime_hp_review_challenges",
+    "stack_hp_review_consequences": {
+      "flow_name": "stack_hp_review_consequences",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "oneononetime_hp_review_congrats": {
-      "flow_name": "oneononetime_hp_review_congrats",
+    "stack_hp_review_feelings": {
+      "flow_name": "stack_hp_review_feelings",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "praise_hp_review": {
-      "flow_name": "praise_hp_review",
+    "stack_hp_review_instructions": {
+      "flow_name": "stack_hp_review_instructions",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "praise_hp_review_challenges": {
-      "flow_name": "praise_hp_review_challenges",
+    "stack_hp_review_oneononetime": {
+      "flow_name": "stack_hp_review_oneononetime",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "praise_hp_review_congrats": {
-      "flow_name": "praise_hp_review_congrats",
+    "stack_hp_review_praise": {
+      "flow_name": "stack_hp_review_praise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "problemsolving_hp_review": {
-      "flow_name": "problemsolving_hp_review",
+    "stack_hp_review_problemsolving": {
+      "flow_name": "stack_hp_review_problemsolving",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "problemsolving_hp_review_challenges": {
-      "flow_name": "problemsolving_hp_review_challenges",
+    "stack_hp_review_rulesroutines": {
+      "flow_name": "stack_hp_review_rulesroutines",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "problemsolving_hp_review_congrats": {
-      "flow_name": "problemsolving_hp_review_congrats",
+    "stack_hp_review_selfcare": {
+      "flow_name": "stack_hp_review_selfcare",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "rulesroutines_hp_review": {
-      "flow_name": "rulesroutines_hp_review",
+    "stack_module_childdevelopment": {
+      "flow_name": "stack_module_childdevelopment",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "rulesroutines_hp_review_challenges": {
-      "flow_name": "rulesroutines_hp_review_challenges",
+    "stack_module_childdevelopment_start_at_uncompleted": {
+      "flow_name": "stack_module_childdevelopment_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "rulesroutines_hp_review_congrats": {
-      "flow_name": "rulesroutines_hp_review_congrats",
+    "stack_module_consequences": {
+      "flow_name": "stack_module_consequences",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "selfcare_hp_review": {
-      "flow_name": "selfcare_hp_review",
+    "stack_module_consequences_start_at_uncompleted": {
+      "flow_name": "stack_module_consequences_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "selfcare_hp_review_challenges": {
-      "flow_name": "selfcare_hp_review_challenges",
+    "stack_module_feelings": {
+      "flow_name": "stack_module_feelings",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "selfcare_hp_review_congrats": {
-      "flow_name": "selfcare_hp_review_congrats",
+    "stack_module_feelings_start_at_uncompleted": {
+      "flow_name": "stack_module_feelings_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_instructions": {
+      "flow_name": "stack_module_instructions",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_instructions_start_at_uncompleted": {
+      "flow_name": "stack_module_instructions_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_oneononetime": {
+      "flow_name": "stack_module_oneononetime",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_oneononetime_start_at_uncompleted": {
+      "flow_name": "stack_module_oneononetime_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_praise": {
+      "flow_name": "stack_module_praise",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_praise_start_at_uncompleted": {
+      "flow_name": "stack_module_praise_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_problemsolving": {
+      "flow_name": "stack_module_problemsolving",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_problemsolving_start_at_uncompleted": {
+      "flow_name": "stack_module_problemsolving_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_rulesroutines": {
+      "flow_name": "stack_module_rulesroutines",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_rulesroutines_start_at_uncompleted": {
+      "flow_name": "stack_module_rulesroutines_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_selfcare": {
+      "flow_name": "stack_module_selfcare",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "stack_module_selfcare_start_at_uncompleted": {
+      "flow_name": "stack_module_selfcare_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -2989,6 +2979,11 @@
       "flow_name": "home_screen",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
+    "hp_challenges": {
+      "flow_type": "template",
+      "flow_name": "hp_challenges",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
+    },
     "hp_review": {
       "flow_type": "template",
       "flow_name": "hp_review",
@@ -2998,16 +2993,6 @@
       "flow_type": "template",
       "flow_name": "hp_review_all",
       "_xlsxPath": "KW app_navigation.xlsx"
-    },
-    "hp_review_challenges": {
-      "flow_type": "template",
-      "flow_name": "hp_review_challenges",
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
-    },
-    "hp_review_other_challenge": {
-      "flow_type": "template",
-      "flow_name": "hp_review_other_challenge",
-      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
     "import_user_data": {
       "flow_type": "template",
@@ -3093,11 +3078,6 @@
       "flow_name": "nav_buttons",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
-    "pair": {
-      "flow_type": "template",
-      "flow_name": "pair",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
-    },
     "pop_up_text": {
       "flow_type": "template",
       "flow_name": "pop_up_text",
@@ -3147,11 +3127,6 @@
       "flow_type": "template",
       "flow_name": "user_id",
       "_xlsxPath": "app_menu.xlsx"
-    },
-    "workshop_activity": {
-      "flow_type": "template",
-      "flow_name": "workshop_activity",
-      "_xlsxPath": "templates/home_practice_review/hp_review_dependencies.xlsx"
     }
   },
   "tour": {}

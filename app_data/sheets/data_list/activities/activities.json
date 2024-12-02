@@ -548,19 +548,17 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {
-          "kw_ar": true
-        }
+        "transcript": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Body Outline"
         },
         "transcript": {
-          "eng": "Congratulations! You have unlocked a new play activity: Body Outline!\nThis fun and interactive game helps your toddler learn about different parts of the body. Start by drawing their body outline on a large piece of paper. As you go, ask them to point to and name different body parts. For example, you can say, “Where’s your nose?” or “Can you point to your feet?” As they point, encourage them to name each part. You can also add stickers or colour in the outline to make it more creative and engaging!\nThe benefits of this activity include improving body awareness, expanding vocabulary, and developing fine motor skills. It’s a playful and educational way to help your child learn while having fun!"
+          "eng": "Congratulations! You have unlocked a new play activity: Body Outline!\nThis fun and interactive game helps your toddler learn about different parts of the body. Start by drawing their body outline on a large piece of paper. As you go, ask them to point to and name different body parts. For example, you can say, “Where’s your nose?” or “Can you point to your feet?” As they point, encourage them to name each part. You can also add stickers or colour in the outline to make it more creative and engaging!\nThe benefits of this activity include improving body awareness, expanding vocabulary, and developing fine motor skills."
         }
       },
-      "transcript": "Congratulations! You have unlocked a new play activity: Body Outline!\nThis fun and interactive game helps your toddler learn about different parts of the body. Start by drawing their body outline on a large piece of paper. As you go, ask them to point to and name different body parts. For example, you can say, “Where’s your nose?” or “Can you point to your feet?” As they point, encourage them to name each part. You can also add stickers or colour in the outline to make it more creative and engaging!\nThe benefits of this activity include improving body awareness, expanding vocabulary, and developing fine motor skills. It’s a playful and educational way to help your child learn while having fun!"
+      "transcript": "Congratulations! You have unlocked a new play activity: Body Outline!\nThis fun and interactive game helps your toddler learn about different parts of the body. Start by drawing their body outline on a large piece of paper. As you go, ask them to point to and name different body parts. For example, you can say, “Where’s your nose?” or “Can you point to your feet?” As they point, encourage them to name each part. You can also add stickers or colour in the outline to make it more creative and engaging!\nThe benefits of this activity include improving body awareness, expanding vocabulary, and developing fine motor skills."
     },
     {
       "id": "paper_ball",

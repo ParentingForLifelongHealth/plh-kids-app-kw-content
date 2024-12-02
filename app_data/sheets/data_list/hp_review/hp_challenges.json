@@ -7,7 +7,6 @@
   "rows": [
     {
       "id": "oneononetime",
-      "number_of_challenges": "7",
       "challenge_1_tag_list": [
         "no"
       ],
@@ -153,7 +152,6 @@
     },
     {
       "id": "feelings",
-      "number_of_challenges": "7",
       "challenge_1_tag_list": [
         "no"
       ],
@@ -301,7 +299,6 @@
     },
     {
       "id": "praise",
-      "number_of_challenges": "4",
       "challenge_1_tag_list": [
         "no"
       ],
@@ -393,7 +390,6 @@
     },
     {
       "id": "instructions",
-      "number_of_challenges": "4",
       "challenge_1_tag_list": [
         "yes"
       ],
@@ -487,7 +483,6 @@
     },
     {
       "id": "rulesroutines",
-      "number_of_challenges": "5",
       "challenge_1_tag_list": [
         "yes"
       ],
@@ -597,7 +592,6 @@
     },
     {
       "id": "consequences",
-      "number_of_challenges": "7",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -742,7 +736,6 @@
     },
     {
       "id": "problemsolving",
-      "number_of_challenges": "6",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -871,7 +864,6 @@
     },
     {
       "id": "selfcare",
-      "number_of_challenges": "7",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -1018,7 +1010,6 @@
     },
     {
       "id": "childdevelopment",
-      "number_of_challenges": "5",
       "challenge_1_tag_list": [
         "no"
       ],
