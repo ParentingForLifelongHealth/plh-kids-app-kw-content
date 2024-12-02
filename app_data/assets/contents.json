@@ -15,6 +15,38 @@
     "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
     "size_kb": 239
   },
+  "audio/care_audio/childdevelopment_audio.mp3": {
+    "md5Checksum": "6f153d492faf9071ad295cf640e5994b",
+    "size_kb": 239
+  },
+  "audio/care_audio/consequences_audio.mp3": {
+    "md5Checksum": "07c4fc6a5c81fea6f748d2827c86e649",
+    "size_kb": 246.7
+  },
+  "audio/care_audio/feelings_audio.mp3": {
+    "md5Checksum": "52b284ce7d12d4425fcfcea2ea01522a",
+    "size_kb": 207.5
+  },
+  "audio/care_audio/instructions_audio.mp3": {
+    "md5Checksum": "a5dc7a9ad703406a3e6202e8a65bd5cc",
+    "size_kb": 278.8
+  },
+  "audio/care_audio/oneononetime_audio.mp3": {
+    "md5Checksum": "76b07e77666a30a129eb865a79645624",
+    "size_kb": 266.7
+  },
+  "audio/care_audio/praise_audio.mp3": {
+    "md5Checksum": "fcc42105fb8f8972730d9ea837eab478",
+    "size_kb": 237.5
+  },
+  "audio/care_audio/problem_solving_audio.mp3": {
+    "md5Checksum": "0280e87a03955f5e9cff79e1e3afcd29",
+    "size_kb": 296.8
+  },
+  "audio/care_audio/rulesroutines_audio.mp3": {
+    "md5Checksum": "299d50303effb364bac65aadc59e8f4a",
+    "size_kb": 174
+  },
   "audio/care_audio_1.mp3": {
     "md5Checksum": "88e6da9cff143cb7f1a2238b9756c62c",
     "size_kb": 527.5
@@ -22,38 +54,6 @@
   "audio/care_audio_2.mp3": {
     "md5Checksum": "629bd89e0c85b0273249cc37c83b93cb",
     "size_kb": 1166.3
-  },
-  "audio/care_audios/childdevelopment_audio.mp3": {
-    "md5Checksum": "6f153d492faf9071ad295cf640e5994b",
-    "size_kb": 239
-  },
-  "audio/care_audios/consequences_audio.mp3": {
-    "md5Checksum": "07c4fc6a5c81fea6f748d2827c86e649",
-    "size_kb": 246.7
-  },
-  "audio/care_audios/feelings_audio.mp3": {
-    "md5Checksum": "52b284ce7d12d4425fcfcea2ea01522a",
-    "size_kb": 207.5
-  },
-  "audio/care_audios/instructions_audio.mp3": {
-    "md5Checksum": "a5dc7a9ad703406a3e6202e8a65bd5cc",
-    "size_kb": 278.8
-  },
-  "audio/care_audios/oneononetime_audio.mp3": {
-    "md5Checksum": "76b07e77666a30a129eb865a79645624",
-    "size_kb": 266.7
-  },
-  "audio/care_audios/praise_audio.mp3": {
-    "md5Checksum": "fcc42105fb8f8972730d9ea837eab478",
-    "size_kb": 237.5
-  },
-  "audio/care_audios/problem_solving_audio.mp3": {
-    "md5Checksum": "0280e87a03955f5e9cff79e1e3afcd29",
-    "size_kb": 296.8
-  },
-  "audio/care_audios/rulesroutines_audio.mp3": {
-    "md5Checksum": "299d50303effb364bac65aadc59e8f4a",
-    "size_kb": 174
   },
   "audio/celebrate_audio_1.mp3": {
     "md5Checksum": "e117f1c42e911d67103d348f1da6c733",
@@ -118,6 +118,10 @@
   "audio/relax/relax_11.mp3": {
     "md5Checksum": "6bd6854eddad6fadf0a5bbd352d2b79f",
     "size_kb": 527.7
+  },
+  "audio/relax/relax_17.mp3": {
+    "md5Checksum": "c487addd85f28e9a9dba0049c6936668",
+    "size_kb": 479.7
   },
   "audio/relax/relax_21.mp3": {
     "md5Checksum": "8eb89a558dd71e17b011e18920570578",
@@ -427,43 +431,43 @@
     "md5Checksum": "4c3ae1e00265a5768d14fbb765c7f8fb",
     "size_kb": 192.9
   },
-  "images/comics/problem_solving_1.png": {
+  "images/comics/problem_solving_yc_1.png": {
     "md5Checksum": "8ae7c243a27b6df1d4654142e3ae04bd",
     "size_kb": 862.7
   },
-  "images/comics/problem_solving_1.svg": {
+  "images/comics/problem_solving_yc_1.svg": {
     "md5Checksum": "89f0f4c484419cf28b3647a03af1495a",
     "size_kb": 176.9
   },
-  "images/comics/problem_solving_2.png": {
+  "images/comics/problem_solving_yc_2.png": {
     "md5Checksum": "ec82356d49e94283e0cfca136c812ec6",
     "size_kb": 1002.8
   },
-  "images/comics/problem_solving_2.svg": {
+  "images/comics/problem_solving_yc_2.svg": {
     "md5Checksum": "d48332b9a7dd59bd4e818c4d08e81ec6",
     "size_kb": 229.1
   },
-  "images/comics/problem_solving_3.png": {
+  "images/comics/problem_solving_yc_3.png": {
     "md5Checksum": "1a18f5ffc13aa428053127347be71d2d",
     "size_kb": 1048.2
   },
-  "images/comics/problem_solving_3.svg": {
+  "images/comics/problem_solving_yc_3.svg": {
     "md5Checksum": "bb49e682c92d8b43b6940e4321b18d96",
     "size_kb": 260.8
   },
-  "images/comics/problem_solving_4.png": {
+  "images/comics/problem_solving_yc_4.png": {
     "md5Checksum": "7ca8385b149ca155a1d9269a4dcce3e2",
     "size_kb": 1115.4
   },
-  "images/comics/problem_solving_4.svg": {
+  "images/comics/problem_solving_yc_4.svg": {
     "md5Checksum": "7a19e9b79dddf603da975a9fa5064b6a",
     "size_kb": 272.4
   },
-  "images/comics/problem_solving_5.png": {
+  "images/comics/problem_solving_yc_5.png": {
     "md5Checksum": "9c641aaa30ad23821ecd84d211e65b06",
     "size_kb": 1121.6
   },
-  "images/comics/problem_solving_5.svg": {
+  "images/comics/problem_solving_yc_5.svg": {
     "md5Checksum": "5327c46edd1e348ec2949844bf1172d0",
     "size_kb": 268.4
   },
