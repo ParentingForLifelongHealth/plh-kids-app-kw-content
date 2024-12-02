@@ -19,7 +19,7 @@
       },
       {
         "type": "button",
-        "count": 42
+        "count": 43
       },
       {
         "type": "combo_box",
@@ -27,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 13
+        "count": 22
       },
       {
         "type": "debug_toggle",
@@ -39,7 +39,7 @@
       },
       {
         "type": "display_group",
-        "count": 45
+        "count": 46
       },
       {
         "type": "image",
@@ -91,7 +91,7 @@
       },
       {
         "type": "set_variable",
-        "count": 845
+        "count": 919
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "template",
-        "count": 229
+        "count": 247
       },
       {
         "type": "text",
@@ -187,7 +187,11 @@
       },
       {
         "type": "go_to",
-        "count": 18
+        "count": 15
+      },
+      {
+        "type": "nav_stack",
+        "count": 40
       },
       {
         "type": "pop_up",
@@ -223,13 +227,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "26128 KB",
-        "MB": "26.1 MB"
+        "KB": "29951 KB",
+        "MB": "30 MB"
       },
       {
         "assets": "unused",
-        "KB": "177637 KB",
-        "MB": "177.6 MB"
+        "KB": "184465 KB",
+        "MB": "184.5 MB"
       }
     ]
   },
@@ -330,6 +334,10 @@
       {
         "path": "contents.json",
         "size_kb": 5.9
+      },
+      {
+        "path": "images/child_development_yc.png",
+        "size_kb": 758.1
       },
       {
         "path": "images/childdevelopment.svg",
@@ -556,6 +564,14 @@
         "size_kb": 115.1
       },
       {
+        "path": "images/consequences_yc.png",
+        "size_kb": 629.1
+      },
+      {
+        "path": "images/feelings_yc.png",
+        "size_kb": 578.8
+      },
+      {
         "path": "images/flags/tz.svg",
         "size_kb": 0.5
       },
@@ -652,6 +668,10 @@
         "size_kb": 23.2
       },
       {
+        "path": "images/instructions_yc.png",
+        "size_kb": 752.7
+      },
+      {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
       },
@@ -660,16 +680,36 @@
         "size_kb": 13.1
       },
       {
+        "path": "images/one_on_one_yc.png",
+        "size_kb": 883.8
+      },
+      {
         "path": "images/praise.svg",
         "size_kb": 11.3
+      },
+      {
+        "path": "images/praise_yc.png",
+        "size_kb": 758.1
+      },
+      {
+        "path": "images/problem_solving_yc.png",
+        "size_kb": 824.2
       },
       {
         "path": "images/problemsolving.svg",
         "size_kb": 19.6
       },
       {
+        "path": "images/routines_yc.png",
+        "size_kb": 1035.5
+      },
+      {
         "path": "images/rulesroutines.jpg",
         "size_kb": 102.2
+      },
+      {
+        "path": "images/self_care_yc.png",
+        "size_kb": 608.4
       },
       {
         "path": "images/selfcare.jpg",
@@ -710,53 +750,7 @@
     ]
   },
   "assets_missing": {
-    "data": [
-      {
-        "path": "images/child_development_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/consequences_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/feelings_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/instructions_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/one_on_one_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/praise_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/problem_solving_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/routines_yc.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/self_care_yc.svg",
-        "count": 2,
-        "missing": true
-      }
-    ]
+    "data": []
   },
   "asset_summary": {
     "data": [
@@ -849,6 +843,11 @@
         "path": "audio/relax/relax_8.mp3",
         "count": 2,
         "size_kb": 432.9
+      },
+      {
+        "path": "images/child_development_yc.svg",
+        "count": 2,
+        "size_kb": 243.8
       },
       {
         "path": "images/comics/child_development_yc_1.svg",
@@ -1121,6 +1120,16 @@
         "size_kb": 179.4
       },
       {
+        "path": "images/consequences_yc.svg",
+        "count": 2,
+        "size_kb": 153.9
+      },
+      {
+        "path": "images/feelings_yc.svg",
+        "count": 2,
+        "size_kb": 202.2
+      },
+      {
         "path": "images/flags/gb.svg",
         "count": 2,
         "size_kb": 0.5
@@ -1256,6 +1265,11 @@
         "size_kb": 0.3
       },
       {
+        "path": "images/instructions_yc.svg",
+        "count": 2,
+        "size_kb": 208.8
+      },
+      {
         "path": "images/kw_f1_daughter_2.svg",
         "count": 1,
         "size_kb": 34.2
@@ -1346,6 +1360,31 @@
         "size_kb": 12.8
       },
       {
+        "path": "images/one_on_one_yc.svg",
+        "count": 2,
+        "size_kb": 443.8
+      },
+      {
+        "path": "images/praise_yc.svg",
+        "count": 2,
+        "size_kb": 386.8
+      },
+      {
+        "path": "images/problem_solving_yc.svg",
+        "count": 2,
+        "size_kb": 235.1
+      },
+      {
+        "path": "images/routines_yc.svg",
+        "count": 2,
+        "size_kb": 1854.9
+      },
+      {
+        "path": "images/self_care_yc.svg",
+        "count": 2,
+        "size_kb": 94
+      },
+      {
         "path": "lottie/bulging_circles.json",
         "count": 2,
         "size_kb": 11.8
@@ -1422,7 +1461,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 21
+        "total": 23
       },
       {
         "type": "global",
@@ -1437,7 +1476,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 191
+        "total": 209
       },
       {
         "type": "template",
