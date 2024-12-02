@@ -7,12 +7,12 @@
 | accordion_section | 1 |
 | animated_section | 2 |
 | audio | 3 |
-| button | 42 |
+| button | 43 |
 | combo_box | 4 |
-| data_items | 13 |
+| data_items | 22 |
 | debug_toggle | 1 |
 | display_grid | 1 |
-| display_group | 45 |
+| display_group | 46 |
 | image | 8 |
 | items | 11 |
 | lottie_animation | 2 |
@@ -25,11 +25,11 @@
 | round_button | 2 |
 | select_text | 1 |
 | set_field | 6 |
-| set_variable | 845 |
+| set_variable | 919 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 229 |
+| template | 247 |
 | text | 69 |
 | text_area | 2 |
 | text_box | 5 |
@@ -55,7 +55,8 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 193 |
 | feedback | 13 |
-| go_to | 18 |
+| go_to | 15 |
+| nav_stack | 40 |
 | pop_up | 4 |
 | reset_app | 1 |
 | set_field | 15 |
@@ -70,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 26128 KB | 26.1 MB |
-| unused | 177637 KB | 177.6 MB |
+| total | 29951 KB | 30 MB |
+| unused | 184465 KB | 184.5 MB |
 </details>
 
 <details open>
@@ -105,6 +106,7 @@ Assets that appear in app-data but do not have references within sheets
 | audio/solve_audio_1.mp3 | 609 |
 | audio/solve_audio_2.mp3 | 468.1 |
 | contents.json | 5.9 |
+| images/child_development_yc.png | 758.1 |
 | images/childdevelopment.svg | 20.3 |
 | images/comics/child_development_yc_1.png | 949.2 |
 | images/comics/child_development_yc_2.png | 928 |
@@ -161,6 +163,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/self_care_yc_3.png | 1035.2 |
 | images/comics/self_care_yc_4.png | 1050.2 |
 | images/consequences.jpg | 115.1 |
+| images/consequences_yc.png | 629.1 |
+| images/feelings_yc.png | 578.8 |
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -185,11 +189,17 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/settings.svg | 2.4 |
 | images/icons/settings_active.svg | 2.4 |
 | images/instructions.svg | 23.2 |
+| images/instructions_yc.png | 752.7 |
 | images/logos/favicon.png | 6.3 |
 | images/one_on_one_challenges.svg | 13.1 |
+| images/one_on_one_yc.png | 883.8 |
 | images/praise.svg | 11.3 |
+| images/praise_yc.png | 758.1 |
+| images/problem_solving_yc.png | 824.2 |
 | images/problemsolving.svg | 19.6 |
+| images/routines_yc.png | 1035.5 |
 | images/rulesroutines.jpg | 102.2 |
+| images/self_care_yc.png | 608.4 |
 | images/selfcare.jpg | 96.6 |
 | images/talk_feelings_challenges.svg | 19.3 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -208,15 +218,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/child_development_yc.svg | 2 |
-| images/consequences_yc.svg | 2 |
-| images/feelings_yc.svg | 2 |
-| images/instructions_yc.svg | 2 |
-| images/one_on_one_yc.svg | 2 |
-| images/praise_yc.svg | 2 |
-| images/problem_solving_yc.svg | 2 |
-| images/routines_yc.svg | 2 |
-| images/self_care_yc.svg | 2 |
 </details>
 
 <details >
@@ -244,6 +245,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
+| images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
 | images/comics/child_development_yc_2.svg | 357 | 2 |
 | images/comics/child_development_yc_3.svg | 345.5 | 2 |
@@ -298,6 +300,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/self_care_yc_2.svg | 167 | 2 |
 | images/comics/self_care_yc_3.svg | 233.2 | 2 |
 | images/comics/self_care_yc_4.svg | 179.4 | 2 |
+| images/consequences_yc.svg | 153.9 | 2 |
+| images/feelings_yc.svg | 202.2 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/kw.svg | 0.5 | 2 |
 | images/icons/book_outline_white.svg | 0.7 | 1 |
@@ -325,6 +329,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/thought_bubble.svg | 2.1 | 10 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
+| images/instructions_yc.svg | 208.8 | 2 |
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
 | images/kw_f1_daughter_6.svg | 37 | 1 |
 | images/kw_f1_father.svg | 27.8 | 1 |
@@ -343,6 +348,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/app_logo.png | 36 | 1 |
 | images/logos/kuwait.png | 248 | 1 |
 | images/logos/plh_white.png | 12.8 | 1 |
+| images/one_on_one_yc.svg | 443.8 | 2 |
+| images/praise_yc.svg | 386.8 | 2 |
+| images/problem_solving_yc.svg | 235.1 | 2 |
+| images/routines_yc.svg | 1854.9 | 2 |
+| images/self_care_yc.svg | 94 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 </details>
 
@@ -364,9 +374,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 1 |
 | data_pipe | generated | 18 |
-| generator |  | 21 |
+| generator |  | 23 |
 | global |  | 4 |
 | template |  | 48 |
-| template | generated | 191 |
+| template | generated | 209 |
 | template | legal_terms | 4 |
 </details>
