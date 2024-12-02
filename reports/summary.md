@@ -70,8 +70,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 22235 KB | 22.2 MB |
-| unused | 180791 KB | 180.8 MB |
+| total | 25870 KB | 25.9 MB |
+| unused | 177637 KB | 177.6 MB |
 </details>
 
 <details open>
@@ -87,14 +87,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 239 |
 | audio/care_audio_1.mp3 | 527.5 |
 | audio/care_audio_2.mp3 | 1166.3 |
-| audio/care_audios/childdevelopment_audio.mp3 | 239 |
-| audio/care_audios/consequences_audio.mp3 | 246.7 |
-| audio/care_audios/feelings_audio.mp3 | 207.5 |
-| audio/care_audios/instructions_audio.mp3 | 278.8 |
-| audio/care_audios/oneononetime_audio.mp3 | 266.7 |
-| audio/care_audios/praise_audio.mp3 | 237.5 |
-| audio/care_audios/problem_solving_audio.mp3 | 296.8 |
-| audio/care_audios/rulesroutines_audio.mp3 | 174 |
 | audio/celebrate_audio_1.mp3 | 497.1 |
 | audio/connect_audio_1.mp3 | 891.7 |
 | audio/connect_audio_2.mp3 | 981.4 |
@@ -147,16 +139,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/praise_yc_2.png | 1061.6 |
 | images/comics/praise_yc_3.png | 1185.1 |
 | images/comics/praise_yc_4.png | 761.3 |
-| images/comics/problem_solving_1.png | 862.7 |
-| images/comics/problem_solving_1.svg | 176.9 |
-| images/comics/problem_solving_2.png | 1002.8 |
-| images/comics/problem_solving_2.svg | 229.1 |
-| images/comics/problem_solving_3.png | 1048.2 |
-| images/comics/problem_solving_3.svg | 260.8 |
-| images/comics/problem_solving_4.png | 1115.4 |
-| images/comics/problem_solving_4.svg | 272.4 |
-| images/comics/problem_solving_5.png | 1121.6 |
-| images/comics/problem_solving_5.svg | 268.4 |
+| images/comics/problem_solving_yc_1.png | 862.7 |
+| images/comics/problem_solving_yc_2.png | 1002.8 |
+| images/comics/problem_solving_yc_3.png | 1048.2 |
+| images/comics/problem_solving_yc_4.png | 1115.4 |
+| images/comics/problem_solving_yc_5.png | 1121.6 |
 | images/comics/routines_yc_1.png | 1053.4 |
 | images/comics/routines_yc_11.png | 1109 |
 | images/comics/routines_yc_12.png | 981.4 |
@@ -221,22 +208,8 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| audio/care_audio/childdevelopment_audio.mp3 | 2 |
-| audio/care_audio/consequences_audio.mp3 | 2 |
-| audio/care_audio/feelings_audio.mp3 | 2 |
-| audio/care_audio/instructions_audio.mp3 | 2 |
-| audio/care_audio/oneononetime_audio.mp3 | 2 |
-| audio/care_audio/praise_audio.mp3 | 2 |
-| audio/care_audio/problem_solving_audio.mp3 | 2 |
-| audio/care_audio/rulesroutines_audio.mp3 | 2 |
 | audio/care_audio/selfcare_audio.mp3 | 2 |
-| audio/relax/relax_17.mp3 | 2 |
 | images/child_development_yc.svg | 2 |
-| images/comics/problem_solving_yc_1.svg | 2 |
-| images/comics/problem_solving_yc_2.svg | 2 |
-| images/comics/problem_solving_yc_3.svg | 2 |
-| images/comics/problem_solving_yc_4.svg | 2 |
-| images/comics/problem_solving_yc_5.svg | 2 |
 | images/consequences_yc.svg | 2 |
 | images/feelings_yc.svg | 2 |
 | images/instructions_yc.svg | 2 |
@@ -254,9 +227,18 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| audio/care_audio/childdevelopment_audio.mp3 | 239 | 2 |
+| audio/care_audio/consequences_audio.mp3 | 246.7 | 2 |
+| audio/care_audio/feelings_audio.mp3 | 207.5 | 2 |
+| audio/care_audio/instructions_audio.mp3 | 278.8 | 2 |
+| audio/care_audio/oneononetime_audio.mp3 | 266.7 | 2 |
+| audio/care_audio/praise_audio.mp3 | 237.5 | 2 |
+| audio/care_audio/problem_solving_audio.mp3 | 296.8 | 2 |
+| audio/care_audio/rulesroutines_audio.mp3 | 174 | 2 |
 | audio/relax/relax_1.mp3 | 769.5 | 2 |
 | audio/relax/relax_10.mp3 | 585.4 | 2 |
 | audio/relax/relax_11.mp3 | 527.7 | 2 |
+| audio/relax/relax_17.mp3 | 479.7 | 2 |
 | audio/relax/relax_21.mp3 | 575.2 | 2 |
 | audio/relax/relax_24.mp3 | 430.7 | 2 |
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
@@ -295,6 +277,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/praise_yc_2.svg | 250.9 | 2 |
 | images/comics/praise_yc_3.svg | 248.8 | 2 |
 | images/comics/praise_yc_4.svg | 192.9 | 2 |
+| images/comics/problem_solving_yc_1.svg | 176.9 | 2 |
+| images/comics/problem_solving_yc_2.svg | 229.1 | 2 |
+| images/comics/problem_solving_yc_3.svg | 260.8 | 2 |
+| images/comics/problem_solving_yc_4.svg | 272.4 | 2 |
+| images/comics/problem_solving_yc_5.svg | 268.4 | 2 |
 | images/comics/routines_yc_1.svg | 141.3 | 2 |
 | images/comics/routines_yc_11.svg | 319 | 2 |
 | images/comics/routines_yc_12.svg | 241.5 | 2 |
