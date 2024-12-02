@@ -223,8 +223,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "25870 KB",
-        "MB": "25.9 MB"
+        "KB": "26128 KB",
+        "MB": "26.1 MB"
       },
       {
         "assets": "unused",
@@ -712,11 +712,6 @@
   "assets_missing": {
     "data": [
       {
-        "path": "audio/care_audio/selfcare_audio.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/child_development_yc.svg",
         "count": 2,
         "missing": true
@@ -804,6 +799,11 @@
         "path": "audio/care_audio/rulesroutines_audio.mp3",
         "count": 2,
         "size_kb": 174
+      },
+      {
+        "path": "audio/care_audio/selfcare_audio.mp3",
+        "count": 2,
+        "size_kb": 257.8
       },
       {
         "path": "audio/relax/relax_1.mp3",
