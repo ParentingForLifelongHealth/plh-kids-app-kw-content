@@ -70,7 +70,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 25870 KB | 25.9 MB |
+| total | 26128 KB | 26.1 MB |
 | unused | 177637 KB | 177.6 MB |
 </details>
 
@@ -208,7 +208,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| audio/care_audio/selfcare_audio.mp3 | 2 |
 | images/child_development_yc.svg | 2 |
 | images/consequences_yc.svg | 2 |
 | images/feelings_yc.svg | 2 |
@@ -235,6 +234,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/care_audio/praise_audio.mp3 | 237.5 | 2 |
 | audio/care_audio/problem_solving_audio.mp3 | 296.8 | 2 |
 | audio/care_audio/rulesroutines_audio.mp3 | 174 | 2 |
+| audio/care_audio/selfcare_audio.mp3 | 257.8 | 2 |
 | audio/relax/relax_1.mp3 | 769.5 | 2 |
 | audio/relax/relax_10.mp3 | 585.4 | 2 |
 | audio/relax/relax_11.mp3 | 527.7 | 2 |
