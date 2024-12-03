@@ -46,6 +46,10 @@
           "exclude_from_translation": true
         },
         {
+          "name": "perform_category_header_computations",
+          "value": false
+        },
+        {
           "type": "nested_properties",
           "name": "header",
           "rows": [
@@ -73,7 +77,7 @@
       ]
     }
   ],
-  "_xlsxPath": "KW check_in article_generator.xlsx",
+  "_xlsxPath": "KW articles template generators.xlsx",
   "_output_flows": [
     {
       "flow_name": "article_selfcare_check_in_1",

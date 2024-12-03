@@ -426,22 +426,19 @@
           }
         },
         {
-          "type": "display_group",
-          "name": "reply_no_dg",
+          "type": "template",
+          "name": "reply_no",
+          "value": "feedback",
           "hidden": "@local.radio_group_done!=\"no\"",
-          "parameter_list": {
-            "style": "column"
-          },
           "rows": [
             {
-              "type": "text",
-              "name": "reply_no",
+              "name": "bubble_text",
               "value": "@local.row_data.reply_no",
               "_translations": {
                 "value": {}
               },
-              "exclude_from_translation": true,
-              "_nested_name": "dg_1.reply_no_dg.reply_no",
+              "type": "set_variable",
+              "_nested_name": "dg_1.reply_no.bubble_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -459,7 +456,7 @@
               }
             }
           ],
-          "_nested_name": "dg_1.reply_no_dg",
+          "_nested_name": "dg_1.reply_no",
           "_dynamicFields": {
             "hidden": [
               {
@@ -699,22 +696,20 @@
               }
             },
             {
-              "type": "display_group",
-              "name": "reply_happy_dg",
+              "type": "template",
+              "name": "feedback_happy",
+              "value": "feedback",
               "hidden": "@local.radio_group_mood!=\"happy\"",
-              "parameter_list": {
-                "style": "column"
-              },
               "rows": [
                 {
-                  "type": "text",
-                  "name": "reply_happy",
+                  "name": "bubble_text",
                   "value": "@local.row_data.reply_happy",
                   "_translations": {
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_1.reply_yes_dg.reply_happy_dg.reply_happy",
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.reply_yes_dg.feedback_happy.bubble_text",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -732,7 +727,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_1.reply_yes_dg.reply_happy_dg",
+              "_nested_name": "dg_1.reply_yes_dg.feedback_happy",
               "_dynamicFields": {
                 "hidden": [
                   {
@@ -750,22 +745,20 @@
               }
             },
             {
-              "type": "display_group",
-              "name": "reply_ok_dg",
+              "type": "template",
+              "name": "feedback_okay",
+              "value": "feedback",
               "hidden": "@local.radio_group_mood!=\"ok\"",
-              "parameter_list": {
-                "style": "column"
-              },
               "rows": [
                 {
-                  "type": "text",
-                  "name": "reply_ok",
+                  "name": "bubble_text",
                   "value": "@local.row_data.reply_ok",
                   "_translations": {
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_1.reply_yes_dg.reply_ok_dg.reply_ok",
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.reply_yes_dg.feedback_okay.bubble_text",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -783,7 +776,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_1.reply_yes_dg.reply_ok_dg",
+              "_nested_name": "dg_1.reply_yes_dg.feedback_okay",
               "_dynamicFields": {
                 "hidden": [
                   {
@@ -801,22 +794,20 @@
               }
             },
             {
-              "type": "display_group",
-              "name": "reply_sad_dg",
+              "type": "template",
+              "name": "feedback_sad",
+              "value": "feedback",
               "hidden": "@local.radio_group_mood!=\"sad\"",
-              "parameter_list": {
-                "style": "column"
-              },
               "rows": [
                 {
-                  "type": "text",
-                  "name": "reply_sad",
+                  "name": "bubble_text",
                   "value": "@local.row_data.reply_sad",
                   "_translations": {
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_1.reply_yes_dg.reply_sad_dg.reply_sad",
+                  "type": "set_variable",
+                  "_nested_name": "dg_1.reply_yes_dg.feedback_sad.bubble_text",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -834,7 +825,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_1.reply_yes_dg.reply_sad_dg",
+              "_nested_name": "dg_1.reply_yes_dg.feedback_sad",
               "_dynamicFields": {
                 "hidden": [
                   {
@@ -871,7 +862,7 @@
         },
         {
           "type": "template",
-          "name": "nav_buttons",
+          "name": "nav_buttons_end",
           "value": "nav_buttons",
           "action_list": [
             {
@@ -895,7 +886,7 @@
           ],
           "condition": "@local.radio_group_done == \"yes\" && @local.radio_group_mood == \"happy\"",
           "rows": [],
-          "_nested_name": "dg_1.nav_buttons",
+          "_nested_name": "dg_1.nav_buttons_end",
           "_dynamicFields": {
             "condition": [
               {
@@ -923,7 +914,7 @@
         },
         {
           "type": "template",
-          "name": "nav_buttons",
+          "name": "nav_buttons_next",
           "value": "nav_buttons",
           "action_list": [
             {
@@ -948,7 +939,7 @@
           ],
           "condition": "!(@local.radio_group_done == \"yes\" && @local.radio_group_mood == \"happy\")",
           "rows": [],
-          "_nested_name": "dg_1.nav_buttons",
+          "_nested_name": "dg_1.nav_buttons_next",
           "_dynamicFields": {
             "condition": [
               {

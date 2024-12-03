@@ -4,28 +4,13 @@
   "status": "released",
   "rows": [
     {
-      "name": "speaker_image_asset",
-      "value": "@global.facilitator_face_asset",
+      "name": "character_id",
+      "value": "facilitator",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "speaker_image_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.facilitator_face_asset",
-            "matchedExpression": "@global.facilitator_face_asset",
-            "type": "global",
-            "fieldName": "facilitator_face_asset"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.facilitator_face_asset": [
-          "value"
-        ]
-      }
+      "_nested_name": "character_id"
     },
     {
       "name": "article_id",
@@ -2516,26 +2501,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_1.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_1.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
@@ -2673,26 +2658,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_2.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_2.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
@@ -2830,26 +2815,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_3.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_3.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
@@ -2987,26 +2972,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_4.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_4.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
@@ -3144,26 +3129,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_5.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_5.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
@@ -3301,26 +3286,26 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "speaker_image_asset",
-              "value": "@local.speaker_image_asset",
+              "name": "character_id",
+              "value": "@local.character_id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_feedback.option_6.speaker_image_asset",
+              "_nested_name": "dg_feedback.option_6.character_id",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@local.speaker_image_asset",
-                    "matchedExpression": "@local.speaker_image_asset",
+                    "fullExpression": "@local.character_id",
+                    "matchedExpression": "@local.character_id",
                     "type": "local",
-                    "fieldName": "speaker_image_asset"
+                    "fieldName": "character_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@local.speaker_image_asset": [
+                "@local.character_id": [
                   "value"
                 ]
               }
