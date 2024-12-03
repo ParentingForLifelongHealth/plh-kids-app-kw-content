@@ -79,6 +79,18 @@
               "name": "article_id",
               "value": "@item.id",
               "exclude_from_translation": true
+            },
+            {
+              "type": "nested_properties",
+              "name": "module",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "name": "show_progress_bar",
+                  "value": false,
+                  "exclude_from_translation": true
+                }
+              ]
             }
           ]
         }

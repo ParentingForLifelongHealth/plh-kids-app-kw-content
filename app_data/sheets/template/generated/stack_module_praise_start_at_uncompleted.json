@@ -177,6 +177,21 @@
                   "value"
                 ]
               }
+            },
+            {
+              "type": "nested_properties",
+              "name": "module",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "name": "show_progress_bar",
+                  "value": false,
+                  "exclude_from_translation": true,
+                  "type": "set_variable",
+                  "_nested_name": "find_first_uncompleted_article.module_start_at_id.module.show_progress_bar"
+                }
+              ],
+              "_nested_name": "find_first_uncompleted_article.module_start_at_id.module"
             }
           ],
           "_nested_name": "find_first_uncompleted_article.module_start_at_id"

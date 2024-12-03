@@ -33,10 +33,17 @@
           "_cleaned": "uncompleted | nav_stack: close_top"
         }
       ],
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "module_id",
-          "value": "@gen.id"
+          "value": "@gen.id",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "show_progress_bar",
+          "value": false,
+          "exclude_from_translation": true
         }
       ]
     }

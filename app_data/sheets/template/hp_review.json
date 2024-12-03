@@ -885,7 +885,26 @@
             }
           ],
           "condition": "@local.radio_group_done == \"yes\" && @local.radio_group_mood == \"happy\"",
-          "rows": [],
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "name": "show_previous",
+              "value": false,
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_1.nav_buttons_end.show_previous"
+            },
+            {
+              "name": "next_icon_src",
+              "value": "trophy",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_1.nav_buttons_end.next_icon_src"
+            }
+          ],
           "_nested_name": "dg_1.nav_buttons_end",
           "_dynamicFields": {
             "condition": [
@@ -938,7 +957,15 @@
             }
           ],
           "condition": "!(@local.radio_group_done == \"yes\" && @local.radio_group_mood == \"happy\")",
-          "rows": [],
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "name": "show_previous",
+              "value": false,
+              "type": "set_variable",
+              "_nested_name": "dg_1.nav_buttons_next.show_previous"
+            }
+          ],
           "_nested_name": "dg_1.nav_buttons_next",
           "_dynamicFields": {
             "condition": [

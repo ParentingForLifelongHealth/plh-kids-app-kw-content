@@ -136,6 +136,12 @@
       }
     },
     {
+      "name": "show_progress_bar",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_progress_bar"
+    },
+    {
       "type": "task_progress_bar",
       "name": "task_progress_bar",
       "parameter_list": {
@@ -337,7 +343,30 @@
                   ],
                   "exclude_from_translation": true,
                   "condition": "@item._first",
-                  "rows": [],
+                  "rows": [
+                    {
+                      "type": "nested_properties",
+                      "name": "article",
+                      "rows": [
+                        {
+                          "type": "nested_properties",
+                          "name": "nav_buttons",
+                          "exclude_from_translation": true,
+                          "rows": [
+                            {
+                              "name": "show_previous",
+                              "value": false,
+                              "exclude_from_translation": true,
+                              "type": "set_variable",
+                              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_first.article.nav_buttons.show_previous"
+                            }
+                          ],
+                          "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_first.article.nav_buttons"
+                        }
+                      ],
+                      "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_first.article"
+                    }
+                  ],
                   "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_first",
                   "_dynamicFields": {
                     "value": [
@@ -681,7 +710,33 @@
                   ],
                   "exclude_from_translation": true,
                   "condition": "@item._last",
-                  "rows": [],
+                  "rows": [
+                    {
+                      "type": "nested_properties",
+                      "name": "article",
+                      "rows": [
+                        {
+                          "type": "nested_properties",
+                          "name": "nav_buttons",
+                          "exclude_from_translation": true,
+                          "rows": [
+                            {
+                              "name": "next_icon_src",
+                              "value": "trophy",
+                              "_translations": {
+                                "value": {}
+                              },
+                              "exclude_from_translation": true,
+                              "type": "set_variable",
+                              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article.nav_buttons.next_icon_src"
+                            }
+                          ],
+                          "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article.nav_buttons"
+                        }
+                      ],
+                      "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article"
+                    }
+                  ],
                   "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last",
                   "_dynamicFields": {
                     "value": [

@@ -27,6 +27,7 @@
           "_cleaned": "uncompleted | nav_stack: close_top"
         }
       ],
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "module_id",
@@ -34,8 +35,16 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "module.module_id"
+        },
+        {
+          "name": "show_progress_bar",
+          "value": false,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "module.show_progress_bar"
         }
       ],
       "_nested_name": "module"
