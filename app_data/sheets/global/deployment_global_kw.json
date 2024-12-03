@@ -48,6 +48,16 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "combo_box_placeholder",
+      "value": "Tap and choose",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

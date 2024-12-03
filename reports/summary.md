@@ -5,34 +5,33 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
-| animated_section | 2 |
 | audio | 3 |
 | button | 43 |
 | combo_box | 4 |
 | data_items | 22 |
 | debug_toggle | 1 |
 | display_grid | 1 |
-| display_group | 46 |
+| display_group | 41 |
 | image | 8 |
 | items | 11 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
-| nested_properties | 21 |
+| nested_properties | 18 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 4 |
 | round_button | 2 |
 | select_text | 1 |
-| set_field | 6 |
-| set_variable | 919 |
+| set_field | 4 |
+| set_variable | 901 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 247 |
-| text | 69 |
+| template | 233 |
+| text | 52 |
 | text_area | 2 |
-| text_box | 5 |
+| text_box | 4 |
 | text_bubble | 3 |
 | title | 26 |
 | toggle_bar | 1 |
@@ -47,21 +46,21 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 195 |
+| emit: completed | 174 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 193 |
+| emit: uncompleted | 172 |
 | feedback | 13 |
-| go_to | 15 |
-| nav_stack | 40 |
-| pop_up | 4 |
+| go_to | 14 |
+| nav_stack | 59 |
+| pop_up | 3 |
 | reset_app | 1 |
-| set_field | 15 |
+| set_field | 13 |
 | set_item | 3 |
-| set_local | 15 |
+| set_local | 12 |
 | task | 3 |
 | user | 1 |
 </details>
@@ -71,8 +70,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 29951 KB | 30 MB |
-| unused | 184465 KB | 184.5 MB |
+| total | 29950 KB | 30 MB |
+| unused | 184466 KB | 184.5 MB |
 </details>
 
 <details open>
@@ -170,6 +169,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
+| images/icons/faces/neutral.svg | 0.5 |
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/heart.svg | 0.6 |
@@ -307,12 +307,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/book_outline_white.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 2 |
 | images/icons/faces/happiest.svg | 1.3 | 2 |
-| images/icons/faces/happy.svg | 53.5 | 22 |
+| images/icons/faces/happy.svg | 53.5 | 29 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 4 |
-| images/icons/faces/neutral.svg | 0.5 | 2 |
-| images/icons/faces/ok.svg | 46.6 | 18 |
+| images/icons/faces/ok.svg | 46.6 | 27 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 4 |
-| images/icons/faces/sad.svg | 48.2 | 22 |
+| images/icons/faces/sad.svg | 48.2 | 29 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 4 |
 | images/icons/faces/scared.svg | 2.1 | 2 |
 | images/icons/faces/stressed.svg | 60 | 18 |
@@ -374,9 +373,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 1 |
 | data_pipe | generated | 18 |
-| generator |  | 23 |
+| generator |  | 21 |
 | global |  | 4 |
-| template |  | 48 |
-| template | generated | 209 |
+| template |  | 43 |
+| template | generated | 191 |
 | template | legal_terms | 4 |
 </details>

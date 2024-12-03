@@ -50,6 +50,12 @@
           "_nested_name": "article.article_id"
         },
         {
+          "name": "perform_category_header_computations",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "article.perform_category_header_computations"
+        },
+        {
           "type": "nested_properties",
           "name": "header",
           "rows": [

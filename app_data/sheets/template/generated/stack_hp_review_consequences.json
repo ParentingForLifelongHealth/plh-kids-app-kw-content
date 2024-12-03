@@ -1,0 +1,45 @@
+{
+  "flow_name": "stack_hp_review_consequences",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "hp_review",
+      "value": "hp_review",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "nav_stack",
+          "args": [
+            "close_top"
+          ],
+          "_raw": "completed | nav_stack: close_top",
+          "_cleaned": "completed | nav_stack: close_top"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "nav_stack",
+          "args": [
+            "close_top"
+          ],
+          "_raw": "uncompleted | nav_stack: close_top",
+          "_cleaned": "uncompleted | nav_stack: close_top"
+        }
+      ],
+      "rows": [
+        {
+          "name": "row_id",
+          "value": "consequences",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "hp_review.row_id"
+        }
+      ],
+      "_nested_name": "hp_review"
+    }
+  ]
+}

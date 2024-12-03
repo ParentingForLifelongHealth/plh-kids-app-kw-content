@@ -4,6 +4,40 @@
   "status": "released",
   "rows": [
     {
+      "name": "show_previous",
+      "value": true,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "show_previous"
+    },
+    {
+      "name": "show_next",
+      "value": true,
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "show_next"
+    },
+    {
+      "name": "previous_icon_src",
+      "value": "arrow-back",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "previous_icon_src"
+    },
+    {
+      "name": "next_icon_src",
+      "value": "arrow-forward",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "next_icon_src"
+    },
+    {
       "type": "display_group",
       "name": "buttons",
       "parameter_list": {
@@ -12,7 +46,7 @@
       "rows": [
         {
           "type": "round_button",
-          "name": "button_uncompleted_chevron",
+          "name": "button_previous",
           "action_list": [
             {
               "trigger": "click",
@@ -25,14 +59,67 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "chevron-back",
+            "icon_src": "@local.previous_icon_src",
             "style": "information"
           },
-          "_nested_name": "buttons.button_uncompleted_chevron"
+          "condition": "!!@local.show_previous",
+          "_nested_name": "buttons.button_previous",
+          "_dynamicFields": {
+            "parameter_list": {
+              "icon_src": [
+                {
+                  "fullExpression": "@local.previous_icon_src",
+                  "matchedExpression": "@local.previous_icon_src",
+                  "type": "local",
+                  "fieldName": "previous_icon_src"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@local.show_previous",
+                "matchedExpression": "!@local.show_previous",
+                "type": "local",
+                "fieldName": "show_previous"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.previous_icon_src": [
+              "parameter_list.icon_src"
+            ],
+            "!@local.show_previous": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "spacer",
+          "style_list": [
+            "flex: 1"
+          ],
+          "condition": "!@local.show_previous",
+          "_nested_name": "buttons.spacer",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.show_previous",
+                "matchedExpression": "!@local.show_previous",
+                "type": "local",
+                "fieldName": "show_previous"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.show_previous": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "round_button",
-          "name": "button_completed_chevron",
+          "name": "button_next",
           "action_list": [
             {
               "trigger": "click",
@@ -45,10 +132,39 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "chevron-forward",
+            "icon_src": "@local.next_icon_src",
             "style": "information"
           },
-          "_nested_name": "buttons.button_completed_chevron"
+          "condition": "!!@local.show_next",
+          "_nested_name": "buttons.button_next",
+          "_dynamicFields": {
+            "parameter_list": {
+              "icon_src": [
+                {
+                  "fullExpression": "@local.next_icon_src",
+                  "matchedExpression": "@local.next_icon_src",
+                  "type": "local",
+                  "fieldName": "next_icon_src"
+                }
+              ]
+            },
+            "condition": [
+              {
+                "fullExpression": "!!@local.show_next",
+                "matchedExpression": "!@local.show_next",
+                "type": "local",
+                "fieldName": "show_next"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.next_icon_src": [
+              "parameter_list.icon_src"
+            ],
+            "!@local.show_next": [
+              "condition"
+            ]
+          }
         }
       ],
       "_nested_name": "buttons"

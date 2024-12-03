@@ -283,14 +283,7 @@
           "_cleaned": "uncompleted | emit: uncompleted"
         }
       ],
-      "rows": [
-        {
-          "name": "is_standalone_task",
-          "value": true,
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.is_standalone_task"
-        }
-      ],
+      "rows": [],
       "_nested_name": "nav_buttons"
     }
   ],
