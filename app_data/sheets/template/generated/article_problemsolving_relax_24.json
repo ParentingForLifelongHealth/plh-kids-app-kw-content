@@ -61,7 +61,7 @@
     },
     {
       "type": "template",
-      "name": "relax",
+      "name": "article",
       "value": "relax",
       "action_list": [
         {
@@ -91,10 +91,10 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "relax.id"
+          "_nested_name": "article.id"
         }
       ],
-      "_nested_name": "relax"
+      "_nested_name": "article"
     }
   ]
 }

@@ -148,6 +148,7 @@
         "task_group_data": "@local.articles_data_list_name"
       },
       "exclude_from_translation": true,
+      "condition": "!!@local.show_progress_bar",
       "_nested_name": "task_progress_bar",
       "_dynamicFields": {
         "parameter_list": {
@@ -159,11 +160,22 @@
               "fieldName": "articles_data_list_name"
             }
           ]
-        }
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@local.show_progress_bar",
+            "matchedExpression": "!@local.show_progress_bar",
+            "type": "local",
+            "fieldName": "show_progress_bar"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.articles_data_list_name": [
           "parameter_list.task_group_data"
+        ],
+        "!@local.show_progress_bar": [
+          "condition"
         ]
       }
     },
