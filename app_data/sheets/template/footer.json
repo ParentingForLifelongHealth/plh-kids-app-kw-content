@@ -7,15 +7,15 @@
       "name": "button_list",
       "value": [
         {
-          "image": "images/icons/book_outline_white.svg",
-          "target_template": "hp_review_all"
-        },
-        {
-          "image": "images/logos/plh_white.png",
+          "image": "images/icons/home.svg",
           "target_template": "home_screen"
         },
         {
-          "image": "images/icons/star_outline_white.svg",
+          "image": "images/icons/local_library.svg",
+          "target_template": "activity_library"
+        },
+        {
+          "image": "images/icons/settings.svg",
           "target_template": "settings"
         }
       ],

@@ -231,14 +231,28 @@
         },
         {
           "name": "wheel_title",
-          "value": "Completed",
+          "value": "@global.completed",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "dg_wheel.wheel_title"
+          "_nested_name": "dg_wheel.wheel_title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.completed",
+                "matchedExpression": "@global.completed",
+                "type": "global",
+                "fieldName": "completed"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.completed": [
+              "value"
+            ]
+          }
         },
         {
           "type": "task_progress_bar",
@@ -391,11 +405,9 @@
             {
               "type": "button",
               "name": "button_hp_review",
-              "value": "Check-in",
+              "value": "@global.check_in",
               "_translations": {
-                "value": {
-                  "kw_ar": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -412,8 +424,17 @@
                 }
               ],
               "condition": "@item.completed",
+              "exclude_from_translation": true,
               "_nested_name": "dg_wheel.check_in.button_hp_review",
               "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.check_in",
+                    "matchedExpression": "@global.check_in",
+                    "type": "global",
+                    "fieldName": "check_in"
+                  }
+                ],
                 "action_list": {
                   "0": {
                     "_raw": [
@@ -454,6 +475,9 @@
                 ]
               },
               "_dynamicDependencies": {
+                "@global.check_in": [
+                  "value"
+                ],
                 "@local.hp_review": [
                   "action_list.0._raw",
                   "action_list.0._cleaned",
@@ -524,7 +548,7 @@
                 {
                   "type": "button",
                   "name": "button_start",
-                  "value": "Let's begin",
+                  "value": "@global.lets_begin",
                   "_translations": {
                     "value": {}
                   },
@@ -546,8 +570,17 @@
                     "icon": "@local.icon_asset"
                   },
                   "hidden": "@item.completed",
+                  "exclude_from_translation": true,
                   "_nested_name": "loop_outer.dg_module_not_completed.loop_inner.button_start",
                   "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@global.lets_begin",
+                        "matchedExpression": "@global.lets_begin",
+                        "type": "global",
+                        "fieldName": "lets_begin"
+                      }
+                    ],
                     "action_list": {
                       "0": {
                         "_raw": [
@@ -598,6 +631,9 @@
                     ]
                   },
                   "_dynamicDependencies": {
+                    "@global.lets_begin": [
+                      "value"
+                    ],
                     "@local.module_start_at_uncompleted": [
                       "action_list.0._raw",
                       "action_list.0._cleaned",
@@ -614,11 +650,9 @@
                 {
                   "type": "button",
                   "name": "button_continue",
-                  "value": "Continue",
+                  "value": "@global.continue",
                   "_translations": {
-                    "value": {
-                      "kw_ar": true
-                    }
+                    "value": {}
                   },
                   "action_list": [
                     {
@@ -638,8 +672,17 @@
                     "icon": "@local.icon_asset"
                   },
                   "hidden": "!@item.completed",
+                  "exclude_from_translation": true,
                   "_nested_name": "loop_outer.dg_module_not_completed.loop_inner.button_continue",
                   "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@global.continue",
+                        "matchedExpression": "@global.continue",
+                        "type": "global",
+                        "fieldName": "continue"
+                      }
+                    ],
                     "action_list": {
                       "0": {
                         "_raw": [
@@ -690,6 +733,9 @@
                     ]
                   },
                   "_dynamicDependencies": {
+                    "@global.continue": [
+                      "value"
+                    ],
                     "@local.module_start_at_uncompleted": [
                       "action_list.0._raw",
                       "action_list.0._cleaned",
@@ -742,11 +788,9 @@
         {
           "type": "button",
           "name": "button_restart",
-          "value": "Restart",
+          "value": "@global.restart",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -766,8 +810,17 @@
             "icon": "@local.icon_asset"
           },
           "condition": "@item.completed",
+          "exclude_from_translation": true,
           "_nested_name": "loop_outer.button_restart",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.restart",
+                "matchedExpression": "@global.restart",
+                "type": "global",
+                "fieldName": "restart"
+              }
+            ],
             "action_list": {
               "0": {
                 "_raw": [
@@ -818,6 +871,9 @@
             ]
           },
           "_dynamicDependencies": {
+            "@global.restart": [
+              "value"
+            ],
             "@local.module_start_at_beginning": [
               "action_list.0._raw",
               "action_list.0._cleaned",

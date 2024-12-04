@@ -651,6 +651,14 @@
     "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
     "size_kb": 0.7
   },
+  "images/icons/diamond.png": {
+    "md5Checksum": "976348fa8d22b37d279bb485b94c542d",
+    "size_kb": 1.8
+  },
+  "images/icons/diamond_active.png": {
+    "md5Checksum": "0e53c1cb5fd3059f4ef244017d1cc961",
+    "size_kb": 1.7
+  },
   "images/icons/expand_circle_right.png": {
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
     "size_kb": 0.9
@@ -719,12 +727,32 @@
     "md5Checksum": "3b719301ffe50ddd0efa674c6e3ee2fe",
     "size_kb": 54
   },
+  "images/icons/fire.png": {
+    "md5Checksum": "bdbc8d7aacaf1c7c12ac84d3983a868d",
+    "size_kb": 0.9
+  },
+  "images/icons/heart.png": {
+    "md5Checksum": "23bd550a6d5f154c768c631c7d841437",
+    "size_kb": 0.8
+  },
   "images/icons/heart.svg": {
     "md5Checksum": "3837dbad3c5c5b8158a5370064283c20",
     "size_kb": 0.6
   },
+  "images/icons/heart_filled.png": {
+    "md5Checksum": "40fe3a7a5cb53d31fbcb7ecd35a48f91",
+    "size_kb": 1.4
+  },
   "images/icons/heart_filled.svg": {
     "md5Checksum": "88d5bd5d99c20bd6ecfe5790f285fc0c",
+    "size_kb": 1.4
+  },
+  "images/icons/heart_filled_active.png": {
+    "md5Checksum": "c094b3b3466523507d24588cf85de936",
+    "size_kb": 1.5
+  },
+  "images/icons/heart_filled_red.png": {
+    "md5Checksum": "17607eb5fd42929420bcff99c3e7e3ff",
     "size_kb": 1.4
   },
   "images/icons/home.svg": {
@@ -752,8 +780,8 @@
     "size_kb": 1.6
   },
   "images/icons/locked.png": {
-    "md5Checksum": "6ca7d189a83dfb8bc324844899755518",
-    "size_kb": 0.9
+    "md5Checksum": "bd17d7cf65bc1102601156d378fe867c",
+    "size_kb": 0.7
   },
   "images/icons/magnifying_glass.svg": {
     "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
@@ -811,6 +839,10 @@
     "md5Checksum": "0fc25de0fd953eb65f9cb4a519aee45f",
     "size_kb": 1
   },
+  "images/icons/spark.png": {
+    "md5Checksum": "617d164a93f957d1ca7de0871eadbe1e",
+    "size_kb": 1.6
+  },
   "images/icons/star_outline_blue.svg": {
     "md5Checksum": "db0b8e4ba99b48681840fc6ec93144c1",
     "size_kb": 1
@@ -830,6 +862,14 @@
   "images/icons/tick_white.svg": {
     "md5Checksum": "81136e04436759812dc3f6e90c61de11",
     "size_kb": 0.3
+  },
+  "images/icons/trophy.png": {
+    "md5Checksum": "d26a0b95afa1f5a653d7656d5ebb85bd",
+    "size_kb": 1.6
+  },
+  "images/icons/trophy_active.png": {
+    "md5Checksum": "ac1ed3d8771b45eb4cad2708280f5b18",
+    "size_kb": 1.7
   },
   "images/instructions.svg": {
     "md5Checksum": "5f01ae5906b1999f33246d3c81321f5c",

@@ -24,6 +24,19 @@
           "_cleaned": "completed | nav_stack: close_top"
         },
         {
+          "trigger": "completed",
+          "action_id": "pop_up",
+          "args": [
+            "unlock_play"
+          ],
+          "_raw": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
+          "_cleaned": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
+        },
+        {
           "trigger": "uncompleted",
           "action_id": "nav_stack",
           "args": [

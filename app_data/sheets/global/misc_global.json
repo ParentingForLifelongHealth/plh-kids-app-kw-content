@@ -85,7 +85,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "check-in",
+      "name": "check_in",
       "value": "Check-in",
       "_translations": {
         "value": {
@@ -95,7 +95,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "let’s_begin",
+      "name": "lets_begin",
       "value": "Let’s Begin",
       "_translations": {
         "value": {
@@ -232,6 +232,15 @@
           "kw_ar": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "hurrah",
+      "value": "Marhā",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
