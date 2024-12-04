@@ -6,13 +6,14 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 4 |
-| button | 44 |
+| begin_data_items | 1 |
+| button | 45 |
 | combo_box | 4 |
-| data_items | 26 |
+| data_items | 25 |
 | debug_toggle | 1 |
 | display_grid | 1 |
 | display_group | 40 |
-| image | 9 |
+| image | 11 |
 | items | 11 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
@@ -26,7 +27,7 @@
 | set_field | 4 |
 | set_variable | 1012 |
 | simple_checkbox | 1 |
-| task_card | 5 |
+| task_card | 6 |
 | task_progress_bar | 2 |
 | template | 289 |
 | text | 55 |
@@ -54,7 +55,7 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 216 |
 | feedback | 13 |
-| go_to | 15 |
+| go_to | 16 |
 | nav_stack | 61 |
 | pop_up | 30 |
 | reset_app | 1 |
@@ -218,7 +219,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/icons/heart_filled_red.svg | 1 |
+| https://img.youtube.com/vi/nKS7msjLQ1U/hqdefault.jpg | 88 |
 </details>
 
 <details >
@@ -318,12 +319,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/scared.svg | 2.1 | 2 |
 | images/icons/faces/stressed.svg | 60 | 18 |
 | images/icons/faces/tired.svg | 54 | 18 |
-| images/icons/heart.png | 0.8 | 1 |
-| images/icons/heart.svg | 0.6 | 2 |
+| images/icons/heart.png | 0.8 | 2 |
+| images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
-| images/icons/heart_filled_red.png | 1.4 | 1 |
+| images/icons/heart_filled_red.png | 1.4 | 2 |
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |

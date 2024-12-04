@@ -145,9 +145,9 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name.",
-      "quiz_1_question": "How does @data.characters.f1_father.name connect with @data.characters.f1_daughter_2.name before giving an instruction?",
+      "text_1_facilitator": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name.",
       "_translations": {
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "kw_ar": true
         },
@@ -213,6 +213,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name."
+        },
         "quiz_1_question": {
           "eng": "How does @data.characters.f1_father.name connect with @data.characters.f1_daughter_2.name before giving an instruction?"
         },
@@ -277,6 +280,7 @@
           "eng": "Try again! It’s important to give one positive instruction at a time. This will make the instruction easier to follow."
         }
       },
+      "quiz_1_question": "How does @data.characters.f1_father.name connect with @data.characters.f1_daughter_2.name before giving an instruction?",
       "quiz_1_option_1_text": "@data.characters.f1_father.name says his daughter’s name",
       "quiz_1_feedback_1": "He does say his daughter’s name, but he also goes down to @data.characters.f1_daughter_2.name’s level, and gives her praise.",
       "quiz_1_option_2_text": "He reminds @data.characters.f1_daughter_2.name that she has a responsibility to keep her toys clean.",

@@ -4,12 +4,19 @@
   "status": "released",
   "rows": [
     {
+      "name": "show_title",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_title"
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "@global.user_data_title",
       "_translations": {
         "value": {}
       },
+      "condition": "!!(@local.show_title)",
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -19,11 +26,22 @@
             "type": "global",
             "fieldName": "user_data_title"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.show_title)",
+            "matchedExpression": "@local.show_title",
+            "type": "local",
+            "fieldName": "show_title"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@global.user_data_title": [
           "value"
+        ],
+        "@local.show_title": [
+          "condition"
         ]
       }
     },

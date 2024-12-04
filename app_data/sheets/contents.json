@@ -16,9 +16,6 @@
       "_metadata": {
         "child_age_list": {
           "type": "number"
-        },
-        "image_asset": {
-          "type": "number"
         }
       }
     },
@@ -57,9 +54,6 @@
       "flow_type": "data_list",
       "_metadata": {
         "child_age_list": {
-          "type": "number"
-        },
-        "image_asset": {
           "type": "number"
         },
         "accessed": {

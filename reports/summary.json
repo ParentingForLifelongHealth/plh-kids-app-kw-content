@@ -14,8 +14,12 @@
         "count": 4
       },
       {
+        "type": "begin_data_items",
+        "count": 1
+      },
+      {
         "type": "button",
-        "count": 44
+        "count": 45
       },
       {
         "type": "combo_box",
@@ -23,7 +27,7 @@
       },
       {
         "type": "data_items",
-        "count": 26
+        "count": 25
       },
       {
         "type": "debug_toggle",
@@ -39,7 +43,7 @@
       },
       {
         "type": "image",
-        "count": 9
+        "count": 11
       },
       {
         "type": "items",
@@ -95,7 +99,7 @@
       },
       {
         "type": "task_card",
-        "count": 5
+        "count": 6
       },
       {
         "type": "task_progress_bar",
@@ -183,7 +187,7 @@
       },
       {
         "type": "go_to",
-        "count": 15
+        "count": 16
       },
       {
         "type": "nav_stack",
@@ -752,8 +756,8 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/icons/heart_filled_red.svg",
-        "count": 1,
+        "path": "https://img.youtube.com/vi/nKS7msjLQ1U/hqdefault.jpg",
+        "count": 88,
         "missing": true
       }
     ]
@@ -1212,12 +1216,12 @@
       },
       {
         "path": "images/icons/heart.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.8
       },
       {
         "path": "images/icons/heart.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 0.6
       },
       {
@@ -1237,7 +1241,7 @@
       },
       {
         "path": "images/icons/heart_filled_red.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.4
       },
       {
