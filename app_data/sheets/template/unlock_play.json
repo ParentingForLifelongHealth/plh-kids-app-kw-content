@@ -71,6 +71,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": false,
           "exclude_from_translation": true,
           "_nested_name": "loop_activities.debug_id",
           "_dynamicFields": {
