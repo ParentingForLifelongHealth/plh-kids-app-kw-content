@@ -385,7 +385,7 @@
             {
               "type": "text",
               "name": "text_@item.id",
-              "value": "**@item.title**",
+              "value": "@item.title",
               "_translations": {
                 "value": {}
               },
@@ -402,7 +402,7 @@
                 ],
                 "value": [
                   {
-                    "fullExpression": "**@item.title**",
+                    "fullExpression": "@item.title",
                     "matchedExpression": "@item.title",
                     "type": "item",
                     "fieldName": "title"
@@ -647,7 +647,7 @@
             {
               "type": "text",
               "name": "text_@item.id",
-              "value": "**@item.title**",
+              "value": "@item.title",
               "_translations": {
                 "value": {}
               },
@@ -664,7 +664,7 @@
                 ],
                 "value": [
                   {
-                    "fullExpression": "**@item.title**",
+                    "fullExpression": "@item.title",
                     "matchedExpression": "@item.title",
                     "type": "item",
                     "fieldName": "title"
