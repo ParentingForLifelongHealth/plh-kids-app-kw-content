@@ -11,11 +11,11 @@
       },
       {
         "type": "audio",
-        "count": 3
+        "count": 4
       },
       {
         "type": "button",
-        "count": 43
+        "count": 44
       },
       {
         "type": "combo_box",
@@ -23,7 +23,7 @@
       },
       {
         "type": "data_items",
-        "count": 22
+        "count": 26
       },
       {
         "type": "debug_toggle",
@@ -35,11 +35,11 @@
       },
       {
         "type": "display_group",
-        "count": 41
+        "count": 40
       },
       {
         "type": "image",
-        "count": 8
+        "count": 9
       },
       {
         "type": "items",
@@ -55,7 +55,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 18
+        "count": 31
       },
       {
         "type": "plh_module_list_item",
@@ -71,7 +71,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 4
+        "count": 5
       },
       {
         "type": "round_button",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 901
+        "count": 1012
       },
       {
         "type": "simple_checkbox",
@@ -95,7 +95,7 @@
       },
       {
         "type": "task_card",
-        "count": 3
+        "count": 5
       },
       {
         "type": "task_progress_bar",
@@ -103,11 +103,11 @@
       },
       {
         "type": "template",
-        "count": 233
+        "count": 289
       },
       {
         "type": "text",
-        "count": 52
+        "count": 55
       },
       {
         "type": "text_area",
@@ -119,15 +119,15 @@
       },
       {
         "type": "text_bubble",
-        "count": 3
+        "count": 2
       },
       {
         "type": "title",
-        "count": 26
+        "count": 29
       },
       {
         "type": "toggle_bar",
-        "count": 1
+        "count": 4
       },
       {
         "type": "update_action_list",
@@ -135,11 +135,11 @@
       },
       {
         "type": "video",
-        "count": 2
+        "count": 3
       },
       {
         "type": "youtube",
-        "count": 2
+        "count": 4
       }
     ]
   },
@@ -151,7 +151,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 174
+        "count": 219
       },
       {
         "type": "emit: force_reload",
@@ -175,7 +175,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 172
+        "count": 216
       },
       {
         "type": "feedback",
@@ -183,15 +183,15 @@
       },
       {
         "type": "go_to",
-        "count": 14
+        "count": 15
       },
       {
         "type": "nav_stack",
-        "count": 59
+        "count": 61
       },
       {
         "type": "pop_up",
-        "count": 3
+        "count": 30
       },
       {
         "type": "reset_app",
@@ -199,11 +199,11 @@
       },
       {
         "type": "set_field",
-        "count": 13
+        "count": 12
       },
       {
         "type": "set_item",
-        "count": 3
+        "count": 7
       },
       {
         "type": "set_local",
@@ -223,12 +223,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "29950 KB",
+        "KB": "29954 KB",
         "MB": "30 MB"
       },
       {
         "assets": "unused",
-        "KB": "184466 KB",
+        "KB": "184476 KB",
         "MB": "184.5 MB"
       }
     ]
@@ -576,6 +576,10 @@
         "size_kb": 0.7
       },
       {
+        "path": "images/icons/book_outline_white.svg",
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/faces/angry.svg",
         "size_kb": 1.1
       },
@@ -600,16 +604,8 @@
         "size_kb": 2
       },
       {
-        "path": "images/icons/heart.svg",
-        "size_kb": 0.6
-      },
-      {
-        "path": "images/icons/heart_filled.svg",
-        "size_kb": 1.4
-      },
-      {
-        "path": "images/icons/home.svg",
-        "size_kb": 0.4
+        "path": "images/icons/fire.png",
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/home_active.svg",
@@ -618,10 +614,6 @@
       {
         "path": "images/icons/in_progress_white.svg",
         "size_kb": 1.1
-      },
-      {
-        "path": "images/icons/local_library.svg",
-        "size_kb": 1.6
       },
       {
         "path": "images/icons/local_library_active.svg",
@@ -656,12 +648,16 @@
         "size_kb": 0.8
       },
       {
-        "path": "images/icons/settings.svg",
+        "path": "images/icons/settings_active.svg",
         "size_kb": 2.4
       },
       {
-        "path": "images/icons/settings_active.svg",
-        "size_kb": 2.4
+        "path": "images/icons/spark.png",
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/star_outline_white.svg",
+        "size_kb": 1
       },
       {
         "path": "images/instructions.svg",
@@ -674,6 +670,10 @@
       {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
+      },
+      {
+        "path": "images/logos/plh_white.png",
+        "size_kb": 12.8
       },
       {
         "path": "images/one_on_one_challenges.svg",
@@ -750,7 +750,13 @@
     ]
   },
   "assets_missing": {
-    "data": []
+    "data": [
+      {
+        "path": "images/icons/heart_filled_red.svg",
+        "count": 1,
+        "missing": true
+      }
+    ]
   },
   "asset_summary": {
     "data": [
@@ -1140,9 +1146,14 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/icons/book_outline_white.svg",
+        "path": "images/icons/diamond.png",
         "count": 1,
-        "size_kb": 0.7
+        "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/diamond_active.png",
+        "count": 1,
+        "size_kb": 1.7
       },
       {
         "path": "images/icons/expand_circle_right.png",
@@ -1200,14 +1211,54 @@
         "size_kb": 54
       },
       {
+        "path": "images/icons/heart.png",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/heart.svg",
+        "count": 2,
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/heart_filled.png",
+        "count": 1,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/heart_filled.svg",
+        "count": 1,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/heart_filled_active.png",
+        "count": 1,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/heart_filled_red.png",
+        "count": 1,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/home.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
         "path": "images/icons/in_progress.svg",
         "count": 2,
         "size_kb": 1.1
       },
       {
-        "path": "images/icons/locked.png",
+        "path": "images/icons/local_library.svg",
         "count": 1,
-        "size_kb": 0.9
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/locked.png",
+        "count": 2,
+        "size_kb": 0.7
       },
       {
         "path": "images/icons/magnifying_glass.svg",
@@ -1225,6 +1276,11 @@
         "size_kb": 1.1
       },
       {
+        "path": "images/icons/settings.svg",
+        "count": 1,
+        "size_kb": 2.4
+      },
+      {
         "path": "images/icons/smile_eyes_down.svg",
         "count": 11,
         "size_kb": 0.9
@@ -1237,11 +1293,6 @@
       {
         "path": "images/icons/star_outline_blue.svg",
         "count": 10,
-        "size_kb": 1
-      },
-      {
-        "path": "images/icons/star_outline_white.svg",
-        "count": 1,
         "size_kb": 1
       },
       {
@@ -1258,6 +1309,16 @@
         "path": "images/icons/tick_white.svg",
         "count": 1,
         "size_kb": 0.3
+      },
+      {
+        "path": "images/icons/trophy.png",
+        "count": 1,
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/trophy_active.png",
+        "count": 1,
+        "size_kb": 1.7
       },
       {
         "path": "images/instructions_yc.svg",
@@ -1350,11 +1411,6 @@
         "size_kb": 248
       },
       {
-        "path": "images/logos/plh_white.png",
-        "count": 1,
-        "size_kb": 12.8
-      },
-      {
         "path": "images/one_on_one_yc.svg",
         "count": 2,
         "size_kb": 443.8
@@ -1416,7 +1472,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 19
+        "total": 20
       },
       {
         "type": "data_list",
@@ -1446,7 +1502,7 @@
       {
         "type": "data_pipe",
         "subtype": null,
-        "total": 1
+        "total": 2
       },
       {
         "type": "data_pipe",
@@ -1456,7 +1512,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 21
+        "total": 22
       },
       {
         "type": "global",
@@ -1466,12 +1522,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 43
+        "total": 46
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 191
+        "total": 235
       },
       {
         "type": "template",
