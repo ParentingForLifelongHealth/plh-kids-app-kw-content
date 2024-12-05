@@ -167,6 +167,10 @@
     "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
     "size_kb": 5.9
   },
+  "images/backgrounds/bunting.svg": {
+    "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
+    "size_kb": 37.3
+  },
   "images/child_development_yc.png": {
     "md5Checksum": "f8445692cb6f79fed98bb30860dbb225",
     "size_kb": 758.1
@@ -658,6 +662,10 @@
   "images/icons/diamond_active.png": {
     "md5Checksum": "0e53c1cb5fd3059f4ef244017d1cc961",
     "size_kb": 1.7
+  },
+  "images/icons/diamond_yellow.png": {
+    "md5Checksum": "fb49318e1789c7b70ac407bec6ec25c2",
+    "size_kb": 17.7
   },
   "images/icons/expand_circle_right.png": {
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
