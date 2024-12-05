@@ -23,7 +23,7 @@
           ],
           "parameter_list": {
             "icon_src": "chevron-back",
-            "style": "navigation"
+            "variant": "navigation"
           },
           "_nested_name": "dg_row.back"
         },
