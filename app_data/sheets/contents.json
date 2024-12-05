@@ -16,9 +16,6 @@
       "_metadata": {
         "child_age_list": {
           "type": "number"
-        },
-        "image_asset": {
-          "type": "number"
         }
       }
     },
@@ -57,9 +54,6 @@
       "flow_type": "data_list",
       "_metadata": {
         "child_age_list": {
-          "type": "number"
-        },
-        "image_asset": {
           "type": "number"
         },
         "accessed": {
@@ -2191,6 +2185,12 @@
       "override_condition": "@fields._deployment_name == \"plh_kids_kw\"",
       "_xlsxPath": "deployment_data_kw.xlsx"
     },
+    "legal_terms_global": {
+      "flow_type": "global",
+      "flow_subtype": "legal_terms",
+      "flow_name": "legal_terms_global",
+      "_xlsxPath": "app_legal_terms.xlsx"
+    },
     "misc_global": {
       "flow_type": "global",
       "flow_name": "misc_global",
@@ -3489,11 +3489,6 @@
       "flow_name": "hp_review",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
-    "hp_review_all": {
-      "flow_type": "template",
-      "flow_name": "hp_review_all",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
     "import_user_data": {
       "flow_type": "template",
       "flow_name": "import_user_data",
@@ -3618,9 +3613,49 @@
       "flow_name": "settings",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
+    "settings_about": {
+      "flow_type": "template",
+      "flow_name": "settings_about",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_header": {
+      "flow_type": "template",
+      "flow_name": "settings_header",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_language_select": {
+      "flow_type": "template",
+      "flow_name": "settings_language_select",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_privacy_policy": {
+      "flow_type": "template",
+      "flow_name": "settings_privacy_policy",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_profile": {
+      "flow_type": "template",
+      "flow_name": "settings_profile",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_terms": {
+      "flow_type": "template",
+      "flow_name": "settings_terms",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_user_id": {
+      "flow_type": "template",
+      "flow_name": "settings_user_id",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
     "unlock_play": {
       "flow_type": "template",
       "flow_name": "unlock_play",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
+    "unlock_play_after_check_in": {
+      "flow_type": "template",
+      "flow_name": "unlock_play_after_check_in",
       "_xlsxPath": "KW activity library.xlsx"
     },
     "user_data": {

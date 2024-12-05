@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 44
+        "count": 45
       },
       {
         "type": "combo_box",
@@ -35,11 +35,11 @@
       },
       {
         "type": "display_group",
-        "count": 40
+        "count": 45
       },
       {
         "type": "image",
-        "count": 9
+        "count": 12
       },
       {
         "type": "items",
@@ -56,6 +56,10 @@
       {
         "type": "nested_properties",
         "count": 31
+      },
+      {
+        "type": "plh_completion_modal",
+        "count": 1
       },
       {
         "type": "plh_module_list_item",
@@ -75,7 +79,7 @@
       },
       {
         "type": "round_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "select_text",
@@ -87,7 +91,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1012
+        "count": 1017
       },
       {
         "type": "simple_checkbox",
@@ -103,7 +107,7 @@
       },
       {
         "type": "template",
-        "count": 289
+        "count": 292
       },
       {
         "type": "text",
@@ -123,7 +127,7 @@
       },
       {
         "type": "title",
-        "count": 29
+        "count": 30
       },
       {
         "type": "toggle_bar",
@@ -150,8 +154,12 @@
         "count": 1
       },
       {
+        "type": "background_image_asset",
+        "count": 1
+      },
+      {
         "type": "emit: completed",
-        "count": 219
+        "count": 221
       },
       {
         "type": "emit: force_reload",
@@ -175,7 +183,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 216
+        "count": 220
       },
       {
         "type": "feedback",
@@ -183,7 +191,7 @@
       },
       {
         "type": "go_to",
-        "count": 15
+        "count": 16
       },
       {
         "type": "nav_stack",
@@ -223,12 +231,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "29954 KB",
+        "KB": "29991 KB",
         "MB": "30 MB"
       },
       {
         "assets": "unused",
-        "KB": "184476 KB",
+        "KB": "184494 KB",
         "MB": "184.5 MB"
       }
     ]
@@ -580,6 +588,10 @@
         "size_kb": 0.7
       },
       {
+        "path": "images/icons/diamond_yellow.png",
+        "size_kb": 17.7
+      },
+      {
         "path": "images/icons/faces/angry.svg",
         "size_kb": 1.1
       },
@@ -752,8 +764,18 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/icons/heart_filled_red.svg",
+        "path": "background_image_asset: images/backgrounds/bunting.svg",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "click | background_image_asset: images/backgrounds/bunting.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "https://img.youtube.com/vi/nKS7msjLQ1U/hqdefault.jpg",
+        "count": 88,
         "missing": true
       }
     ]
@@ -849,6 +871,11 @@
         "path": "audio/relax/relax_8.mp3",
         "count": 2,
         "size_kb": 432.9
+      },
+      {
+        "path": "images/backgrounds/bunting.svg",
+        "count": 1,
+        "size_kb": 37.3
       },
       {
         "path": "images/child_development_yc.svg",
@@ -1212,12 +1239,12 @@
       },
       {
         "path": "images/icons/heart.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.8
       },
       {
         "path": "images/icons/heart.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 0.6
       },
       {
@@ -1237,7 +1264,7 @@
       },
       {
         "path": "images/icons/heart_filled_red.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.4
       },
       {
@@ -1520,9 +1547,14 @@
         "total": 4
       },
       {
+        "type": "global",
+        "subtype": "legal_terms",
+        "total": 1
+      },
+      {
         "type": "template",
         "subtype": null,
-        "total": 46
+        "total": 49
       },
       {
         "type": "template",

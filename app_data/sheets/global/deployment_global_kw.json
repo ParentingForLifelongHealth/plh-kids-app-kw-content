@@ -18,7 +18,7 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_field",
-      "value": "terms_v20241030_accepted",
+      "value": "terms_v20241205_accepted",
       "_translations": {
         "value": {}
       },
@@ -27,11 +27,9 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_text",
-      "value": "30 October 2024",
+      "value": "5 December 2024",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       }
     },
     {

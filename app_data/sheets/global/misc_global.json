@@ -236,11 +236,10 @@
     {
       "type": "declare_global_constant",
       "name": "hurrah",
-      "value": "Marhā",
+      "value": "Hurrah",
       "_translations": {
         "value": {}
-      },
-      "exclude_from_translation": true
+      }
     },
     {
       "type": "declare_global_constant",
@@ -250,6 +249,14 @@
         "value": {
           "kw_ar": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "well_done_for_finishing_this_check_in",
+      "value": "Well done for finishing this check-in",
+      "_translations": {
+        "value": {}
       }
     },
     {

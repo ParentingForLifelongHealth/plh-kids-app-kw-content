@@ -60,7 +60,7 @@
           ],
           "parameter_list": {
             "icon_src": "@local.previous_icon_src",
-            "style": "information"
+            "variant": "module"
           },
           "condition": "!!@local.show_previous",
           "_nested_name": "buttons.button_previous",
@@ -133,7 +133,7 @@
           ],
           "parameter_list": {
             "icon_src": "@local.next_icon_src",
-            "style": "information"
+            "variant": "module"
           },
           "condition": "!!@local.show_next",
           "_nested_name": "buttons.button_next",

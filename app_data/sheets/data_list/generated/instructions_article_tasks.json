@@ -265,6 +265,9 @@
     {
       "id": "explore_5",
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name."
+        },
         "quiz_1_question": {
           "eng": "How does @data.characters.f1_father.name connect with @data.characters.f1_daughter_2.name before giving an instruction?"
         },
@@ -353,6 +356,7 @@
         "quiz_1_option_3_text": {
           "kw_ar": true
         },
+        "text_1_facilitator": {},
         "quiz_2_question": {
           "kw_ar": true
         },
@@ -402,7 +406,7 @@
       "quiz_1_option_1_text": "@data.characters.f1_father.name says his daughter’s name",
       "quiz_1_option_2_text": "He reminds @data.characters.f1_daughter_2.name that she has a responsibility to keep her toys clean.",
       "quiz_1_option_3_text": "He starts cleaning up the blocks for @data.characters.f1_daughter_2.name to set an example.",
-      "image_asset": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name.",
+      "text_1_facilitator": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name.",
       "quiz_2_question": "What steps does @data.characters.f1_father.name take to help @data.characters.f1_daughter_2.name follow his instruction?",
       "quiz_2_option_1_text": "He warns @data.characters.f1_daughter_2.name that misbehaviour is not acceptable.",
       "quiz_2_feedback_1": "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through.",

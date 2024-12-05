@@ -13,19 +13,17 @@
         "title": {
           "kw_ar": true
         },
-        "text": {
-          "kw_ar": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "User Agreement"
         },
         "text": {
-          "eng": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately."
+          "eng": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately."
         }
       },
-      "text": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately."
+      "text": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately."
     },
     {
       "id": "section_1",
@@ -118,19 +116,17 @@
         "title": {
           "kw_ar": true
         },
-        "text": {
-          "kw_ar": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Intellectual property"
         },
         "text": {
-          "eng": "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the CC BY licence. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
+          "eng": "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the Creative Commons International 4.0 license. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
         }
       },
-      "text": "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the CC BY licence. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
+      "text": "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the Creative Commons International 4.0 license. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
     },
     {
       "id": "section_6",

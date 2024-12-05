@@ -1,0 +1,60 @@
+{
+  "flow_type": "template",
+  "flow_name": "unlock_play_after_check_in",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "unlock_play",
+      "value": "unlock_play",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "congratulation_text",
+          "value": "@global.well_done_for_finishing_this_check_in",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "unlock_play.congratulation_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.well_done_for_finishing_this_check_in",
+                "matchedExpression": "@global.well_done_for_finishing_this_check_in",
+                "type": "global",
+                "fieldName": "well_done_for_finishing_this_check_in"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.well_done_for_finishing_this_check_in": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "unlock_play"
+    }
+  ],
+  "_xlsxPath": "KW activity library.xlsx"
+}

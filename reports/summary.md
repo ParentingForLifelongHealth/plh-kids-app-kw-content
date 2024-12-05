@@ -6,34 +6,35 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 4 |
-| button | 44 |
+| button | 45 |
 | combo_box | 4 |
 | data_items | 26 |
 | debug_toggle | 1 |
 | display_grid | 1 |
-| display_group | 40 |
-| image | 9 |
+| display_group | 45 |
+| image | 12 |
 | items | 11 |
 | lottie_animation | 2 |
 | navigation_bar | 1 |
 | nested_properties | 31 |
+| plh_completion_modal | 1 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 5 |
-| round_button | 2 |
+| round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1012 |
+| set_variable | 1017 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
-| template | 289 |
+| template | 292 |
 | text | 55 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 29 |
+| title | 30 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -46,15 +47,16 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 219 |
+| background_image_asset | 1 |
+| emit: completed | 221 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 216 |
+| emit: uncompleted | 220 |
 | feedback | 13 |
-| go_to | 15 |
+| go_to | 16 |
 | nav_stack | 61 |
 | pop_up | 30 |
 | reset_app | 1 |
@@ -70,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 29954 KB | 30 MB |
-| unused | 184476 KB | 184.5 MB |
+| total | 29991 KB | 30 MB |
+| unused | 184494 KB | 184.5 MB |
 </details>
 
 <details open>
@@ -167,6 +169,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
+| images/icons/diamond_yellow.png | 17.7 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
@@ -218,7 +221,9 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/icons/heart_filled_red.svg | 1 |
+| background_image_asset: images/backgrounds/bunting.svg | 1 |
+| click | background_image_asset: images/backgrounds/bunting.svg | 1 |
+| https://img.youtube.com/vi/nKS7msjLQ1U/hqdefault.jpg | 88 |
 </details>
 
 <details >
@@ -246,6 +251,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
+| images/backgrounds/bunting.svg | 37.3 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
 | images/comics/child_development_yc_2.svg | 357 | 2 |
@@ -318,12 +324,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/scared.svg | 2.1 | 2 |
 | images/icons/faces/stressed.svg | 60 | 18 |
 | images/icons/faces/tired.svg | 54 | 18 |
-| images/icons/heart.png | 0.8 | 1 |
-| images/icons/heart.svg | 0.6 | 2 |
+| images/icons/heart.png | 0.8 | 2 |
+| images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
-| images/icons/heart_filled_red.png | 1.4 | 1 |
+| images/icons/heart_filled_red.png | 1.4 | 2 |
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
@@ -386,7 +392,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe | generated | 18 |
 | generator |  | 22 |
 | global |  | 4 |
-| template |  | 46 |
+| global | legal_terms | 1 |
+| template |  | 49 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>
