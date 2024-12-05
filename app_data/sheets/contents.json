@@ -3489,11 +3489,6 @@
       "flow_name": "hp_review",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
-    "hp_review_all": {
-      "flow_type": "template",
-      "flow_name": "hp_review_all",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
     "import_user_data": {
       "flow_type": "template",
       "flow_name": "import_user_data",
@@ -3583,11 +3578,6 @@
       "flow_name": "pop_up_text",
       "_xlsxPath": "templates/modules/articles.xlsx"
     },
-    "profile": {
-      "flow_type": "template",
-      "flow_name": "profile",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
     "question": {
       "flow_type": "template",
       "flow_name": "question",
@@ -3623,9 +3613,39 @@
       "flow_name": "settings",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
+    "settings_about": {
+      "flow_type": "template",
+      "flow_name": "settings_about",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
     "settings_header": {
       "flow_type": "template",
       "flow_name": "settings_header",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_language_select": {
+      "flow_type": "template",
+      "flow_name": "settings_language_select",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_privacy_policy": {
+      "flow_type": "template",
+      "flow_name": "settings_privacy_policy",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_profile": {
+      "flow_type": "template",
+      "flow_name": "settings_profile",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_terms": {
+      "flow_type": "template",
+      "flow_name": "settings_terms",
+      "_xlsxPath": "KW app_navigation.xlsx"
+    },
+    "settings_user_id": {
+      "flow_type": "template",
+      "flow_name": "settings_user_id",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "unlock_play": {

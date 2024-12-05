@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "profile",
+  "flow_name": "settings_language_select",
   "status": "released",
   "rows": [
     {
@@ -21,7 +21,7 @@
       "rows": [
         {
           "name": "title",
-          "value": "@global.profile",
+          "value": "@global.language",
           "_translations": {
             "value": {}
           },
@@ -30,15 +30,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.profile",
-                "matchedExpression": "@global.profile",
+                "fullExpression": "@global.language",
+                "matchedExpression": "@global.language",
                 "type": "global",
-                "fieldName": "profile"
+                "fieldName": "language"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.profile": [
+            "@global.language": [
               "value"
             ]
           }
@@ -48,8 +48,8 @@
     },
     {
       "type": "template",
-      "name": "user_data",
-      "value": "user_data",
+      "name": "language_select",
+      "value": "language_select",
       "action_list": [
         {
           "trigger": "uncompleted",
@@ -75,10 +75,10 @@
           "name": "show_title",
           "value": false,
           "type": "set_variable",
-          "_nested_name": "user_data.show_title"
+          "_nested_name": "language_select.show_title"
         }
       ],
-      "_nested_name": "user_data"
+      "_nested_name": "language_select"
     }
   ],
   "_xlsxPath": "KW app_navigation.xlsx"

@@ -29,6 +29,7 @@
     },
     {
       "type": "display_group",
+      "name": "dg",
       "parameter_list": {
         "style": "column"
       },
@@ -42,7 +43,7 @@
             "value": {}
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_3.image"
+          "_nested_name": "dg.image"
         },
         {
           "type": "title",
@@ -56,7 +57,7 @@
             "style": "alternative"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_3.title",
+          "_nested_name": "dg.title",
           "_dynamicFields": {
             "value": [
               {
@@ -85,7 +86,7 @@
             "style": "alternative"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_3.text",
+          "_nested_name": "dg.text",
           "_dynamicFields": {
             "value": [
               {
@@ -122,7 +123,7 @@
               },
               "condition": false,
               "exclude_from_translation": true,
-              "_nested_name": "display_group_3.loop_activities.debug_id",
+              "_nested_name": "dg.loop_activities.debug_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -194,7 +195,7 @@
                 "icon_false_asset": "images/icons/heart.svg"
               },
               "exclude_from_translation": true,
-              "_nested_name": "display_group_3.loop_activities.button",
+              "_nested_name": "dg.loop_activities.button",
               "_dynamicFields": {
                 "value": [
                   {
@@ -247,7 +248,7 @@
               }
             }
           ],
-          "_nested_name": "display_group_3.loop_activities",
+          "_nested_name": "dg.loop_activities",
           "_dynamicFields": {
             "value": [
               {
@@ -278,8 +279,7 @@
           }
         }
       ],
-      "name": "display_group_3",
-      "_nested_name": "display_group_3"
+      "_nested_name": "dg"
     }
   ],
   "_xlsxPath": "KW activity library.xlsx"
