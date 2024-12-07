@@ -47,19 +47,17 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {
-          "kw_ar": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "One-on-one time can be fun for both of you!\n\nLet’s look at how @data.characters.f3_uncle.name and @data.characters.f3_son_4.name do this!"
         },
         "character_1_text": {
-          "eng": "I see you are playing quietly with those building blocks with concentration, Faisal."
+          "eng": "I see you are playing quietly and really concentrating on those blocks, @data.characters.f3_son_4.name"
         }
       },
-      "character_1_text": "I see you are playing quietly with those building blocks with concentration, Faisal."
+      "character_1_text": "I see you are playing quietly and really concentrating on those blocks, @data.characters.f3_son_4.name"
     },
     {
       "id": "explore_2",

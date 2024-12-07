@@ -133,18 +133,16 @@
       "image_asset": "images/comics/child_development_yc_4.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_daughter_2",
-      "character_1_text": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
+      "character_1_text": "Well done, @data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
       "_translations": {
-        "character_1_text": {
-          "kw_ar": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "kw_ar": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Well done,\n@data.characters.f1_daughter_2.name! This is a wonderful pillow house."
+          "eng": "Well done, @data.characters.f1_daughter_2.name! This is a wonderful pillow house."
         },
         "character_2_text": {
           "eng": "Can we read our bedtime story here tonight?"
@@ -340,14 +338,12 @@
       "id": "explore_9",
       "category_id": "explore",
       "image_asset": "images/comics/child_development_yc_7.svg",
-      "character_1_id": "f1_son_4",
+      "character_1_id": "f3_son_4",
       "character_2_id": "f3_uncle",
       "character_3_id": "f3_son_4",
-      "text_2": "@data.characters.f1_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes.",
+      "text_2": "@data.characters.f3_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes.",
       "_translations": {
-        "text_2": {
-          "kw_ar": true
-        },
+        "text_2": {},
         "character_1_text": {
           "kw_ar": true
         },
@@ -360,7 +356,7 @@
       },
       "_translatedFields": {
         "text_2": {
-          "eng": "@data.characters.f1_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes."
+          "eng": "@data.characters.f3_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes."
         },
         "character_1_text": {
           "eng": "I can’t do it!"
@@ -391,9 +387,7 @@
         "character_2_text": {
           "kw_ar": true
         },
-        "character_3_text": {
-          "kw_ar": true
-        }
+        "character_3_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -403,20 +397,18 @@
           "eng": "I did it!"
         },
         "character_3_text": {
-          "eng": "Great job,@data.characters.f3_son_4.name! You are becoming a strong boy!"
+          "eng": "Great job, @data.characters.f3_son_4.name! You are becoming a strong boy!"
         }
       },
       "character_2_text": "I did it!",
-      "character_3_text": "Great job,@data.characters.f3_son_4.name! You are becoming a strong boy!"
+      "character_3_text": "Great job, @data.characters.f3_son_4.name! You are becoming a strong boy!"
     },
     {
       "id": "explore_11",
       "category_id": "explore",
-      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name help him learn from the mistake.",
+      "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name learn from the mistake.",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "kw_ar": true
         },
@@ -450,9 +442,7 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
@@ -468,7 +458,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name help him learn from the mistake."
+          "eng": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name learn from the mistake."
         },
         "quiz_1_question": {
           "eng": "What does @data.characters.f3_uncle.name do to support @data.characters.f3_son_4.name?"
@@ -504,7 +494,7 @@
           "eng": "I can keep trying even if I make a mistake."
         },
         "quiz_2_feedback_1": {
-          "eng": "Exactly! @data.characters.f3_son_4.namelearns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles."
+          "eng": "Exactly! @data.characters.f3_son_4.name learns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles."
         },
         "quiz_2_option_2_text": {
           "eng": "I am supported as I learn new things."
@@ -530,7 +520,7 @@
       "quiz_1_feedback_4": "@data.characters.f3_uncle.name actually encourages @data.characters.f3_son_4.name to keep trying after he struggles. This shows support and helps him to learn to do it himself!",
       "quiz_2_question": "What does @data.characters.f3_son_4.name learn from @data.characters.f3_uncle.name’s response?",
       "quiz_2_option_1_text": "I can keep trying even if I make a mistake.",
-      "quiz_2_feedback_1": "Exactly! @data.characters.f3_son_4.namelearns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles.",
+      "quiz_2_feedback_1": "Exactly! @data.characters.f3_son_4.name learns it’s okay to make mistakes and keep trying because @data.characters.f3_uncle.name encourages him to keep trying even when he struggles.",
       "quiz_2_option_2_text": "I am supported as I learn new things.",
       "quiz_2_feedback_2": "Exactly! @data.characters.f3_son_4.name learns that he is supported while learning new tasks, as @data.characters.f3_uncle.name calmly guides him.",
       "quiz_2_option_3_text": "It is important that an adult do this task for me.",

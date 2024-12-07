@@ -240,22 +240,20 @@
       "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_daughter_3’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)"
+          "eng": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)"
         },
         "text_2": {
-          "eng": "(On the TV ) 1-1 draw at interval between Manchester United and Arsenal!"
+          "eng": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!"
         }
       },
       "category_id": "explore",
-      "text_1_facilitator": "@data.characters.f2_daughter_3’s is playing with her magnet tiles while her grandfather watches a soccer match on TV  (Manchester United vs. Arsenal)",
+      "text_1_facilitator": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {
-          "kw_ar": true
-        }
+        "text_2": {}
       },
       "image_asset": "images/comics/praise_yc_1.svg",
-      "text_2": "(On the TV ) 1-1 draw at interval between Manchester United and Arsenal!",
+      "text_2": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!",
       "completed": false
     },
     {
@@ -287,16 +285,14 @@
       "id": "explore_3",
       "_translatedFields": {
         "text_2": {
-          "eng": "(On the TV) 2-2 final score! What a match!"
+          "eng": "(_On the TV_) 2-2 final score! What a match!"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_3.svg",
-      "text_2": "(On the TV) 2-2 final score! What a match!",
+      "text_2": "(_On the TV_) 2-2 final score! What a match!",
       "_translations": {
-        "text_2": {
-          "kw_ar": true
-        }
+        "text_2": {}
       },
       "completed": false
     },
@@ -361,16 +357,16 @@
           "eng": "True! All @data.characters.f2_grandfather.name’s actions show us that the way we give praise is also important."
         },
         "quiz_2_option_3_text": {
-          "eng": "He tells her she is a “good girl”."
+          "eng": "He tells her she is a “good girl.\""
         },
         "quiz_2_feedback_3": {
-          "eng": "False. @data.characters.f2_grandfather.name praises her daughter for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective."
+          "eng": "False. He praises @data.characters.f2_daughter_3 for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective."
         },
         "quiz_2_option_4_text": {
           "eng": "He praises her immediately."
         },
         "quiz_2_feedback_4": {
-          "eng": "True! Grandfather praises Muneera immediately after her positive behaviour."
+          "eng": "True! Grandfather praises @data.characters.f2_daughter_3 immediately after her positive behaviour."
         },
         "quiz_3_question": {
           "eng": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?"
@@ -379,13 +375,13 @@
           "eng": "Because he loves her."
         },
         "quiz_3_feedback_1": {
-          "eng": "Giving a simple reward helps our children to do things that may be difficult for them again."
+          "eng": "Giving a small reward can motivate children to repeat tasks they find challenging."
         },
         "quiz_3_option_2_text": {
           "eng": "So that she knows that she doesn’t have to be quiet again while he watches TV"
         },
         "quiz_3_feedback_2": {
-          "eng": "Actually, the reward will encourage her to be quiet again in the future! Giving a simple reward helps our children to do things that may be difficult for them again."
+          "eng": "Actually, the reward will encourage her to be quiet again in the future! Giving a small reward can motivate children to repeat tasks they find challenging."
         },
         "quiz_3_option_3_text": {
           "eng": "To encourage her to stay quiet while he watches TV"
@@ -436,33 +432,23 @@
         "quiz_2_feedback_2": {
           "kw_ar": true
         },
-        "quiz_2_option_3_text": {
-          "kw_ar": true
-        },
-        "quiz_2_feedback_3": {
-          "kw_ar": true
-        },
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_4": {},
         "quiz_3_question": {
           "kw_ar": true
         },
         "quiz_3_option_1_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_1": {
-          "kw_ar": true
-        },
+        "quiz_3_feedback_1": {},
         "quiz_3_option_2_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_3_feedback_2": {},
         "quiz_3_option_3_text": {
           "kw_ar": true
         },
@@ -482,15 +468,15 @@
       "quiz_2_feedback_1": "False. @data.characters.f2_grandfather.name doesn’t yell at all but he does go down to @data.characters.f2_daughter_3.name’s level. This is important so he can connect to her. @data.characters.f2_grandfather.name’s actions show us that the way we give praise is also important.",
       "quiz_2_option_2_text": "He uses her name and makes eye contact",
       "quiz_2_feedback_2": "True! All @data.characters.f2_grandfather.name’s actions show us that the way we give praise is also important.",
-      "quiz_2_option_3_text": "He tells her she is a “good girl”.",
-      "quiz_2_feedback_3": "False. @data.characters.f2_grandfather.name praises her daughter for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
+      "quiz_2_option_3_text": "He tells her she is a “good girl.\"",
+      "quiz_2_feedback_3": "False. He praises @data.characters.f2_daughter_3 for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
       "quiz_2_option_4_text": "He praises her immediately.",
-      "quiz_2_feedback_4": "True! Grandfather praises Muneera immediately after her positive behaviour.",
+      "quiz_2_feedback_4": "True! Grandfather praises @data.characters.f2_daughter_3 immediately after her positive behaviour.",
       "quiz_3_question": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?",
       "quiz_3_option_1_text": "Because he loves her.",
-      "quiz_3_feedback_1": "Giving a simple reward helps our children to do things that may be difficult for them again.",
+      "quiz_3_feedback_1": "Giving a small reward can motivate children to repeat tasks they find challenging.",
       "quiz_3_option_2_text": "So that she knows that she doesn’t have to be quiet again while he watches TV",
-      "quiz_3_feedback_2": "Actually, the reward will encourage her to be quiet again in the future! Giving a simple reward helps our children to do things that may be difficult for them again.",
+      "quiz_3_feedback_2": "Actually, the reward will encourage her to be quiet again in the future! Giving a small reward can motivate children to repeat tasks they find challenging.",
       "quiz_3_option_3_text": "To encourage her to stay quiet while he watches TV",
       "quiz_3_feedback_3": "That’s right, giving a simple reward helps our children to do things that may be difficult for them again.",
       "completed": false
@@ -499,13 +485,13 @@
       "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Here are some easy tips for how to use praise:"
+          "eng": "Here are some simple tips for using praise effectively:"
         },
         "section_1_title": {
           "eng": "SEE IT"
         },
         "section_1_text": {
-          "eng": "Look for anything good or helpful that your child does or tries to do when you want to praise them."
+          "eng": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do."
         },
         "section_1_button_text": {
           "eng": "More tips"
@@ -539,17 +525,13 @@
         }
       },
       "category_id": "practical_tips",
-      "text_1_facilitator": "Here are some easy tips for how to use praise:",
+      "text_1_facilitator": "Here are some simple tips for using praise effectively:",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "section_1_title": {
           "kw_ar": true
         },
-        "section_1_text": {
-          "kw_ar": true
-        },
+        "section_1_text": {},
         "section_1_button_text": {
           "kw_ar": true
         },
@@ -582,7 +564,7 @@
         }
       },
       "section_1_title": "SEE IT",
-      "section_1_text": "Look for anything good or helpful that your child does or tries to do when you want to praise them.",
+      "section_1_text": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do.",
       "section_1_button_text": "More tips",
       "section_1_extra_text": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your child for *trying*. This boosts their self-esteem and confidence, which helps them to learn new behaviours.",
       "section_2_title": "SAY IT",
@@ -661,16 +643,16 @@
         "quiz_2_feedback_3": {
           "eng": "Fantastic! Reflecting on your accomplishments helps you see how much you’re doing right. You deserve to celebrate your hard work!"
         },
-        "quiz_2_feedback_4": {
+        "quiz_2_option_4_text": {
           "eng": "Do something fun with your child that you both enjoy"
         },
-        "quiz_2_option_5_text": {
+        "quiz_2_feedback_4": {
           "eng": "Wonderful choice! Sharing a fun activity with your child not only rewards you but also strengthens your bond. You’re doing an amazing job!"
         },
-        "quiz_2_option_6_text": {
+        "quiz_2_option_5_text": {
           "eng": "Other"
         },
-        "quiz_2_feedback_6": {
+        "quiz_2_feedback_5": {
           "eng": "Great idea! However you choose to reward yourself, it’s important to acknowledge the effort you put into parenting. You deserve it!"
         }
       },
@@ -734,6 +716,9 @@
         "quiz_2_feedback_3": {
           "kw_ar": true
         },
+        "quiz_2_option_4_text": {
+          "kw_ar": true
+        },
         "quiz_2_feedback_4": {
           "kw_ar": true
         },
@@ -746,10 +731,7 @@
         "quiz_2_option_5_text": {
           "kw_ar": true
         },
-        "quiz_2_option_6_text": {
-          "kw_ar": true
-        },
-        "quiz_2_feedback_6": {
+        "quiz_2_feedback_5": {
           "kw_ar": true
         }
       },
@@ -771,12 +753,12 @@
       "quiz_2_feedback_2": "Well done! Giving yourself a moment to relax is so important. You’re doing a great job, and it’s okay to take a break.",
       "quiz_2_option_3_text": "Celebrate by acknowledging your achievements (e.g.talking to a friend)",
       "quiz_2_feedback_3": "Fantastic! Reflecting on your accomplishments helps you see how much you’re doing right. You deserve to celebrate your hard work!",
-      "quiz_2_feedback_4": "Do something fun with your child that you both enjoy",
+      "quiz_2_option_4_text": "Do something fun with your child that you both enjoy",
+      "quiz_2_feedback_4": "Wonderful choice! Sharing a fun activity with your child not only rewards you but also strengthens your bond. You’re doing an amazing job!",
       "quiz_1_option_6_text": "Listening to instructions",
       "quiz_1_feedback_6": "Yes, you can praise them for these behaviours… and many more!",
-      "quiz_2_option_5_text": "Wonderful choice! Sharing a fun activity with your child not only rewards you but also strengthens your bond. You’re doing an amazing job!",
-      "quiz_2_option_6_text": "Other",
-      "quiz_2_feedback_6": "Great idea! However you choose to reward yourself, it’s important to acknowledge the effort you put into parenting. You deserve it!",
+      "quiz_2_option_5_text": "Other",
+      "quiz_2_feedback_5": "Great idea! However you choose to reward yourself, it’s important to acknowledge the effort you put into parenting. You deserve it!",
       "completed": false
     }
   ],

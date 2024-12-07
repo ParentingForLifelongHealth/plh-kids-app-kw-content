@@ -167,7 +167,7 @@
     "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
     "size_kb": 5.9
   },
-  "images/backgrounds/bunting.svg": {
+  "images/backgrounds/kites.svg": {
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3
   },
@@ -967,6 +967,10 @@
     "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
     "size_kb": 12.8
   },
+  "images/modal_bg_confetti.svg": {
+    "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
+    "size_kb": 37.3
+  },
   "images/one_on_one_challenges.svg": {
     "md5Checksum": "ee0f30adf77121b1b9f320888a0c3ad5",
     "size_kb": 13.1
@@ -1042,6 +1046,10 @@
   "lottie/cascading_stars.json": {
     "md5Checksum": "131145b165cd19613a9e277a514eec2f",
     "size_kb": 140.5
+  },
+  "lottie/gift_box.json": {
+    "md5Checksum": "1455435f00dd4ff8da21409b3e0e86d4",
+    "size_kb": 787.9
   },
   "video/modules/connect/join_child.mp4": {
     "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",

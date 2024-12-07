@@ -66,7 +66,7 @@
     {
       "id": "praise",
       "number": 4,
-      "image_asset": "images/feelings_yc.svg",
+      "image_asset": "images/praise_yc.svg",
       "relax_id": "relax_10",
       "check_in_id": "check_in_6",
       "title": "Praise",
@@ -86,7 +86,7 @@
     {
       "id": "feelings",
       "number": 5,
-      "image_asset": "images/praise_yc.svg",
+      "image_asset": "images/feelings_yc.svg",
       "relax_id": "relax_11",
       "check_in_id": "check_in_7",
       "title": "Feelings",
