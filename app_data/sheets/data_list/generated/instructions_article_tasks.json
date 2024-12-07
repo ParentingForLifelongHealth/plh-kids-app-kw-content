@@ -159,9 +159,6 @@
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_father.name gives instructions @data.characters.f1_daughter_2.name:"
         },
-        "text_2": {
-          "eng": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor."
-        },
         "character_1_text": {
           "eng": "It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away."
         }
@@ -172,25 +169,18 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "text_2": {
-          "kw_ar": true
-        },
         "character_1_text": {
           "kw_ar": true
         }
       },
       "image_asset": "images/comics/instructions_yc_1.svg",
       "character_1_id": "f1_father",
-      "text_2": "@data.characters.f1_daughter_2.name is playing with the blocks on the floor.",
       "character_1_text": "It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away.",
       "completed": false
     },
     {
       "id": "explore_2",
       "_translatedFields": {
-        "text_2": {
-          "eng": "After 3 minutes"
-        },
         "character_1_text": {
           "eng": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks."
         },
@@ -201,11 +191,8 @@
       "category_id": "explore",
       "image_asset": "images/comics/instructions_yc_2.svg",
       "character_1_id": "f1_father",
-      "text_2": "After 3 minutes",
+      "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
       "_translations": {
-        "text_2": {
-          "kw_ar": true
-        },
         "character_1_text": {
           "kw_ar": true
         },
@@ -213,7 +200,6 @@
           "kw_ar": true
         }
       },
-      "character_1_text": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
       "character_2_id": "f1_daughter_2",
       "character_2_text": "Okay",
       "completed": false

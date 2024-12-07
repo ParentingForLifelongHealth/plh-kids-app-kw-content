@@ -328,7 +328,7 @@
           "eng": "@data.characters.f3_daughter_7.name did not want to play with @data.characters.f3_son_4.name"
         },
         "quiz_1_feedback_2": {
-          "eng": "@data.characters.f3_son_4.namel and @data.characters.f3_daughter_7 both wanted to play, but they needed to find a way to share the magnet tiles. The real problem was that there weren’t enough tiles for both to build separate houses."
+          "eng": "@data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name both wanted to play, but they needed to find a way to share the magnet tiles. The real problem was that there weren’t enough tiles for both to build separate houses."
         },
         "quiz_1_option_3_text": {
           "eng": "The mother wouldn’t let them use the magnet tiles"
@@ -364,9 +364,7 @@
         "quiz_1_feedback_1": {
           "kw_ar": true
         },
-        "quiz_1_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {
           "kw_ar": true
         },
@@ -407,7 +405,7 @@
           "kw_ar": true
         }
       },
-      "quiz_1_feedback_2": "@data.characters.f3_son_4.namel and @data.characters.f3_daughter_7 both wanted to play, but they needed to find a way to share the magnet tiles. The real problem was that there weren’t enough tiles for both to build separate houses.",
+      "quiz_1_feedback_2": "@data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name both wanted to play, but they needed to find a way to share the magnet tiles. The real problem was that there weren’t enough tiles for both to build separate houses.",
       "quiz_1_feedback_3": "The mother encouraged the children to share the magnet tiles. The main issue was not about permission but about finding a way to use the limited tiles together.",
       "quiz_1_question": "What problem did this family have?",
       "quiz_1_option_1_text": "There were not enough tiles to build two houses",

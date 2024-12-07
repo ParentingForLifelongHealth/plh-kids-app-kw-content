@@ -139,9 +139,7 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {
-          "kw_ar": true
-        },
+        "character_2_text": {},
         "character_3_text": {
           "kw_ar": true
         }
@@ -151,13 +149,13 @@
           "eng": "Can I create my own account for pictures and videos, Dad? Maha has an instagram account."
         },
         "character_2_text": {
-          "eng": "Not just yet,@data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want."
+          "eng": "Not just yet, @data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want."
         },
         "character_3_text": {
           "eng": "Okay"
         }
       },
-      "character_2_text": "Not just yet,@data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
+      "character_2_text": "Not just yet, @data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
       "character_3_text": "Okay"
     },
     {
@@ -205,10 +203,10 @@
           "eng": "Thank you for doing your homework before using the tablet, @data.characters.f1_daughter_6.name. Last night you mentioned that your maths tests have become easier for you! I am proud of you! We can increase your time to an hour each day… as long as you still do your homework first!"
         },
         "character_2_text": {
-          "eng": "Thank you, Mama!"
+          "eng": "Thank you, Dad!"
         }
       },
-      "character_2_text": "Thank you, Mama!"
+      "character_2_text": "Thank you, Dad!"
     },
     {
       "id": "explore_8",
@@ -225,9 +223,7 @@
         "quiz_1_option_1_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_1": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "kw_ar": true
         },
@@ -285,7 +281,7 @@
           "eng": "To give himself less work."
         },
         "quiz_1_feedback_1": {
-          "eng": "Not quite.. When you make rules together with your child, the rules will work better because your child will feel involved."
+          "eng": "Not quite. When you make rules together with your child, the rules will work better because your child will feel involved."
         },
         "quiz_1_option_2_text": {
           "eng": "To make it more likely that she follows the rule."
@@ -341,7 +337,7 @@
       },
       "quiz_1_question": "Why does @data.characters.f1_father.name ask @data.characters.f1_daughter_6.name for her ideas on what the household rule should be?",
       "quiz_1_option_1_text": "To give himself less work.",
-      "quiz_1_feedback_1": "Not quite.. When you make rules together with your child, the rules will work better because your child will feel involved.",
+      "quiz_1_feedback_1": "Not quite. When you make rules together with your child, the rules will work better because your child will feel involved.",
       "quiz_1_option_2_text": "To make it more likely that she follows the rule.",
       "quiz_1_feedback_2": "Correct. When you make rules together with your child, the rules will work better.",
       "quiz_1_option_3_text": "Because @data.characters.f1_father.name is not sure how to make the rule himself.",
@@ -364,7 +360,7 @@
       "id": "explore_9",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_11.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_2_id": "f3_son_4",
       "text_1_facilitator": "Let’s look at another family. They have set up a routine around bedtime that is working really well!",
       "_translations": {
@@ -396,7 +392,7 @@
       "id": "explore_10",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_12.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_1_text": "Time to get ready for bed, @data.characters.f3_son_4.name. First, let’s get you nice and clean with a bath.",
       "_translations": {
         "character_1_text": {
@@ -413,7 +409,7 @@
       "id": "explore_11",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_13.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_1_text": "You were so well-behaved in the bath, @data.characters.f3_son_4.name. Now it is time to put your pyjamas on.",
       "_translations": {
         "character_1_text": {
@@ -430,7 +426,7 @@
       "id": "explore_12",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_14.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_1_text": "Well done for putting on your pyjamas by yourself, @data.characters.f3_son_4.name! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!",
       "_translations": {
         "character_1_text": {
@@ -447,7 +443,7 @@
       "id": "explore_13",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_15.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_2_id": "f3_son_4",
       "character_1_text": "You did so well getting ready for bed! Now, we have time to read a story. Which book would you like to read?",
       "_translations": {
@@ -472,7 +468,7 @@
       "id": "explore_14",
       "category_id": "explore",
       "image_asset": "images/comics/routines_yc_16.svg",
-      "character_1_id": "mother",
+      "character_1_id": "f3_mother",
       "character_2_id": "f3_son_4",
       "character_1_text": "The end….” I’m glad you chose that story for us to read, it’s one of my favourites! Goodnight, my dear. I love you very much.",
       "_translations": {
@@ -501,15 +497,11 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "quiz_1_question": {
-          "kw_ar": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_1": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "kw_ar": true
         },
@@ -522,9 +514,7 @@
         "quiz_1_feedback_3": {
           "kw_ar": true
         },
-        "quiz_2_question": {
-          "kw_ar": true
-        },
+        "quiz_2_question": {},
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
@@ -534,9 +524,7 @@
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
@@ -561,13 +549,13 @@
           "eng": "Let’s think about what made this routine work well so we can all have peaceful bedtimes in our families."
         },
         "quiz_1_question": {
-          "eng": "How often do you think @data.characters.mother.name and @data.characters.f3_son_4.name follow this routine?"
+          "eng": "How often do you think @data.characters.f3_mother.name and @data.characters.f3_son_4.name follow this routine?"
         },
         "quiz_1_option_1_text": {
           "eng": "Maybe once a week"
         },
         "quiz_1_feedback_1": {
-          "eng": "Try again. If @data.characters.mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here."
+          "eng": "Try again. If @data.characters.f3_mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here."
         },
         "quiz_1_option_2_text": {
           "eng": "A few times per week"
@@ -582,7 +570,7 @@
           "eng": "Exactly. Being consistent with a routine – especially at the end of the day when everyone is tired – makes activities easier to follow for children. \n\nWith a bit of practice, bedtime can become a happy time of connecting with your child!"
         },
         "quiz_2_question": {
-          "eng": "What does @data.characters.mother.name do to help @data.characters.f3_son_4.name follow this routine?"
+          "eng": "What does @data.characters.f3_mother.name do to help @data.characters.f3_son_4.name follow this routine?"
         },
         "quiz_2_option_1_text": {
           "eng": "She connects with @data.characters.f3_son_4.name before giving instructions"
@@ -594,7 +582,7 @@
           "eng": "She warns him that there will be consequences if he doesn’t follow the routine."
         },
         "quiz_2_feedback_2": {
-          "eng": "No, @data.characters.mother.name doesn’t have to use consequences but she does promise a reward, which helped @data.characters.f3_son_4.name to follow the routine successfully."
+          "eng": "No, @data.characters.f3_mother.name doesn’t have to use consequences but she does promise a reward, which helped @data.characters.f3_son_4.name to follow the routine successfully."
         },
         "quiz_2_option_3_text": {
           "eng": "She gives @data.characters.f3_son_4.name a transition warning for each step of the routine."
@@ -615,18 +603,18 @@
           "eng": "Not quite, but she does praise him after each step. This will help @data.characters.f3_son_4.name to remember how to follow the routine successfully next time."
         }
       },
-      "quiz_1_question": "How often do you think @data.characters.mother.name and @data.characters.f3_son_4.name follow this routine?",
+      "quiz_1_question": "How often do you think @data.characters.f3_mother.name and @data.characters.f3_son_4.name follow this routine?",
       "quiz_1_option_1_text": "Maybe once a week",
-      "quiz_1_feedback_1": "Try again. If @data.characters.mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here.",
+      "quiz_1_feedback_1": "Try again. If @data.characters.f3_mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here.",
       "quiz_1_option_2_text": "A few times per week",
       "quiz_1_feedback_2": "Try again. Following these steps only a few times a week may confuse @data.characters.f3_son_4.name, and she may struggle to follow the routine as well as she does here.",
       "quiz_1_option_3_text": "Every day",
       "quiz_1_feedback_3": "Exactly. Being consistent with a routine – especially at the end of the day when everyone is tired – makes activities easier to follow for children. \n\nWith a bit of practice, bedtime can become a happy time of connecting with your child!",
-      "quiz_2_question": "What does @data.characters.mother.name do to help @data.characters.f3_son_4.name follow this routine?",
+      "quiz_2_question": "What does @data.characters.f3_mother.name do to help @data.characters.f3_son_4.name follow this routine?",
       "quiz_2_option_1_text": "She connects with @data.characters.f3_son_4.name before giving instructions",
       "quiz_2_feedback_1": "Yes, connecting properly helps encourage @data.characters.f3_son_4.name to follow the routine successfully.",
       "quiz_2_option_2_text": "She warns him that there will be consequences if he doesn’t follow the routine.",
-      "quiz_2_feedback_2": "No, @data.characters.mother.name doesn’t have to use consequences but she does promise a reward, which helped @data.characters.f3_son_4.name to follow the routine successfully.",
+      "quiz_2_feedback_2": "No, @data.characters.f3_mother.name doesn’t have to use consequences but she does promise a reward, which helped @data.characters.f3_son_4.name to follow the routine successfully.",
       "quiz_2_option_3_text": "She gives @data.characters.f3_son_4.name a transition warning for each step of the routine.",
       "quiz_2_feedback_3": "Yes, knowing which step comes next helps @data.characters.f3_son_4.name to follow the routine successfully.",
       "quiz_2_option_4_text": "She gives @data.characters.f3_son_4.name plenty of instructions.",
