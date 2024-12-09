@@ -232,8 +232,8 @@
       },
       {
         "assets": "unused",
-        "KB": "184531 KB",
-        "MB": "184.5 MB"
+        "KB": "244088 KB",
+        "MB": "244.1 MB"
       }
     ]
   },
@@ -333,7 +333,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 16.8
       },
       {
         "path": "images/backgrounds/kites.svg",
@@ -440,12 +440,44 @@
         "size_kb": 1066
       },
       {
+        "path": "images/comics/instructions_yc_5.svg",
+        "size_kb": 124.9
+      },
+      {
+        "path": "images/comics/instructions_yc_6.svg",
+        "size_kb": 122.1
+      },
+      {
+        "path": "images/comics/instructions_yc_7.svg",
+        "size_kb": 125.9
+      },
+      {
         "path": "images/comics/instructions_yc_8.png",
         "size_kb": 1167.2
       },
       {
         "path": "images/comics/instructions_yc_9.png",
         "size_kb": 1177.3
+      },
+      {
+        "path": "images/comics/learn_experience_yc_1.svg",
+        "size_kb": 77.7
+      },
+      {
+        "path": "images/comics/learn_experience_yc_2.svg",
+        "size_kb": 82.7
+      },
+      {
+        "path": "images/comics/learn_experience_yc_3.svg",
+        "size_kb": 81.8
+      },
+      {
+        "path": "images/comics/learn_experience_yc_4.svg",
+        "size_kb": 82.5
+      },
+      {
+        "path": "images/comics/learn_experience_yc_5.svg",
+        "size_kb": 71.1
       },
       {
         "path": "images/comics/one_on_one_yc_1.png",
@@ -462,6 +494,22 @@
       {
         "path": "images/comics/one_on_one_yc_4.png",
         "size_kb": 1254.3
+      },
+      {
+        "path": "images/comics/play_yc_1.svg",
+        "size_kb": 286.4
+      },
+      {
+        "path": "images/comics/play_yc_2.svg",
+        "size_kb": 283.3
+      },
+      {
+        "path": "images/comics/play_yc_3.svg",
+        "size_kb": 80.8
+      },
+      {
+        "path": "images/comics/play_yc_4.svg",
+        "size_kb": 98.5
       },
       {
         "path": "images/comics/praise_yc_1.png",
@@ -502,6 +550,10 @@
       {
         "path": "images/comics/routines_yc_1.png",
         "size_kb": 1053.4
+      },
+      {
+        "path": "images/comics/routines_yc_10.svg",
+        "size_kb": 111.8
       },
       {
         "path": "images/comics/routines_yc_11.png",
@@ -548,6 +600,18 @@
         "size_kb": 853.8
       },
       {
+        "path": "images/comics/routines_yc_7.svg",
+        "size_kb": 140.7
+      },
+      {
+        "path": "images/comics/routines_yc_8.svg",
+        "size_kb": 96.8
+      },
+      {
+        "path": "images/comics/routines_yc_9.svg",
+        "size_kb": 116.9
+      },
+      {
         "path": "images/comics/self_care_yc_1.png",
         "size_kb": 1169.6
       },
@@ -564,12 +628,20 @@
         "size_kb": 1050.2
       },
       {
+        "path": "images/comics/teach_consequences_yc_3.jpg",
+        "size_kb": 3174
+      },
+      {
         "path": "images/consequences.jpg",
         "size_kb": 115.1
       },
       {
         "path": "images/consequences_yc.png",
         "size_kb": 629.1
+      },
+      {
+        "path": "images/facilitators_face.svg",
+        "size_kb": 39.3
       },
       {
         "path": "images/feelings_yc.png",
@@ -680,8 +752,20 @@
         "size_kb": 752.7
       },
       {
+        "path": "images/kw_facilitator_rd.jpg",
+        "size_kb": 35.2
+      },
+      {
+        "path": "images/kw_facilitator_sq.jpg",
+        "size_kb": 30
+      },
+      {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
+      },
+      {
+        "path": "images/logos/plh.jpeg",
+        "size_kb": 9.4
       },
       {
         "path": "images/logos/plh_white.png",
@@ -757,6 +841,18 @@
       },
       {
         "path": "video/pause/loving_kindness_meditation.mp4",
+        "size_kb": 16605.2
+      },
+      {
+        "path": "videos/pause/body_scan.mp4",
+        "size_kb": 10418.6
+      },
+      {
+        "path": "videos/pause/breath_body_awareness.mp4",
+        "size_kb": 27250
+      },
+      {
+        "path": "videos/pause/loving_kindness_meditation.mp4",
         "size_kb": 16605.2
       }
     ]

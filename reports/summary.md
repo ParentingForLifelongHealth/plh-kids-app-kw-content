@@ -72,7 +72,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 30779 KB | 30.8 MB |
-| unused | 184531 KB | 184.5 MB |
+| unused | 244088 KB | 244.1 MB |
 </details>
 
 <details open>
@@ -105,7 +105,7 @@ Assets that appear in app-data but do not have references within sheets
 | audio/rules_audio_2.mp3 | 742.7 |
 | audio/solve_audio_1.mp3 | 609 |
 | audio/solve_audio_2.mp3 | 468.1 |
-| contents.json | 5.9 |
+| contents.json | 16.8 |
 | images/backgrounds/kites.svg | 37.3 |
 | images/child_development_yc.png | 758.1 |
 | images/childdevelopment.svg | 20.3 |
@@ -132,12 +132,24 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/instructions_yc_2.png | 1044.4 |
 | images/comics/instructions_yc_3.png | 1060.5 |
 | images/comics/instructions_yc_4.png | 1066 |
+| images/comics/instructions_yc_5.svg | 124.9 |
+| images/comics/instructions_yc_6.svg | 122.1 |
+| images/comics/instructions_yc_7.svg | 125.9 |
 | images/comics/instructions_yc_8.png | 1167.2 |
 | images/comics/instructions_yc_9.png | 1177.3 |
+| images/comics/learn_experience_yc_1.svg | 77.7 |
+| images/comics/learn_experience_yc_2.svg | 82.7 |
+| images/comics/learn_experience_yc_3.svg | 81.8 |
+| images/comics/learn_experience_yc_4.svg | 82.5 |
+| images/comics/learn_experience_yc_5.svg | 71.1 |
 | images/comics/one_on_one_yc_1.png | 1101.4 |
 | images/comics/one_on_one_yc_2.png | 1141.4 |
 | images/comics/one_on_one_yc_3.png | 1149.1 |
 | images/comics/one_on_one_yc_4.png | 1254.3 |
+| images/comics/play_yc_1.svg | 286.4 |
+| images/comics/play_yc_2.svg | 283.3 |
+| images/comics/play_yc_3.svg | 80.8 |
+| images/comics/play_yc_4.svg | 98.5 |
 | images/comics/praise_yc_1.png | 1176.4 |
 | images/comics/praise_yc_2.png | 1061.6 |
 | images/comics/praise_yc_3.png | 1185.1 |
@@ -148,6 +160,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/problem_solving_yc_4.png | 1115.4 |
 | images/comics/problem_solving_yc_5.png | 1121.6 |
 | images/comics/routines_yc_1.png | 1053.4 |
+| images/comics/routines_yc_10.svg | 111.8 |
 | images/comics/routines_yc_11.png | 1109 |
 | images/comics/routines_yc_12.png | 981.4 |
 | images/comics/routines_yc_13.png | 1685.6 |
@@ -159,12 +172,17 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/routines_yc_4.png | 1053.2 |
 | images/comics/routines_yc_5.png | 1209.7 |
 | images/comics/routines_yc_6.png | 853.8 |
+| images/comics/routines_yc_7.svg | 140.7 |
+| images/comics/routines_yc_8.svg | 96.8 |
+| images/comics/routines_yc_9.svg | 116.9 |
 | images/comics/self_care_yc_1.png | 1169.6 |
 | images/comics/self_care_yc_2.png | 894.9 |
 | images/comics/self_care_yc_3.png | 1035.2 |
 | images/comics/self_care_yc_4.png | 1050.2 |
+| images/comics/teach_consequences_yc_3.jpg | 3174 |
 | images/consequences.jpg | 115.1 |
 | images/consequences_yc.png | 629.1 |
+| images/facilitators_face.svg | 39.3 |
 | images/feelings_yc.png | 578.8 |
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -192,7 +210,10 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_white.svg | 1 |
 | images/instructions.svg | 23.2 |
 | images/instructions_yc.png | 752.7 |
+| images/kw_facilitator_rd.jpg | 35.2 |
+| images/kw_facilitator_sq.jpg | 30 |
 | images/logos/favicon.png | 6.3 |
+| images/logos/plh.jpeg | 9.4 |
 | images/logos/plh_white.png | 12.8 |
 | images/one_on_one_challenges.svg | 13.1 |
 | images/one_on_one_yc.png | 883.8 |
@@ -212,6 +233,9 @@ Assets that appear in app-data but do not have references within sheets
 | video/pause/body_scan.mp4 | 10418.6 |
 | video/pause/breath_body_awareness.mp4 | 27250 |
 | video/pause/loving_kindness_meditation.mp4 | 16605.2 |
+| videos/pause/body_scan.mp4 | 10418.6 |
+| videos/pause/breath_body_awareness.mp4 | 27250 |
+| videos/pause/loving_kindness_meditation.mp4 | 16605.2 |
 </details>
 
 <details open>
