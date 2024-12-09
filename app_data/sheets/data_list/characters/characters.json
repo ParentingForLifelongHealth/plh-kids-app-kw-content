@@ -25,15 +25,13 @@
       "family_no": 1,
       "role": "caregiver",
       "image_asset": "images/kw_f1_mother.svg",
-      "name": "Mother",
+      "name": "Fatima",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Fatima"
         }
       }
     },
@@ -43,15 +41,13 @@
       "family_no": 1,
       "role": "caregiver",
       "image_asset": "images/kw_f1_father.svg",
-      "name": "Father",
+      "name": "Jassim",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Father"
+          "eng": "Jassim"
         }
       }
     },
@@ -175,15 +171,13 @@
       "family_no": 2,
       "role": "caregiver",
       "image_asset": "images/kw_f1_mother.svg",
-      "name": "Mother",
+      "name": "Dalal",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Dalal"
         }
       }
     },
@@ -193,15 +187,13 @@
       "family_no": 2,
       "role": "caregiver",
       "image_asset": "images/kw_f2_grandmother.svg",
-      "name": "Grandmother",
+      "name": "Shaikha",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Grandmother"
+          "eng": "Shaikha"
         }
       }
     },
@@ -211,15 +203,13 @@
       "family_no": 2,
       "role": "caregiver",
       "image_asset": "images/kw_f2_grandfather.svg",
-      "name": "Grandfather",
+      "name": "Mubarak",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Grandfather"
+          "eng": "Mubarak"
         }
       }
     },
@@ -304,15 +294,13 @@
       "family_no": 3,
       "role": "caregiver",
       "image_asset": "images/kw_f3_mother.svg",
-      "name": "Mother",
+      "name": "Dalal",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Mother"
+          "eng": "Dalal"
         }
       }
     },
@@ -322,15 +310,13 @@
       "family_no": 3,
       "role": "caregiver",
       "image_asset": "images/kw_f3_uncle.svg",
-      "name": "Uncle",
+      "name": "Khaled",
       "_translations": {
-        "name": {
-          "kw_ar": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Uncle"
+          "eng": "Khaled"
         }
       }
     },
