@@ -57,13 +57,10 @@
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
-        "sticky": "top"
+        "sticky": "top",
+        "variant": "header"
       },
       "exclude_from_translation": true,
-      "style_list": [
-        "justify-content: space-between",
-        "padding: 0 24px"
-      ],
       "rows": [
         {
           "type": "image",
@@ -105,6 +102,9 @@
             "position": "right"
           },
           "exclude_from_translation": true,
+          "style_list": [
+            "padding: 16px 24px 0 0"
+          ],
           "_nested_name": "dg_top.display_modules_as_list",
           "_dynamicFields": {
             "value": [
