@@ -71,8 +71,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 30779 KB | 30.8 MB |
-| unused | 184531 KB | 184.5 MB |
+| total | 30800 KB | 30.8 MB |
+| unused | 192999 KB | 193 MB |
 </details>
 
 <details open>
@@ -126,6 +126,14 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/feelings_yc_2.png | 2767.3 |
 | images/comics/feelings_yc_3.png | 2782.6 |
 | images/comics/feelings_yc_4.png | 1778.9 |
+| images/comics/feelings_yc_5.png | 998 |
+| images/comics/feelings_yc_5.svg | 137 |
+| images/comics/feelings_yc_6.png | 1007.8 |
+| images/comics/feelings_yc_6.svg | 139.8 |
+| images/comics/feelings_yc_7.png | 1001 |
+| images/comics/feelings_yc_7.svg | 139.3 |
+| images/comics/feelings_yc_8.png | 828 |
+| images/comics/feelings_yc_8.svg | 95.2 |
 | images/comics/instructions_yc_1.png | 1043.4 |
 | images/comics/instructions_yc_10.png | 1172 |
 | images/comics/instructions_yc_11.png | 1150.7 |
@@ -138,6 +146,16 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/one_on_one_yc_2.png | 1141.4 |
 | images/comics/one_on_one_yc_3.png | 1149.1 |
 | images/comics/one_on_one_yc_4.png | 1254.3 |
+| images/comics/one_on_one_yc_5.png | 767.7 |
+| images/comics/one_on_one_yc_5.svg | 167.5 |
+| images/comics/one_on_one_yc_6.png | 689 |
+| images/comics/one_on_one_yc_6.svg | 163 |
+| images/comics/one_on_one_yc_7.png | 603.6 |
+| images/comics/one_on_one_yc_7.svg | 162.3 |
+| images/comics/one_on_one_yc_8.png | 519.6 |
+| images/comics/one_on_one_yc_8.svg | 159 |
+| images/comics/one_on_one_yc_9.png | 758.2 |
+| images/comics/one_on_one_yc_9.svg | 162.3 |
 | images/comics/praise_yc_1.png | 1176.4 |
 | images/comics/praise_yc_2.png | 1061.6 |
 | images/comics/praise_yc_3.png | 1185.1 |
@@ -158,7 +176,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/routines_yc_3.png | 1063.4 |
 | images/comics/routines_yc_4.png | 1053.2 |
 | images/comics/routines_yc_5.png | 1209.7 |
-| images/comics/routines_yc_6.png | 853.8 |
+| images/comics/routines_yc_6.png | 822.8 |
 | images/comics/self_care_yc_1.png | 1169.6 |
 | images/comics/self_care_yc_2.png | 894.9 |
 | images/comics/self_care_yc_3.png | 1035.2 |
@@ -299,7 +317,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/routines_yc_3.svg | 143.8 | 2 |
 | images/comics/routines_yc_4.svg | 143.4 | 2 |
 | images/comics/routines_yc_5.svg | 133.4 | 2 |
-| images/comics/routines_yc_6.svg | 119.3 | 2 |
+| images/comics/routines_yc_6.svg | 118.9 | 2 |
 | images/comics/self_care_yc_1.svg | 289.2 | 2 |
 | images/comics/self_care_yc_2.svg | 167 | 2 |
 | images/comics/self_care_yc_3.svg | 233.2 | 2 |
@@ -347,7 +365,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
 | images/kw_f1_daughter_6.svg | 37 | 1 |
 | images/kw_f1_father.svg | 27.8 | 1 |
-| images/kw_f1_mother.svg | 17.7 | 12 |
+| images/kw_f1_mother.svg | 15 | 11 |
 | images/kw_f2_daughter_3.svg | 61.6 | 1 |
 | images/kw_f2_grandfather.svg | 26.1 | 1 |
 | images/kw_f2_grandmother.svg | 13.4 | 1 |
@@ -356,6 +374,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/kw_f3_mother.svg | 15.1 | 1 |
 | images/kw_f3_son_4.svg | 24.6 | 1 |
 | images/kw_f3_uncle.svg | 14.3 | 1 |
+| images/kw_facilitator.svg | 23.6 | 1 |
 | images/kw_facilitator_rd.png | 87.3 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |

@@ -8,6 +8,13 @@
     {
       "id": "facilitator",
       "role": "facilitator",
+      "image_asset": "images/kw_facilitator.svg"
+    },
+    {
+      "id": "f1_mother",
+      "caps_id": "F1_MOTHER",
+      "family_no": 1,
+      "role": "caregiver",
       "image_asset": "images/kw_f1_mother.svg",
       "name": "Noura",
       "_translations": {
@@ -16,22 +23,6 @@
       "_translatedFields": {
         "name": {
           "eng": "Noura"
-        }
-      }
-    },
-    {
-      "id": "f1_mother",
-      "caps_id": "F1_MOTHER",
-      "family_no": 1,
-      "role": "caregiver",
-      "image_asset": "images/kw_f1_mother.svg",
-      "name": "Fatima",
-      "_translations": {
-        "name": {}
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Fatima"
         }
       }
     },
