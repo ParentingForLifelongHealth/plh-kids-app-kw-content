@@ -74,19 +74,17 @@
         "title": {
           "kw_ar": true
         },
-        "text": {
-          "kw_ar": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Rules of Usage"
         },
         "text": {
-          "eng": "@global.app_name is open-source, meaning its codebase is available on GitHub for the wider software development community. However, altering the existing application or its materials, or replicating any trademarks associated with the @global.app_name team, is against the terms of use. While the app is open-source, translating the software into other languages or creating alternative versions without properly crediting the @global.app_name team is not permitted. Unauthorised access to confidential user data is strictly prohibited.\n\nWhen using the app, you must provide accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
+          "eng": "@global.app_name is open-source, meaning its codebase is available on GitHub for the wider software development community. However, altering the existing application or its materials, or replicating any trademarks associated with the @global.app_name team, is against the terms of use. While the app is open-source, translating the software into other languages or creating alternative versions without properly crediting the @global.app_name team is not permitted. Unauthorised access to confidential user data is strictly prohibited.\n\nWhen using the app, we believe you to be providing accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
         }
       },
-      "text": "@global.app_name is open-source, meaning its codebase is available on GitHub for the wider software development community. However, altering the existing application or its materials, or replicating any trademarks associated with the @global.app_name team, is against the terms of use. While the app is open-source, translating the software into other languages or creating alternative versions without properly crediting the @global.app_name team is not permitted. Unauthorised access to confidential user data is strictly prohibited.\n\nWhen using the app, you must provide accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
+      "text": "@global.app_name is open-source, meaning its codebase is available on GitHub for the wider software development community. However, altering the existing application or its materials, or replicating any trademarks associated with the @global.app_name team, is against the terms of use. While the app is open-source, translating the software into other languages or creating alternative versions without properly crediting the @global.app_name team is not permitted. Unauthorised access to confidential user data is strictly prohibited.\n\nWhen using the app, we believe you to be providing accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
     },
     {
       "id": "section_4",

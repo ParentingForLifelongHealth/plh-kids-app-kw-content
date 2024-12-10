@@ -18,7 +18,9 @@
       "image_asset": "images/kw_f1_mother.svg",
       "name": "Noura",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {

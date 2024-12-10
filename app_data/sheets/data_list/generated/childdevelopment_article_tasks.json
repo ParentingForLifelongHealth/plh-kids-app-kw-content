@@ -334,11 +334,15 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Actually, their play together helped @data.characters.f1_daughter_2.name to lead and give instructions. By self-directing, @data.characters.f1_daughter_2.name learned how to give clear instructions and lead an activity. This is an important skill for any successful adult!\n\nThere are other correct answers in this list. Did you find them all?",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_4": {
           "kw_ar": true
         },
@@ -418,7 +422,9 @@
       "category_id": "explore",
       "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when she struggles to put on his shoes.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/child_development_yc_5.svg",
       "completed": false
@@ -698,7 +704,9 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "section_1_title": {
           "kw_ar": true
         },
@@ -708,7 +716,9 @@
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
         "section_2_title": {
           "kw_ar": true
         },

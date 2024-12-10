@@ -346,7 +346,9 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Try again! \n\nConsequences are not the same as a punishment. \n\n@data.characters.f3_uncle.name knows that using consequences is an opportunity to teach @data.characters.f3_son_4.name that his actions have impacts.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
@@ -356,7 +358,9 @@
         "quiz_1_question": {
           "kw_ar": true
         },
-        "quiz_1_option_1_text": {},
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
         "quiz_1_option_2_text": {
           "kw_ar": true
         },

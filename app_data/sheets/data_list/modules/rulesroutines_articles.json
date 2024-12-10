@@ -248,7 +248,9 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
@@ -264,11 +266,15 @@
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {},
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_2_option_5_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_5": {}
+        "quiz_2_feedback_5": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -756,7 +762,9 @@
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
