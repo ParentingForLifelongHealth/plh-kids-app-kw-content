@@ -239,7 +239,50 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| https://img.youtube.com/vi/nKS7msjLQ1U/hqdefault.jpg | 88 |
+| https://img.youtube.com/vi/3rj6-Dy_Q68/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/676iBYMa00I/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/6GdWUOPAov0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/797ACibKTEk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/7WFhlqYDNlk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/8ZTAB0_g_KA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/A-_gIZ3m3Tc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/B60KbIbDsxk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CLN8FF_k7G4/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CpMd6B_ozag/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/E1j2A5wGGMg/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/FKPFx3AXrxs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/GP0aKJjXcdE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HFQIlMK58_A/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HrKa6THgM8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JoN_xyYurrw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/KQis5PintDM/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/QKZoDBIoZUc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIra0dav_kY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIwVM6yyhUw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T4zcv8srKPY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T6gHmW5QRgA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/TLJw_EScg2s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/V-TKV-bP4mE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/W4o2W_cPStQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/X5aMX0y9Mbs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/_GSLZqq1_D8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/a0cQkV21Zc0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/aQ0chEky8ys/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/dAhAJBePJPw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/d_HmLsmeK98/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/fnjLhQf0sek/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/gKja8sxVAZU/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/iSWM8Bp0KzQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/jU9vyQXxnsk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kVQOGVXyJCc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kwJMQXw6ko8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/noyAxN4YG3g/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/p7Ybpp0C2f8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/rHi61X7_9_Y/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 </details>
 
 <details >

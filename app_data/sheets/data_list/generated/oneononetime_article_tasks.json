@@ -343,7 +343,9 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Yes, he does! \n\nThe simple act of calling @data.characters.f3_son_4.name by his name and describing what he is doing helps him feel valued and seen.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_2": {
           "kw_ar": true
         },

@@ -173,7 +173,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -798,7 +800,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }

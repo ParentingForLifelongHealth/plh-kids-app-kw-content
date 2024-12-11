@@ -164,7 +164,9 @@
         "quiz_1_option_1_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_option_2_text": {
           "kw_ar": true
         },
@@ -174,7 +176,9 @@
         "quiz_1_option_3_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_1_option_4_text": {
           "kw_ar": true
         },
@@ -293,7 +297,9 @@
       "image_asset": "images/comics/child_development_yc_5.svg",
       "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when she struggles to put on his shoes.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -531,7 +537,9 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "section_1_title": {
           "kw_ar": true
         },
@@ -541,7 +549,9 @@
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
         "section_2_title": {
           "kw_ar": true
         },
