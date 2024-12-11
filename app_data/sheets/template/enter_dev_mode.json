@@ -18,9 +18,7 @@
       "name": "text_box_placeholder",
       "value": "Tap and type",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
