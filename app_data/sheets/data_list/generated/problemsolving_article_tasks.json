@@ -123,7 +123,7 @@
     {
       "id": "intro_1",
       "media_asset": "audio/care_audio/problem_solving_audio.mp3",
-      "media_type": "video",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -364,7 +364,9 @@
         "quiz_1_feedback_1": {
           "kw_ar": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_3": {
           "kw_ar": true
         },

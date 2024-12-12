@@ -123,7 +123,7 @@
     {
       "id": "intro_1",
       "media_asset": "audio/care_audio/consequences_audio.mp3",
-      "media_type": "video",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -376,7 +376,9 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },

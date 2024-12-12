@@ -91,7 +91,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1031
+        "count": 1033
       },
       {
         "type": "simple_checkbox",
@@ -232,8 +232,8 @@
       },
       {
         "assets": "unused",
-        "KB": "192999 KB",
-        "MB": "193 MB"
+        "KB": "195648 KB",
+        "MB": "195.6 MB"
       }
     ]
   },
@@ -470,6 +470,30 @@
       {
         "path": "images/comics/instructions_yc_4.png",
         "size_kb": 1066
+      },
+      {
+        "path": "images/comics/instructions_yc_5.png",
+        "size_kb": 860.2
+      },
+      {
+        "path": "images/comics/instructions_yc_5.svg",
+        "size_kb": 129.5
+      },
+      {
+        "path": "images/comics/instructions_yc_6.png",
+        "size_kb": 610.3
+      },
+      {
+        "path": "images/comics/instructions_yc_6.svg",
+        "size_kb": 81.9
+      },
+      {
+        "path": "images/comics/instructions_yc_7.png",
+        "size_kb": 864.9
+      },
+      {
+        "path": "images/comics/instructions_yc_7.svg",
+        "size_kb": 102.3
       },
       {
         "path": "images/comics/instructions_yc_8.png",

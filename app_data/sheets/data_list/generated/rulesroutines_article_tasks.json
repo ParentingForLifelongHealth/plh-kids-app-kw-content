@@ -123,7 +123,7 @@
     {
       "id": "intro_1",
       "media_asset": "audio/care_audio/rulesroutines_audio.mp3",
-      "media_type": "video",
+      "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1UsBjzKBagidbPylq6sH9BNWHtvPHlY6r1KUZIlghU3s/edit",
       "_translatedFields": {
         "text_1_facilitator": {
@@ -268,7 +268,9 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "kw_ar": true
+        },
         "character_3_text": {
           "kw_ar": true
         }
@@ -400,7 +402,9 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Not quite. When you make rules together with your child, the rules will work better because your child will feel involved.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
@@ -688,14 +692,18 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Try again. If @data.characters.f3_mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here.",
       "_translations": {
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
         "quiz_1_feedback_3": {
           "kw_ar": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "kw_ar": true
+        },
         "quiz_1_option_1_text": {
           "kw_ar": true
         },
@@ -708,7 +716,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "kw_ar": true
+        },
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
@@ -718,7 +728,9 @@
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_2_option_3_text": {
           "kw_ar": true
         },

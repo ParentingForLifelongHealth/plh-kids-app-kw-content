@@ -36,7 +36,9 @@
       "image_asset": "images/kw_f1_father.svg",
       "name": "Jassim",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -166,7 +168,9 @@
       "image_asset": "images/kw_f1_mother.svg",
       "name": "Dalal",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -182,7 +186,9 @@
       "image_asset": "images/kw_f2_grandmother.svg",
       "name": "Shaikha",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -198,7 +204,9 @@
       "image_asset": "images/kw_f2_grandfather.svg",
       "name": "Mubarak",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -289,7 +297,9 @@
       "image_asset": "images/kw_f3_mother.svg",
       "name": "Dalal",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -305,7 +315,9 @@
       "image_asset": "images/kw_f3_uncle.svg",
       "name": "Khaled",
       "_translations": {
-        "name": {}
+        "name": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "name": {

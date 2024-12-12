@@ -8,7 +8,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "media_type": "video",
+      "media_type": "audio",
       "media_asset": "audio/care_audio/consequences_audio.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1kzN8dMyYcE6dWtSNKooJRagL2KVTt-g33xZokERiSq8",
       "text_1_facilitator": "Today's lesson is about helping our children follow instructions and rules by using consequences\n\nConsequences are the results of actions and behaviours. Parents can use a planned consequence when children don’t follow a rule or instruction. \n\nFor example if a child doesn’t follow the rule to put away their toys before dinner, then a consequence could be that the child can’t watch YouTube after dinner. \n\nGiving clear consequences teaches children that their actions affect themselves and others.",
@@ -187,7 +187,9 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },

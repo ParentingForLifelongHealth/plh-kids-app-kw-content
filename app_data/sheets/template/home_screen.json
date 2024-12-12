@@ -5,38 +5,13 @@
   "rows": [
     {
       "name": "false_text",
-      "value": "@global.list",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "false_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.list",
-            "matchedExpression": "@global.list",
-            "type": "global",
-            "fieldName": "list"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.list": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "true_text",
       "value": "@global.map",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "true_text",
+      "_nested_name": "false_text",
       "_dynamicFields": {
         "value": [
           {
@@ -49,6 +24,31 @@
       },
       "_dynamicDependencies": {
         "@global.map": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "true_text",
+      "value": "@global.list",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "true_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.list",
+            "matchedExpression": "@global.list",
+            "type": "global",
+            "fieldName": "list"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.list": [
           "value"
         ]
       }
