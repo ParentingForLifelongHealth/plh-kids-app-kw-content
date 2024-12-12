@@ -99,7 +99,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -136,7 +138,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -530,7 +534,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -594,7 +600,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {}
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -659,7 +667,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {}
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -840,7 +850,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -876,7 +888,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -914,7 +928,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -927,11 +943,11 @@
           "eng": "Congratulations! You have unlocked a new play activity: I Spy!\nThis classic game is a fun and interactive way to help your child learn about letters and words while keeping them engaged.\nTo start, choose an object around you—something your child knows the name of, like a “ball\". Don’t tell them what it is just yet!\nNow, say the magic words: “I spy with my little eye, something beginning with...” and say the first letter of the word—in this case, “B” for “ball\".\nEncourage your child to look around and guess what the object might be. When they guess correctly, give them praise and switch roles! If they’re having trouble, offer clues like, “It’s round” or “It’s black and white\".\nKeep the game going with new objects and different letters. This playful activity is a fantastic way to build your child’s understanding of letters and sounds, which will help them on their reading journey at home and in school."
         },
         "attribution": {
-          "eng": "Adapted from [Brain building through play by Harvard University](https://developingchild.harvard.edu/resources/brainbuildingthroughplay/))"
+          "eng": "Adapted from [Brain building through play by Harvard University](https://developingchild.harvard.edu/resources/brainbuildingthroughplay/)"
         }
       },
       "transcript": "Congratulations! You have unlocked a new play activity: I Spy!\nThis classic game is a fun and interactive way to help your child learn about letters and words while keeping them engaged.\nTo start, choose an object around you—something your child knows the name of, like a “ball\". Don’t tell them what it is just yet!\nNow, say the magic words: “I spy with my little eye, something beginning with...” and say the first letter of the word—in this case, “B” for “ball\".\nEncourage your child to look around and guess what the object might be. When they guess correctly, give them praise and switch roles! If they’re having trouble, offer clues like, “It’s round” or “It’s black and white\".\nKeep the game going with new objects and different letters. This playful activity is a fantastic way to build your child’s understanding of letters and sounds, which will help them on their reading journey at home and in school.",
-      "attribution": "Adapted from [Brain building through play by Harvard University](https://developingchild.harvard.edu/resources/brainbuildingthroughplay/))"
+      "attribution": "Adapted from [Brain building through play by Harvard University](https://developingchild.harvard.edu/resources/brainbuildingthroughplay/)"
     },
     {
       "id": "games_with_pictures",
@@ -982,7 +998,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {}
+        "transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1010,7 +1028,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -1078,7 +1098,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -1190,7 +1212,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -1301,7 +1325,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -1438,7 +1464,9 @@
         "title": {
           "kw_ar": true
         },
-        "transcript": {},
+        "transcript": {
+          "kw_ar": true
+        },
         "attribution": {
           "kw_ar": true
         }
@@ -1477,9 +1505,7 @@
         "transcript": {
           "kw_ar": true
         },
-        "attribution": {
-          "kw_ar": true
-        }
+        "attribution": {}
       },
       "_translatedFields": {
         "title": {
@@ -1489,11 +1515,11 @@
           "eng": "Congratulations! You have unlocked a new play activity: Create silly characters!\nAll you need to play this game is a piece of paper and everyone will need a pencil.\nYou are going to take turns drawing in this game, but it’s important that you can’t see what the other people are drawing, so set yourselves up in a way that you make sure this is possible.\nHere’s how to play:\nDecide who is going to draw first.\nThe first drawer should take the top 2–3 inches of the paper and draw the top (head, hat, hair) of a character. This can be as serious or silly as you want it to be.\nOnce the first part of the drawing is complete, fold the 2–3 inch column of artwork back, concealing what has been drawn but leaving two lines to demarcate where the next person who is drawing should pick up.\nPass the paper on to the next person, who, without seeing what has already been drawn, will contribute the next set of features to the character: The shoulders or torso. Fold the paper back to conceal the image and pass it on.\nRepeat until someone has drawn the feet of the character and then open your drawing up to see the masterpiece you have collaboratively created!\nThis game builds creativity, nurtures imagination, and helps teach kids to collaborate!"
         },
         "attribution": {
-          "eng": "Adapted from [Learning through Play](https://learningthroughplay.com/let-s-play/co-drawing"
+          "eng": "Adapted from [Learning through Play](https://learningthroughplay.com/let-s-play/co-drawing)"
         }
       },
       "transcript": "Congratulations! You have unlocked a new play activity: Create silly characters!\nAll you need to play this game is a piece of paper and everyone will need a pencil.\nYou are going to take turns drawing in this game, but it’s important that you can’t see what the other people are drawing, so set yourselves up in a way that you make sure this is possible.\nHere’s how to play:\nDecide who is going to draw first.\nThe first drawer should take the top 2–3 inches of the paper and draw the top (head, hat, hair) of a character. This can be as serious or silly as you want it to be.\nOnce the first part of the drawing is complete, fold the 2–3 inch column of artwork back, concealing what has been drawn but leaving two lines to demarcate where the next person who is drawing should pick up.\nPass the paper on to the next person, who, without seeing what has already been drawn, will contribute the next set of features to the character: The shoulders or torso. Fold the paper back to conceal the image and pass it on.\nRepeat until someone has drawn the feet of the character and then open your drawing up to see the masterpiece you have collaboratively created!\nThis game builds creativity, nurtures imagination, and helps teach kids to collaborate!",
-      "attribution": "Adapted from [Learning through Play](https://learningthroughplay.com/let-s-play/co-drawing"
+      "attribution": "Adapted from [Learning through Play](https://learningthroughplay.com/let-s-play/co-drawing)"
     },
     {
       "id": "guess_animal",

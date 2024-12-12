@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.1.67",
+  content_tag_latest: "1.1.68",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -23,7 +23,7 @@ config.api.db_name = "plh_kids_kw";
 
 config.app_data.output_path = "./app_data";
 
-config.app_config.APP_LANGUAGES.default = "gb_en";
+config.app_config.APP_LANGUAGES.default = "kw_ar";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "Dayem App";
 config.app_config.APP_HEADER_DEFAULTS.title = "Dayem App";
 config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } }

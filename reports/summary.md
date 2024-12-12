@@ -25,7 +25,7 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1031 |
+| set_variable | 1033 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
@@ -72,7 +72,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 30800 KB | 30.8 MB |
-| unused | 192999 KB | 193 MB |
+| unused | 195648 KB | 195.6 MB |
 </details>
 
 <details open>
@@ -140,6 +140,12 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/instructions_yc_2.png | 1044.4 |
 | images/comics/instructions_yc_3.png | 1060.5 |
 | images/comics/instructions_yc_4.png | 1066 |
+| images/comics/instructions_yc_5.png | 860.2 |
+| images/comics/instructions_yc_5.svg | 129.5 |
+| images/comics/instructions_yc_6.png | 610.3 |
+| images/comics/instructions_yc_6.svg | 81.9 |
+| images/comics/instructions_yc_7.png | 864.9 |
+| images/comics/instructions_yc_7.svg | 102.3 |
 | images/comics/instructions_yc_8.png | 1167.2 |
 | images/comics/instructions_yc_9.png | 1177.3 |
 | images/comics/one_on_one_yc_1.png | 1101.4 |

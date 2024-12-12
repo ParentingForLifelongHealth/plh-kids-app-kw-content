@@ -133,7 +133,9 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s reflect on what we can learn from @data.characters.f1_father.name and @data.characters.f1_daughter_2.name.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "quiz_1_question": {
           "kw_ar": true
         },

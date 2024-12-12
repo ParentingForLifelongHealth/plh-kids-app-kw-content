@@ -249,8 +249,12 @@
       "category_id": "explore",
       "text_1_facilitator": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/praise_yc_1.svg",
       "text_2": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!",
@@ -292,7 +296,9 @@
       "image_asset": "images/comics/praise_yc_3.svg",
       "text_2": "(_On the TV_) 2-2 final score! What a match!",
       "_translations": {
-        "text_2": {}
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -432,23 +438,33 @@
         "quiz_2_feedback_2": {
           "kw_ar": true
         },
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {},
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_3_question": {
           "kw_ar": true
         },
         "quiz_3_option_1_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_1": {},
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_3_option_2_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_2": {},
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_3_option_3_text": {
           "kw_ar": true
         },
@@ -527,11 +543,15 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are some simple tips for using praise effectively:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "section_1_title": {
           "kw_ar": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },

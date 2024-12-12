@@ -135,7 +135,9 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done, @data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -349,7 +351,9 @@
       "character_3_id": "f3_son_4",
       "text_2": "@data.characters.f3_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes.",
       "_translations": {
-        "text_2": {},
+        "text_2": {
+          "kw_ar": true
+        },
         "character_1_text": {
           "kw_ar": true
         },
@@ -393,7 +397,9 @@
         "character_2_text": {
           "kw_ar": true
         },
-        "character_3_text": {}
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -414,7 +420,9 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s look at how @data.characters.f3_uncle.name helped @data.characters.f3_son_4.name learn from the mistake.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "quiz_1_question": {
           "kw_ar": true
         },
@@ -448,7 +456,9 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },

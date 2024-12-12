@@ -342,7 +342,9 @@
         "quiz_1_option_3_text": {
           "kw_ar": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "quiz_2_question": {
           "kw_ar": true
         },

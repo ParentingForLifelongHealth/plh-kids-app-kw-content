@@ -76,6 +76,17 @@
           "value": false,
           "type": "set_variable",
           "_nested_name": "language_select.show_title"
+        },
+        {
+          "name": "button_completed",
+          "value": "Save",
+          "_translations": {
+            "value": {
+              "kw_ar": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "language_select.button_completed"
         }
       ],
       "_nested_name": "language_select"

@@ -8,7 +8,7 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "media_type": "video",
+      "media_type": "audio",
       "media_asset": "audio/care_audio/problem_solving_audio.mp3",
       "attached_single_doc": "https://docs.google.com/document/d/1Xy9zBd5uvGSQ1Q1HpMuqYsh1-Wlerrxhru7udUKBQoM",
       "text_1_facilitator": "I'M HUNGRY! HE HIT ME! I'M BORED!\nSound familiar? \n\nEvery family faces big and small challenges. Learning how to solve problems together with your child can help you prevent conflict in your home. \n\nIt also teaches your children how to solve problems on their own. \n\nThis will set them up for success throughout their life. What a gift to give them!",
@@ -208,7 +208,9 @@
         "quiz_1_option_2_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_1_option_3_text": {
           "kw_ar": true
         },

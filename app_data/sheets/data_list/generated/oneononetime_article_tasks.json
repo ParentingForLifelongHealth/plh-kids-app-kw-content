@@ -169,7 +169,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/one_on_one_yc_1.svg",
       "character_1_id": "f3_uncle",

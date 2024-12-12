@@ -76,6 +76,17 @@
           "value": false,
           "type": "set_variable",
           "_nested_name": "user_data.show_title"
+        },
+        {
+          "name": "button_completed",
+          "value": "Save",
+          "_translations": {
+            "value": {
+              "kw_ar": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "user_data.button_completed"
         }
       ],
       "_nested_name": "user_data"

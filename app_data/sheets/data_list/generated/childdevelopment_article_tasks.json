@@ -262,7 +262,9 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Well done, @data.characters.f1_daughter_2.name! This is a wonderful pillow house.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -494,7 +496,9 @@
         "character_3_text": {
           "kw_ar": true
         },
-        "text_2": {}
+        "text_2": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "Yes, you can! How about I help you with one foot, and you do it with the other?",
       "character_3_id": "f3_son_4",
@@ -527,7 +531,9 @@
         "character_2_text": {
           "kw_ar": true
         },
-        "character_3_text": {}
+        "character_3_text": {
+          "kw_ar": true
+        }
       },
       "character_2_text": "I did it!",
       "character_3_id": "f3_uncle",
@@ -619,14 +625,18 @@
         "quiz_1_option_4_text": {
           "kw_ar": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "quiz_2_question": {
           "kw_ar": true
         },
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },

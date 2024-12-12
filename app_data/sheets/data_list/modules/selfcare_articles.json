@@ -51,7 +51,9 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -75,7 +77,9 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Alright, @data.characters.f1_daughter_2.name, let me finish preparing lunch quickly, and then I will come play with you.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -153,14 +157,18 @@
         "quiz_2_question": {
           "kw_ar": true
         },
-        "quiz_2_option_1_text": {},
+        "quiz_2_option_1_text": {
+          "kw_ar": true
+        },
         "quiz_2_feedback_1": {
           "kw_ar": true
         },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {},
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
@@ -197,7 +205,9 @@
         "quiz_3_option_3_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_3": {}
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -501,7 +511,9 @@
         "quiz_1_question": {
           "kw_ar": true
         },
-        "quiz_1_option_1_text": {},
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_1": {
           "kw_ar": true
         },

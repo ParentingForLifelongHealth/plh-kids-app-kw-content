@@ -38,7 +38,9 @@
       "name": "deployment_terms_text",
       "value": "5 December 2024",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "exclude_from_translation": true
     }

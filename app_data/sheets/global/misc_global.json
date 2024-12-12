@@ -205,16 +205,6 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "madam_noura",
-      "value": "Madam Noura",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
       "name": "select_a_response",
       "value": "Select a response",
       "_translations": {
@@ -238,6 +228,32 @@
       "name": "hurrah",
       "value": "Hurrah",
       "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "a_new_moment_of_play_has_been_unlocked",
+      "value": "A new moment of play has been unlocked",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "open_your_moment_of_play",
+      "value": "Open your moment of play",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "open",
+      "value": "Open",
+      "_translations": {
         "value": {}
       }
     },
@@ -256,7 +272,9 @@
       "name": "well_done_for_finishing_this_check_in",
       "value": "Well done for finishing this check-in",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {

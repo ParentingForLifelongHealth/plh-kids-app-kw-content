@@ -369,7 +369,9 @@
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
         "section_3_title": {
           "kw_ar": true
         },
