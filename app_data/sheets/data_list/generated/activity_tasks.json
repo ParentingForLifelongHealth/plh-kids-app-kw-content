@@ -1626,7 +1626,9 @@
         "transcript": {
           "kw_ar": true
         },
-        "attribution": {}
+        "attribution": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

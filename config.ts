@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.1.68",
+  content_tag_latest: "1.1.69",
 };
 
 config.google_drive.sheets_folder_ids = [
