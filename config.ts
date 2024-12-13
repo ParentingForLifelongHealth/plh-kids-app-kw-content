@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.1.70",
+  content_tag_latest: "1.1.71",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -18,6 +18,10 @@ config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1
 
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+
+// To reduce app size, exclude png images in comics folder
+config.app_data.assets_filter_function = (fileEntry) => 
+  !(fileEntry.relativePath.startsWith("images/comics") && fileEntry.relativePath.endsWith(".png")) && !fileEntry.relativePath.includes("video")
 
 config.api.db_name = "plh_kids_kw";
 
