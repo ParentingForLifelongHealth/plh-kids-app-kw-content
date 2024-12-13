@@ -232,8 +232,8 @@
       },
       {
         "assets": "unused",
-        "KB": "195648 KB",
-        "MB": "195.6 MB"
+        "KB": "211679 KB",
+        "MB": "211.7 MB"
       }
     ]
   },
@@ -448,6 +448,54 @@
         "size_kb": 95.2
       },
       {
+        "path": "images/comics/ignore_yc_1.png",
+        "size_kb": 1145.8
+      },
+      {
+        "path": "images/comics/ignore_yc_1.svg",
+        "size_kb": 300.4
+      },
+      {
+        "path": "images/comics/ignore_yc_2.png",
+        "size_kb": 1137.9
+      },
+      {
+        "path": "images/comics/ignore_yc_2.svg",
+        "size_kb": 300.5
+      },
+      {
+        "path": "images/comics/ignore_yc_3.png",
+        "size_kb": 1133.9
+      },
+      {
+        "path": "images/comics/ignore_yc_3.svg",
+        "size_kb": 300.1
+      },
+      {
+        "path": "images/comics/ignore_yc_4.png",
+        "size_kb": 1150.4
+      },
+      {
+        "path": "images/comics/ignore_yc_4.svg",
+        "size_kb": 303.7
+      },
+      {
+        "path": "images/comics/ignore_yc_5.png",
+        "size_kb": 1150.5
+      },
+      {
+        "path": "images/comics/ignore_yc_5.svg",
+        "size_kb": 302.7
+      },
+      {
+        "path": "images/comics/ignore_yc_6.png",
+        "size_kb": 1160.4
+      },
+      {
+        "path": "images/comics/ignore_yc_6.svg",
+        "size_kb": 301
+      },
+      {
         "path": "images/comics/instructions_yc_1.png",
         "size_kb": 1043.4
       },
@@ -576,6 +624,30 @@
         "size_kb": 761.3
       },
       {
+        "path": "images/comics/praise_yc_5.png",
+        "size_kb": 918.6
+      },
+      {
+        "path": "images/comics/praise_yc_5.svg",
+        "size_kb": 179.8
+      },
+      {
+        "path": "images/comics/praise_yc_6.png",
+        "size_kb": 911.6
+      },
+      {
+        "path": "images/comics/praise_yc_6.svg",
+        "size_kb": 183.1
+      },
+      {
+        "path": "images/comics/praise_yc_7.png",
+        "size_kb": 906.1
+      },
+      {
+        "path": "images/comics/praise_yc_7.svg",
+        "size_kb": 179
+      },
+      {
         "path": "images/comics/problem_solving_yc_1.png",
         "size_kb": 862.7
       },
@@ -598,6 +670,14 @@
       {
         "path": "images/comics/routines_yc_1.png",
         "size_kb": 1053.4
+      },
+      {
+        "path": "images/comics/routines_yc_10.png",
+        "size_kb": 647.7
+      },
+      {
+        "path": "images/comics/routines_yc_10.svg",
+        "size_kb": 82.4
       },
       {
         "path": "images/comics/routines_yc_11.png",
@@ -642,6 +722,30 @@
       {
         "path": "images/comics/routines_yc_6.png",
         "size_kb": 822.8
+      },
+      {
+        "path": "images/comics/routines_yc_7.png",
+        "size_kb": 973.5
+      },
+      {
+        "path": "images/comics/routines_yc_7.svg",
+        "size_kb": 151.9
+      },
+      {
+        "path": "images/comics/routines_yc_8.png",
+        "size_kb": 959.7
+      },
+      {
+        "path": "images/comics/routines_yc_8.svg",
+        "size_kb": 148.3
+      },
+      {
+        "path": "images/comics/routines_yc_9.png",
+        "size_kb": 951.9
+      },
+      {
+        "path": "images/comics/routines_yc_9.svg",
+        "size_kb": 149.8
       },
       {
         "path": "images/comics/self_care_yc_1.png",
@@ -935,6 +1039,11 @@
         "missing": true
       },
       {
+        "path": "https://img.youtube.com/vi/J7dIoKfQczw/hqdefault.jpg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg",
         "count": 2,
         "missing": true
@@ -1061,11 +1170,6 @@
       },
       {
         "path": "https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/rHi61X7_9_Y/hqdefault.jpg",
         "count": 2,
         "missing": true
       },

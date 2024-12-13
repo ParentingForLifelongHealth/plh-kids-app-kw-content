@@ -351,6 +351,54 @@
     "md5Checksum": "825a22e87644db5f10a7a2f06f58d067",
     "size_kb": 95.2
   },
+  "images/comics/ignore_yc_1.png": {
+    "md5Checksum": "fe20c21403582d62ef1c012ed7a6e48e",
+    "size_kb": 1145.8
+  },
+  "images/comics/ignore_yc_1.svg": {
+    "md5Checksum": "955575a32b19bc80993dcd68e6844e72",
+    "size_kb": 300.4
+  },
+  "images/comics/ignore_yc_2.png": {
+    "md5Checksum": "50c4dcf30ea604551e8dd7b2c0945f2f",
+    "size_kb": 1137.9
+  },
+  "images/comics/ignore_yc_2.svg": {
+    "md5Checksum": "6ded630c4a148645dd672cfc21bb6470",
+    "size_kb": 300.5
+  },
+  "images/comics/ignore_yc_3.png": {
+    "md5Checksum": "0efecb8c519d7cd12541a0c29adc72d0",
+    "size_kb": 1133.9
+  },
+  "images/comics/ignore_yc_3.svg": {
+    "md5Checksum": "f2fb3869b652cb9b0c65bc312e56654c",
+    "size_kb": 300.1
+  },
+  "images/comics/ignore_yc_4.png": {
+    "md5Checksum": "04555d6f997675651c38930734c7dc4e",
+    "size_kb": 1150.4
+  },
+  "images/comics/ignore_yc_4.svg": {
+    "md5Checksum": "f0f2990e3eb6b2685f7740014a17a1d2",
+    "size_kb": 303.7
+  },
+  "images/comics/ignore_yc_5.png": {
+    "md5Checksum": "9fd59309f930a125f65c7827714c43b6",
+    "size_kb": 1150.5
+  },
+  "images/comics/ignore_yc_5.svg": {
+    "md5Checksum": "2b6600cb37e184802536862210d77ef7",
+    "size_kb": 302.7
+  },
+  "images/comics/ignore_yc_6.png": {
+    "md5Checksum": "83a57255858bf5e4f953cf3347607edc",
+    "size_kb": 1160.4
+  },
+  "images/comics/ignore_yc_6.svg": {
+    "md5Checksum": "9403003a1ec6cdedac20bd8eee8eacfa",
+    "size_kb": 301
+  },
   "images/comics/instructions_yc_1.png": {
     "md5Checksum": "985c972371e1cf021eb4141ab7fd0d86",
     "size_kb": 1043.4
@@ -543,6 +591,30 @@
     "md5Checksum": "4c3ae1e00265a5768d14fbb765c7f8fb",
     "size_kb": 192.9
   },
+  "images/comics/praise_yc_5.png": {
+    "md5Checksum": "148099ed56d696efff00e8adf050a69c",
+    "size_kb": 918.6
+  },
+  "images/comics/praise_yc_5.svg": {
+    "md5Checksum": "388adb04b92fa651182dd1417fa08bf4",
+    "size_kb": 179.8
+  },
+  "images/comics/praise_yc_6.png": {
+    "md5Checksum": "8f22657af96b591bf7526e12878cd7f9",
+    "size_kb": 911.6
+  },
+  "images/comics/praise_yc_6.svg": {
+    "md5Checksum": "83ffefcef69c7a24de042b4ae396b289",
+    "size_kb": 183.1
+  },
+  "images/comics/praise_yc_7.png": {
+    "md5Checksum": "398c9ffc89299baaf3a75fe357795ab8",
+    "size_kb": 906.1
+  },
+  "images/comics/praise_yc_7.svg": {
+    "md5Checksum": "bcdfe9c8fc6ec0815e0dedf5d615e14d",
+    "size_kb": 179
+  },
   "images/comics/problem_solving_yc_1.png": {
     "md5Checksum": "8ae7c243a27b6df1d4654142e3ae04bd",
     "size_kb": 862.7
@@ -590,6 +662,14 @@
   "images/comics/routines_yc_1.svg": {
     "md5Checksum": "f0378148065612e6e05ef3917dd4bae6",
     "size_kb": 141.3
+  },
+  "images/comics/routines_yc_10.png": {
+    "md5Checksum": "69eacb32ab0dcc75e292800f537daa11",
+    "size_kb": 647.7
+  },
+  "images/comics/routines_yc_10.svg": {
+    "md5Checksum": "af18cfa620fd6791a77e3428a635441c",
+    "size_kb": 82.4
   },
   "images/comics/routines_yc_11.png": {
     "md5Checksum": "9c76eb1020160fb7fd781c70727ef3c8",
@@ -678,6 +758,30 @@
   "images/comics/routines_yc_6.svg": {
     "md5Checksum": "65a54e9cafa1916079569535dd66dbe1",
     "size_kb": 118.9
+  },
+  "images/comics/routines_yc_7.png": {
+    "md5Checksum": "b71bb47b4593fccd2c92d4b62d6185bd",
+    "size_kb": 973.5
+  },
+  "images/comics/routines_yc_7.svg": {
+    "md5Checksum": "99b38653961584ac7cbad3f687922bea",
+    "size_kb": 151.9
+  },
+  "images/comics/routines_yc_8.png": {
+    "md5Checksum": "44b4b2bfed953fbda612edefb158f53c",
+    "size_kb": 959.7
+  },
+  "images/comics/routines_yc_8.svg": {
+    "md5Checksum": "40f4d0c8cca0f77e1a9ccf511058c1c1",
+    "size_kb": 148.3
+  },
+  "images/comics/routines_yc_9.png": {
+    "md5Checksum": "dad7e29f986c3689888cc7b4cf1e12fc",
+    "size_kb": 951.9
+  },
+  "images/comics/routines_yc_9.svg": {
+    "md5Checksum": "cc531b8909e8782f6720bb45f198b14f",
+    "size_kb": 149.8
   },
   "images/comics/self_care_yc_1.png": {
     "md5Checksum": "48fc0ec56e68dd549d7ae87e80e37997",

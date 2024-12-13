@@ -72,7 +72,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 30800 KB | 30.8 MB |
-| unused | 195648 KB | 195.6 MB |
+| unused | 211679 KB | 211.7 MB |
 </details>
 
 <details open>
@@ -134,6 +134,18 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/feelings_yc_7.svg | 139.3 |
 | images/comics/feelings_yc_8.png | 828 |
 | images/comics/feelings_yc_8.svg | 95.2 |
+| images/comics/ignore_yc_1.png | 1145.8 |
+| images/comics/ignore_yc_1.svg | 300.4 |
+| images/comics/ignore_yc_2.png | 1137.9 |
+| images/comics/ignore_yc_2.svg | 300.5 |
+| images/comics/ignore_yc_3.png | 1133.9 |
+| images/comics/ignore_yc_3.svg | 300.1 |
+| images/comics/ignore_yc_4.png | 1150.4 |
+| images/comics/ignore_yc_4.svg | 303.7 |
+| images/comics/ignore_yc_5.png | 1150.5 |
+| images/comics/ignore_yc_5.svg | 302.7 |
+| images/comics/ignore_yc_6.png | 1160.4 |
+| images/comics/ignore_yc_6.svg | 301 |
 | images/comics/instructions_yc_1.png | 1043.4 |
 | images/comics/instructions_yc_10.png | 1172 |
 | images/comics/instructions_yc_11.png | 1150.7 |
@@ -166,12 +178,20 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/praise_yc_2.png | 1061.6 |
 | images/comics/praise_yc_3.png | 1185.1 |
 | images/comics/praise_yc_4.png | 761.3 |
+| images/comics/praise_yc_5.png | 918.6 |
+| images/comics/praise_yc_5.svg | 179.8 |
+| images/comics/praise_yc_6.png | 911.6 |
+| images/comics/praise_yc_6.svg | 183.1 |
+| images/comics/praise_yc_7.png | 906.1 |
+| images/comics/praise_yc_7.svg | 179 |
 | images/comics/problem_solving_yc_1.png | 862.7 |
 | images/comics/problem_solving_yc_2.png | 1002.8 |
 | images/comics/problem_solving_yc_3.png | 1048.2 |
 | images/comics/problem_solving_yc_4.png | 1115.4 |
 | images/comics/problem_solving_yc_5.png | 1121.6 |
 | images/comics/routines_yc_1.png | 1053.4 |
+| images/comics/routines_yc_10.png | 647.7 |
+| images/comics/routines_yc_10.svg | 82.4 |
 | images/comics/routines_yc_11.png | 1109 |
 | images/comics/routines_yc_12.png | 981.4 |
 | images/comics/routines_yc_13.png | 1685.6 |
@@ -183,6 +203,12 @@ Assets that appear in app-data but do not have references within sheets
 | images/comics/routines_yc_4.png | 1053.2 |
 | images/comics/routines_yc_5.png | 1209.7 |
 | images/comics/routines_yc_6.png | 822.8 |
+| images/comics/routines_yc_7.png | 973.5 |
+| images/comics/routines_yc_7.svg | 151.9 |
+| images/comics/routines_yc_8.png | 959.7 |
+| images/comics/routines_yc_8.svg | 148.3 |
+| images/comics/routines_yc_9.png | 951.9 |
+| images/comics/routines_yc_9.svg | 149.8 |
 | images/comics/self_care_yc_1.png | 1169.6 |
 | images/comics/self_care_yc_2.png | 894.9 |
 | images/comics/self_care_yc_3.png | 1035.2 |
@@ -260,6 +286,7 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/GP0aKJjXcdE/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/HFQIlMK58_A/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/HrKa6THgM8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/J7dIoKfQczw/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/JoN_xyYurrw/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/KQis5PintDM/hqdefault.jpg | 2 |
@@ -286,7 +313,6 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/noyAxN4YG3g/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/p7Ybpp0C2f8/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
-| https://img.youtube.com/vi/rHi61X7_9_Y/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 </details>
