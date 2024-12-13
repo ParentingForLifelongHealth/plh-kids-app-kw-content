@@ -4,7 +4,23 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.1.71",
+  content_tag_latest: "1.1.72",
+};
+
+config.android = {
+  app_id:'international.idems.plh_kids_kw',
+  app_name:'تطبيق دايم',
+  splash_asset_path: "./app_data/assets/android/splash.png",
+  icon_asset_path: "./app_data/assets/android/icon.png",
+  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
+  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  zoom_enabled: true
+};
+
+config.ios = {
+  app_id:'international.idems.plh_kids_kw',
+  app_name:'تطبيق دايم',
+  zoom_enabled: true
 };
 
 config.google_drive.sheets_folder_ids = [
