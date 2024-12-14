@@ -11,13 +11,14 @@
 | data_items | 26 |
 | debug_toggle | 1 |
 | display_grid | 1 |
-| display_group | 43 |
-| image | 11 |
+| display_group | 44 |
+| image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
 | nested_properties | 31 |
 | plh_completion_modal | 1 |
+| plh_module_details_header | 1 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
 | qr_code | 1 |
@@ -25,7 +26,7 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1033 |
+| set_variable | 1034 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
@@ -34,7 +35,7 @@
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 29 |
+| title | 28 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -72,7 +73,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 30800 KB | 30.8 MB |
-| unused | 12406 KB | 12.4 MB |
+| unused | 12661 KB | 12.7 MB |
 </details>
 
 <details open>
@@ -88,6 +89,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 239 |
 | contents.json | 5.9 |
 | images/backgrounds/kites.svg | 37.3 |
+| images/backgrounds/progress_arc.png | 255.4 |
 | images/child_development_yc.png | 758.1 |
 | images/childdevelopment.svg | 20.3 |
 | images/comics/feelings_yc_5.svg | 137 |
@@ -212,6 +214,7 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
+| images\backgrounds\progress_arc.png | 1 |
 </details>
 
 <details >

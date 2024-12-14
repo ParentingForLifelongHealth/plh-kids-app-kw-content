@@ -35,11 +35,11 @@
       },
       {
         "type": "display_group",
-        "count": 43
+        "count": 44
       },
       {
         "type": "image",
-        "count": 11
+        "count": 10
       },
       {
         "type": "items",
@@ -59,6 +59,10 @@
       },
       {
         "type": "plh_completion_modal",
+        "count": 1
+      },
+      {
+        "type": "plh_module_details_header",
         "count": 1
       },
       {
@@ -91,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1033
+        "count": 1034
       },
       {
         "type": "simple_checkbox",
@@ -127,7 +131,7 @@
       },
       {
         "type": "title",
-        "count": 29
+        "count": 28
       },
       {
         "type": "toggle_bar",
@@ -232,8 +236,8 @@
       },
       {
         "assets": "unused",
-        "KB": "12406 KB",
-        "MB": "12.4 MB"
+        "KB": "12661 KB",
+        "MB": "12.7 MB"
       }
     ]
   },
@@ -262,6 +266,10 @@
       {
         "path": "images/backgrounds/kites.svg",
         "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/progress_arc.png",
+        "size_kb": 255.4
       },
       {
         "path": "images/child_development_yc.png",
@@ -769,6 +777,11 @@
       {
         "path": "https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg",
         "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images\\backgrounds\\progress_arc.png",
+        "count": 1,
         "missing": true
       }
     ]

@@ -126,64 +126,80 @@
       }
     },
     {
-      "type": "title",
-      "name": "title",
-      "value": "@local.module_row.title",
-      "_translations": {
-        "value": {}
-      },
-      "style_list": [
-        "flex: 1"
-      ],
+      "type": "display_group",
+      "name": "dg_top",
       "exclude_from_translation": true,
-      "_nested_name": "title",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.module_row.title",
-            "matchedExpression": "@local.module_row.title",
-            "type": "local",
-            "fieldName": "module_row"
+      "rows": [
+        {
+          "name": "bg_illustration",
+          "value": "images/backgrounds/progress_arc.png",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "dg_top.bg_illustration"
+        },
+        {
+          "type": "plh_module_details_header",
+          "name": "plh_module_details_header",
+          "value": "@local.module_row.title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "background_image_asset": "@local.bg_illustration",
+            "module_image_asset": "@local.module_row.image_asset"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "dg_top.plh_module_details_header",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.module_row.title",
+                "matchedExpression": "@local.module_row.title",
+                "type": "local",
+                "fieldName": "module_row"
+              }
+            ],
+            "parameter_list": {
+              "background_image_asset": [
+                {
+                  "fullExpression": "@local.bg_illustration",
+                  "matchedExpression": "@local.bg_illustration",
+                  "type": "local",
+                  "fieldName": "bg_illustration"
+                }
+              ],
+              "module_image_asset": [
+                {
+                  "fullExpression": "@local.module_row.image_asset",
+                  "matchedExpression": "@local.module_row.image_asset",
+                  "type": "local",
+                  "fieldName": "module_row"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.module_row.title": [
+              "value"
+            ],
+            "@local.bg_illustration": [
+              "parameter_list.background_image_asset"
+            ],
+            "@local.module_row.image_asset": [
+              "parameter_list.module_image_asset"
+            ]
           }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_row.title": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "image",
-      "name": "image",
-      "value": "@local.module_row.image_asset",
-      "_translations": {
-        "value": {}
-      },
-      "style_list": [
-        "flex: 1"
+        }
       ],
-      "exclude_from_translation": true,
-      "_nested_name": "image",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.module_row.image_asset",
-            "matchedExpression": "@local.module_row.image_asset",
-            "type": "local",
-            "fieldName": "module_row"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.module_row.image_asset": [
-          "value"
-        ]
-      }
+      "_nested_name": "dg_top"
     },
     {
       "type": "display_group",
       "name": "dg_wheel",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "articles",
