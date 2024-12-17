@@ -35,11 +35,11 @@
       },
       {
         "type": "display_group",
-        "count": 44
+        "count": 45
       },
       {
         "type": "image",
-        "count": 10
+        "count": 11
       },
       {
         "type": "items",
@@ -95,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1034
+        "count": 1040
       },
       {
         "type": "simple_checkbox",
@@ -231,13 +231,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "30800 KB",
-        "MB": "30.8 MB"
+        "KB": "30898 KB",
+        "MB": "30.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "12661 KB",
-        "MB": "12.7 MB"
+        "KB": "17017 KB",
+        "MB": "17 MB"
       }
     ]
   },
@@ -268,16 +268,44 @@
         "size_kb": 37.3
       },
       {
-        "path": "images/backgrounds/progress_arc.png",
-        "size_kb": 255.4
-      },
-      {
         "path": "images/child_development_yc.png",
         "size_kb": 758.1
       },
       {
         "path": "images/childdevelopment.svg",
         "size_kb": 20.3
+      },
+      {
+        "path": "images/comics/consequences_yc_10.svg",
+        "size_kb": 162
+      },
+      {
+        "path": "images/comics/consequences_yc_11.svg",
+        "size_kb": 146.3
+      },
+      {
+        "path": "images/comics/consequences_yc_12.svg",
+        "size_kb": 142.7
+      },
+      {
+        "path": "images/comics/consequences_yc_13.svg",
+        "size_kb": 654.9
+      },
+      {
+        "path": "images/comics/consequences_yc_6.svg",
+        "size_kb": 221.9
+      },
+      {
+        "path": "images/comics/consequences_yc_7.svg",
+        "size_kb": 220.7
+      },
+      {
+        "path": "images/comics/consequences_yc_8.svg",
+        "size_kb": 158.2
+      },
+      {
+        "path": "images/comics/consequences_yc_9.svg",
+        "size_kb": 163
       },
       {
         "path": "images/comics/feelings_yc_5.svg",
@@ -300,6 +328,30 @@
         "size_kb": 300.4
       },
       {
+        "path": "images/comics/ignore_yc_10.svg",
+        "size_kb": 248.4
+      },
+      {
+        "path": "images/comics/ignore_yc_11.svg",
+        "size_kb": 243.3
+      },
+      {
+        "path": "images/comics/ignore_yc_12.svg",
+        "size_kb": 320.6
+      },
+      {
+        "path": "images/comics/ignore_yc_13.svg",
+        "size_kb": 246.3
+      },
+      {
+        "path": "images/comics/ignore_yc_14.svg",
+        "size_kb": 294.3
+      },
+      {
+        "path": "images/comics/ignore_yc_15.svg",
+        "size_kb": 244.2
+      },
+      {
         "path": "images/comics/ignore_yc_2.svg",
         "size_kb": 300.5
       },
@@ -318,6 +370,18 @@
       {
         "path": "images/comics/ignore_yc_6.svg",
         "size_kb": 301
+      },
+      {
+        "path": "images/comics/ignore_yc_7.svg",
+        "size_kb": 294.6
+      },
+      {
+        "path": "images/comics/ignore_yc_8.svg",
+        "size_kb": 300.3
+      },
+      {
+        "path": "images/comics/ignore_yc_9.svg",
+        "size_kb": 301.6
       },
       {
         "path": "images/comics/instructions_yc_5.svg",
@@ -498,6 +562,10 @@
       {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
+      },
+      {
+        "path": "images/logos/kuwait.png",
+        "size_kb": 248
       },
       {
         "path": "images/logos/plh_white.png",
@@ -778,11 +846,6 @@
         "path": "https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg",
         "count": 2,
         "missing": true
-      },
-      {
-        "path": "images\\backgrounds\\progress_arc.png",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -877,6 +940,11 @@
         "path": "audio/relax/relax_8.mp3",
         "count": 2,
         "size_kb": 432.9
+      },
+      {
+        "path": "images/backgrounds/progress_arc.png",
+        "count": 1,
+        "size_kb": 255.4
       },
       {
         "path": "images/child_development_yc.svg",
@@ -1051,7 +1119,7 @@
       {
         "path": "images/comics/problem_solving_yc_1.svg",
         "count": 2,
-        "size_kb": 176.9
+        "size_kb": 176.7
       },
       {
         "path": "images/comics/problem_solving_yc_2.svg",
@@ -1174,6 +1242,21 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/balance_yellow.png",
+        "count": 2,
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/brain_yellow.png",
+        "count": 2,
+        "size_kb": 5.3
+      },
+      {
+        "path": "images/icons/clock_yellow.png",
+        "count": 6,
+        "size_kb": 4.7
+      },
+      {
         "path": "images/icons/diamond.png",
         "count": 1,
         "size_kb": 1.8
@@ -1187,6 +1270,11 @@
         "path": "images/icons/expand_circle_right.png",
         "count": 2,
         "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/eye_yellow.png",
+        "count": 4,
+        "size_kb": 4.4
       },
       {
         "path": "images/icons/faces/happiest.svg",
@@ -1239,6 +1327,11 @@
         "size_kb": 54
       },
       {
+        "path": "images/icons/football_yellow.png",
+        "count": 2,
+        "size_kb": 5.3
+      },
+      {
         "path": "images/icons/heart.png",
         "count": 2,
         "size_kb": 0.8
@@ -1269,14 +1362,29 @@
         "size_kb": 1.4
       },
       {
+        "path": "images/icons/heart_filled_yellow.png",
+        "count": 12,
+        "size_kb": 5
+      },
+      {
         "path": "images/icons/home.svg",
         "count": 1,
         "size_kb": 0.4
       },
       {
+        "path": "images/icons/hourglass_yellow.png",
+        "count": 2,
+        "size_kb": 4
+      },
+      {
         "path": "images/icons/in_progress.svg",
         "count": 2,
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/lightbulb_yellow.png",
+        "count": 2,
+        "size_kb": 3.7
       },
       {
         "path": "images/icons/local_library.svg",
@@ -1304,9 +1412,24 @@
         "size_kb": 1.1
       },
       {
+        "path": "images/icons/question_yellow.png",
+        "count": 2,
+        "size_kb": 3.4
+      },
+      {
+        "path": "images/icons/repeat_yellow.png",
+        "count": 2,
+        "size_kb": 5.7
+      },
+      {
         "path": "images/icons/settings.svg",
         "count": 1,
         "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/single_speech_yellow.png",
+        "count": 4,
+        "size_kb": 3.3
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
@@ -1319,9 +1442,24 @@
         "size_kb": 1
       },
       {
+        "path": "images/icons/speech_bubble_yellow.png",
+        "count": 8,
+        "size_kb": 4.2
+      },
+      {
+        "path": "images/icons/star_filled_yellow.png",
+        "count": 10,
+        "size_kb": 5.3
+      },
+      {
         "path": "images/icons/star_outline_blue.svg",
         "count": 10,
         "size_kb": 1
+      },
+      {
+        "path": "images/icons/tablet_yellow.png",
+        "count": 2,
+        "size_kb": 2.8
       },
       {
         "path": "images/icons/thought_bubble.svg",
@@ -1347,6 +1485,11 @@
         "path": "images/icons/trophy_active.png",
         "count": 1,
         "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/trophy_yellow.png",
+        "count": 4,
+        "size_kb": 5.3
       },
       {
         "path": "images/instructions_yc.svg",
@@ -1439,9 +1582,9 @@
         "size_kb": 36
       },
       {
-        "path": "images/logos/kuwait.png",
+        "path": "images/logos/kuwait_cpo.png",
         "count": 1,
-        "size_kb": 248
+        "size_kb": 24
       },
       {
         "path": "images/modal_bg_confetti.svg",

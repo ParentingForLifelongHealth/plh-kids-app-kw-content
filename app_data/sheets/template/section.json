@@ -940,7 +940,8 @@
               },
               "condition": "!!(@local.section_icon_asset)",
               "style_list": [
-                "height: 48px"
+                "max-height: 48px",
+                "max-width: 48px"
               ],
               "exclude_from_translation": true,
               "_nested_name": "dg.dg_top.icon_asset",

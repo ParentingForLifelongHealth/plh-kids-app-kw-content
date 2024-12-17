@@ -509,9 +509,9 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/diamond_yellow.png",
-      "section_2_icon_asset": "images/icons/diamond_yellow.png",
-      "section_3_icon_asset": "images/icons/diamond_yellow.png",
+      "section_1_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_2_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/trophy_yellow.png",
       "section_1_title": "Take a Pause",
       "section_1_text": "Taking a pause helps us to feel and respond calmer in stressful moments.",
       "section_1_button_text": "More tips",

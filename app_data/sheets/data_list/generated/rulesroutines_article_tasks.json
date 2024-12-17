@@ -856,6 +856,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_2_icon_asset": "images/icons/brain_yellow.png",
+      "section_3_icon_asset": "images/icons/clock_yellow.png",
       "section_1_title": "BE A TEAM",
       "section_1_text": "When you involve your child in making rules they are more likely to follow them. One rule at a time is easiest.",
       "section_1_button_text": "More tips",
@@ -892,13 +895,13 @@
           "eng": "USE SAFE ONLINE HABITS"
         },
         "section_2_text": {
-          "eng": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to understand and do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later."
+          "eng": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)"
         },
         "section_2_button_text": {
           "eng": "Learn more"
         },
         "section_2_extra_text": {
-          "eng": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping) \n\nTell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them."
+          "eng": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them."
         },
         "section_3_title": {
           "eng": "SPEND TIME WITH YOUR CHILD"
@@ -934,15 +937,11 @@
         "section_2_title": {
           "kw_ar": true
         },
-        "section_2_text": {
-          "kw_ar": true
-        },
+        "section_2_text": {},
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {
-          "kw_ar": true
-        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "kw_ar": true
         },
@@ -956,14 +955,17 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/tablet_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/speech_bubble_yellow.png",
       "section_1_title": "FIX YOUR TECH",
       "section_1_text": "Take control of your devices to keep them safe for your children.",
       "section_1_button_text": "Learn more",
       "section_1_extra_text": "Set up [parental controls](https://www.internetmatters.org/parental-controls/) on your gadgets \n\nTurn on [SafeSearch](https://www.internetmatters.org/parental-controls/entertainment-search-engines/) on your browser \n\nSet up strict [privacy settings](https://www.internetmatters.org/parental-controls/social-media/) on online apps and games \n\nCover webcams when not in use",
       "section_2_title": "USE SAFE ONLINE HABITS",
-      "section_2_text": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to understand and do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later.",
+      "section_2_text": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)",
       "section_2_button_text": "Learn more",
-      "section_2_extra_text": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping) \n\nTell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
+      "section_2_extra_text": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
       "section_3_title": "SPEND TIME WITH YOUR CHILD",
       "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!",
       "section_3_button_text": "Learn more",

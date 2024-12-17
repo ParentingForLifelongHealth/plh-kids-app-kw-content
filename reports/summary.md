@@ -11,8 +11,8 @@
 | data_items | 26 |
 | debug_toggle | 1 |
 | display_grid | 1 |
-| display_group | 44 |
-| image | 10 |
+| display_group | 45 |
+| image | 11 |
 | items | 10 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
@@ -26,7 +26,7 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1034 |
+| set_variable | 1040 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
@@ -72,8 +72,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 30800 KB | 30.8 MB |
-| unused | 12661 KB | 12.7 MB |
+| total | 30898 KB | 30.9 MB |
+| unused | 17017 KB | 17 MB |
 </details>
 
 <details open>
@@ -89,19 +89,35 @@ Assets that appear in app-data but do not have references within sheets
 | android/splash.png | 239 |
 | contents.json | 5.9 |
 | images/backgrounds/kites.svg | 37.3 |
-| images/backgrounds/progress_arc.png | 255.4 |
 | images/child_development_yc.png | 758.1 |
 | images/childdevelopment.svg | 20.3 |
+| images/comics/consequences_yc_10.svg | 162 |
+| images/comics/consequences_yc_11.svg | 146.3 |
+| images/comics/consequences_yc_12.svg | 142.7 |
+| images/comics/consequences_yc_13.svg | 654.9 |
+| images/comics/consequences_yc_6.svg | 221.9 |
+| images/comics/consequences_yc_7.svg | 220.7 |
+| images/comics/consequences_yc_8.svg | 158.2 |
+| images/comics/consequences_yc_9.svg | 163 |
 | images/comics/feelings_yc_5.svg | 137 |
 | images/comics/feelings_yc_6.svg | 139.8 |
 | images/comics/feelings_yc_7.svg | 139.3 |
 | images/comics/feelings_yc_8.svg | 95.2 |
 | images/comics/ignore_yc_1.svg | 300.4 |
+| images/comics/ignore_yc_10.svg | 248.4 |
+| images/comics/ignore_yc_11.svg | 243.3 |
+| images/comics/ignore_yc_12.svg | 320.6 |
+| images/comics/ignore_yc_13.svg | 246.3 |
+| images/comics/ignore_yc_14.svg | 294.3 |
+| images/comics/ignore_yc_15.svg | 244.2 |
 | images/comics/ignore_yc_2.svg | 300.5 |
 | images/comics/ignore_yc_3.svg | 300.1 |
 | images/comics/ignore_yc_4.svg | 303.7 |
 | images/comics/ignore_yc_5.svg | 302.7 |
 | images/comics/ignore_yc_6.svg | 301 |
+| images/comics/ignore_yc_7.svg | 294.6 |
+| images/comics/ignore_yc_8.svg | 300.3 |
+| images/comics/ignore_yc_9.svg | 301.6 |
 | images/comics/instructions_yc_5.svg | 129.5 |
 | images/comics/instructions_yc_6.svg | 81.9 |
 | images/comics/instructions_yc_7.svg | 102.3 |
@@ -147,6 +163,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/instructions.svg | 23.2 |
 | images/instructions_yc.png | 752.7 |
 | images/logos/favicon.png | 6.3 |
+| images/logos/kuwait.png | 248 |
 | images/logos/plh_white.png | 12.8 |
 | images/one_on_one_challenges.svg | 13.1 |
 | images/one_on_one_yc.png | 883.8 |
@@ -214,7 +231,6 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
-| images\backgrounds\progress_arc.png | 1 |
 </details>
 
 <details >
@@ -242,6 +258,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
+| images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
 | images/comics/child_development_yc_2.svg | 357 | 2 |
@@ -276,7 +293,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/praise_yc_2.svg | 250.9 | 2 |
 | images/comics/praise_yc_3.svg | 248.8 | 2 |
 | images/comics/praise_yc_4.svg | 192.9 | 2 |
-| images/comics/problem_solving_yc_1.svg | 176.9 | 2 |
+| images/comics/problem_solving_yc_1.svg | 176.7 | 2 |
 | images/comics/problem_solving_yc_2.svg | 229.1 | 2 |
 | images/comics/problem_solving_yc_3.svg | 260.8 | 2 |
 | images/comics/problem_solving_yc_4.svg | 272.4 | 2 |
@@ -301,9 +318,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/feelings_yc.svg | 202.2 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/kw.svg | 0.5 | 2 |
+| images/icons/balance_yellow.png | 5.1 | 2 |
+| images/icons/brain_yellow.png | 5.3 | 2 |
+| images/icons/clock_yellow.png | 4.7 | 6 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 2 |
+| images/icons/eye_yellow.png | 4.4 | 4 |
 | images/icons/faces/happiest.svg | 1.3 | 2 |
 | images/icons/faces/happy.svg | 53.5 | 29 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 4 |
@@ -314,28 +335,39 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/scared.svg | 2.1 | 2 |
 | images/icons/faces/stressed.svg | 60 | 18 |
 | images/icons/faces/tired.svg | 54 | 18 |
+| images/icons/football_yellow.png | 5.3 | 2 |
 | images/icons/heart.png | 0.8 | 2 |
 | images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
 | images/icons/heart_filled_red.png | 1.4 | 2 |
+| images/icons/heart_filled_yellow.png | 5 | 12 |
 | images/icons/home.svg | 0.4 | 1 |
+| images/icons/hourglass_yellow.png | 4 | 2 |
 | images/icons/in_progress.svg | 1.1 | 2 |
+| images/icons/lightbulb_yellow.png | 3.7 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/locked.png | 0.7 | 2 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/parent_child_heart.svg | 3 | 10 |
 | images/icons/pencil.svg | 1.1 | 10 |
+| images/icons/question_yellow.png | 3.4 | 2 |
+| images/icons/repeat_yellow.png | 5.7 | 2 |
 | images/icons/settings.svg | 2.4 | 1 |
+| images/icons/single_speech_yellow.png | 3.3 | 4 |
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
 | images/icons/smile_eyes_up.svg | 1 | 20 |
+| images/icons/speech_bubble_yellow.png | 4.2 | 8 |
+| images/icons/star_filled_yellow.png | 5.3 | 10 |
 | images/icons/star_outline_blue.svg | 1 | 10 |
+| images/icons/tablet_yellow.png | 2.8 | 2 |
 | images/icons/thought_bubble.svg | 2.1 | 10 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
+| images/icons/trophy_yellow.png | 5.3 | 4 |
 | images/instructions_yc.svg | 208.8 | 2 |
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
 | images/kw_f1_daughter_6.svg | 37 | 1 |
@@ -354,7 +386,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/app_logo.png | 36 | 1 |
-| images/logos/kuwait.png | 248 | 1 |
+| images/logos/kuwait_cpo.png | 24 | 1 |
 | images/modal_bg_confetti.svg | 37.3 | 1 |
 | images/one_on_one_yc.svg | 443.8 | 2 |
 | images/praise_yc.svg | 386.8 | 2 |

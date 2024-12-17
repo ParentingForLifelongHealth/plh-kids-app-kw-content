@@ -546,6 +546,10 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/hourglass_yellow.png",
+      "section_2_icon_asset": "images/icons/balance_yellow.png",
+      "section_3_icon_asset": "images/icons/repeat_yellow.png",
+      "section_4_icon_asset": "images/icons/speech_bubble_yellow.png",
       "section_1_title": "BE CALM",
       "section_1_text": "Take some deep breaths or walk away from the situation if you need to.\n\nThen, respond in a calm, clear way.",
       "section_1_button_text": "More tips",

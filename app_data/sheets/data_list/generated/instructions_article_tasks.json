@@ -697,6 +697,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_2_icon_asset": "images/icons/clock_yellow.png",
+      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
       "section_1_title": "BE SPECIFIC",
       "section_1_text": "Say the behaviour you want your child to do.\nBut before you do that, connect to them, so they are more likely to listen.",
       "section_1_button_text": "More",

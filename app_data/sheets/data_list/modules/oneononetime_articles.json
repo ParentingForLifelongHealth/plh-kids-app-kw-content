@@ -349,6 +349,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/clock_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
         "text_1_facilitator": {

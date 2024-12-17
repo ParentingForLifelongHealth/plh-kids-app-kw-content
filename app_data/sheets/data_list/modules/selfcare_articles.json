@@ -306,9 +306,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/diamond_yellow.png",
-      "section_2_icon_asset": "images/icons/diamond_yellow.png",
-      "section_3_icon_asset": "images/icons/diamond_yellow.png",
+      "section_1_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_2_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/trophy_yellow.png",
       "quiz_3_option_2_text": "",
       "_translations": {
         "quiz_3_option_2_text": {},
