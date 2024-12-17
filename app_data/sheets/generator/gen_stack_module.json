@@ -24,19 +24,6 @@
           "_cleaned": "completed | nav_stack: close_top"
         },
         {
-          "trigger": "completed",
-          "action_id": "pop_up",
-          "args": [
-            "unlock_play"
-          ],
-          "_raw": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
-          "_cleaned": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
-          "params": {
-            "fullscreen": true,
-            "showCloseButton": false
-          }
-        },
-        {
           "trigger": "uncompleted",
           "action_id": "nav_stack",
           "args": [
@@ -57,6 +44,32 @@
           "name": "show_progress_bar",
           "value": false,
           "exclude_from_translation": true
+        },
+        {
+          "type": "nested_properties",
+          "name": "article_last",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "nested_properties",
+              "name": "article",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "nested_properties",
+                  "name": "nav_buttons",
+                  "exclude_from_translation": true,
+                  "rows": [
+                    {
+                      "name": "next_icon_src",
+                      "value": "checkmark",
+                      "exclude_from_translation": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }

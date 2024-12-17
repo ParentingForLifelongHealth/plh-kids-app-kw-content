@@ -18,19 +18,6 @@
           "_cleaned": "completed | nav_stack: close_top"
         },
         {
-          "trigger": "completed",
-          "action_id": "pop_up",
-          "args": [
-            "unlock_play"
-          ],
-          "_raw": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
-          "_cleaned": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
-          "params": {
-            "fullscreen": true,
-            "showCloseButton": false
-          }
-        },
-        {
           "trigger": "uncompleted",
           "action_id": "nav_stack",
           "args": [
@@ -58,6 +45,40 @@
           "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "module.show_progress_bar"
+        },
+        {
+          "type": "nested_properties",
+          "name": "article_last",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "nested_properties",
+              "name": "article",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "nested_properties",
+                  "name": "nav_buttons",
+                  "exclude_from_translation": true,
+                  "rows": [
+                    {
+                      "name": "next_icon_src",
+                      "value": "checkmark",
+                      "_translations": {
+                        "value": {}
+                      },
+                      "exclude_from_translation": true,
+                      "type": "set_variable",
+                      "_nested_name": "module.article_last.article.nav_buttons.next_icon_src"
+                    }
+                  ],
+                  "_nested_name": "module.article_last.article.nav_buttons"
+                }
+              ],
+              "_nested_name": "module.article_last.article"
+            }
+          ],
+          "_nested_name": "module.article_last"
         }
       ],
       "_nested_name": "module"

@@ -3660,11 +3660,6 @@
       "flow_name": "unlock_play",
       "_xlsxPath": "KW activity library.xlsx"
     },
-    "unlock_play_after_check_in": {
-      "flow_type": "template",
-      "flow_name": "unlock_play_after_check_in",
-      "_xlsxPath": "KW activity library.xlsx"
-    },
     "user_data": {
       "flow_type": "template",
       "flow_name": "user_data",
