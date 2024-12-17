@@ -3546,6 +3546,13 @@
     "module_landing": {
       "flow_type": "template",
       "flow_name": "module_landing",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": 0
+          }
+        }
+      },
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_list_item": {

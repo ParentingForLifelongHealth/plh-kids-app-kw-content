@@ -58,6 +58,14 @@
           "kw_ar": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "section_variant",
+      "value": "box_primary",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"
