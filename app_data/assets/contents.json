@@ -91,6 +91,14 @@
     "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
     "size_kb": 5.9
   },
+  "images/backgrounds/activity_bottom_left.svg": {
+    "md5Checksum": "8182ec65385018d265d605af8843e0ab",
+    "size_kb": 6.8
+  },
+  "images/backgrounds/activity_top_right.svg": {
+    "md5Checksum": "e25c406d3ff6da9275f56ef29fd5d88f",
+    "size_kb": 13.8
+  },
   "images/backgrounds/kites.svg": {
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3

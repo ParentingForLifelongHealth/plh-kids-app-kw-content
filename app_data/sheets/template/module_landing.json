@@ -577,6 +577,30 @@
               "exclude_from_translation": true,
               "rows": [
                 {
+                  "type": "text",
+                  "name": "debug_ts",
+                  "value": "@item.completed_ts",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "_nested_name": "dg_padding.dg_wheel_and_hp.check_in.debug_ts",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.completed_ts",
+                        "matchedExpression": "@item.completed_ts",
+                        "type": "item",
+                        "fieldName": "completed_ts"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.completed_ts": [
+                      "value"
+                    ]
+                  }
+                },
+                {
                   "type": "plh_activity_check_in",
                   "name": "button_hp_review",
                   "action_list": [
@@ -599,8 +623,8 @@
                     "locked_image_asset": "@local.locked_image_asset",
                     "unlocked_icon_asset": "@local.unlocked_icon_asset",
                     "unlocked_image_asset": "@local.unlocked_image_asset",
-                    "countdown_days": "@item.countdown_days",
-                    "countdown_start_date": "@item.countdown_start_date",
+                    "countdown_days": "7",
+                    "countdown_start_date": "@item.completed_ts",
                     "countdown_text_list": "@local.countdown_text_list"
                   },
                   "exclude_from_translation": true,
@@ -677,20 +701,12 @@
                           "fieldName": "unlocked_image_asset"
                         }
                       ],
-                      "countdown_days": [
-                        {
-                          "fullExpression": "@item.countdown_days",
-                          "matchedExpression": "@item.countdown_days",
-                          "type": "item",
-                          "fieldName": "countdown_days"
-                        }
-                      ],
                       "countdown_start_date": [
                         {
-                          "fullExpression": "@item.countdown_start_date",
-                          "matchedExpression": "@item.countdown_start_date",
+                          "fullExpression": "@item.completed_ts",
+                          "matchedExpression": "@item.completed_ts",
                           "type": "item",
-                          "fieldName": "countdown_start_date"
+                          "fieldName": "completed_ts"
                         }
                       ],
                       "countdown_text_list": [
@@ -724,10 +740,7 @@
                     "@local.unlocked_image_asset": [
                       "parameter_list.unlocked_image_asset"
                     ],
-                    "@item.countdown_days": [
-                      "parameter_list.countdown_days"
-                    ],
-                    "@item.countdown_start_date": [
+                    "@item.completed_ts": [
                       "parameter_list.countdown_start_date"
                     ],
                     "@local.countdown_text_list": [

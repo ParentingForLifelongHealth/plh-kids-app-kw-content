@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 44
+        "count": 43
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "display_group",
-        "count": 45
+        "count": 47
       },
       {
         "type": "image",
@@ -55,7 +55,11 @@
       },
       {
         "type": "nested_properties",
-        "count": 31
+        "count": 58
+      },
+      {
+        "type": "plh_activity_check_in",
+        "count": 1
       },
       {
         "type": "plh_completion_modal",
@@ -95,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1040
+        "count": 1053
       },
       {
         "type": "simple_checkbox",
@@ -111,11 +115,11 @@
       },
       {
         "type": "template",
-        "count": 302
+        "count": 301
       },
       {
         "type": "text",
-        "count": 55
+        "count": 57
       },
       {
         "type": "text_area",
@@ -159,7 +163,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 226
+        "count": 225
       },
       {
         "type": "emit: force_reload",
@@ -183,7 +187,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 230
+        "count": 229
       },
       {
         "type": "feedback",
@@ -191,7 +195,7 @@
       },
       {
         "type": "go_to",
-        "count": 10
+        "count": 9
       },
       {
         "type": "nav_stack",
@@ -199,7 +203,7 @@
       },
       {
         "type": "pop_up",
-        "count": 36
+        "count": 27
       },
       {
         "type": "reset_app",
@@ -231,13 +235,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "30898 KB",
-        "MB": "30.9 MB"
+        "KB": "32250 KB",
+        "MB": "32.2 MB"
       },
       {
         "assets": "unused",
-        "KB": "17017 KB",
-        "MB": "17 MB"
+        "KB": "7732 KB",
+        "MB": "7.7 MB"
       }
     ]
   },
@@ -264,188 +268,20 @@
         "size_kb": 5.9
       },
       {
+        "path": "images/backgrounds/activity_bottom_left.svg",
+        "size_kb": 6.8
+      },
+      {
+        "path": "images/backgrounds/activity_top_right.svg",
+        "size_kb": 13.8
+      },
+      {
         "path": "images/backgrounds/kites.svg",
         "size_kb": 37.3
       },
       {
         "path": "images/child_development_yc.png",
         "size_kb": 758.1
-      },
-      {
-        "path": "images/childdevelopment.svg",
-        "size_kb": 20.3
-      },
-      {
-        "path": "images/comics/consequences_yc_10.svg",
-        "size_kb": 162
-      },
-      {
-        "path": "images/comics/consequences_yc_11.svg",
-        "size_kb": 146.3
-      },
-      {
-        "path": "images/comics/consequences_yc_12.svg",
-        "size_kb": 142.7
-      },
-      {
-        "path": "images/comics/consequences_yc_13.svg",
-        "size_kb": 654.9
-      },
-      {
-        "path": "images/comics/consequences_yc_6.svg",
-        "size_kb": 221.9
-      },
-      {
-        "path": "images/comics/consequences_yc_7.svg",
-        "size_kb": 220.7
-      },
-      {
-        "path": "images/comics/consequences_yc_8.svg",
-        "size_kb": 158.2
-      },
-      {
-        "path": "images/comics/consequences_yc_9.svg",
-        "size_kb": 163
-      },
-      {
-        "path": "images/comics/feelings_yc_5.svg",
-        "size_kb": 137
-      },
-      {
-        "path": "images/comics/feelings_yc_6.svg",
-        "size_kb": 139.8
-      },
-      {
-        "path": "images/comics/feelings_yc_7.svg",
-        "size_kb": 139.3
-      },
-      {
-        "path": "images/comics/feelings_yc_8.svg",
-        "size_kb": 95.2
-      },
-      {
-        "path": "images/comics/ignore_yc_1.svg",
-        "size_kb": 300.4
-      },
-      {
-        "path": "images/comics/ignore_yc_10.svg",
-        "size_kb": 248.4
-      },
-      {
-        "path": "images/comics/ignore_yc_11.svg",
-        "size_kb": 243.3
-      },
-      {
-        "path": "images/comics/ignore_yc_12.svg",
-        "size_kb": 320.6
-      },
-      {
-        "path": "images/comics/ignore_yc_13.svg",
-        "size_kb": 246.3
-      },
-      {
-        "path": "images/comics/ignore_yc_14.svg",
-        "size_kb": 294.3
-      },
-      {
-        "path": "images/comics/ignore_yc_15.svg",
-        "size_kb": 244.2
-      },
-      {
-        "path": "images/comics/ignore_yc_2.svg",
-        "size_kb": 300.5
-      },
-      {
-        "path": "images/comics/ignore_yc_3.svg",
-        "size_kb": 300.1
-      },
-      {
-        "path": "images/comics/ignore_yc_4.svg",
-        "size_kb": 303.7
-      },
-      {
-        "path": "images/comics/ignore_yc_5.svg",
-        "size_kb": 302.7
-      },
-      {
-        "path": "images/comics/ignore_yc_6.svg",
-        "size_kb": 301
-      },
-      {
-        "path": "images/comics/ignore_yc_7.svg",
-        "size_kb": 294.6
-      },
-      {
-        "path": "images/comics/ignore_yc_8.svg",
-        "size_kb": 300.3
-      },
-      {
-        "path": "images/comics/ignore_yc_9.svg",
-        "size_kb": 301.6
-      },
-      {
-        "path": "images/comics/instructions_yc_5.svg",
-        "size_kb": 129.5
-      },
-      {
-        "path": "images/comics/instructions_yc_6.svg",
-        "size_kb": 81.9
-      },
-      {
-        "path": "images/comics/instructions_yc_7.svg",
-        "size_kb": 102.3
-      },
-      {
-        "path": "images/comics/one_on_one_yc_5.svg",
-        "size_kb": 167.5
-      },
-      {
-        "path": "images/comics/one_on_one_yc_6.svg",
-        "size_kb": 163
-      },
-      {
-        "path": "images/comics/one_on_one_yc_7.svg",
-        "size_kb": 162.3
-      },
-      {
-        "path": "images/comics/one_on_one_yc_8.svg",
-        "size_kb": 159
-      },
-      {
-        "path": "images/comics/one_on_one_yc_9.svg",
-        "size_kb": 162.3
-      },
-      {
-        "path": "images/comics/praise_yc_5.svg",
-        "size_kb": 179.8
-      },
-      {
-        "path": "images/comics/praise_yc_6.svg",
-        "size_kb": 183.1
-      },
-      {
-        "path": "images/comics/praise_yc_7.svg",
-        "size_kb": 179
-      },
-      {
-        "path": "images/comics/routines_yc_10.svg",
-        "size_kb": 82.4
-      },
-      {
-        "path": "images/comics/routines_yc_7.svg",
-        "size_kb": 151.9
-      },
-      {
-        "path": "images/comics/routines_yc_8.svg",
-        "size_kb": 148.3
-      },
-      {
-        "path": "images/comics/routines_yc_9.svg",
-        "size_kb": 149.8
-      },
-      {
-        "path": "images/consequences.jpg",
-        "size_kb": 115.1
       },
       {
         "path": "images/consequences_yc.png",
@@ -552,10 +388,6 @@
         "size_kb": 1
       },
       {
-        "path": "images/instructions.svg",
-        "size_kb": 23.2
-      },
-      {
         "path": "images/instructions_yc.png",
         "size_kb": 752.7
       },
@@ -572,16 +404,8 @@
         "size_kb": 12.8
       },
       {
-        "path": "images/one_on_one_challenges.svg",
-        "size_kb": 13.1
-      },
-      {
         "path": "images/one_on_one_yc.png",
         "size_kb": 883.8
-      },
-      {
-        "path": "images/praise.svg",
-        "size_kb": 11.3
       },
       {
         "path": "images/praise_yc.png",
@@ -592,28 +416,12 @@
         "size_kb": 824.2
       },
       {
-        "path": "images/problemsolving.svg",
-        "size_kb": 19.6
-      },
-      {
         "path": "images/routines_yc.png",
         "size_kb": 1035.5
       },
       {
-        "path": "images/rulesroutines.jpg",
-        "size_kb": 102.2
-      },
-      {
         "path": "images/self_care_yc.png",
         "size_kb": 608.4
-      },
-      {
-        "path": "images/selfcare.jpg",
-        "size_kb": 96.6
-      },
-      {
-        "path": "images/talk_feelings_challenges.svg",
-        "size_kb": 19.3
       },
       {
         "path": "lottie/bulging_circles.txt",
@@ -628,223 +436,23 @@
   "assets_missing": {
     "data": [
       {
-        "path": "https://img.youtube.com/vi/3rj6-Dy_Q68/hqdefault.jpg",
-        "count": 2,
+        "path": "images/backgroundsa/activity_top_right.svg",
+        "count": 1,
         "missing": true
       },
       {
-        "path": "https://img.youtube.com/vi/676iBYMa00I/hqdefault.jpg",
-        "count": 2,
+        "path": "images/bottom_image.svg",
+        "count": 1,
         "missing": true
       },
       {
-        "path": "https://img.youtube.com/vi/6GdWUOPAov0/hqdefault.jpg",
-        "count": 2,
+        "path": "images/kw_facilitator_rd.png",
+        "count": 1,
         "missing": true
       },
       {
-        "path": "https://img.youtube.com/vi/797ACibKTEk/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/7WFhlqYDNlk/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/8ZTAB0_g_KA/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/A-_gIZ3m3Tc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/B60KbIbDsxk/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/CLN8FF_k7G4/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/CpMd6B_ozag/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/E1j2A5wGGMg/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/FKPFx3AXrxs/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/GP0aKJjXcdE/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/HFQIlMK58_A/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/HrKa6THgM8s/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/J7dIoKfQczw/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/JoN_xyYurrw/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/KQis5PintDM/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/QKZoDBIoZUc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/RIra0dav_kY/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/RIwVM6yyhUw/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/T4zcv8srKPY/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/T6gHmW5QRgA/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/TLJw_EScg2s/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/V-TKV-bP4mE/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/W4o2W_cPStQ/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/X5aMX0y9Mbs/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/_GSLZqq1_D8/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/a0cQkV21Zc0/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/aQ0chEky8ys/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/dAhAJBePJPw/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/d_HmLsmeK98/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/fnjLhQf0sek/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/gKja8sxVAZU/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/iSWM8Bp0KzQ/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/jU9vyQXxnsk/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/kVQOGVXyJCc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/kwJMQXw6ko8/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/noyAxN4YG3g/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/p7Ybpp0C2f8/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg",
-        "count": 2,
+        "path": "images/modal_bg_confetti.svg",
+        "count": 1,
         "missing": true
       }
     ]
@@ -1393,12 +1001,17 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 2,
+        "count": 3,
         "size_kb": 0.7
       },
       {
         "path": "images/icons/magnifying_glass.svg",
         "count": 10,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/notification_bell.png",
+        "count": 1,
         "size_kb": 0.9
       },
       {
@@ -1562,11 +1175,6 @@
         "size_kb": 23.6
       },
       {
-        "path": "images/kw_facilitator_rd.png",
-        "count": 1,
-        "size_kb": 87.3
-      },
-      {
         "path": "images/logos/IDEMS.png",
         "count": 1,
         "size_kb": 84.6
@@ -1585,11 +1193,6 @@
         "path": "images/logos/kuwait_cpo.png",
         "count": 1,
         "size_kb": 24
-      },
-      {
-        "path": "images/modal_bg_confetti.svg",
-        "count": 1,
-        "size_kb": 37.3
       },
       {
         "path": "images/one_on_one_yc.svg",
@@ -1615,6 +1218,16 @@
         "path": "images/self_care_yc.svg",
         "count": 2,
         "size_kb": 94
+      },
+      {
+        "path": "images/shell_closed.png",
+        "count": 1,
+        "size_kb": 443.3
+      },
+      {
+        "path": "images/shell_open.png",
+        "count": 1,
+        "size_kb": 1031.9
       },
       {
         "path": "lottie/bulging_circles.json",
@@ -1713,7 +1326,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 53
+        "total": 52
       },
       {
         "type": "template",
