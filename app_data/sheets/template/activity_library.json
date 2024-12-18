@@ -14,9 +14,6 @@
         "style": "background_solid"
       },
       "exclude_from_translation": true,
-      "style_list": [
-        "max-height: 118px"
-      ],
       "rows": [
         {
           "type": "display_group",
@@ -35,7 +32,7 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "margin-top: 50px"
+                "margin-top: 72px"
               ],
               "_nested_name": "dg_top.dg_top_column.title",
               "_dynamicFields": {
