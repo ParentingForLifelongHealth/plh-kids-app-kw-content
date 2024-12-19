@@ -39,13 +39,15 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 config.app_data.assets_filter_function = (fileEntry) => 
   !(fileEntry.relativePath.startsWith("images/comics") && fileEntry.relativePath.endsWith(".png")) && !fileEntry.relativePath.includes("video")
 
+config.web.favicon_asset = "images/logos/favicon.png";
+
 config.api.db_name = "plh_kids_kw";
 
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "kw_ar";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "Dayem App";
-config.app_config.APP_HEADER_DEFAULTS.title = "Dayem App";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "تطبيق دايم";
+config.app_config.APP_HEADER_DEFAULTS.title = "تطبيق دايم";
 config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } }
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Dayem App";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Dayem App";
