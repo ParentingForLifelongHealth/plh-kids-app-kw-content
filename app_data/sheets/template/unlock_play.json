@@ -30,7 +30,7 @@
     {
       "type": "plh_completion_modal",
       "parameter_list": {
-        "background_image_asset": "images/modal_bg_confetti.svg"
+        "background_image_asset": "images/backgrounds/kites.svg"
       },
       "exclude_from_translation": true,
       "rows": [
