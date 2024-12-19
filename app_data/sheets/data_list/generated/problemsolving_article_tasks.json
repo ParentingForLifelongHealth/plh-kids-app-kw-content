@@ -533,6 +533,10 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/speech_bubble_yellow.png",
+      "section_2_icon_asset": "images/icons/lightbulb_yellow.png",
+      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_4_icon_asset": "images/icons/single_speech_yellow.png",
       "section_1_title": "KNOW IT",
       "section_1_text": "Put the problem into words.\n\nTalk to your child about what the problem is.",
       "section_1_button_text": "What it Sounds Like",

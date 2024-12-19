@@ -547,6 +547,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/eye_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/speech_bubble_yellow.png",
       "section_1_title": "NOTICE",
       "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
       "section_1_button_text": "More tips",

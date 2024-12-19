@@ -304,6 +304,10 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/speech_bubble_yellow.png",
+      "section_2_icon_asset": "images/icons/lightbulb_yellow.png",
+      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_4_icon_asset": "images/icons/single_speech_yellow.png",
       "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
         "text_1_facilitator": {

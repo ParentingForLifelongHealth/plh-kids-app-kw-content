@@ -21,10 +21,10 @@
           "trigger": "completed",
           "action_id": "pop_up",
           "args": [
-            "unlock_play_after_check_in"
+            "unlock_play"
           ],
-          "_raw": "completed | pop_up: unlock_play_after_check_in | fullscreen: true, showCloseButton: false",
-          "_cleaned": "completed | pop_up: unlock_play_after_check_in | fullscreen: true, showCloseButton: false",
+          "_raw": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
+          "_cleaned": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false

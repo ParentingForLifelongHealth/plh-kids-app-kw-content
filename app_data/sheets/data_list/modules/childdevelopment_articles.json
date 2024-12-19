@@ -545,6 +545,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/football_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/question_yellow.png",
       "text_1_facilitator": "Children grow and change at every age, and your support makes all the difference! \nHere are tips to help your child thrive:",
       "_translations": {
         "text_1_facilitator": {

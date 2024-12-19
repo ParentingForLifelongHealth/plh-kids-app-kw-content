@@ -754,6 +754,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/football_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/question_yellow.png",
       "section_1_title": "PLAY",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",

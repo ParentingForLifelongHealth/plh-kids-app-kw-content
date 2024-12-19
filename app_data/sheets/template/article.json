@@ -555,9 +555,6 @@
       "type": "display_group",
       "name": "dg_image_box",
       "condition": "!!(@local.article_data.image_text)",
-      "style_list": [
-        "min_height: 40px"
-      ],
       "parameter_list": {
         "variant": "box_white",
         "style": "column"

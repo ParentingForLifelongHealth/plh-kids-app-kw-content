@@ -726,6 +726,7 @@
                     {
                       "type": "nested_properties",
                       "name": "article",
+                      "exclude_from_translation": true,
                       "rows": [
                         {
                           "type": "nested_properties",
