@@ -39,6 +39,8 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 config.app_data.assets_filter_function = (fileEntry) => 
   !(fileEntry.relativePath.startsWith("images/comics") && fileEntry.relativePath.endsWith(".png")) && !fileEntry.relativePath.includes("video")
 
+config.web.favicon_asset = "images/logos/favicon.png";
+
 config.api.db_name = "plh_kids_kw";
 
 config.app_data.output_path = "./app_data";
