@@ -404,7 +404,8 @@
       "type": "display_grid",
       "name": "display_grid",
       "parameter_list": {
-        "item_width": "120px"
+        "item_width": "150px",
+        "item_border": "none"
       },
       "rows": [
         {
@@ -1023,9 +1024,6 @@
                         "style": "rounded_corners"
                       },
                       "exclude_from_translation": true,
-                      "style_list": [
-                        "width: 100%"
-                      ],
                       "_nested_name": "display_grid.loop_activities.card_locked_@item.id.dg_column_@item.id.image_@item.id",
                       "_dynamicFields": {
                         "name": [
@@ -1169,7 +1167,7 @@
                           },
                           "exclude_from_translation": true,
                           "style_list": [
-                            "width: 48px"
+                            "min-width: 48px"
                           ],
                           "_nested_name": "display_grid.loop_activities.card_locked_@item.id.dg_column_@item.id.dg_row_@item.id.lock_@item.id",
                           "_dynamicFields": {
