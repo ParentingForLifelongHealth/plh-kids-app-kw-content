@@ -3546,6 +3546,13 @@
     "module_landing": {
       "flow_type": "template",
       "flow_name": "module_landing",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": 0
+          }
+        }
+      },
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_list_item": {
@@ -3651,11 +3658,6 @@
     "unlock_play": {
       "flow_type": "template",
       "flow_name": "unlock_play",
-      "_xlsxPath": "KW activity library.xlsx"
-    },
-    "unlock_play_after_check_in": {
-      "flow_type": "template",
-      "flow_name": "unlock_play_after_check_in",
       "_xlsxPath": "KW activity library.xlsx"
     },
     "user_data": {

@@ -699,6 +699,22 @@
           "condition"
         ]
       }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_bottom",
+      "parameter_list": {
+        "sticky": "bottom",
+        "background_image_asset": "images/backgrounds/activity_bottom.svg",
+        "background_image_position": "bottom"
+      },
+      "exclude_from_translation": true,
+      "style_list": [
+        "min-height: 192px",
+        "width: 100%"
+      ],
+      "rows": [],
+      "_nested_name": "dg_bottom"
     }
   ],
   "_xlsxPath": "KW activity library.xlsx"

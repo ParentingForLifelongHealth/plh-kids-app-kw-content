@@ -583,6 +583,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/eye_yellow.png",
+      "section_2_icon_asset": "images/icons/single_speech_yellow.png",
+      "section_3_icon_asset": "images/icons/trophy_yellow.png",
       "section_1_title": "SEE IT",
       "section_1_text": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do.",
       "section_1_button_text": "More tips",

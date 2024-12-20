@@ -343,6 +343,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/eye_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/speech_bubble_yellow.png",
       "text_1_facilitator": "With these three tips, you can help your child learn to manage their emotions well.",
       "_translations": {
         "text_1_facilitator": {

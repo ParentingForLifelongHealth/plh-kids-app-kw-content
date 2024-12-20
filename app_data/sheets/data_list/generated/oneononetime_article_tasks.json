@@ -541,6 +541,9 @@
           "kw_ar": true
         }
       },
+      "section_1_icon_asset": "images/icons/clock_yellow.png",
+      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
+      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
       "section_1_title": "DO IT EVERY DAY",
       "section_1_text": "Spend at least 5 minutes with your child each day. More is better!",
       "section_2_title": "STAY FOCUSED",
