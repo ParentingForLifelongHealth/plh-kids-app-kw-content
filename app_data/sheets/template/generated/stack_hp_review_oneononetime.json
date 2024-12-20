@@ -23,11 +23,10 @@
           "args": [
             "unlock_play"
           ],
-          "_raw": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
-          "_cleaned": "completed | pop_up: unlock_play | fullscreen: true, showCloseButton: false",
+          "_raw": "completed | pop_up: unlock_play | variant: plh_completion",
+          "_cleaned": "completed | pop_up: unlock_play | variant: plh_completion",
           "params": {
-            "fullscreen": true,
-            "showCloseButton": false
+            "variant": "plh_completion"
           }
         },
         {

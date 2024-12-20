@@ -300,11 +300,9 @@
     {
       "type": "declare_global_constant",
       "name": "complete_your_modules_and_home_activities_to_unlock_new_moments_of_play",
-      "value": "Complete your modules and home activities to unlock new moments of play",
+      "value": "Complete your modules and home activities to unlock new moments of play.",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       }
     },
     {
@@ -345,6 +343,14 @@
         "value": {
           "kw_ar": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_favourites_yet",
+      "value": "Nothing here yet!\nMark games as favorites by tapping the ❤️ icon to quickly find what you enjoy most.",
+      "_translations": {
+        "value": {}
       }
     },
     {

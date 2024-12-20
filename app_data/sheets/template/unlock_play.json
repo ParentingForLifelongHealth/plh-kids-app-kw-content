@@ -28,9 +28,10 @@
       }
     },
     {
-      "type": "plh_completion_modal",
+      "type": "display_group",
       "parameter_list": {
-        "background_image_asset": "images/backgrounds/kites.svg"
+        "background_image_asset": "images/backgrounds/kites.svg",
+        "style": "column"
       },
       "exclude_from_translation": true,
       "rows": [
@@ -42,7 +43,7 @@
             "value": {}
           },
           "exclude_from_translation": true,
-          "_nested_name": "plh_completion_modal_3.lottie"
+          "_nested_name": "display_group_3.lottie"
         },
         {
           "type": "title",
@@ -56,7 +57,7 @@
             "style": "alternative"
           },
           "exclude_from_translation": true,
-          "_nested_name": "plh_completion_modal_3.title",
+          "_nested_name": "display_group_3.title",
           "_dynamicFields": {
             "value": [
               {
@@ -85,7 +86,7 @@
             "style": "alternative"
           },
           "exclude_from_translation": true,
-          "_nested_name": "plh_completion_modal_3.text",
+          "_nested_name": "display_group_3.text",
           "_dynamicFields": {
             "value": [
               {
@@ -122,7 +123,7 @@
               },
               "condition": false,
               "exclude_from_translation": true,
-              "_nested_name": "plh_completion_modal_3.loop_activities.debug_id",
+              "_nested_name": "display_group_3.loop_activities.debug_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -185,7 +186,7 @@
                 "icon_false_asset": "images/icons/heart.svg"
               },
               "exclude_from_translation": true,
-              "_nested_name": "plh_completion_modal_3.loop_activities.button",
+              "_nested_name": "display_group_3.loop_activities.button",
               "_dynamicFields": {
                 "value": [
                   {
@@ -238,7 +239,7 @@
               }
             }
           ],
-          "_nested_name": "plh_completion_modal_3.loop_activities",
+          "_nested_name": "display_group_3.loop_activities",
           "_dynamicFields": {
             "value": [
               {
@@ -269,8 +270,8 @@
           }
         }
       ],
-      "name": "plh_completion_modal_3",
-      "_nested_name": "plh_completion_modal_3"
+      "name": "display_group_3",
+      "_nested_name": "display_group_3"
     }
   ],
   "_xlsxPath": "KW activity library.xlsx"
