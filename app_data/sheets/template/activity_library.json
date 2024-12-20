@@ -407,6 +407,7 @@
         "item_width": "150px",
         "item_border": "none"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "data_items",
@@ -414,18 +415,6 @@
           "value": "@data.activity_tasks",
           "exclude_from_translation": true,
           "rows": [
-            {
-              "name": "at_least_one_unlocked",
-              "value": false,
-              "type": "set_variable",
-              "_nested_name": "display_grid.loop_activities.at_least_one_unlocked"
-            },
-            {
-              "name": "at_least_one_favourite",
-              "value": false,
-              "type": "set_variable",
-              "_nested_name": "display_grid.loop_activities.at_least_one_favourite"
-            },
             {
               "type": "task_card",
               "name": "card_@item.id",
@@ -448,65 +437,12 @@
               "exclude_from_translation": true,
               "rows": [
                 {
-                  "name": "at_least_one_unlocked",
-                  "value": true,
-                  "type": "set_variable",
-                  "_nested_name": "display_grid.loop_activities.card_@item.id.at_least_one_unlocked",
-                  "_dynamicFields": {
-                    "_nested_name": [
-                      {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.at_least_one_unlocked",
-                        "matchedExpression": "@item.id.at_least_one_unlocked",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.id.at_least_one_unlocked": [
-                      "_nested_name"
-                    ]
-                  }
-                },
-                {
-                  "name": "at_least_one_favourite",
-                  "value": true,
-                  "condition": "@item.favourite",
-                  "type": "set_variable",
-                  "_nested_name": "display_grid.loop_activities.card_@item.id.at_least_one_favourite",
-                  "_dynamicFields": {
-                    "condition": [
-                      {
-                        "fullExpression": "@item.favourite",
-                        "matchedExpression": "@item.favourite",
-                        "type": "item",
-                        "fieldName": "favourite"
-                      }
-                    ],
-                    "_nested_name": [
-                      {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.at_least_one_favourite",
-                        "matchedExpression": "@item.id.at_least_one_favourite",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.favourite": [
-                      "condition"
-                    ],
-                    "@item.id.at_least_one_favourite": [
-                      "_nested_name"
-                    ]
-                  }
-                },
-                {
                   "type": "display_group",
                   "name": "dg_column_@item.id",
                   "parameter_list": {
                     "style": "column"
                   },
+                  "exclude_from_translation": true,
                   "rows": [
                     {
                       "type": "image",
@@ -580,6 +516,7 @@
                     {
                       "type": "display_group",
                       "name": "dg_row_@item.id",
+                      "exclude_from_translation": true,
                       "style_list": [
                         "justify-content: space-between"
                       ],
@@ -954,52 +891,6 @@
               }
             },
             {
-              "type": "text",
-              "name": "text_no_favourites_yet",
-              "value": "@global.no_favourites_yet",
-              "_translations": {
-                "value": {}
-              },
-              "condition": "@local.at_least_one_unlocked && !@local.at_least_one_favourite",
-              "exclude_from_translation": true,
-              "_nested_name": "display_grid.loop_activities.text_no_favourites_yet",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@global.no_favourites_yet",
-                    "matchedExpression": "@global.no_favourites_yet",
-                    "type": "global",
-                    "fieldName": "no_favourites_yet"
-                  }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "@local.at_least_one_unlocked && !@local.at_least_one_favourite",
-                    "matchedExpression": "@local.at_least_one_unlocked",
-                    "type": "local",
-                    "fieldName": "at_least_one_unlocked"
-                  },
-                  {
-                    "fullExpression": "@local.at_least_one_unlocked && !@local.at_least_one_favourite",
-                    "matchedExpression": "!@local.at_least_one_favourite",
-                    "type": "local",
-                    "fieldName": "at_least_one_favourite"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@global.no_favourites_yet": [
-                  "value"
-                ],
-                "@local.at_least_one_unlocked": [
-                  "condition"
-                ],
-                "!@local.at_least_one_favourite": [
-                  "condition"
-                ]
-              }
-            },
-            {
               "type": "task_card",
               "name": "card_locked_@item.id",
               "condition": "@item.locked",
@@ -1012,6 +903,7 @@
                   "parameter_list": {
                     "style": "column"
                   },
+                  "exclude_from_translation": true,
                   "rows": [
                     {
                       "type": "image",
@@ -1082,6 +974,7 @@
                     {
                       "type": "display_group",
                       "name": "dg_row_@item.id",
+                      "exclude_from_translation": true,
                       "style_list": [
                         "justify-content: space-between"
                       ],
@@ -1500,6 +1393,72 @@
         }
       ],
       "_nested_name": "display_grid"
+    },
+    {
+      "type": "data_items",
+      "name": "if_no_favourites_yet",
+      "value": "@data.activity_tasks",
+      "parameter_list": {
+        "filter": "@item.favourite && !@ item.locked",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "type": "text",
+          "name": "explain_how_to_add_favourites",
+          "value": "@global.no_favourites_yet",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "if_no_favourites_yet.explain_how_to_add_favourites",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.no_favourites_yet",
+                "matchedExpression": "@global.no_favourites_yet",
+                "type": "global",
+                "fieldName": "no_favourites_yet"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.no_favourites_yet": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "if_no_favourites_yet",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.activity_tasks",
+            "matchedExpression": "@data.activity_tasks",
+            "type": "data",
+            "fieldName": "activity_tasks"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.favourite && !@ item.locked",
+              "matchedExpression": "@item.favourite",
+              "type": "item",
+              "fieldName": "favourite"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.activity_tasks": [
+          "value"
+        ],
+        "@item.favourite": [
+          "parameter_list.filter"
+        ]
+      }
     },
     {
       "type": "display_group",

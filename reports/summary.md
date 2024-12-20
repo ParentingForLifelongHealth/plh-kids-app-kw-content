@@ -8,17 +8,16 @@
 | audio | 4 |
 | button | 43 |
 | combo_box | 4 |
-| data_items | 26 |
+| data_items | 34 |
 | debug_toggle | 1 |
-| display_grid | 1 |
-| display_group | 47 |
+| display_grid | 2 |
+| display_group | 51 |
 | image | 11 |
 | items | 10 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
 | nested_properties | 58 |
 | plh_activity_check_in | 1 |
-| plh_completion_modal | 1 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
@@ -27,7 +26,7 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1053 |
+| set_variable | 1058 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
@@ -61,8 +60,9 @@
 | nav_stack | 60 |
 | pop_up | 27 |
 | reset_app | 1 |
-| set_field | 12 |
-| set_item | 7 |
+| set_data | 9 |
+| set_field | 21 |
+| set_item | 15 |
 | set_local | 12 |
 | task | 3 |
 | user | 1 |
@@ -73,8 +73,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 32250 KB | 32.2 MB |
-| unused | 7732 KB | 7.7 MB |
+| total | 32332 KB | 32.3 MB |
+| unused | 9594 KB | 9.6 MB |
 </details>
 
 <details open>
@@ -84,14 +84,11 @@ Assets that appear in app-data but do not have references within sheets
 
 | path | size_kb |
 | --- | --- |
-| android/icon-background.png | 21.4 |
-| android/icon-foreground.png | 58.3 |
-| android/icon.png | 70.3 |
-| android/splash.png | 239 |
+| android/icon-background.png | 3.9 |
+| android/icon-foreground.png | 686.5 |
+| android/icon.png | 578.2 |
+| android/splash.png | 996 |
 | contents.json | 5.9 |
-| images/backgrounds/activity_bottom_left.svg | 6.8 |
-| images/backgrounds/activity_top_right.svg | 13.8 |
-| images/backgrounds/kites.svg | 37.3 |
 | images/child_development_yc.png | 758.1 |
 | images/consequences_yc.png | 629.1 |
 | images/feelings_yc.png | 578.8 |
@@ -106,6 +103,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/fire.png | 0.9 |
+| images/icons/heart.svg | 0.6 |
+| images/icons/heart_filled.svg | 1.4 |
 | images/icons/home_active.svg | 0.4 |
 | images/icons/in_progress_white.svg | 1.1 |
 | images/icons/local_library_active.svg | 1.6 |
@@ -120,7 +119,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
 | images/instructions_yc.png | 752.7 |
-| images/logos/favicon.png | 6.3 |
+| images/logos/favicon.png | 48.3 |
 | images/logos/kuwait.png | 248 |
 | images/logos/plh_white.png | 12.8 |
 | images/one_on_one_yc.png | 883.8 |
@@ -139,10 +138,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/backgroundsa/activity_top_right.svg | 1 |
-| images/bottom_image.svg | 1 |
 | images/kw_facilitator_rd.png | 1 |
-| images/modal_bg_confetti.svg | 1 |
 </details>
 
 <details >
@@ -170,6 +166,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
+| images/backgrounds/activity_bottom.svg | 26.3 | 1 |
+| images/backgrounds/kites.svg | 37.3 | 1 |
+| images/backgrounds/library_bottom_left.svg | 6.8 | 1 |
+| images/backgrounds/library_top_right.svg | 13.8 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -249,9 +249,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/tired.svg | 54 | 18 |
 | images/icons/football_yellow.png | 5.3 | 2 |
 | images/icons/heart.png | 0.8 | 2 |
-| images/icons/heart.svg | 0.6 | 1 |
 | images/icons/heart_filled.png | 1.4 | 1 |
-| images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
 | images/icons/heart_filled_red.png | 1.4 | 2 |
 | images/icons/heart_filled_yellow.png | 5 | 12 |
