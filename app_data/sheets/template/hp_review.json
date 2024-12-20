@@ -21,6 +21,15 @@
       "_nested_name": "show_first"
     },
     {
+      "name": "completion_icon",
+      "value": "trophy",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "completion_icon"
+    },
+    {
       "type": "display_group",
       "name": "dg_1",
       "condition": "@local.show_first",
@@ -896,13 +905,28 @@
             },
             {
               "name": "next_icon_src",
-              "value": "trophy",
+              "value": "@local.completion_icon",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_1.nav_buttons_end.next_icon_src"
+              "_nested_name": "dg_1.nav_buttons_end.next_icon_src",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.completion_icon",
+                    "matchedExpression": "@local.completion_icon",
+                    "type": "local",
+                    "fieldName": "completion_icon"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.completion_icon": [
+                  "value"
+                ]
+              }
             }
           ],
           "_nested_name": "dg_1.nav_buttons_end",
@@ -1067,6 +1091,37 @@
                   "value"
                 ]
               }
+            },
+            {
+              "type": "nested_properties",
+              "name": "nav_buttons",
+              "rows": [
+                {
+                  "name": "next_icon_src",
+                  "value": "@local.completion_icon",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "dg_2.hp_challenges.nav_buttons.next_icon_src",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@local.completion_icon",
+                        "matchedExpression": "@local.completion_icon",
+                        "type": "local",
+                        "fieldName": "completion_icon"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.completion_icon": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "dg_2.hp_challenges.nav_buttons"
             }
           ],
           "_nested_name": "dg_2.hp_challenges"

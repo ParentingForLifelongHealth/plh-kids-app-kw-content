@@ -53,191 +53,202 @@
     },
     {
       "type": "display_group",
+      "name": "dg_bg",
       "parameter_list": {
-        "background_image_asset": "images/backgrounds/kites.svg",
-        "style": "column"
+        "background_image_asset": "images/backgrounds/kites.svg"
       },
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "lottie_animation",
-          "name": "lottie",
-          "value": "lottie/gift_box.json",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "display_group_4.lottie"
-        },
-        {
-          "type": "title",
-          "name": "title",
-          "value": "@global.hurrah",
-          "_translations": {
-            "value": {}
-          },
+          "type": "display_group",
+          "name": "dg_column",
           "parameter_list": {
-            "text_align": "center",
-            "style": "alternative"
+            "style": "column"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_4.title",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.hurrah",
-                "matchedExpression": "@global.hurrah",
-                "type": "global",
-                "fieldName": "hurrah"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.hurrah": [
-              "value"
-            ]
-          }
-        },
-        {
-          "type": "text",
-          "name": "text",
-          "value": "@local.congratulation_text",
-          "_translations": {
-            "value": {}
-          },
-          "parameter_list": {
-            "text_align": "center",
-            "style": "alternative"
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "display_group_4.text",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.congratulation_text",
-                "matchedExpression": "@local.congratulation_text",
-                "type": "local",
-                "fieldName": "congratulation_text"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.congratulation_text": [
-              "value"
-            ]
-          }
-        },
-        {
-          "type": "text",
-          "name": "debug_id",
-          "value": "@local.activity_id",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "display_group_4.debug_id",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.activity_id",
-                "matchedExpression": "@local.activity_id",
-                "type": "local",
-                "fieldName": "activity_id"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.activity_id": [
-              "value"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button",
-          "value": "@global.open_your_moment_of_play",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
+          "rows": [
             {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "type": "lottie_animation",
+              "name": "lottie",
+              "value": "lottie/gift_box.json",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "dg_bg.dg_column.lottie"
             },
             {
-              "trigger": "click",
-              "action_id": "nav_stack",
-              "args": [
-                "open"
+              "type": "title",
+              "name": "title",
+              "value": "@global.hurrah",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "text_align": "center",
+                "style": "alternative"
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "dg_bg.dg_column.title",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.hurrah",
+                    "matchedExpression": "@global.hurrah",
+                    "type": "global",
+                    "fieldName": "hurrah"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.hurrah": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "text",
+              "value": "@local.congratulation_text",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "text_align": "center",
+                "style": "alternative"
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "dg_bg.dg_column.text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.congratulation_text",
+                    "matchedExpression": "@local.congratulation_text",
+                    "type": "local",
+                    "fieldName": "congratulation_text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.congratulation_text": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "debug_id",
+              "value": "@local.activity_id",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "_nested_name": "dg_bg.dg_column.debug_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.activity_id",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.activity_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button",
+              "value": "@global.open_your_moment_of_play",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "click | emit: completed",
+                  "_cleaned": "click | emit: completed"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "nav_stack",
+                  "args": [
+                    "open"
+                  ],
+                  "_raw": "click | nav_stack: open | template: activity_@local.activity_id",
+                  "_cleaned": "click | nav_stack: open | template: activity_@local.activity_id",
+                  "params": {
+                    "template": "activity_@local.activity_id"
+                  }
+                }
               ],
-              "_raw": "click | nav_stack: open | template: activity_@local.activity_id",
-              "_cleaned": "click | nav_stack: open | template: activity_@local.activity_id",
-              "params": {
-                "template": "activity_@local.activity_id"
+              "exclude_from_translation": true,
+              "_nested_name": "dg_bg.dg_column.button",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.open_your_moment_of_play",
+                    "matchedExpression": "@global.open_your_moment_of_play",
+                    "type": "global",
+                    "fieldName": "open_your_moment_of_play"
+                  }
+                ],
+                "action_list": {
+                  "1": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
+                        "matchedExpression": "@local.activity_id",
+                        "type": "local",
+                        "fieldName": "activity_id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
+                        "matchedExpression": "@local.activity_id",
+                        "type": "local",
+                        "fieldName": "activity_id"
+                      }
+                    ],
+                    "params": {
+                      "template": [
+                        {
+                          "fullExpression": "activity_@local.activity_id",
+                          "matchedExpression": "@local.activity_id",
+                          "type": "local",
+                          "fieldName": "activity_id"
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@global.open_your_moment_of_play": [
+                  "value"
+                ],
+                "@local.activity_id": [
+                  "action_list.1._raw",
+                  "action_list.1._cleaned",
+                  "action_list.1.params.template"
+                ]
               }
             }
           ],
-          "exclude_from_translation": true,
-          "_nested_name": "display_group_4.button",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.open_your_moment_of_play",
-                "matchedExpression": "@global.open_your_moment_of_play",
-                "type": "global",
-                "fieldName": "open_your_moment_of_play"
-              }
-            ],
-            "action_list": {
-              "1": {
-                "_raw": [
-                  {
-                    "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
-                    "matchedExpression": "@local.activity_id",
-                    "type": "local",
-                    "fieldName": "activity_id"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
-                    "matchedExpression": "@local.activity_id",
-                    "type": "local",
-                    "fieldName": "activity_id"
-                  }
-                ],
-                "params": {
-                  "template": [
-                    {
-                      "fullExpression": "activity_@local.activity_id",
-                      "matchedExpression": "@local.activity_id",
-                      "type": "local",
-                      "fieldName": "activity_id"
-                    }
-                  ]
-                }
-              }
-            }
-          },
-          "_dynamicDependencies": {
-            "@global.open_your_moment_of_play": [
-              "value"
-            ],
-            "@local.activity_id": [
-              "action_list.1._raw",
-              "action_list.1._cleaned",
-              "action_list.1.params.template"
-            ]
-          }
+          "_nested_name": "dg_bg.dg_column"
         }
       ],
-      "name": "display_group_4",
-      "_nested_name": "display_group_4"
+      "_nested_name": "dg_bg"
     }
   ],
   "_xlsxPath": "KW activity library.xlsx"

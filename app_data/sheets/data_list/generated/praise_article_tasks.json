@@ -240,18 +240,16 @@
       "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)"
+          "eng": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)"
         },
         "text_2": {
           "eng": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!"
         }
       },
       "category_id": "explore",
-      "text_1_facilitator": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
+      "text_1_facilitator": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "kw_ar": true
         }
@@ -366,13 +364,13 @@
           "eng": "He tells her she is a “good girl.\""
         },
         "quiz_2_feedback_3": {
-          "eng": "False. He praises @data.characters.f2_daughter_3 for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective."
+          "eng": "False. He praises @data.characters.f2_daughter_3.name for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective."
         },
         "quiz_2_option_4_text": {
           "eng": "He praises her immediately."
         },
         "quiz_2_feedback_4": {
-          "eng": "True! Grandfather praises @data.characters.f2_daughter_3 immediately after her positive behaviour."
+          "eng": "True! Grandfather praises @data.characters.f2_daughter_3.name immediately after her positive behaviour."
         },
         "quiz_3_question": {
           "eng": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?"
@@ -441,15 +439,11 @@
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_3": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_4": {},
         "quiz_3_question": {
           "kw_ar": true
         },
@@ -485,9 +479,9 @@
       "quiz_2_option_2_text": "He uses her name and makes eye contact",
       "quiz_2_feedback_2": "True! All @data.characters.f2_grandfather.name’s actions show us that the way we give praise is also important.",
       "quiz_2_option_3_text": "He tells her she is a “good girl.\"",
-      "quiz_2_feedback_3": "False. He praises @data.characters.f2_daughter_3 for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
+      "quiz_2_feedback_3": "False. He praises @data.characters.f2_daughter_3.name for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
       "quiz_2_option_4_text": "He praises her immediately.",
-      "quiz_2_feedback_4": "True! Grandfather praises @data.characters.f2_daughter_3 immediately after her positive behaviour.",
+      "quiz_2_feedback_4": "True! Grandfather praises @data.characters.f2_daughter_3.name immediately after her positive behaviour.",
       "quiz_3_question": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?",
       "quiz_3_option_1_text": "Because he loves her.",
       "quiz_3_feedback_1": "Giving a small reward can motivate children to repeat tasks they find challenging.",

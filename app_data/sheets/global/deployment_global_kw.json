@@ -66,6 +66,22 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "first_completion_icon",
+      "value": "trophy",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "subsequent_completion_icon",
+      "value": "checkmark",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

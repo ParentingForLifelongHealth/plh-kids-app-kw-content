@@ -403,6 +403,7 @@
     {
       "type": "display_grid",
       "name": "display_grid",
+      "value": "dg_1",
       "parameter_list": {
         "item_width": "150px",
         "item_border": "none"
@@ -1393,72 +1394,6 @@
         }
       ],
       "_nested_name": "display_grid"
-    },
-    {
-      "type": "data_items",
-      "name": "if_no_favourites_yet",
-      "value": "@data.activity_tasks",
-      "parameter_list": {
-        "filter": "@item.favourite && !@ item.locked",
-        "limit": "1"
-      },
-      "exclude_from_translation": true,
-      "rows": [
-        {
-          "type": "text",
-          "name": "explain_how_to_add_favourites",
-          "value": "@global.no_favourites_yet",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "if_no_favourites_yet.explain_how_to_add_favourites",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.no_favourites_yet",
-                "matchedExpression": "@global.no_favourites_yet",
-                "type": "global",
-                "fieldName": "no_favourites_yet"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.no_favourites_yet": [
-              "value"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "if_no_favourites_yet",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.activity_tasks",
-            "matchedExpression": "@data.activity_tasks",
-            "type": "data",
-            "fieldName": "activity_tasks"
-          }
-        ],
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "@item.favourite && !@ item.locked",
-              "matchedExpression": "@item.favourite",
-              "type": "item",
-              "fieldName": "favourite"
-            }
-          ]
-        }
-      },
-      "_dynamicDependencies": {
-        "@data.activity_tasks": [
-          "value"
-        ],
-        "@item.favourite": [
-          "parameter_list.filter"
-        ]
-      }
     },
     {
       "type": "display_group",
