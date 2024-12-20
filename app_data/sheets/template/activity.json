@@ -710,7 +710,7 @@
       },
       "exclude_from_translation": true,
       "style_list": [
-        "min-height: 88px",
+        "min-height: 192px",
         "width: 100%"
       ],
       "rows": [],
