@@ -23,7 +23,7 @@
       },
       {
         "type": "data_items",
-        "count": 26
+        "count": 34
       },
       {
         "type": "debug_toggle",
@@ -31,11 +31,11 @@
       },
       {
         "type": "display_grid",
-        "count": 1
+        "count": 2
       },
       {
         "type": "display_group",
-        "count": 47
+        "count": 51
       },
       {
         "type": "image",
@@ -59,10 +59,6 @@
       },
       {
         "type": "plh_activity_check_in",
-        "count": 1
-      },
-      {
-        "type": "plh_completion_modal",
         "count": 1
       },
       {
@@ -99,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1053
+        "count": 1058
       },
       {
         "type": "simple_checkbox",
@@ -210,12 +206,16 @@
         "count": 1
       },
       {
+        "type": "set_data",
+        "count": 9
+      },
+      {
         "type": "set_field",
-        "count": 12
+        "count": 21
       },
       {
         "type": "set_item",
-        "count": 7
+        "count": 15
       },
       {
         "type": "set_local",
@@ -235,13 +235,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "32250 KB",
-        "MB": "32.2 MB"
+        "KB": "32332 KB",
+        "MB": "32.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "7732 KB",
-        "MB": "7.7 MB"
+        "KB": "9594 KB",
+        "MB": "9.6 MB"
       }
     ]
   },
@@ -249,35 +249,23 @@
     "data": [
       {
         "path": "android/icon-background.png",
-        "size_kb": 21.4
+        "size_kb": 3.9
       },
       {
         "path": "android/icon-foreground.png",
-        "size_kb": 58.3
+        "size_kb": 686.5
       },
       {
         "path": "android/icon.png",
-        "size_kb": 70.3
+        "size_kb": 578.2
       },
       {
         "path": "android/splash.png",
-        "size_kb": 239
+        "size_kb": 996
       },
       {
         "path": "contents.json",
         "size_kb": 5.9
-      },
-      {
-        "path": "images/backgrounds/activity_bottom_left.svg",
-        "size_kb": 6.8
-      },
-      {
-        "path": "images/backgrounds/activity_top_right.svg",
-        "size_kb": 13.8
-      },
-      {
-        "path": "images/backgrounds/kites.svg",
-        "size_kb": 37.3
       },
       {
         "path": "images/child_development_yc.png",
@@ -334,6 +322,14 @@
       {
         "path": "images/icons/fire.png",
         "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/heart.svg",
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/heart_filled.svg",
+        "size_kb": 1.4
       },
       {
         "path": "images/icons/home_active.svg",
@@ -393,7 +389,7 @@
       },
       {
         "path": "images/logos/favicon.png",
-        "size_kb": 6.3
+        "size_kb": 48.3
       },
       {
         "path": "images/logos/kuwait.png",
@@ -436,22 +432,7 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/backgroundsa/activity_top_right.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/bottom_image.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/kw_facilitator_rd.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/modal_bg_confetti.svg",
         "count": 1,
         "missing": true
       }
@@ -548,6 +529,26 @@
         "path": "audio/relax/relax_8.mp3",
         "count": 2,
         "size_kb": 432.9
+      },
+      {
+        "path": "images/backgrounds/activity_bottom.svg",
+        "count": 1,
+        "size_kb": 26.3
+      },
+      {
+        "path": "images/backgrounds/kites.svg",
+        "count": 1,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/library_bottom_left.svg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "images/backgrounds/library_top_right.svg",
+        "count": 1,
+        "size_kb": 13.8
       },
       {
         "path": "images/backgrounds/progress_arc.png",
@@ -945,17 +946,7 @@
         "size_kb": 0.8
       },
       {
-        "path": "images/icons/heart.svg",
-        "count": 1,
-        "size_kb": 0.6
-      },
-      {
         "path": "images/icons/heart_filled.png",
-        "count": 1,
-        "size_kb": 1.4
-      },
-      {
-        "path": "images/icons/heart_filled.svg",
         "count": 1,
         "size_kb": 1.4
       },

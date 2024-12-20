@@ -418,15 +418,13 @@
       "id": "explore_7",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when she struggles to put on his shoes."
+          "eng": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes."
         }
       },
       "category_id": "explore",
-      "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when she struggles to put on his shoes.",
+      "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes.",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        }
+        "text_1_facilitator": {}
       },
       "image_asset": "images/comics/child_development_yc_5.svg",
       "completed": false

@@ -1675,18 +1675,7 @@
         }
       ],
       "exclude_from_translation": true,
-      "rows": [
-        {
-          "name": "next_icon_src",
-          "value": "trophy",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.next_icon_src"
-        }
-      ],
+      "rows": [],
       "_nested_name": "nav_buttons"
     }
   ],

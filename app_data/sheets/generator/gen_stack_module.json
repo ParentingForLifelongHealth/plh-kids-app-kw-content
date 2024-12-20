@@ -62,7 +62,7 @@
                   "rows": [
                     {
                       "name": "next_icon_src",
-                      "value": "checkmark",
+                      "value": "@global.subsequent_completion_icon",
                       "exclude_from_translation": true
                     }
                   ]
