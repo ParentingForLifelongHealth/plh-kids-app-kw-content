@@ -82,6 +82,16 @@
       "action_list": [
         {
           "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "@local.countdown_days"
+          ],
+          "_raw": "click | set_field: countdown_days: @local.countdown_days",
+          "_cleaned": "click | set_field: countdown_days: @local.countdown_days"
+        },
+        {
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "force_restart"
@@ -90,7 +100,46 @@
           "_cleaned": "click | emit: force_restart"
         }
       ],
-      "_nested_name": "button"
+      "_nested_name": "button",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.countdown_days",
+                  "matchedExpression": "@local.countdown_days",
+                  "type": "local",
+                  "fieldName": "countdown_days"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: countdown_days: @local.countdown_days",
+                "matchedExpression": "@local.countdown_days",
+                "type": "local",
+                "fieldName": "countdown_days"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: countdown_days: @local.countdown_days",
+                "matchedExpression": "@local.countdown_days",
+                "type": "local",
+                "fieldName": "countdown_days"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.countdown_days": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
     }
   ],
   "_xlsxPath": "KW app_navigation.xlsx"
