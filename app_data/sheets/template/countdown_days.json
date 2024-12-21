@@ -1,0 +1,97 @@
+{
+  "flow_type": "template",
+  "flow_name": "countdown_days",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Change countdown days",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "text",
+      "name": "text_1",
+      "value": "Countdown days: @fields.countdown_days",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Countdown days: @fields.countdown_days",
+            "matchedExpression": "@fields.countdown_days",
+            "type": "fields",
+            "fieldName": "countdown_days"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.countdown_days": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text_2",
+      "value": "Choose a number of days to count down",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_2"
+    },
+    {
+      "type": "number_selector",
+      "name": "countdown_days",
+      "value": "@fields.countdown_days",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "max_value": "14"
+      },
+      "_nested_name": "countdown_days",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.countdown_days",
+            "matchedExpression": "@fields.countdown_days",
+            "type": "fields",
+            "fieldName": "countdown_days"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.countdown_days": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Save and restart app",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "force_restart"
+          ],
+          "_raw": "click | emit: force_restart",
+          "_cleaned": "click | emit: force_restart"
+        }
+      ],
+      "_nested_name": "button"
+    }
+  ],
+  "_xlsxPath": "KW app_navigation.xlsx"
+}
