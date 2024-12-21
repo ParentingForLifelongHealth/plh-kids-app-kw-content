@@ -218,7 +218,7 @@
           "type": "display_group",
           "name": "dg_wheel_and_hp",
           "style_list": [
-            "justify-content: space-around"
+            "justify-content: space-between"
           ],
           "exclude_from_translation": true,
           "rows": [
@@ -440,6 +440,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_padding.dg_wheel_and_hp.locked_icon_asset"
             },
@@ -449,6 +450,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_padding.dg_wheel_and_hp.locked_image_asset"
             },
@@ -458,6 +460,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_padding.dg_wheel_and_hp.unlocked_icon_asset"
             },
@@ -467,6 +470,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_padding.dg_wheel_and_hp.unlocked_image_asset"
             },
@@ -481,6 +485,7 @@
                 "@global.in_6_days",
                 "@global.in_7_days"
               ],
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_padding.dg_wheel_and_hp.countdown_text_list",
               "_dynamicFields": {
@@ -583,6 +588,8 @@
                   "_translations": {
                     "value": {}
                   },
+                  "condition": false,
+                  "exclude_from_translation": true,
                   "_nested_name": "dg_padding.dg_wheel_and_hp.check_in.debug_ts",
                   "_dynamicFields": {
                     "value": [
@@ -623,7 +630,7 @@
                     "locked_image_asset": "@local.locked_image_asset",
                     "unlocked_icon_asset": "@local.unlocked_icon_asset",
                     "unlocked_image_asset": "@local.unlocked_image_asset",
-                    "countdown_days": "7",
+                    "countdown_days": "@fields.countdown_days",
                     "countdown_start_date": "@item.completed_ts",
                     "countdown_text_list": "@local.countdown_text_list"
                   },
@@ -701,6 +708,14 @@
                           "fieldName": "unlocked_image_asset"
                         }
                       ],
+                      "countdown_days": [
+                        {
+                          "fullExpression": "@fields.countdown_days",
+                          "matchedExpression": "@fields.countdown_days",
+                          "type": "fields",
+                          "fieldName": "countdown_days"
+                        }
+                      ],
                       "countdown_start_date": [
                         {
                           "fullExpression": "@item.completed_ts",
@@ -739,6 +754,9 @@
                     ],
                     "@local.unlocked_image_asset": [
                       "parameter_list.unlocked_image_asset"
+                    ],
+                    "@fields.countdown_days": [
+                      "parameter_list.countdown_days"
                     ],
                     "@item.completed_ts": [
                       "parameter_list.countdown_start_date"
