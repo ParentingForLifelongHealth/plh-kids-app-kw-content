@@ -198,7 +198,7 @@
             {
               "type": "text",
               "name": "text_2",
-              "value": "You have entered a correct code.",
+              "value": "This code is correct.",
               "_translations": {
                 "value": {}
               },
@@ -207,9 +207,11 @@
             {
               "type": "button",
               "name": "button_enter_dev",
-              "value": "Enter developer mode and restart app",
+              "value": "Enter developer mode",
               "_translations": {
-                "value": {}
+                "value": {
+                  "kw_ar": true
+                }
               },
               "action_list": [
                 {

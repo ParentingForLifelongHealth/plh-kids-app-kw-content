@@ -75,9 +75,11 @@
     {
       "type": "button",
       "name": "button",
-      "value": "Save and restart app",
+      "value": "Save",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "action_list": [
         {
@@ -94,10 +96,10 @@
           "trigger": "click",
           "action_id": "emit",
           "args": [
-            "force_restart"
+            "completed"
           ],
-          "_raw": "click | emit: force_restart",
-          "_cleaned": "click | emit: force_restart"
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
         }
       ],
       "_nested_name": "button",
