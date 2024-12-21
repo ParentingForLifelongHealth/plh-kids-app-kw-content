@@ -82,6 +82,19 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "test_mode_code",
+      "value": "DayemTest",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "countdown_days",
+      "value": 7
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

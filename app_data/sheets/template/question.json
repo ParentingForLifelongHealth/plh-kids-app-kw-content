@@ -2417,7 +2417,7 @@
     {
       "type": "radio_button_grid",
       "name": "selection_tool",
-      "condition": "@local.has_any_image",
+      "condition": "@local.has_any_image && @fields._deployment_name !=\"plh_kids_kw\"",
       "parameter_list": {
         "answer_list": "@local.answer_list_2",
         "item_width": "@local.radio_button_grid_item_width",
@@ -2429,10 +2429,16 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.has_any_image",
+            "fullExpression": "@local.has_any_image && @fields._deployment_name !=\"plh_kids_kw\"",
             "matchedExpression": "@local.has_any_image",
             "type": "local",
             "fieldName": "has_any_image"
+          },
+          {
+            "fullExpression": "@local.has_any_image && @fields._deployment_name !=\"plh_kids_kw\"",
+            "matchedExpression": "@fields._deployment_name",
+            "type": "fields",
+            "fieldName": "_deployment_name"
           }
         ],
         "parameter_list": {
@@ -2474,6 +2480,9 @@
         "@local.has_any_image": [
           "condition"
         ],
+        "@fields._deployment_name": [
+          "condition"
+        ],
         "@local.answer_list_2": [
           "parameter_list.answer_list"
         ],
@@ -2485,6 +2494,53 @@
         ],
         "@local.radio_button_grid_gap": [
           "parameter_list.grid_gap"
+        ]
+      }
+    },
+    {
+      "type": "radio_group",
+      "name": "selection_tool",
+      "condition": "@local.has_any_image && @fields._deployment_name ==\"plh_kids_kw\"",
+      "parameter_list": {
+        "answer_list": "@local.answer_list_2"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "selection_tool",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.has_any_image && @fields._deployment_name ==\"plh_kids_kw\"",
+            "matchedExpression": "@local.has_any_image",
+            "type": "local",
+            "fieldName": "has_any_image"
+          },
+          {
+            "fullExpression": "@local.has_any_image && @fields._deployment_name ==\"plh_kids_kw\"",
+            "matchedExpression": "@fields._deployment_name",
+            "type": "fields",
+            "fieldName": "_deployment_name"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@local.answer_list_2",
+              "matchedExpression": "@local.answer_list_2",
+              "type": "local",
+              "fieldName": "answer_list_2"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.has_any_image": [
+          "condition"
+        ],
+        "@fields._deployment_name": [
+          "condition"
+        ],
+        "@local.answer_list_2": [
+          "parameter_list.answer_list"
         ]
       }
     },

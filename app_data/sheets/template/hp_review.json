@@ -360,6 +360,8 @@
               "_cleaned": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done"
             }
           ],
+          "condition": "@fields._deployment_name !=\"plh_kids_kw\"",
+          "exclude_from_translation": true,
           "parameter_list": {
             "answer_list": "@local.answer_list_done",
             "item_width": "50px"
@@ -408,6 +410,14 @@
                 ]
               }
             },
+            "condition": [
+              {
+                "fullExpression": "@fields._deployment_name !=\"plh_kids_kw\"",
+                "matchedExpression": "@fields._deployment_name",
+                "type": "fields",
+                "fieldName": "_deployment_name"
+              }
+            ],
             "parameter_list": {
               "answer_list": [
                 {
@@ -428,6 +438,110 @@
             "@local.radio_group_done": [
               "action_list.0._raw",
               "action_list.0._cleaned"
+            ],
+            "@fields._deployment_name": [
+              "condition"
+            ],
+            "@local.answer_list_done": [
+              "parameter_list.answer_list"
+            ]
+          }
+        },
+        {
+          "type": "radio_group",
+          "name": "radio_group_done",
+          "action_list": [
+            {
+              "trigger": "changed",
+              "action_id": "set_field",
+              "args": [
+                "@local.radio_group_done_tracker",
+                "this.value"
+              ],
+              "_raw": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done",
+              "_cleaned": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done"
+            }
+          ],
+          "condition": "@fields._deployment_name ==\"plh_kids_kw\"",
+          "exclude_from_translation": true,
+          "parameter_list": {
+            "answer_list": "@local.answer_list_done"
+          },
+          "_nested_name": "dg_1.radio_group_done",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.radio_group_done_tracker",
+                      "matchedExpression": "@local.radio_group_done_tracker",
+                      "type": "local",
+                      "fieldName": "radio_group_done_tracker"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done",
+                    "matchedExpression": "@local.radio_group_done_tracker",
+                    "type": "local",
+                    "fieldName": "radio_group_done_tracker"
+                  },
+                  {
+                    "fullExpression": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done",
+                    "matchedExpression": "@local.radio_group_done",
+                    "type": "local",
+                    "fieldName": "radio_group_done"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done",
+                    "matchedExpression": "@local.radio_group_done_tracker",
+                    "type": "local",
+                    "fieldName": "radio_group_done_tracker"
+                  },
+                  {
+                    "fullExpression": "changed | set_field:@local.radio_group_done_tracker:@local.radio_group_done",
+                    "matchedExpression": "@local.radio_group_done",
+                    "type": "local",
+                    "fieldName": "radio_group_done"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@fields._deployment_name ==\"plh_kids_kw\"",
+                "matchedExpression": "@fields._deployment_name",
+                "type": "fields",
+                "fieldName": "_deployment_name"
+              }
+            ],
+            "parameter_list": {
+              "answer_list": [
+                {
+                  "fullExpression": "@local.answer_list_done",
+                  "matchedExpression": "@local.answer_list_done",
+                  "type": "local",
+                  "fieldName": "answer_list_done"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.radio_group_done_tracker": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.radio_group_done": [
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@fields._deployment_name": [
+              "condition"
             ],
             "@local.answer_list_done": [
               "parameter_list.answer_list"
