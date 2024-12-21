@@ -28,10 +28,10 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "unlocking_delay"
+                "countdown_days"
               ],
-              "_raw": "click | go_to: unlocking_delay",
-              "_cleaned": "click | go_to: unlocking_delay"
+              "_raw": "click | go_to: countdown_days",
+              "_cleaned": "click | go_to: countdown_days"
             }
           ],
           "_nested_name": "dg_dev.button_delay_days"
