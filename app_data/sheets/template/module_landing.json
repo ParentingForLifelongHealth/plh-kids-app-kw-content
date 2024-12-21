@@ -218,8 +218,7 @@
           "type": "display_group",
           "name": "dg_wheel_and_hp",
           "style_list": [
-            "justify-content: space-between",
-            "align-items: baseline"
+            "justify-content: space-between"
           ],
           "exclude_from_translation": true,
           "rows": [

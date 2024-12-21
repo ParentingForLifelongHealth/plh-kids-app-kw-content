@@ -95,7 +95,7 @@
     },
     {
       "type": "button",
-      "name": "button_incorrect_code",
+      "name": "button_submit",
       "value": "@local.submit",
       "_translations": {
         "value": {}
@@ -108,49 +108,12 @@
             "reply_entered",
             true
           ],
-          "_raw": "click | set_local:reply_entered:true",
-          "_cleaned": "click | set_local:reply_entered:true"
+          "_raw": "click | set_local: reply_entered: true",
+          "_cleaned": "click | set_local: reply_entered: true"
         }
       ],
       "exclude_from_translation": true,
-      "_nested_name": "button_incorrect_code",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.submit",
-            "matchedExpression": "@local.submit",
-            "type": "local",
-            "fieldName": "submit"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.submit": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "button_correct_code",
-      "value": "@local.submit",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "reply_entered",
-            true
-          ],
-          "_raw": "click | set_local:reply_entered:true",
-          "_cleaned": "click | set_local:reply_entered:true"
-        }
-      ],
-      "exclude_from_translation": true,
-      "_nested_name": "button_correct_code",
+      "_nested_name": "button_submit",
       "_dynamicFields": {
         "value": [
           {
@@ -256,8 +219,8 @@
                     "user_mode",
                     false
                   ],
-                  "_raw": "click | set_field:user_mode:false",
-                  "_cleaned": "click | set_field:user_mode:false"
+                  "_raw": "click | set_field: user_mode: false",
+                  "_cleaned": "click | set_field: user_mode: false"
                 },
                 {
                   "trigger": "click",
