@@ -218,8 +218,7 @@
           "type": "display_group",
           "name": "dg_wheel_and_hp",
           "style_list": [
-            "justify-content: space-between",
-            "align-items: baseline"
+            "justify-content: space-between"
           ],
           "exclude_from_translation": true,
           "rows": [
@@ -589,6 +588,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "condition": false,
                   "exclude_from_translation": true,
                   "_nested_name": "dg_padding.dg_wheel_and_hp.check_in.debug_ts",
                   "_dynamicFields": {
