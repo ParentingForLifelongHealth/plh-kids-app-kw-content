@@ -584,7 +584,7 @@
                 {
                   "type": "text",
                   "name": "debug_ts",
-                  "value": "@item.completed_ts",
+                  "value": "Completed timestamp: @item.completed_ts",
                   "_translations": {
                     "value": {}
                   },
@@ -594,7 +594,7 @@
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "@item.completed_ts",
+                        "fullExpression": "Completed timestamp: @item.completed_ts",
                         "matchedExpression": "@item.completed_ts",
                         "type": "item",
                         "fieldName": "completed_ts"
