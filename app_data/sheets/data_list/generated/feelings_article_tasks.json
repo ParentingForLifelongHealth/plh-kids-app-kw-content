@@ -287,13 +287,13 @@
           "eng": "To distract @data.characters.f3_son_4.name from what’s bothering him."
         },
         "quiz_1_feedback_4": {
-          "eng": "Not quite. The goal isn’t to take his mind off his feelings. By naming his emotions, @data.characters.f3_uncle.name is helping @data.characters.f3_son_4.name understand what he’s feeling, so he can deal with it better next time."
+          "eng": "Not quite. The goal isn’t to take his mind off his feelings. By naming his emotions, @data.characters.f3_uncle.name is helping @data.characters..name understand what he’s feeling, so he can deal with it better next time."
         },
         "quiz_2_question": {
-          "eng": "What can we learn from how @data.characters.f3_uncle.name talks about @data.characters.f3_son_4.name’s emotions?"
+          "eng": "What can we learn from how @data.characters.f3_uncle.name talks about @data.characters..name’s emotions?"
         },
         "quiz_2_option_1_text": {
-          "eng": "He names @data.characters.f3_son_4.name ’s positive emotions"
+          "eng": "He names @data.characters..name’s positive emotions"
         },
         "quiz_2_feedback_1": {
           "eng": "Yes, he does! But he also names @data.characters.f3_son_4.name’s difficult emotions. @data.characters.f3_uncle.name shows us that it is important to identify both positive *and* difficult emotions for our children."
@@ -302,7 +302,7 @@
           "eng": "He doesn’t want him to feel frustrated so he ignores it."
         },
         "quiz_2_feedback_2": {
-          "eng": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name’s is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way."
+          "eng": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way."
         },
         "quiz_2_option_3_text": {
           "eng": "He uses words to describe @data.characters.f3_son_4.name’s emotions"
@@ -320,7 +320,7 @@
           "eng": "He stays calm despite @data.characters.f3_son_4.name’s frustration."
         },
         "quiz_2_feedback_5": {
-          "eng": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of.."
+          "eng": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of."
         },
         "quiz_3_question": {
           "eng": "What would have happened if @data.characters.f3_uncle.name had criticised or ignored @data.characters.f3_son_4.name’s frustration?"
@@ -356,9 +356,7 @@
         "quiz_1_feedback_3": {
           "kw_ar": true
         },
-        "quiz_1_feedback_4": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_question": {
           "kw_ar": true
         },
@@ -377,21 +375,15 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "quiz_2_question": {
-          "kw_ar": true
-        },
-        "quiz_2_option_1_text": {
-          "kw_ar": true
-        },
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {
           "kw_ar": true
         },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
@@ -407,9 +399,7 @@
         "quiz_2_option_5_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_5": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_5": {},
         "quiz_3_question": {
           "kw_ar": true
         },
@@ -434,24 +424,24 @@
       },
       "quiz_1_feedback_2": "That’s right. By naming @data.characters.f3_son_4.name’s emotions, @data.characters.f3_uncle.name models an important skill.",
       "quiz_1_feedback_3": "Not really. While solving problems is important, the main goal here is to help @data.characters.f3_son_4.name recognize his emotions. Once he knows what he’s feeling, he’ll be better at solving problems next time.",
-      "quiz_1_feedback_4": "Not quite. The goal isn’t to take his mind off his feelings. By naming his emotions, @data.characters.f3_uncle.name is helping @data.characters.f3_son_4.name understand what he’s feeling, so he can deal with it better next time.",
+      "quiz_1_feedback_4": "Not quite. The goal isn’t to take his mind off his feelings. By naming his emotions, @data.characters.f3_uncle.name is helping @data.characters..name understand what he’s feeling, so he can deal with it better next time.",
       "quiz_1_question": "Why does @data.characters.f3_uncle.name name @data.characters.f3_son_4.name’s feelings when he’s feeling angry?",
       "quiz_1_option_1_text": "To make @data.characters.f3_son_4.name feel better instantly.",
       "quiz_1_option_2_text": "To help @data.characters.f3_son_4.name learn to recognise his own emotions",
       "quiz_1_option_3_text": "To teach @data.characters.f3_son_4.name how to solve problems on his own.",
       "quiz_1_option_4_text": "To distract @data.characters.f3_son_4.name from what’s bothering him.",
       "text_1_facilitator": "Let’s talk this through together. What happened when @data.characters.f3_uncle.name and @data.characters.f3_son_4.name decided to play soccer?",
-      "quiz_2_question": "What can we learn from how @data.characters.f3_uncle.name talks about @data.characters.f3_son_4.name’s emotions?",
-      "quiz_2_option_1_text": "He names @data.characters.f3_son_4.name ’s positive emotions",
+      "quiz_2_question": "What can we learn from how @data.characters.f3_uncle.name talks about @data.characters..name’s emotions?",
+      "quiz_2_option_1_text": "He names @data.characters..name’s positive emotions",
       "quiz_2_feedback_1": "Yes, he does! But he also names @data.characters.f3_son_4.name’s difficult emotions. @data.characters.f3_uncle.name shows us that it is important to identify both positive *and* difficult emotions for our children.",
       "quiz_2_option_2_text": "He doesn’t want him to feel frustrated so he ignores it.",
-      "quiz_2_feedback_2": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name’s is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+      "quiz_2_feedback_2": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
       "quiz_2_option_3_text": "He uses words to describe @data.characters.f3_son_4.name’s emotions",
       "quiz_2_feedback_3": "Yes, @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
       "quiz_2_option_4_text": "He hides his own feelings with @data.characters.f3_son_4.name",
       "quiz_2_feedback_4": "He doesn’t hide his own emotions, he names them. By talking about his own feeling of happiness, @data.characters.f3_uncle.name models how his nephew can do the same.",
       "quiz_2_option_5_text": "He stays calm despite @data.characters.f3_son_4.name’s frustration.",
-      "quiz_2_feedback_5": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of..",
+      "quiz_2_feedback_5": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of.",
       "quiz_3_question": "What would have happened if @data.characters.f3_uncle.name had criticised or ignored @data.characters.f3_son_4.name’s frustration?",
       "quiz_3_option_1_text": "@data.characters.f3_son_4.name’s frustration would have passed.",
       "quiz_3_feedback_1": "Incorrect. Without the ability to deal with his feelings, the frustration @data.characters.f3_son_4.name was feeling would have increased.",
@@ -547,9 +537,9 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/eye_yellow.png",
-      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
-      "section_3_icon_asset": "images/icons/speech_bubble_yellow.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "NOTICE",
       "section_1_text": "Recognise the *positive* and *difficult* emotions that you and your child feel.",
       "section_1_button_text": "More tips",

@@ -156,9 +156,9 @@
         }
       },
       "category_id": "intro",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happiest.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/happy.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/scared.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/smiling.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/flushed_face.svg",
       "quiz_1_option_4_image_asset": "images/icons/faces/sad.svg",
       "quiz_1_feedback_1": "That's great! Being praised often makes us feel proud.",
       "_translations": {
@@ -370,7 +370,7 @@
           "eng": "He praises her immediately."
         },
         "quiz_2_feedback_4": {
-          "eng": "True! Grandfather praises @data.characters.f2_daughter_3.name immediately after her positive behaviour."
+          "eng": "True! @data.characters.f2_grandfather.name praises @data.characters.f2_daughter_3.name immediately after her positive behaviour."
         },
         "quiz_3_question": {
           "eng": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?"
@@ -481,7 +481,7 @@
       "quiz_2_option_3_text": "He tells her she is a “good girl.\"",
       "quiz_2_feedback_3": "False. He praises @data.characters.f2_daughter_3.name for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
       "quiz_2_option_4_text": "He praises her immediately.",
-      "quiz_2_feedback_4": "True! Grandfather praises @data.characters.f2_daughter_3.name immediately after her positive behaviour.",
+      "quiz_2_feedback_4": "True! @data.characters.f2_grandfather.name praises @data.characters.f2_daughter_3.name immediately after her positive behaviour.",
       "quiz_3_question": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?",
       "quiz_3_option_1_text": "Because he loves her.",
       "quiz_3_feedback_1": "Giving a small reward can motivate children to repeat tasks they find challenging.",
@@ -577,9 +577,9 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/eye_yellow.png",
-      "section_2_icon_asset": "images/icons/single_speech_yellow.png",
-      "section_3_icon_asset": "images/icons/trophy_yellow.png",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/single_speech_blue.png",
+      "section_3_icon_asset": "images/icons/trophy_blue.png",
       "section_1_title": "SEE IT",
       "section_1_text": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do.",
       "section_1_button_text": "More tips",
@@ -655,7 +655,7 @@
           "eng": "Well done! Giving yourself a moment to relax is so important. You’re doing a great job, and it’s okay to take a break."
         },
         "quiz_2_option_3_text": {
-          "eng": "Celebrate by acknowledging your achievements (e.g.talking to a friend)"
+          "eng": "Celebrate by acknowledging your achievements (e.g., talking to a friend)"
         },
         "quiz_2_feedback_3": {
           "eng": "Fantastic! Reflecting on your accomplishments helps you see how much you’re doing right. You deserve to celebrate your hard work!"
@@ -727,9 +727,7 @@
         "quiz_2_feedback_2": {
           "kw_ar": true
         },
-        "quiz_2_option_3_text": {
-          "kw_ar": true
-        },
+        "quiz_2_option_3_text": {},
         "quiz_2_feedback_3": {
           "kw_ar": true
         },
@@ -768,7 +766,7 @@
       "quiz_2_feedback_1": "Great choice! Taking time to enjoy something you love is a wonderful way to recharge and recognize your efforts as a parent.",
       "quiz_2_option_2_text": "Take a few minutes to relax (e.g., meditation, a short walk, or just some quiet time)",
       "quiz_2_feedback_2": "Well done! Giving yourself a moment to relax is so important. You’re doing a great job, and it’s okay to take a break.",
-      "quiz_2_option_3_text": "Celebrate by acknowledging your achievements (e.g.talking to a friend)",
+      "quiz_2_option_3_text": "Celebrate by acknowledging your achievements (e.g., talking to a friend)",
       "quiz_2_feedback_3": "Fantastic! Reflecting on your accomplishments helps you see how much you’re doing right. You deserve to celebrate your hard work!",
       "quiz_2_option_4_text": "Do something fun with your child that you both enjoy",
       "quiz_2_feedback_4": "Wonderful choice! Sharing a fun activity with your child not only rewards you but also strengthens your bond. You’re doing an amazing job!",

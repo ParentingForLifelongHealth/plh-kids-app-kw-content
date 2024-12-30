@@ -39,7 +39,7 @@
           "eng": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are sad. That is real courage and dedication!"
         },
         "quiz_1_feedback_4": {
           "eng": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!"
@@ -80,9 +80,7 @@
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_feedback_4": {
           "kw_ar": true
         },
@@ -109,7 +107,7 @@
         }
       },
       "quiz_1_feedback_2": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!",
-      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are sad. That is real courage and dedication!",
       "quiz_1_feedback_4": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!",
       "quiz_1_feedback_5": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping.",
       "quiz_1_question": "How are you feeling today?",
@@ -224,7 +222,7 @@
       "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!"
+          "eng": "First, we place these pillows on top of each other so they make a wall. The headboard is our other wall. Next, we will put a bedsheet across the headboard and the wall of pillows to make our roof!"
         },
         "character_2_text": {
           "eng": "It's lovely to see you thinking everything through so carefully."
@@ -234,11 +232,9 @@
       "image_asset": "images/comics/child_development_yc_3.svg",
       "character_1_id": "f1_daughter_2",
       "character_2_id": "f1_father",
-      "character_1_text": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
+      "character_1_text": "First, we place these pillows on top of each other so they make a wall. The headboard is our other wall. Next, we will put a bedsheet across the headboard and the wall of pillows to make our roof!",
       "_translations": {
-        "character_1_text": {
-          "kw_ar": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "kw_ar": true
         }
@@ -752,9 +748,9 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/football_yellow.png",
-      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
-      "section_3_icon_asset": "images/icons/question_yellow.png",
+      "section_1_icon_asset": "images/icons/football_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/question_blue.png",
       "section_1_title": "PLAY",
       "section_1_text": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
       "section_1_button_text": "Learn more",

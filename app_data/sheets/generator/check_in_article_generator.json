@@ -85,11 +85,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_childdevelopment_check_in_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_oneononetime_check_in_4",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -111,6 +106,11 @@
     },
     {
       "flow_name": "article_rulesroutines_check_in_12",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_childdevelopment_check_in_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

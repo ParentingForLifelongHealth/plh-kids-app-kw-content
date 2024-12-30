@@ -349,7 +349,7 @@
           "eng": "She tells @data.characters.f3_son_4.name to let @data.characters.f3_daughter_7.name have the tiles first."
         },
         "quiz_2_feedback_2": {
-          "eng": "Incorrect. The mother didn’t tell either child a solution to either child. . She encouraged both children to find a way to solve the problem together."
+          "eng": "Incorrect. The mother didn’t tell either child a solution to either child. She encouraged both children to find a way to solve the problem together."
         },
         "quiz_2_option_3_text": {
           "eng": "She encourages @data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name to come up with their own solution."
@@ -397,9 +397,7 @@
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
@@ -418,7 +416,7 @@
       "quiz_2_option_1_text": "She builds a house for them using the magnet tiles.",
       "quiz_2_feedback_1": "Try again! The mother didn’t take over the building. Instead, she guided @data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name to think of a solution themselves.",
       "quiz_2_option_2_text": "She tells @data.characters.f3_son_4.name to let @data.characters.f3_daughter_7.name have the tiles first.",
-      "quiz_2_feedback_2": "Incorrect. The mother didn’t tell either child a solution to either child. . She encouraged both children to find a way to solve the problem together.",
+      "quiz_2_feedback_2": "Incorrect. The mother didn’t tell either child a solution to either child. She encouraged both children to find a way to solve the problem together.",
       "quiz_2_option_3_text": "She encourages @data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name to come up with their own solution.",
       "quiz_2_feedback_3": "Yes, that’s right.The mother helped solve the problem by encouraging @data.characters.f3_son_4.name and @data.characters.f3_daughter_7.name to think about ways to share and build something together.",
       "completed": false
@@ -533,10 +531,10 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/speech_bubble_yellow.png",
-      "section_2_icon_asset": "images/icons/lightbulb_yellow.png",
-      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
-      "section_4_icon_asset": "images/icons/single_speech_yellow.png",
+      "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_2_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_4_icon_asset": "images/icons/single_speech_blue.png",
       "section_1_title": "KNOW IT",
       "section_1_text": "Put the problem into words.\n\nTalk to your child about what the problem is.",
       "section_1_button_text": "What it Sounds Like",

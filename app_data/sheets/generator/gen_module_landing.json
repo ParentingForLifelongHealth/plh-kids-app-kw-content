@@ -49,11 +49,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_landing_childdevelopment",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "module_landing_oneononetime",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -75,6 +70,11 @@
     },
     {
       "flow_name": "module_landing_rulesroutines",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_landing_childdevelopment",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
