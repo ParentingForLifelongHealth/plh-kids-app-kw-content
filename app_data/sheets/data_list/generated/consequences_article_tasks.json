@@ -218,7 +218,7 @@
           "eng": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner."
         },
         "character_2_text": {
-          "eng": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game"
+          "eng": "No Uncle! I don’t want to! I’m not finished with my game."
         }
       },
       "category_id": "explore",
@@ -229,12 +229,10 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {
-          "kw_ar": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f3_son_4",
-      "character_2_text": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game",
+      "character_2_text": "No Uncle! I don’t want to! I’m not finished with my game.",
       "completed": false
     },
     {
@@ -546,10 +544,10 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/hourglass_yellow.png",
-      "section_2_icon_asset": "images/icons/balance_yellow.png",
-      "section_3_icon_asset": "images/icons/repeat_yellow.png",
-      "section_4_icon_asset": "images/icons/speech_bubble_yellow.png",
+      "section_1_icon_asset": "images/icons/hourglass_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_3_icon_asset": "images/icons/repeat_blue.png",
+      "section_4_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "BE CALM",
       "section_1_text": "Take some deep breaths or walk away from the situation if you need to.\n\nThen, respond in a calm, clear way.",
       "section_1_button_text": "More tips",

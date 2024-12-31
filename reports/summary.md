@@ -6,36 +6,38 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 4 |
-| button | 43 |
+| button | 45 |
 | combo_box | 4 |
-| data_items | 34 |
+| data_items | 44 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 51 |
+| display_group | 53 |
 | image | 11 |
 | items | 10 |
 | lottie_animation | 3 |
 | navigation_bar | 1 |
-| nested_properties | 58 |
+| nested_properties | 54 |
+| number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 5 |
+| radio_group | 2 |
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1058 |
+| set_variable | 1028 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
-| template | 301 |
-| text | 57 |
+| template | 311 |
+| text | 58 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 28 |
+| title | 29 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -48,22 +50,22 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 225 |
+| emit: completed | 227 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 229 |
+| emit: uncompleted | 230 |
 | feedback | 13 |
-| go_to | 9 |
-| nav_stack | 60 |
+| go_to | 10 |
+| nav_stack | 78 |
 | pop_up | 27 |
 | reset_app | 1 |
-| set_data | 9 |
-| set_field | 21 |
-| set_item | 15 |
-| set_local | 12 |
+| set_data | 19 |
+| set_field | 32 |
+| set_item | 24 |
+| set_local | 11 |
 | task | 3 |
 | user | 1 |
 </details>
@@ -73,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 32332 KB | 32.3 MB |
-| unused | 9594 KB | 9.6 MB |
+| total | 32334 KB | 32.3 MB |
+| unused | 9588 KB | 9.6 MB |
 </details>
 
 <details open>
@@ -95,13 +97,18 @@ Assets that appear in app-data but do not have references within sheets
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
-| images/icons/diamond_yellow.png | 17.7 |
+| images/icons/diamond_blue.png | 4.7 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
+| images/icons/faces/happiest.svg | 1.3 |
+| images/icons/faces/happy_face_new.svg | 1.4 |
 | images/icons/faces/neutral.svg | 0.5 |
+| images/icons/faces/ok_face_new.svg | 0.5 |
+| images/icons/faces/sad_face_new.svg | 1.5 |
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
+| images/icons/faces/scared.svg | 2.1 |
 | images/icons/fire.png | 0.9 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/heart_filled.svg | 1.4 |
@@ -230,55 +237,52 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/feelings_yc.svg | 202.2 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/kw.svg | 0.5 | 2 |
-| images/icons/balance_yellow.png | 5.1 | 2 |
-| images/icons/brain_yellow.png | 5.3 | 2 |
-| images/icons/clock_yellow.png | 4.7 | 6 |
+| images/icons/balance_blue.png | 4.7 | 2 |
+| images/icons/brain_blue.png | 5.2 | 2 |
+| images/icons/clock_blue.png | 4.5 | 6 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 2 |
-| images/icons/eye_yellow.png | 4.4 | 4 |
-| images/icons/faces/happiest.svg | 1.3 | 2 |
-| images/icons/faces/happy.svg | 53.5 | 29 |
-| images/icons/faces/happy_face_new.svg | 1.4 | 4 |
-| images/icons/faces/ok.svg | 46.6 | 27 |
-| images/icons/faces/ok_face_new.svg | 0.5 | 4 |
-| images/icons/faces/sad.svg | 48.2 | 29 |
-| images/icons/faces/sad_face_new.svg | 1.5 | 4 |
-| images/icons/faces/scared.svg | 2.1 | 2 |
-| images/icons/faces/stressed.svg | 60 | 18 |
+| images/icons/eye_blue.png | 4.2 | 4 |
+| images/icons/faces/flushed_face.svg | 4.9 | 2 |
+| images/icons/faces/happy.svg | 53.5 | 33 |
+| images/icons/faces/ok.svg | 46.6 | 31 |
+| images/icons/faces/sad.svg | 48.2 | 31 |
+| images/icons/faces/smiling.svg | 5.1 | 2 |
+| images/icons/faces/stressed.svg | 60 | 20 |
 | images/icons/faces/tired.svg | 54 | 18 |
-| images/icons/football_yellow.png | 5.3 | 2 |
+| images/icons/football_blue.png | 5.1 | 2 |
 | images/icons/heart.png | 0.8 | 2 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
+| images/icons/heart_filled_blue.png | 4.9 | 12 |
 | images/icons/heart_filled_red.png | 1.4 | 2 |
-| images/icons/heart_filled_yellow.png | 5 | 12 |
 | images/icons/home.svg | 0.4 | 1 |
-| images/icons/hourglass_yellow.png | 4 | 2 |
+| images/icons/hourglass_blue.png | 4.3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 2 |
-| images/icons/lightbulb_yellow.png | 3.7 | 2 |
+| images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/locked.png | 0.7 | 3 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/notification_bell.png | 0.9 | 1 |
 | images/icons/parent_child_heart.svg | 3 | 10 |
 | images/icons/pencil.svg | 1.1 | 10 |
-| images/icons/question_yellow.png | 3.4 | 2 |
-| images/icons/repeat_yellow.png | 5.7 | 2 |
+| images/icons/question_blue.png | 3.4 | 2 |
+| images/icons/repeat_blue.png | 5.4 | 2 |
 | images/icons/settings.svg | 2.4 | 1 |
-| images/icons/single_speech_yellow.png | 3.3 | 4 |
+| images/icons/single_speech_blue.png | 3.3 | 4 |
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
 | images/icons/smile_eyes_up.svg | 1 | 20 |
-| images/icons/speech_bubble_yellow.png | 4.2 | 8 |
-| images/icons/star_filled_yellow.png | 5.3 | 10 |
+| images/icons/speech_bubble_blue.png | 4.2 | 8 |
+| images/icons/star_filled_blue.png | 5.1 | 10 |
 | images/icons/star_outline_blue.svg | 1 | 10 |
-| images/icons/tablet_yellow.png | 2.8 | 2 |
+| images/icons/tablet_blue.png | 2.8 | 2 |
 | images/icons/thought_bubble.svg | 2.1 | 10 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
-| images/icons/trophy_yellow.png | 5.3 | 4 |
+| images/icons/trophy_blue.png | 5.1 | 4 |
 | images/instructions_yc.svg | 208.8 | 2 |
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
 | images/kw_f1_daughter_6.svg | 37 | 1 |
@@ -329,7 +333,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 52 |
+| template |  | 54 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>

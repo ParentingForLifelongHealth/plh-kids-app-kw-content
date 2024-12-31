@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.1.75",
+  content_tag_latest: "1.1.76",
 };
 
 config.android = {
@@ -48,6 +48,9 @@ config.app_data.output_path = "./app_data";
 config.app_config.APP_LANGUAGES.default = "kw_ar";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "تطبيق دايم";
 config.app_config.APP_HEADER_DEFAULTS.title = "تطبيق دايم";
+config.app_config.APP_HEADER_DEFAULTS.hidden = true;
+config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
+config.app_config.APP_FOOTER_DEFAULTS.background = "none";
 config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } }
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Dayem App";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Dayem App";

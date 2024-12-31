@@ -262,7 +262,7 @@
           "eng": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried."
         },
         "quiz_1_feedback_2": {
-          "eng": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life."
+          "eng": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried."
         },
         "quiz_1_feedback_3": {
           "eng": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life."
@@ -323,9 +323,9 @@
         }
       },
       "category_id": "explore",
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "/images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "/images/icons/faces/sad_face_new.svg",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_1_option_2_image_asset": "/images/icons/faces/ok.svg",
+      "quiz_1_option_3_image_asset": "/images/icons/faces/stressed.svg",
       "quiz_1_feedback_1": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -398,13 +398,13 @@
           "kw_ar": true
         }
       },
-      "quiz_1_feedback_2": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
+      "quiz_1_feedback_2": "Have another look at @data.characters.f1_mother.name’s facial expression and thoughts. She is feeling stressed and worried.",
       "quiz_1_feedback_3": "Yes, @data.characters.f1_mother.name feels stressed and worried about everything happening in her life.",
       "quiz_1_question": "How is @data.characters.f1_mother.name feeling at first?",
       "text_1_facilitator": "@data.characters.f1_mother.name did a few things that can also help us when we are feeling overwhelmed.",
-      "quiz_3_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_3_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_3_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "quiz_3_option_1_image_asset": "images/icons/faces/happy.svg",
+      "quiz_3_option_2_image_asset": "images/icons/faces/ok.svg",
+      "quiz_3_option_3_image_asset": "images/icons/faces/sad.svg",
       "quiz_2_question": "What does @data.characters.f1_mother.name do to manage her stress?",
       "quiz_2_option_1_text": "Take a pause",
       "quiz_2_feedback_1": "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly. She also praised herself, rewarded herself with a quiet cup of tea, and made a plan to spend time with a friend.",
@@ -509,9 +509,9 @@
           "kw_ar": true
         }
       },
-      "section_1_icon_asset": "images/icons/heart_filled_yellow.png",
-      "section_2_icon_asset": "images/icons/star_filled_yellow.png",
-      "section_3_icon_asset": "images/icons/trophy_yellow.png",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/trophy_blue.png",
       "section_1_title": "Take a Pause",
       "section_1_text": "Taking a pause helps us to feel and respond calmer in stressful moments.",
       "section_1_button_text": "More tips",

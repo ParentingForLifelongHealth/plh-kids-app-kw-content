@@ -160,9 +160,7 @@
         "quiz_1_option_4_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_4": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "kw_ar": true
         },
@@ -253,7 +251,7 @@
           "eng": "He tells @data.characters.f3_son_4.name how to build a house."
         },
         "quiz_1_feedback_4": {
-          "eng": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play.."
+          "eng": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play."
         },
         "quiz_1_option_5_text": {
           "eng": "He notices and praises what @data.characters.f3_son_4.name does."
@@ -324,7 +322,7 @@
       "quiz_1_option_3_text": "He is trying to help build the house while he is playing with @data.characters.f3_uncle.name.",
       "quiz_1_feedback_3": "False. @data.characters.f3_uncle.name gets down on @data.characters.f3_son_4.name’s level, looks at him and uses him name so @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name is present and paying attention to him.",
       "quiz_1_option_4_text": "He tells @data.characters.f3_son_4.name how to build a house.",
-      "quiz_1_feedback_4": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play..",
+      "quiz_1_feedback_4": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play.",
       "quiz_1_option_5_text": "He notices and praises what @data.characters.f3_son_4.name does.",
       "quiz_1_feedback_5": "Yes, he does all these things! This way, @data.characters.f3_son_4.name knows that @data.characters.f3_uncle.name really cares about him.",
       "quiz_2_question": "How does @data.characters.f3_son_4.name feel?",
@@ -349,9 +347,9 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/clock_yellow.png",
-      "section_2_icon_asset": "images/icons/heart_filled_yellow.png",
-      "section_3_icon_asset": "images/icons/star_filled_yellow.png",
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "text_1_facilitator": "Here are some easy tips on how to connect with your child when you spend time together:",
       "_translations": {
         "text_1_facilitator": {

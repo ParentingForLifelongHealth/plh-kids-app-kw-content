@@ -82,11 +82,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_childdevelopment",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "stack_module_oneononetime",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -108,6 +103,11 @@
     },
     {
       "flow_name": "stack_module_rulesroutines",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_childdevelopment",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -111,9 +111,7 @@
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {
-          "kw_ar": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_feedback_4": {
           "kw_ar": true
         },
@@ -147,7 +145,7 @@
           "eng": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are sad. That is real courage and dedication!"
         },
         "quiz_1_feedback_4": {
           "eng": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!"
@@ -175,7 +173,7 @@
         }
       },
       "quiz_1_feedback_2": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!",
-      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are sad. That is real courage and dedication!",
       "quiz_1_feedback_4": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!",
       "quiz_1_feedback_5": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping.",
       "quiz_1_question": "How are you feeling today?",

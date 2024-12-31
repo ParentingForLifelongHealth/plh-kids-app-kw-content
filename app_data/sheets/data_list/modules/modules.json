@@ -24,26 +24,8 @@
       }
     },
     {
-      "id": "childdevelopment",
-      "number": 2,
-      "image_asset": "images/child_development_yc.svg",
-      "relax_id": "relax_4",
-      "check_in_id": "check_in_3",
-      "title": "Child Development",
-      "_translations": {
-        "title": {
-          "kw_ar": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Child Development"
-        }
-      }
-    },
-    {
       "id": "oneononetime",
-      "number": 3,
+      "number": 2,
       "image_asset": "images/one_on_one_yc.svg",
       "relax_id": "relax_8",
       "check_in_id": "check_in_4",
@@ -61,7 +43,7 @@
     },
     {
       "id": "praise",
-      "number": 4,
+      "number": 3,
       "image_asset": "images/praise_yc.svg",
       "relax_id": "relax_10",
       "check_in_id": "check_in_6",
@@ -79,7 +61,7 @@
     },
     {
       "id": "feelings",
-      "number": 5,
+      "number": 4,
       "image_asset": "images/feelings_yc.svg",
       "relax_id": "relax_11",
       "check_in_id": "check_in_7",
@@ -97,7 +79,7 @@
     },
     {
       "id": "instructions",
-      "number": 6,
+      "number": 5,
       "image_asset": "images/instructions_yc.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_8",
@@ -115,7 +97,7 @@
     },
     {
       "id": "rulesroutines",
-      "number": 7,
+      "number": 6,
       "image_asset": "images/routines_yc.svg",
       "relax_id": "relax_17",
       "check_in_id": "check_in_12",
@@ -128,6 +110,24 @@
       "_translatedFields": {
         "title": {
           "eng": "Rules"
+        }
+      }
+    },
+    {
+      "id": "childdevelopment",
+      "number": 7,
+      "image_asset": "images/child_development_yc.svg",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_3",
+      "title": "Child Development",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
         }
       }
     },

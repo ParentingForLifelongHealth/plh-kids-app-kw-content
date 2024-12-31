@@ -104,19 +104,17 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {
-          "kw_ar": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner."
         },
         "character_2_text": {
-          "eng": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game"
+          "eng": "No Uncle! I don’t want to! I’m not finished with my game."
         }
       },
-      "character_2_text": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game"
+      "character_2_text": "No Uncle! I don’t want to! I’m not finished with my game."
     },
     {
       "id": "explore_5",
@@ -317,10 +315,10 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/hourglass_yellow.png",
-      "section_2_icon_asset": "images/icons/balance_yellow.png",
-      "section_3_icon_asset": "images/icons/repeat_yellow.png",
-      "section_4_icon_asset": "images/icons/speech_bubble_yellow.png",
+      "section_1_icon_asset": "images/icons/hourglass_blue.png",
+      "section_2_icon_asset": "images/icons/balance_blue.png",
+      "section_3_icon_asset": "images/icons/repeat_blue.png",
+      "section_4_icon_asset": "images/icons/speech_bubble_blue.png",
       "text_1_facilitator": "Here are some easy steps to use consequences when your child misbehaves:",
       "_translations": {
         "text_1_facilitator": {

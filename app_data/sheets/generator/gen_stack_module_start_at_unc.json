@@ -107,11 +107,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_childdevelopment_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "stack_module_oneononetime_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -133,6 +128,11 @@
     },
     {
       "flow_name": "stack_module_rulesroutines_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_childdevelopment_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

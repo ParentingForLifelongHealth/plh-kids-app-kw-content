@@ -65,7 +65,8 @@
       "value": "box_primary",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -73,7 +74,8 @@
       "value": "trophy",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -81,7 +83,8 @@
       "value": "checkmark",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -89,12 +92,14 @@
       "value": "DayemTest",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_field_default",
       "name": "countdown_days",
-      "value": 7
+      "value": 7,
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

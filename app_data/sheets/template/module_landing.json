@@ -205,13 +205,10 @@
     },
     {
       "type": "display_group",
-      "name": "dg_padding",
+      "name": "dg_bottom",
       "parameter_list": {
         "style": "column"
       },
-      "style_list": [
-        "padding: 0 24px"
-      ],
       "exclude_from_translation": true,
       "rows": [
         {
@@ -230,7 +227,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.articles"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.articles"
             },
             {
               "name": "articles_data_list_name",
@@ -240,7 +237,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.articles_data_list_name",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.articles_data_list_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -274,7 +271,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.wheel_title",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.wheel_title",
               "_dynamicFields": {
                 "value": [
                   {
@@ -300,7 +297,7 @@
                 "wheel_title": "@local.wheel_title"
               },
               "exclude_from_translation": true,
-              "_nested_name": "dg_padding.dg_wheel_and_hp.task_progress_bar",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.task_progress_bar",
               "_dynamicFields": {
                 "parameter_list": {
                   "task_group_data": [
@@ -338,7 +335,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.postcompose"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.postcompose"
             },
             {
               "name": "module_start_at_uncompleted",
@@ -348,7 +345,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.module_start_at_uncompleted",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.module_start_at_uncompleted",
               "_dynamicFields": {
                 "value": [
                   {
@@ -382,7 +379,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.module_start_at_beginning",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.module_start_at_beginning",
               "_dynamicFields": {
                 "value": [
                   {
@@ -407,7 +404,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.icon_asset"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.icon_asset"
             },
             {
               "name": "hp_review",
@@ -417,7 +414,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.hp_review",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.hp_review",
               "_dynamicFields": {
                 "value": [
                   {
@@ -442,7 +439,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.locked_icon_asset"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.locked_icon_asset"
             },
             {
               "name": "locked_image_asset",
@@ -452,7 +449,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.locked_image_asset"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.locked_image_asset"
             },
             {
               "name": "unlocked_icon_asset",
@@ -462,7 +459,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.unlocked_icon_asset"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.unlocked_icon_asset"
             },
             {
               "name": "unlocked_image_asset",
@@ -472,7 +469,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.unlocked_image_asset"
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.unlocked_image_asset"
             },
             {
               "name": "countdown_text_list",
@@ -487,7 +484,7 @@
               ],
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "dg_padding.dg_wheel_and_hp.countdown_text_list",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.countdown_text_list",
               "_dynamicFields": {
                 "value": {
                   "0": [
@@ -584,17 +581,17 @@
                 {
                   "type": "text",
                   "name": "debug_ts",
-                  "value": "@item.completed_ts",
+                  "value": "Completed timestamp: @item.completed_ts",
                   "_translations": {
                     "value": {}
                   },
                   "condition": false,
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_padding.dg_wheel_and_hp.check_in.debug_ts",
+                  "_nested_name": "dg_bottom.dg_wheel_and_hp.check_in.debug_ts",
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "@item.completed_ts",
+                        "fullExpression": "Completed timestamp: @item.completed_ts",
                         "matchedExpression": "@item.completed_ts",
                         "type": "item",
                         "fieldName": "completed_ts"
@@ -635,7 +632,7 @@
                     "countdown_text_list": "@local.countdown_text_list"
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_padding.dg_wheel_and_hp.check_in.button_hp_review",
+                  "_nested_name": "dg_bottom.dg_wheel_and_hp.check_in.button_hp_review",
                   "_dynamicFields": {
                     "action_list": {
                       "0": {
@@ -767,7 +764,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_padding.dg_wheel_and_hp.check_in",
+              "_nested_name": "dg_bottom.dg_wheel_and_hp.check_in",
               "_dynamicFields": {
                 "parameter_list": {
                   "filter": [
@@ -796,7 +793,7 @@
               }
             }
           ],
-          "_nested_name": "dg_padding.dg_wheel_and_hp"
+          "_nested_name": "dg_bottom.dg_wheel_and_hp"
         },
         {
           "type": "data_items",
@@ -851,7 +848,7 @@
                       },
                       "hidden": "@item.completed",
                       "exclude_from_translation": true,
-                      "_nested_name": "dg_padding.loop_outer.dg_module_not_completed.loop_inner.button_start",
+                      "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed.loop_inner.button_start",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -953,7 +950,7 @@
                       },
                       "hidden": "!@item.completed",
                       "exclude_from_translation": true,
-                      "_nested_name": "dg_padding.loop_outer.dg_module_not_completed.loop_inner.button_continue",
+                      "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed.loop_inner.button_continue",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -1030,7 +1027,7 @@
                       }
                     }
                   ],
-                  "_nested_name": "dg_padding.loop_outer.dg_module_not_completed.loop_inner",
+                  "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed.loop_inner",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1048,7 +1045,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_padding.loop_outer.dg_module_not_completed",
+              "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed",
               "_dynamicFields": {
                 "condition": [
                   {
@@ -1091,7 +1088,7 @@
               },
               "condition": "@item.completed",
               "exclude_from_translation": true,
-              "_nested_name": "dg_padding.loop_outer.button_restart",
+              "_nested_name": "dg_bottom.loop_outer.button_restart",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1168,7 +1165,7 @@
               }
             }
           ],
-          "_nested_name": "dg_padding.loop_outer",
+          "_nested_name": "dg_bottom.loop_outer",
           "_dynamicFields": {
             "parameter_list": {
               "filter": [
@@ -1197,7 +1194,7 @@
           }
         }
       ],
-      "_nested_name": "dg_padding"
+      "_nested_name": "dg_bottom"
     }
   ],
   "_xlsxPath": "KW module_navigation.xlsx"

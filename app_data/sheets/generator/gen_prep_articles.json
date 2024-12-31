@@ -62,11 +62,6 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_childdevelopment_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
       "flow_name": "prep_oneononetime_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
@@ -88,6 +83,11 @@
     },
     {
       "flow_name": "prep_rulesroutines_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_childdevelopment_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
