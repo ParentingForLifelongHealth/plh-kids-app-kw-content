@@ -1572,9 +1572,7 @@
         "transcript": {
           "kw_ar": true
         },
-        "attribution": {
-          "kw_ar": true
-        }
+        "attribution": {}
       },
       "_translatedFields": {
         "title": {
@@ -1584,11 +1582,11 @@
           "eng": "Congratulations! You have unlocked a new play activity: Balloon Tennis!\nGather materials such as balloons, paper plates, and paper straws. Take one paper plate and turn it over. \nTape two straws to the back of the plate to make a sturdy racket. \nRepeat these steps to create more rackets for other players. Once your rackets are ready, blow up several balloons with your child for extra fun.\n Find an open area and start playing! Balloon Tennis is a fantastic way to keep kids active, improve their coordination, and most importantly, have fun together! Enjoy your game!"
         },
         "attribution": {
-          "eng": "Adapted from [Kiwico]{https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis}"
+          "eng": "Adapted from [Kiwico](https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis)"
         }
       },
       "transcript": "Congratulations! You have unlocked a new play activity: Balloon Tennis!\nGather materials such as balloons, paper plates, and paper straws. Take one paper plate and turn it over. \nTape two straws to the back of the plate to make a sturdy racket. \nRepeat these steps to create more rackets for other players. Once your rackets are ready, blow up several balloons with your child for extra fun.\n Find an open area and start playing! Balloon Tennis is a fantastic way to keep kids active, improve their coordination, and most importantly, have fun together! Enjoy your game!",
-      "attribution": "Adapted from [Kiwico]{https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis}"
+      "attribution": "Adapted from [Kiwico](https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis)"
     }
   ],
   "_xlsxPath": "KW activities.xlsx",

@@ -484,7 +484,8 @@
     {
       "id": "rulesroutines",
       "challenge_1_tag_list": [
-        "yes"
+        "yes",
+        "no"
       ],
       "challenge_2_tag_list": [
         "yes"

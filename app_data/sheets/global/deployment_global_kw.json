@@ -65,7 +65,8 @@
       "value": "box_primary",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -97,7 +98,8 @@
     {
       "type": "declare_field_default",
       "name": "countdown_days",
-      "value": 7
+      "value": 7,
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"
