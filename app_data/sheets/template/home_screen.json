@@ -57,8 +57,7 @@
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
-        "sticky": "top",
-        "variant": "header"
+        "sticky": "top"
       },
       "exclude_from_translation": true,
       "style_list": [
@@ -106,6 +105,9 @@
             "position": "right"
           },
           "exclude_from_translation": true,
+          "style_list": [
+            "margin: 0 24px"
+          ],
           "_nested_name": "dg_top.display_modules_as_list",
           "_dynamicFields": {
             "value": [

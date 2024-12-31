@@ -6,6 +6,7 @@
     {
       "type": "display_group",
       "name": "dg_header",
+      "condition": "@fields._deployment_name != \"plh_kids_kw\"",
       "style_list": [
         "align-items: center"
       ],
@@ -24,7 +25,64 @@
           "_nested_name": "dg_header.title"
         }
       ],
-      "_nested_name": "dg_header"
+      "_nested_name": "dg_header",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._deployment_name != \"plh_kids_kw\"",
+            "matchedExpression": "@fields._deployment_name",
+            "type": "fields",
+            "fieldName": "_deployment_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._deployment_name": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_header",
+      "parameter_list": {
+        "sticky": "top"
+      },
+      "condition": "@fields._deployment_name == \"plh_kids_kw\"",
+      "style_list": [
+        "justify-content: center"
+      ],
+      "rows": [
+        {
+          "type": "image",
+          "name": "icon_asset",
+          "style_list": [
+            "width: 46px"
+          ],
+          "_nested_name": "dg_header.icon_asset"
+        },
+        {
+          "type": "title",
+          "name": "title",
+          "_nested_name": "dg_header.title"
+        }
+      ],
+      "_nested_name": "dg_header",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._deployment_name == \"plh_kids_kw\"",
+            "matchedExpression": "@fields._deployment_name",
+            "type": "fields",
+            "fieldName": "_deployment_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._deployment_name": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/app_navigation.xlsx"

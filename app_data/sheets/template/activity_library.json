@@ -11,6 +11,9 @@
         "style": "column"
       },
       "exclude_from_translation": true,
+      "style_list": [
+        "padding: 0 24px"
+      ],
       "rows": [
         {
           "type": "display_group",
