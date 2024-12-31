@@ -51,7 +51,7 @@ config.app_config.APP_HEADER_DEFAULTS.title = "تطبيق دايم";
 config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } }
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Dayem App";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Dayem App";
-config.app_config.APP_THEMES.available = ["plh_kids_kw", "default"];
+config.app_config.APP_THEMES.available = ["plh_kids_kw"];
 config.app_config.APP_THEMES.defaultThemeName = "plh_kids_kw";
 
 export default config;
