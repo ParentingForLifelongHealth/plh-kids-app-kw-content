@@ -50,7 +50,8 @@
       },
       "condition": "@fields._deployment_name == \"plh_kids_kw\"",
       "style_list": [
-        "justify-content: center"
+        "align-items: center",
+        "padding: 0 24px"
       ],
       "rows": [
         {
