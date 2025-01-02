@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1031
+        "count": 1033
       },
       {
         "type": "simple_checkbox",
@@ -164,10 +164,6 @@
       {
         "type": "app_update",
         "count": 1
-      },
-      {
-        "type": "data_changed",
-        "count": 2
       },
       {
         "type": "emit: completed",
@@ -231,7 +227,7 @@
       },
       {
         "type": "set_local",
-        "count": 11
+        "count": 13
       },
       {
         "type": "task",

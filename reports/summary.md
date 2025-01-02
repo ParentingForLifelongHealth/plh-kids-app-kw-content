@@ -28,7 +28,7 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1031 |
+| set_variable | 1033 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
@@ -50,7 +50,6 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| data_changed | 2 |
 | emit: completed | 229 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
@@ -66,7 +65,7 @@
 | set_data | 19 |
 | set_field | 36 |
 | set_item | 24 |
-| set_local | 11 |
+| set_local | 13 |
 | task | 3 |
 | user | 1 |
 </details>
