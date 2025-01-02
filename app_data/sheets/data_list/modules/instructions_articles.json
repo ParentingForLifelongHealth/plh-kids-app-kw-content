@@ -13,11 +13,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/12kV7LV3NGRg22ss4c5FHXvsITKeiGCaUjbn3Rztxls4",
       "text_1_facilitator": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that don't belong to us!\"",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "media_title": {
           "kw_ar": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -40,7 +44,9 @@
       "character_1_id": "f1_father",
       "text_1_facilitator": "Let’s see how @data.characters.f1_father.name gives instructions to @data.characters.f1_daughter_2.name:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "character_1_text": {
           "kw_ar": true
         }
@@ -63,7 +69,9 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "3 minutes are over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -155,7 +163,9 @@
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
@@ -171,7 +181,9 @@
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {},
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_3_question": {
           "kw_ar": true
         },
@@ -350,7 +362,9 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -384,7 +398,9 @@
         "quiz_1_option_3_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_2_question": {
           "kw_ar": true
         },
@@ -489,7 +505,9 @@
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
         "section_2_title": {
           "kw_ar": true
         },

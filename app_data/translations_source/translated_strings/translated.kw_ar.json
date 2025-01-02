@@ -853,7 +853,7 @@
   },
   {
     "SourceText": "It’s normal to feel tired when you have so many responsibilities. Getting enough sleep tonight may help restore your energy for tomorrow.",
-    "text": "قد تكون التربية مسببة لضغط نفسي في بعض الأحيان، حاول إيجاد بضع دقائق للاسترخاء.",
+    "text": "من الطبيعي أن تشعر بالتعب عندما يكون لديك الكثير من المسؤوليات. الحصول على قسط كاف من النوم قد يساعد في استعادة طاقتك الغد.",
     "type": "data_list",
     "note": ""
   },
@@ -865,31 +865,31 @@
   },
   {
     "SourceText": "Sorry to hear that you are not having a great  day. Well done for trying to figure everything out. Nobody has all the answers, but we all try to do our best!",
-    "text": "من رائع أنك بخير. أنت والد مذهل!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
     "text": "يؤسفني سماع أن يومك لم يكن رائعًا. أحسنت لأنك تحاول، لا أحد يملك جميع الإجابات لكننا جميعًا نحاول بذل قصارى جهدنا!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!",
-    "text": "من المؤسف أن يومك لم يكن جيد. أحسنت على الاستيقاظ كل صباح والمحاولة مجددًا، حتى عندما تكون متعبًا. هذه شجاعة وتفاني!",
+    "SourceText": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are sad. That is real courage and dedication!",
+    "text": "من المؤسف أن يومك لم يكن جيد. أحسنت على الاستيقاظ كل صباح والمحاولة مجددًا حتى عندما تكون متعبًا. أنت شجاع ومخلص!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping.",
+    "SourceText": "Sorry to hear that you are stressed today. Call or text a supportive friend to tell them how you are feeling. You might feel better afterwards!",
     "text": "يؤسفني سماع أنك تشعر بالضغط النفسي اليوم. اتصل بصديق داعم أو أرسل له رسالة نصية لتخبره بما تشعر به. قد تشعر بتحسن بعد ذلك!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Wonderful, I am so happy! Keep up the good work.",
+    "SourceText": "Not getting enough sleep or food can make us feel tired sometimes. Try having a healthy snack when you feel your energy levels dropping.",
     "text": "عدم الحصول على قسط كافٍ من النوم أو الطعام يشعرنا بالتعب أحيانًا. حاول تناول وجبة خفيفة صحية عندما تشعر بانخفاض مستويات طاقتك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Wonderful, I am so happy! Keep up the good work.",
+    "text": "رائع، أنا سعيد جدًا لأن الأمور على ما يرام. استمر في العمل الجيد.",
     "type": "data_list",
     "note": ""
   },
@@ -1111,7 +1111,7 @@
   },
   {
     "SourceText": "Okay",
-    "text": "بخير",
+    "text": "محايد",
     "type": "data_list",
     "note": ""
   },
@@ -2568,6 +2568,24 @@
     "note": ""
   },
   {
+    "SourceText": "A new moment of play has been unlocked",
+    "text": "لقد حصلت على نشاط لعب جديد",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Open your moment of play",
+    "text": "شاهد نشاط اللعب",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Open",
+    "text": "افتح",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Well done for finishing this module",
     "text": "أحسنت على إكمال هذا الدرس",
     "type": "global",
@@ -2592,8 +2610,8 @@
     "note": ""
   },
   {
-    "SourceText": "Complete your modules and home activities to unlock new moments of play",
-    "text": "إكمل درسك وأنشطتك المنزلية للحصول على نشاط جديد للعب",
+    "SourceText": "Complete your modules and home activities to unlock new moments of play.",
+    "text": "أكمل درسك وأنشطتك المنزلية للحصول على نشاط جديد للعب.",
     "type": "global",
     "note": ""
   },
@@ -2618,6 +2636,18 @@
   {
     "SourceText": "Favourites",
     "text": "المفضلة",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Nothing here yet!\nMark games as favorites by tapping the ❤️ icon to quickly find what you enjoy most.",
+    "text": "لا يجود نشاط هنا بعد!\nقم بضغط علامة ❤️ على الألعاب المفضلة للعثور عليها أسرع.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Unlock your moments of play by completing a module or logging an activity!",
+    "text": "احصل على نشاط جديد للعب من خلال استكمال درس أو نشاط منزلي!",
     "type": "global",
     "note": ""
   },
@@ -2671,7 +2701,7 @@
   },
   {
     "SourceText": "Profile",
-    "text": "ملف",
+    "text": "ملفك",
     "type": "global",
     "note": ""
   },
@@ -2934,14 +2964,26 @@
     "note": ""
   },
   {
-    "SourceText": "Submit",
-    "text": "إرسال",
+    "SourceText": "Change countdown days",
+    "text": "تغيير أيام العد التنازلي",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Enter developer mode",
-    "text": "ادخل إلى وضع المبرمج",
+    "SourceText": "Countdown days: @fields.countdown_days",
+    "text": "أيام العد التنازلي: @fields.countdown_days",
+    "type": "template",
+    "note": "The string @fields.countdown_days should not be translated."
+  },
+  {
+    "SourceText": "Choose a number of days to count down",
+    "text": "اختر عدد الأيام للعد التنازلي",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "إرسال",
     "type": "template",
     "note": ""
   },
@@ -2952,14 +2994,20 @@
     "note": "The string @local.submit should not be translated."
   },
   {
-    "SourceText": "You have successfully entered developer mode.",
-    "text": "لقد قمت بالدخول إلى وضع المبرمج بنجاح.",
+    "SourceText": "You have entered an incorrect code.",
+    "text": "لقد أدخلت رمزًا خاطئًا.",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "You have entered an incorrect code.",
-    "text": "لقد أدخلت رمزًا خاطئًا.",
+    "SourceText": "This code is correct.",
+    "text": "هذا الرمز صحيح.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "ادخل إلى وضع المبرمج",
     "type": "template",
     "note": ""
   },
@@ -3090,8 +3138,8 @@
     "note": ""
   },
   {
-    "SourceText": "First, we place one pillow against the headboard. It’s our first wall! Then, we can use another pillow for the other wall. And a third pillow to make the roof!",
-    "text": "أولاً، نضع وسادة واحدة مقابل اللوح الأمامي للسرير، إنها جدارنا الأول! بعد ذلك يمكننا استخدام وسادة أخرى للجدار الثاني. وأخيرًا، وسادة ثالثة لعمل السقف!",
+    "SourceText": "First, we place these pillows on top of each other so they make a wall. The headboard is our other wall. Next, we will put a bedsheet across the headboard and the wall of pillows to make our roof!",
+    "text": "أولاً، نضع هذه الوسائد فوق بعضها البعض حتى تصبح كأنها جدارًا. ولوح السرير هو جدارنا الآخر. بعد ذلك سنضع ملاءة سرير فوق لوح السرير وحائط الوسائد لنشكل سقف!",
     "type": "data_list",
     "note": ""
   },
@@ -3228,8 +3276,8 @@
     "note": "The string @data.characters.f1_father.name should not be translated."
   },
   {
-    "SourceText": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when she struggles to put on his shoes.",
-    "text": "الأطفال يتعلمون الكثير من أخطائهم (مثلنا).\nلنلق نظرة على كيفية دعم @data.characters.f3_uncle.name لـ@data.characters.f3_son_4.name للتعلم من خطئه عندما يواجه صعوبة في ارتداء حذائه.",
+    "SourceText": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes.",
+    "text": "الأطفال يتعلمون الكثير من أخطائهم (مثلنا).\nلنلق نظرة على كيفية دعم @data.characters.f3_uncle.name لـ@data.characters.f3_son_4.name ليتعلم من خطئه عندما يواجه صعوبة في ارتداء حذائه.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name"
   },
@@ -3571,7 +3619,7 @@
   },
   {
     "SourceText": "You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
-    "text": "أنت تلعب بطريقة جميلة وهادئة @data.characters.f3_son_4.name، في غضون 5 دقائق سيكون الوقت قد حان لترتيب ألعابك.",
+    "text": "@data.characters.f3_son_4.name أنت تلعب بطريقة جميلة وهادئة، في غضون 5 دقائق سيكون الوقت قد حان لترتيب ألعابك.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
@@ -3595,25 +3643,25 @@
   },
   {
     "SourceText": "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner.",
-    "text": "إما أن تضع الألعاب بمكانها الآن @data.characters.f3_son_4.name\nأو لن تتمكن من اللعب بألعابك بعد العشاء.",
+    "text": "@data.characters.f3_son_4.name إما أن تضع الألعاب بمكانها الآن أو لن تتمكن من اللعب بألعابك بعد العشاء.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name, should not be translated."
   },
   {
-    "SourceText": "No @data.characters.f3_uncle.name, I don’t want to! I’m not finished with my game",
-    "text": "لا @data.characters.f3_uncle.name لا أريد! لم أنتهِ من لعبي بعد.",
+    "SourceText": "No Uncle! I don’t want to! I’m not finished with my game.",
+    "text": "لا يا خالي لا أريد! لم أنتهِ من لعبي بعد.",
     "type": "data_list",
-    "note": "The string @data.characters.f3_uncle.name, should not be translated."
+    "note": ""
   },
   {
     "SourceText": "Because you did not clean up your toys when I asked you to, @data.characters.f3_son_4.name, you cannot play with your toys after dinner. Now please come and wash your hands.",
-    "text": "لأنك لم ترتب ألعابك عندما طلبت منك ذلك @data.characters.f3_son_4.name لن تتمكن من اللعب بألعابك بعد العشاء. الآن، من فضلك تعال واغسل يديك. ",
+    "text": "@data.characters.f3_son_4.name لأنك لم ترتب ألعابك عندما طلبت منك ذلك لن تتمكن من اللعب بألعابك بعد العشاء. الآن، من فضلك تعال واغسل يديك.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name, should not be translated."
   },
   {
     "SourceText": "Good job washing your hands so well, @data.characters.f3_son_4.name.",
-    "text": "إنك تغسل يديك جيدا @data.characters.f3_son_4.name.",
+    "text": "@data.characters.f3_son_4.name إنك تغسل يديك جيدا.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
@@ -3967,7 +4015,7 @@
   },
   {
     "SourceText": "I see that your hands are tight and you are speaking loudly. It looks like you are upset, @data.characters.f3_son_4.name. It’s not easy, let’s practise a little bit more. I know you can do it.",
-    "text": "أرى أن يديك مشدودة وتتحدث بصوت عالٍ، يبدو أنك غاضبًا @data.characters.f3_son_4.name. أتفهم أن الأمر ليس سهلاً، دعنا نتدرب أكثر. أعلم أنك تستطيع التغلب على هذا التحدي.",
+    "text": "@data.characters.f3_son_4.name أرى أن يديك مشدودة وتتحدث بصوت عالٍ، يبدو أنك غاضبًا. أتفهم أن الأمر ليس سهلاً، دعنا نتدرب أكثر. أعلم أنك تستطيع التغلب على هذا التحدي.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
@@ -3997,7 +4045,7 @@
   },
   {
     "SourceText": "Why does @data.characters.f3_uncle.name name @data.characters.f3_son_4.name’s feelings when he’s feeling angry?",
-    "text": "لماذا يسمي @data.characters.f3_uncle.name مشاعر @data.characters.f3_son_4 عندما يكون غاضبًا؟",
+    "text": "لماذا يسمي @data.characters.f3_uncle.name مشاعر @data.characters.f3_son_4.name عندما يكون غاضبًا؟",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name’s"
   },
@@ -4056,10 +4104,10 @@
     "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name’s"
   },
   {
-    "SourceText": "He names @data.characters.f3_son_4.name ’s positive emotions",
-    "text": "يسمي مشاعر @data.characters.f3_son_4.name الإيجابية.",
+    "SourceText": "He names @data.characters.f3_son_4.name’s positive emotions",
+    "text": "يسمي مشاعر @data.characters.f3_son_4.name الإيجابية",
     "type": "data_list",
-    "note": "The string @data.characters.f3_son_4.name should not be translated."
+    "note": "The string @data.characters.f3_son_4.name’s should not be translated."
   },
   {
     "SourceText": "Yes, he does! But he also names @data.characters.f3_son_4.name’s difficult emotions. @data.characters.f3_uncle.name shows us that it is important to identify both positive *and* difficult emotions for our children.",
@@ -4074,10 +4122,10 @@
     "note": ""
   },
   {
-    "SourceText": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name’s is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
+    "SourceText": "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way.",
     "text": "يقبل @data.characters.f3_uncle.name أي مشاعر يشعر بها @data.characters.f3_son_4.name، ويوضح لنا @data.characters.f3_uncle.name كيفية التحدث عن المشاعر الإيجابية والمزعجة مع أطفالنا بطريقة مفيدة.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name’s\n@data.characters.f3_uncle.name"
+    "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name\n@data.characters.f3_uncle.name"
   },
   {
     "SourceText": "He uses words to describe @data.characters.f3_son_4.name’s emotions",
@@ -4110,7 +4158,7 @@
     "note": "The string @data.characters.f3_son_4.name’s should not be translated."
   },
   {
-    "SourceText": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of..",
+    "SourceText": "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of.",
     "text": "نعم، إن @data.characters.f3_uncle.name يُوضح لنا أن مشاعر ابن أخته المزعجة ليست شيئًا يجب أن يتجاهلها أو يخاف منها.",
     "type": "data_list",
     "note": "The string @data.characters.f3_uncle.name should not be translated."
@@ -4278,8 +4326,8 @@
     "note": ""
   },
   {
-    "SourceText": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things more happy and calm at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that belong to us!\"",
-    "text": "درس اليوم عن تعلم كيفية إعطاء تعليمات فعّالة!\n\nلا أحد يتبع الضوابط طوال الوقت، لكن طريقة إعطاء التعليمات يمكن أن تساهم في جعل الأجواء أكثر سعادة وهدوءًا في المنزل.\n\nالتعليمات السلبية مثل \"لا تلمس ذلك!\" يمكن أن تجعل الأطفال يشعرون بالإحباط. (وقد تجعل الوالدين أيضًا يشعرون بالذنب!)\n\nيتبع الأطفال التعليمات أكثر عندما تُعبّر عنها بطريقة إيجابية مثل: \"من فضلك، المس الأشياء التي تخصنا فقط!\"",
+    "SourceText": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that don't belong to us!\"",
+    "text": "درس اليوم هو تعلم كيفية إعطاء تعليمات فعّالة!\n\nلا أحد يتبع الضوابط طوال الوقت، لكن طريقة إعطاء التعليمات يمكن أن تساهم في جعل الأجواء أكثر سعادة وهدوءًا في المنزل.\n\nالتعليمات السلبية مثل \"لا تلمس ذلك!\" يمكن أن تجعل الأطفال يشعرون بالإحباط. (وقد تجعل الوالدين أيضًا يشعرون بالذنب!)\n\nيتبع الأطفال التعليمات أكثر عندما تُعبّر عنها بطريقة إيجابية مثل: \"من فضلك، المس الأشياء التي تخصنا فقط!\"",
     "type": "data_list",
     "note": ""
   },
@@ -4290,14 +4338,14 @@
     "note": ""
   },
   {
-    "SourceText": "Let’s try something: Don’t think about a pink elephant…\nWhat did you think about? A pink elephant?\n\nThe same happens when we give negative instructions to our children. When we tell them “stop fighting” or “stop playing with your food”, they don’t know how to think about what we DO want them to do, only what we DON’T want them to do.”\n\nWhen you give a positive instruction, your child is more likely to follow it.",
-    "text": "دعونا نجرب شيئًا: لا تفكر في فيل وردي...  \nبماذا فكرت؟ فيل وردي؟\n\nنفس الشيء يحدث عندما نعطي تعليمات سلبية لأطفالنا. عندما نقول لهم \"توقفوا عن الشجار\" أو \"توقف عن التعبث بطعامك\" فإنهم لا يعرفون ماذا نفكر فيه أو ماذا نريدهم أن يفعلوا، بل فقط ما لا نريدهم أن يفعلوه.  \n\nعندما تعطي تعليمات إيجابية فإن طفلك سيكون أكثر احتمالًا للامتثال لها.",
+    "SourceText": "Let’s try something: Don’t think about a pink elephant…\nWhat did you think about? A pink elephant?\n\nThe same happens when we give negative instructions to our children. When we tell them “stop fighting” or “stop playing with your food”, they don’t know how to think about what we DO want them to do, only what we DON’T want them to do.\n\nWhen you give a positive instruction, your child is more likely to follow it.",
+    "text": "دعونا نجرب شيئًا: لا تفكر في فيل وردي...\nبماذا فكرت؟ فيل وردي؟\n\nنفس الشيء يحدث عندما نعطي تعليمات سلبية لأطفالنا. عندما نقول لهم \"توقفوا عن الشجار\" أو \"توقف عن التعبث بطعامك\" فإنهم لا يعرفون ماذا نفكر فيه أو ماذا نريدهم أن يفعلوا، بل فقط ما لا نريدهم أن يفعلوه.\n\nعندما تعطي تعليمات إيجابية فإن طفلك سيكون أكثر احتمالًا لإتباعها.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Let’s see how @data.characters.f1_father.name gives instructions @data.characters.f1_daughter_2.name:",
-    "text": "لنرى كيف @data.characters.f1_father.name  يعطي تعليمات ل@data.characters.f1_daughter_2.name:",
+    "SourceText": "Let’s see how @data.characters.f1_father.name gives instructions to @data.characters.f1_daughter_2.name:",
+    "text": "لنرى كيف @data.characters.f1_father.name يعطي تعليمات ل@data.characters.f1_daughter_2.name:",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f1_father.name\n@data.characters.f1_daughter_2.name:"
   },
@@ -4308,14 +4356,14 @@
     "note": "The string @data.characters.f1_daughter_2.name. should not be translated."
   },
   {
-    "SourceText": "3 minutes is over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
-    "text": "لقد مرت ثلاث دقائق @data.characters.f1_daughter_2.name. من فضلك، ضعي المكعبات في مكانها.",
+    "SourceText": "3 minutes are over, @data.characters.f1_daughter_2.name. Please pack away your blocks.",
+    "text": "@data.characters.f1_daughter_2.name لقد مرت ٣ دقائق. من فضلك ضعي المكعبات في مكانها.",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_2.name. should not be translated."
   },
   {
     "SourceText": "Thank you very much for packing away the blocks when I asked you, @data.characters.f1_daughter_2.name. Because you listened so well, I will read you an extra story before bed.",
-    "text": "شكرًا جزيلاً لك على ترتيب المكعبات عندما طلبت منك @data.characters.f1_daughter_2.name. لأنك استمعت للتعليمات بشكل جيد سأقرأ لكِ قصة إضافية قبل النوم.",
+    "text": "@data.characters.f1_daughter_2.name شكرًا جزيلاً لك على ترتيب المكعبات عندما طلبت منك. لأنك استمعت للتعليمات بشكل جيد سأقرأ لكِ قصة إضافية قبل النوم.",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_2.name. should not be translated."
   },
@@ -4386,8 +4434,8 @@
     "note": "The string @data.characters.f1_daughter_2.name should not be translated."
   },
   {
-    "SourceText": "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through.",
-    "text": "حاول مرة أخري! إنه جعل التعليمات إيجابية من خلال إخبار @data.characters.f1_daughter_2.name ما ينبغي لها فعله بدلاً مما لا ينبغي لها فعله والذي سيساعد @data.characters.f1_daughter_2.name في تنفيذها.",
+    "SourceText": "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should do rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through.",
+    "text": "حاول مرة أخري! إن جعل التعليمات إيجابية من خلال إخبار @data.characters.f1_daughter_2.name ما ينبغي لها فعله بدلاً مما لا ينبغي لها فعله سيساعد @data.characters.f1_daughter_2.name على اتباعها.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f1_daughter_2.name\n@data.characters.f1_daughter_2.name"
   },
@@ -4422,8 +4470,8 @@
     "note": ""
   },
   {
-    "SourceText": "Try again! He gives @data.characters.f1_daughter_2.name a positive instructure, “clean up” without a negative one “stop playing.”",
-    "text": "حاول مرة أخرى! يعطي @data.characters.f1_daughter_2.name تعليمات إيجابية مثل \"نظفي\" دون استخدام تعليمات سلبية مثل \"توقفي عن اللعب\".",
+    "SourceText": "Try again! He gives @data.characters.f1_daughter_2.name a positive instruction to “clean up” without giving a negative one of “stop playing.”",
+    "text": "حاول مرة أخرى! إنه يعطي @data.characters.f1_daughter_2.name تعليمات إيجابية مثل \"نظفي\" دون استخدام تعليمات سلبية مثل \"توقفي عن اللعب\"",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_2.name should not be translated."
   },
@@ -4488,8 +4536,8 @@
     "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_son_8.name"
   },
   {
-    "SourceText": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries you just gave her.",
-    "text": "شكرًا لأنكما أتيتما لمساعدتي، جدتكما ستعد الكثير من الوجبات اللذيذة باستخدام الأكل الذي أعطيتوه لها.",
+    "SourceText": "Thank you for coming to help me. Your grandmother is going to cook lots of delicious meals with the groceries.",
+    "text": "شكرًا لأنكما أتيتما لمساعدتي، جدتكما ستعد الكثير من الوجبات اللذيذة باستخدام الأكل الذي ساعدتم في حمله.",
     "type": "data_list",
     "note": ""
   },
@@ -4536,10 +4584,10 @@
     "note": "The string @data.characters.f2_grandfather.name should not be translated."
   },
   {
-    "SourceText": "Probably not. If @data.characters.f2_grandfather.name had kept quiet, he and @data.characters.f2_grandmother.name would have had to spend more time and energy trying to resolve the conflict.",
-    "text": "على الأرجح لا. لو أن @data.characters.f2_grandfather.name التزم الصمت لكان هو و @data.characters.f2_grandmother.name  سيضطران لقضاء المزيد من الوقت والجهد محاولين تسوية النزاع بين الأطفال.",
+    "SourceText": "Probably not. If @data.characters.f2_grandmother.name had kept quiet, she and @data.characters.f2_grandfather.name would have had to spend more time and energy trying to resolve the conflict.",
+    "text": "على الأرجح لا. لو أن @data.characters.f2_grandmother.name التزمت الصمت لكانت هي و @data.characters.f2_grandfather.name سيضطران لقضاء المزيد من الوقت والجهد في محاولة تسوية النزاع بين الأطفال.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@data.characters.f2_grandfather.name\n@data.characters.f2_grandmother.name"
+    "note": "The following strings should not be translated:\n@data.characters.f2_grandmother.name\n@data.characters.f2_grandfather.name"
   },
   {
     "SourceText": "What does @data.characters.f2_grandmother.name do to prevent the argument from getting out of hand?",
@@ -4602,8 +4650,8 @@
     "note": ""
   },
   {
-    "SourceText": "Use your child’s name to get your child’s attention. Go down to their level. Make eye contact.\n\nThen say exactly what you want them to do. For example: “Please take your shoes off when you come inside the house, {...}.”",
-    "text": "استخدم اسم طفلك لجذب اهتمامه وانزل إلى مستواه وانظر في عينيه ليشعر بأهمية، ثم اذكر بدقة ماذ ترغب أن يقوم بفعله. على سبيل المثال: \"يرجى خلع حذاءك عند الدخول إلى البيت.\"",
+    "SourceText": "Use your child’s name to get your child’s attention. Go down to their level. Make eye contact.\n\nThen say exactly what you want them to do. For example: “Please take your shoes off when you come inside the house, Faisal.”",
+    "text": "استخدم اسم طفلك لجذب اهتمامه وانزل إلى مستواه وانظر في عينيه ليشعر بأهمية، ثم اذكر بدقة ماذا ترغب أن يقوم به. على سبيل المثال: \"يرجى خلع حذاءك عند الدخول إلى البيت.\"",
     "type": "data_list",
     "note": ""
   },
@@ -4746,12 +4794,6 @@
     "note": ""
   },
   {
-    "SourceText": "Child Development",
-    "text": "تطور الطفل ",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "One-on-One Time",
     "text": "وقتك الخاص مع طفلك",
     "type": "data_list",
@@ -4778,6 +4820,12 @@
   {
     "SourceText": "Rules",
     "text": "الضوابط",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Child Development",
+    "text": "تطور الطفل ",
     "type": "data_list",
     "note": ""
   },
@@ -4813,7 +4861,7 @@
   },
   {
     "SourceText": "I see you are playing quietly and really concentrating on those blocks, @data.characters.f3_son_4.name",
-    "text": "أرى أنك منغمس في اللعب بهدوء باستخدام المكعبات @data.characters.f3_son_4.name",
+    "text": "@data.characters.f3_son_4.name أرى أنك منغمس في اللعب بهدوء باستخدام المكعبات",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name should not be translated."
   },
@@ -4843,7 +4891,7 @@
   },
   {
     "SourceText": "This house is going to keep us both safe and happy. You are such a good builder, @data.characters.f3_son_4.name.",
-    "text": "هذا البيت سيبقينا آمنين وسعداء، أنت تبني بشكل رائع @data.characters.f3_son_4.name.",
+    "text": "@data.characters.f3_son_4.name هذا البيت سيبقينا آمنين وسعداء، أنت تبني بشكل رائع.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
@@ -4896,7 +4944,7 @@
     "note": "The string @data.characters.f3_son_4.name should not be translated."
   },
   {
-    "SourceText": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play..",
+    "SourceText": "No, @data.characters.f3_uncle.name doesn’t dictate what they will do, but describes what @data.characters.f3_son_4.name is doing. This is an important part of child-led play.",
     "text": "لا، لن يقرر @data.characters.f3_uncle.name ما سيفعله @data.characters.f3_son_4.name لكن يصف ما يقوم بفعله، وهذا جزءًا مهمًا من اللعب الذي يقوده الطفل.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name"
@@ -5322,10 +5370,10 @@
     "note": ""
   },
   {
-    "SourceText": "@data.characters.f2_grandfather’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
-    "text": "تلعب حفيدة @data.characters.f2_grandfather بلعبة البلاط المغناطيسي أثناء مشاهدة جدها مباراة كرة القدم على التلفاز (مانشستر يونايتد ضد أرسنال)",
+    "SourceText": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
+    "text": "تلعب حفيدة @data.characters.f2_grandfather.name بلعبة البلاط المغناطيسي أثناء مشاهدة جدها لمباراة كرة القدم على التلفاز (مانشستر يونايتد ضد أرسنال)",
     "type": "data_list",
-    "note": "The string @data.characters.f2_grandfather’s should not be translated."
+    "note": "The string @data.characters.f2_grandfather.name’s should not be translated."
   },
   {
     "SourceText": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!",
@@ -5341,7 +5389,7 @@
   },
   {
     "SourceText": "@data.characters.f2_daughter_3.name, thank you for playing quietly on the floor. I really like that.",
-    "text": "شكرًا لك على اللعب بهدوء على الأرض @data.characters.f2_daughter_3.name. أنا حقًا أقدر ذلك.",
+    "text": "@data.characters.f2_daughter_3.name شكرًا لك على اللعب بهدوء. أنا حقًا أقدر ذلك.",
     "type": "data_list",
     "note": "The string @data.characters.f2_daughter_3.name, should not be translated."
   },
@@ -5442,10 +5490,10 @@
     "note": ""
   },
   {
-    "SourceText": "False. He praises @data.characters.f2_daughter_3 for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
-    "text": "خطأ، إنه يمدح @data.characters.f2_daughter_3 لشيء محدد ويقدم الثناء على الفور، وهذا يبين لنا أن الطريقة التي نقدم بها الثناء مهمة لكي تكون فعالة.",
+    "SourceText": "False. He praises @data.characters.f2_daughter_3.name for something specific and provides the praise immediately. This shows us that the way we give praise is important for it to be effective.",
+    "text": "خطأ، إنه يمدح @data.characters.f2_daughter_3.name لشيء محدد ويقدم الثناء على الفور، وهذا يبين لنا أن الطريقة التي نقدم بها الثناء مهمة لكي تكون فعالة.",
     "type": "data_list",
-    "note": "The string @data.characters.f2_daughter_3 should not be translated."
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
   },
   {
     "SourceText": "He praises her immediately.",
@@ -5454,10 +5502,10 @@
     "note": ""
   },
   {
-    "SourceText": "True! Grandfather praises @data.characters.f2_daughter_3 immediately after her positive behaviour.",
-    "text": "صحيح! يمدح الجد @data.characters.f2_daughter_3 فوراً بعد قيامها بالسلوك الإيجابي.",
+    "SourceText": "True! @data.characters.f2_grandfather.name praises @data.characters.f2_daughter_3.name immediately after her positive behaviour.",
+    "text": "صحيح! يمدح @data.characters.f2_grandfather.name @data.characters.f2_daughter_3.name فوراً بعد قيامها بالسلوك الإيجابي.",
     "type": "data_list",
-    "note": "The string @data.characters.f2_daughter_3 should not be translated."
+    "note": "The following strings should not be translated:\n@data.characters.f2_grandfather.name\n@data.characters.f2_daughter_3.name"
   },
   {
     "SourceText": "Why does @data.characters.f2_grandfather.name give @data.characters.f2_daughter_3.name an extra playtime together?",
@@ -5646,7 +5694,7 @@
     "note": ""
   },
   {
-    "SourceText": "Celebrate by acknowledging your achievements (e.g.talking to a friend)",
+    "SourceText": "Celebrate by acknowledging your achievements (e.g., talking to a friend)",
     "text": "احتفل بإنجازاتك (مثلاً: التحدث مع صديق)",
     "type": "data_list",
     "note": ""
@@ -5755,7 +5803,7 @@
   },
   {
     "SourceText": "Excellent idea, @data.characters.f3_son_4.name! Can I help too?",
-    "text": "فكرة رائعة @data.characters.f3_son_4.name، هل يمكنني المساعدة أيضًا؟",
+    "text": "@data.characters.f3_son_4.name فكرة رائعة، هل يمكنني المساعدة أيضًا؟",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name! should not be translated."
   },
@@ -5838,7 +5886,7 @@
     "note": "The following strings should not be translated:\n@data.characters.f3_son_4.name\n@data.characters.f3_daughter_7.name"
   },
   {
-    "SourceText": "Incorrect. The mother didn’t tell either child a solution to either child. . She encouraged both children to find a way to solve the problem together.",
+    "SourceText": "Incorrect. The mother didn’t tell either child a solution to either child. She encouraged both children to find a way to solve the problem together.",
     "text": "غير صحيح، لم تخبر الأم أياً من الطفلين بالحل بل شجعت كلا الطفلين على إيجاد طريقة لحل المشكلة معًا.",
     "type": "data_list",
     "note": ""
@@ -6018,8 +6066,8 @@
     "note": ""
   },
   {
-    "SourceText": "Today's lesson is about creating structure for our children.\n\nRules and routines help children understand what is expected from them, be responsible, and stay safe. \n\nChildren are more likely to follow rules if you create them TOGETHER.\n\nCreating daily routines (around for example meals, school and bedtime) will help your child feel safe, secure, and calm.",
-    "text": "درس اليوم يتناول كيفية وضع هيكل منظم لأطفالنا.\nالضوابط والنظام اليومي يساعدان الأطفال على فهم ما هو متوقع منهم ويشجعهم على تحمل المسؤولية ويضمن سلامتهم.\nالأطفال أكثر استعدادًا للالتزام بالضوابط عندما يشاركون في تطبيقها معًا.\nإنشاء نظام يومي ثابت (مثل مواعيد الوجبات والذهاب إلى المدرسة ووقت النوم) يُساعد طفلك على الشعور بالأمان والاطمئنان والهدوء.",
+    "SourceText": "Today's lesson is about creating structure for our children.\n\nRules and routines help children understand what is expected from them, be responsible, and stay safe. \n\nChildren are more likely to follow rules if you create them TOGETHER.\n\nCreating daily routines (for example, around meals, school and bedtime) will help your child feel safe, secure, and calm.",
+    "text": "درس اليوم يتناول كيفية وضع هيكل منظم لأطفالنا.\nالضوابط والنظام اليومي يساعدان الأطفال على فهم ما هو متوقع منهم ويشجعهم على تحمل المسؤولية ويضمن سلامتهم.\nالأطفال أكثر استعدادًا للالتزام بالضوابط عندما يشاركون في تأسيسها معًا.\nإنشاء نظام يومي ثابت (مثل مواعيد الوجبات والذهاب إلى المدرسة ووقت النوم) يُساعد طفلك على الشعور بالأمان والاطمئنان والهدوء.",
     "type": "data_list",
     "note": ""
   },
@@ -6036,13 +6084,13 @@
     "note": ""
   },
   {
-    "SourceText": "Let’s look at an example together. @data.characters.f1_daughter_6.name is spending too much time playing games on the phone or tablet before her homework is finished. @data.characters.f1_father.name helps her create a family rule about this:",
+    "SourceText": "Let’s look at an example together. @data.characters.f1_daughter_6.name is spending too much time playing games on the tablet before her homework is finished. @data.characters.f1_father.name helps her create a family rule about this:",
     "text": "دعونا ننظر إلى مثال معا. تقضي @data.characters.f1_daughter_6.name الكثير من الوقت في اللعب بالهاتف النقال أو الجهاز اللوحي قبل الانتهاء من واجباتها المدرسية. @data.characters.f1_father.name يساعدها في وضع ضوابط عائلية حول هذا:",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f1_daughter_6.name\n@data.characters.f1_father.name"
   },
   {
-    "SourceText": "Can I use your phone to play games?",
+    "SourceText": "Can I use your tablet to play games?",
     "text": "هل يمكنني أن أستخدم هاتفك للعب؟",
     "type": "data_list",
     "note": ""
@@ -6091,7 +6139,7 @@
   },
   {
     "SourceText": "Not just yet, @data.characters.f1_daughter_6.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
-    "text": "ليس بعد @data.characters.f1_daughter_6.name. وسائل التواصل الاجتماعي مخصصة للأطفال الأكبر سنًا. سننتظر حتى تكبري قليلاً، ولكن يمكننا نشر الصور معًا على حسابي الخاص إذا أردت ذلك.",
+    "text": "ليس بعد يا @data.characters.f1_daughter_6.name. وسائل التواصل الاجتماعي مخصصة للأطفال الأكبر سنًا. سننتظر حتى تكبري قليلاً، ولكن يمكننا نشر الصور معًا على حسابي الخاص إذا أردت ذلك.",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_6.name. should not be translated."
   },
@@ -6103,7 +6151,7 @@
   },
   {
     "SourceText": "Thank you for doing your homework before using the tablet, @data.characters.f1_daughter_6.name. Last night you mentioned that your maths tests have become easier for you! I am proud of you! We can increase your time to an hour each day… as long as you still do your homework first!",
-    "text": "شكرًا على قيامك بواجباتك قبل استخدام الجهاز اللوحي @data.characters.f1_daughter_6.name. قلتي الليلة الماضية أن اختبارات الرياضيات أصبحت أسهل بالنسبة لك! أنا فخور بك! يمكننا زيادة وقت استخدامك للأجهزة إلى ساعة كل يوم... طالما أنك تقومين بالانتهاء من واجباتك أولاً!",
+    "text": "@data.characters.f1_daughter_6.name شكرًا على قيامك بواجباتك قبل استخدام الجهاز اللوحي. قلتي الليلة الماضية أن اختبارات الرياضيات أصبحت أسهل بالنسبة لك! أنا فخور بك! يمكننا زيادة وقت استخدامك للأجهزة إلى ساعة كل يوم... طالما أنك تقومين بالانتهاء من واجباتك أولاً!",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_6.name. should not be translated."
   },
@@ -6174,14 +6222,14 @@
     "note": "The following strings should not be translated:\n@data.characters.f1_father.name\n@data.characters.f1_daughter_6.name"
   },
   {
-    "SourceText": "A) He creates household rules around gadget use. He praises her.",
-    "text": "أ) وضع ضوابط منزلية حول استخدام الأجهزة الإلكترونية، و يقوم بمدحها وتشجيعها.",
+    "SourceText": "He creates household rules around gadget use. He praises her.",
+    "text": "يضع ضوابط منزلية حول استخدام الأجهزة الإلكترونية ويقوم بمدحها.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "B) He allowed his daughter to create a social media account. \nHe tells her she doesn’t have to follow the rule anymore.",
-    "text": "ب) سمح لابنته بإنشاء حساب على وسائل التواصل الاجتماعي، وأخبرها أنها لم تعد مضطرة إلى اتباع الضوابط.",
+    "SourceText": "He allowed his daughter to create a social media account.",
+    "text": "سمح لابنته بإنشاء حساب على مواقع التواصل الاجتماعي.",
     "type": "data_list",
     "note": ""
   },
@@ -6192,8 +6240,8 @@
     "note": ""
   },
   {
-    "SourceText": "C) He allowed his daughter to use the mobile phone only after completing her schoolwork",
-    "text": "ج) سمح لابنته باستخدام الهاتف النقال فقط بعد الانتهاء من واجباتها المدرسية.",
+    "SourceText": "He allowed his daughter to use the mobile phone only after completing her schoolwork",
+    "text": "سمح لابنته باستخدام الهاتف النقال فقط بعد الانتهاء من واجباتها المدرسية",
     "type": "data_list",
     "note": ""
   },
@@ -6204,20 +6252,20 @@
     "note": ""
   },
   {
-    "SourceText": "D) He told his daughter to avoid clicking on pop-ups or strange pictures",
-    "text": "د) أخبر ابنته بتجنب النقر على المواقع أو الصور الغريبة التي أحياناً تظهر تلقائياً",
+    "SourceText": "He told his daughter to avoid clicking on pop-ups or strange pictures",
+    "text": "أخبر ابنته بتجنب النقر على المواقع أو الصور الغريبة التي أحياناً تظهر تلقائياً",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "E) He told her daughter to come to him if anything upsets them",
-    "text": "ه-أخبرها أن تأتي إليه إذا تعرضت لأى شئ يزعجها",
+    "SourceText": "He told her daughter to come to him if anything upsets them",
+    "text": "أخبرها أن تخبره إذا تعرضت لأى شئ يزعجها",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "If you chose A, D, or E, you are correct! \n\nThe father \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks his daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages his daughter to come talk to him if anything upsets her online.",
-    "text": "في حال اخترت أ أو د أو ه فأنت على صواب! \n\nالأب \n✅ يضع ضوابط في المنزل للحد من استخدام الجهاز إلى ٣٠ دقيقة في اليوم.\n✅ يطلب من ابنته الانتظار إلى أن تصبح أكبر لعمل حساب على وسائل التواصل الإجتماعي. \n✅ ينصحها بعدم النقر على المواقع والصور التي تظهر تلقائياً. \n✅ يشجع ابنته على التحدث معه إذا أزعجها أي شيء على الإنترنت أو مواقع التواصل الاجتماعى.",
+    "SourceText": "You are correct! \n\nThe father \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks his daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages his daughter to come talk to him if anything upsets her online.",
+    "text": "في حال اخترت أ أو د أو ه فأنت على صواب! \n\nالأب \n✅ يضع ضوابط في المنزل للحد من استخدام الجهاز إلى ٣٠ دقيقة في اليوم.\n✅ يطلب من ابنته الانتظار إلى أن تصبح أكبر لإنشاء حساب على وسائل التواصل الإجتماعي. \n✅ ينصحها بعدم النقر على المواقع والصور التي تظهر تلقائياً. \n✅ يشجع ابنته على التحدث معه إذا أزعجها أي شيء على الإنترنت أو مواقع التواصل الاجتماعى.",
     "type": "data_list",
     "note": ""
   },
@@ -6241,19 +6289,19 @@
   },
   {
     "SourceText": "Time to get ready for bed, @data.characters.f3_son_4.name. First, let’s get you nice and clean with a bath.",
-    "text": "إنه وقت الذهاب إلى النوم @data.characters.f3_son_4.name. حان وقت الاستحمام لتصبح نظيف ومرتب. ",
+    "text": "إنه وقت الذهاب إلى النوم يا @data.characters.f3_son_4.name. حان وقت الاستحمام لتصبح نظيف ومرتب.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
   {
     "SourceText": "You were so well-behaved in the bath, @data.characters.f3_son_4.name. Now it is time to put your pyjamas on.",
-    "text": "لقد كنتِ متعاون جداً في الاستحمام @data.characters.f3_son_4.name، الآن حان وقت ارتداء ملابس النوم.",
+    "text": "@data.characters.f3_son_4.name لقد كنتِ متعاون جداً في الاستحمام، الآن حان وقت ارتداء ملابس النوم.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
   {
     "SourceText": "Well done for putting on your pyjamas by yourself, @data.characters.f3_son_4.name! Now let’s brush your teeth. Make sure you get the ones in the back of your mouth too!",
-    "text": "احسنت في ارتداء ملابس النوم لوحدك @data.characters.f3_son_4.name! حان وقت تنظيف أسنانك، تأكد من تنظيف الأسنان الخلفية أيضًا!",
+    "text": "@data.characters.f3_son_4.name احسنت في ارتداء ملابس النوم لوحدك! حان وقت تنظيف أسنانك، تأكد من تنظيف الأسنان الخلفية أيضًا!",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name! should not be translated."
   },
@@ -6300,7 +6348,7 @@
     "note": ""
   },
   {
-    "SourceText": "Try again. If @data.characters.f3_mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as she does here.",
+    "SourceText": "Try again. If @data.characters.f3_mother.name and @data.characters.f3_son_4.name only do these steps once a week, @data.characters.f3_son_4.name would not be able to remember and follow the routine as well as he does here.",
     "text": "حاول مرة أخرى، إذا قام @data.characters.f3_mother.name و @data.characters.f3_son_4.name بهذه الخطوات مرة واحدة فقط في الأسبوع فلن يتمكن @data.characters.f3_son_4.name من تذكر النظام اليومي واتباعه كما فعل هنا.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f3_mother.name\n@data.characters.f3_son_4.name\n@data.characters.f3_son_4.name"
@@ -6312,8 +6360,8 @@
     "note": ""
   },
   {
-    "SourceText": "Try again. Following these steps only a few times a week may confuse @data.characters.f3_son_4.name, and she may struggle to follow the routine as well as she does here.",
-    "text": "حاول مرة أخرى، قد يشعر @data.characters.f3_son_4.name بالارتباك إذا اتبع تلك الخطوات عدة مرات في الأسبوع فقط، وقد يواجه صعوبة في اتباع ذلك النظام اليومي كما فعل هنا.",
+    "SourceText": "Try again. Following these steps only a few times a week may confuse @data.characters.f3_son_4.name, and he may struggle to follow the routine as well as he does here.",
+    "text": "حاول مرة أخرى، قد يشعر @data.characters.f3_son_4.name بالارتباك إذا اتبع تلك الخطوات عدة مرات في الأسبوع فقط، وقد يواجه صعوبة في اتباع هذا النظام اليومي كما فعل هنا.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name, should not be translated."
   },
@@ -6384,7 +6432,7 @@
     "note": "The string @data.characters.f3_son_4.name should not be translated."
   },
   {
-    "SourceText": "She lets @data.characters.f3_son_4.name do the routine by herself.",
+    "SourceText": "She lets @data.characters.f3_son_4.name do the routine by himself.",
     "text": "تدع @data.characters.f3_son_4.name يقوم بالنظام اليومي بنفسه.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name should not be translated."
@@ -6432,7 +6480,7 @@
     "note": ""
   },
   {
-    "SourceText": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but “pick up all of your building blocks”.",
+    "SourceText": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but say “pick up all of your building blocks”.",
     "text": "اجعل الضوابط والأنظمة اليومية واقعية فيما يتعلق بما يستطيع طفلك القيام به، واجعلها محددة حتى لا يكون هناك أي سوء فهم. بدلاً من أن تقول \"نظّف\" قل \"اجمع كل مكعبات البناء\".",
     "type": "data_list",
     "note": ""
@@ -6486,14 +6534,14 @@
     "note": ""
   },
   {
-    "SourceText": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to understand and do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later.",
-    "text": "خذ بعين الاعتبار عمر طفلك ومرحلته التطورية عند وضع الضوابط والأنظمة اليومية وتأكد أن الطفل قادر على تنفيذ ما يُطلب منه. تذكر: قدم واحدة فقط من الضوابط الجديدة أو نظام يومي واحد جديد في كل مرة، ويمكنك إضافة واحدة أخرى فيما بعد.",
+    "SourceText": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)",
+    "text": "أشرك طفلك في وضع ضوابط الأسرة المتعلقة بالتكنولوجيا.\n\nأنشئ مساحات وأوقات خالية من الأجهزة في منزلك (مثل وقت الأكل واللعب والواجبات المدرسية والنوم)",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping) \n\nTell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
-    "text": "اشرك طفلك في وضع الضوابط الخاصة باستخدام الأجهزة الإلكترونية للعائلة. أوجد أوقاتًا وأماكن لا تستخدم فيها الأجهزة (مثلاً: أثناء تناول الطعام واللعب وعمل الواجبات المدرسية والنوم). اخبر طفلك أن بإمكانه التحدث إليك إذا شهد شيئًا عبر الإنترنت أو مواقع التواصل الاجتماعى وجعله يشعر بالانزعاج أو عدم الارتياح أو الخوف وأنك لن تغضب منه أو تعاقبه.",
+    "SourceText": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
+    "text": "أخبر طفلك أنه إذا أزعجه أي شيء على الإنترنت أو جعله يشعر بعدم الارتياح أو الخوف فيمكنه التحدث إليك ولن تغضب منه أو تعاقبه.",
     "type": "data_list",
     "note": ""
   },

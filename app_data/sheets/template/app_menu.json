@@ -21,7 +21,9 @@
           "name": "button_delay_days",
           "value": "Change countdown days",
           "_translations": {
-            "value": {}
+            "value": {
+              "kw_ar": true
+            }
           },
           "action_list": [
             {

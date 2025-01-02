@@ -229,7 +229,9 @@
         "character_1_text": {
           "kw_ar": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "kw_ar": true
+        }
       },
       "character_2_id": "f3_son_4",
       "character_2_text": "No Uncle! I don’t want to! I’m not finished with my game.",
