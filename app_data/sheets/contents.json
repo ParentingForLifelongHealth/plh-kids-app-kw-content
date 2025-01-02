@@ -2259,6 +2259,11 @@
       "flow_name": "countdown_days",
       "_xlsxPath": "KW app_navigation.xlsx"
     },
+    "debug_activity_unlocking": {
+      "flow_type": "template",
+      "flow_name": "debug_activity_unlocking",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
     "enter_dev_mode": {
       "flow_type": "template",
       "flow_name": "enter_dev_mode",

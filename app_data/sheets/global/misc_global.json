@@ -295,6 +295,22 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "well_done_finishing_module_hp",
+      "value": "Well done for finishing all modules and home activities!",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "unlock_all_moments_of_play",
+      "value": "Unlock all moments of play",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "moments_of_play",
       "value": "Moments of Play",
       "_translations": {
