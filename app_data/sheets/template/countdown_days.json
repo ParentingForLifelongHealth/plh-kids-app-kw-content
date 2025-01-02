@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Change countdown days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "title"
     },
@@ -17,7 +19,9 @@
       "name": "text_1",
       "value": "Countdown days: @fields.countdown_days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "text_1",
       "_dynamicFields": {
@@ -41,7 +45,9 @@
       "name": "text_2",
       "value": "Choose a number of days to count down",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "text_2"
     },

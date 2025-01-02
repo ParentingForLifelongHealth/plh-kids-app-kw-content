@@ -249,7 +249,9 @@
       "category_id": "explore",
       "text_1_facilitator": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "text_2": {
           "kw_ar": true
         }
@@ -439,11 +441,15 @@
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_3": {},
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_2_option_4_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_4": {},
+        "quiz_2_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_3_question": {
           "kw_ar": true
         },
@@ -727,7 +733,9 @@
         "quiz_2_feedback_2": {
           "kw_ar": true
         },
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
         "quiz_2_feedback_3": {
           "kw_ar": true
         },

@@ -160,7 +160,9 @@
         "quiz_1_option_4_text": {
           "kw_ar": true
         },
-        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_1_option_5_text": {
           "kw_ar": true
         },

@@ -6,19 +6,19 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 4 |
-| button | 45 |
+| button | 47 |
 | combo_box | 4 |
-| data_items | 44 |
+| data_items | 46 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 53 |
-| image | 11 |
+| display_group | 55 |
+| image | 12 |
 | items | 10 |
 | lottie_animation | 3 |
-| navigation_bar | 1 |
 | nested_properties | 54 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
+| plh_bottom_nav | 1 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 1 |
 | progress_path | 1 |
@@ -28,16 +28,16 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1028 |
+| set_variable | 1031 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 58 |
+| text | 62 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 29 |
+| title | 30 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -50,7 +50,8 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 227 |
+| data_changed | 2 |
+| emit: completed | 229 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
@@ -63,7 +64,7 @@
 | pop_up | 27 |
 | reset_app | 1 |
 | set_data | 19 |
-| set_field | 32 |
+| set_field | 36 |
 | set_item | 24 |
 | set_local | 11 |
 | task | 3 |
@@ -75,8 +76,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 32334 KB | 32.3 MB |
-| unused | 9588 KB | 9.6 MB |
+| total | 32338 KB | 32.3 MB |
+| unused | 9583 KB | 9.6 MB |
 </details>
 
 <details open>
@@ -112,9 +113,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/fire.png | 0.9 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/heart_filled.svg | 1.4 |
-| images/icons/home_active.svg | 0.4 |
 | images/icons/in_progress_white.svg | 1.1 |
-| images/icons/local_library_active.svg | 1.6 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause.svg | 0.7 |
 | images/icons/pause_white.svg | 0.7 |
@@ -122,7 +121,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_mark_blue.svg | 0.8 |
-| images/icons/settings_active.svg | 2.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
 | images/instructions_yc.png | 752.7 |
@@ -258,10 +256,12 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/heart_filled_blue.png | 4.9 | 12 |
 | images/icons/heart_filled_red.png | 1.4 | 2 |
 | images/icons/home.svg | 0.4 | 1 |
+| images/icons/home_active.svg | 0.4 | 1 |
 | images/icons/hourglass_blue.png | 4.3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 2 |
 | images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
+| images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/locked.png | 0.7 | 3 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/notification_bell.png | 0.9 | 1 |
@@ -270,6 +270,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/question_blue.png | 3.4 | 2 |
 | images/icons/repeat_blue.png | 5.4 | 2 |
 | images/icons/settings.svg | 2.4 | 1 |
+| images/icons/settings_active.svg | 2.4 | 1 |
 | images/icons/single_speech_blue.png | 3.3 | 4 |
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
 | images/icons/smile_eyes_up.svg | 1 | 20 |

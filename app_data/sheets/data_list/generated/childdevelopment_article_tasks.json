@@ -80,7 +80,9 @@
         "quiz_1_feedback_2": {
           "kw_ar": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_4": {
           "kw_ar": true
         },
@@ -234,7 +236,9 @@
       "character_2_id": "f1_father",
       "character_1_text": "First, we place these pillows on top of each other so they make a wall. The headboard is our other wall. Next, we will put a bedsheet across the headboard and the wall of pillows to make our roof!",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -415,19 +419,7 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes."
-        }
-      },
-      "category_id": "explore",
-      "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes.",
-      "_translations": {
-        "text_1_facilitator": {}
-      },
-      "image_asset": "images/comics/child_development_yc_5.svg",
-      "completed": false
-    },
-    {
-      "id": "explore_8",
-      "_translatedFields": {
+        },
         "character_1_text": {
           "eng": "Let me put your shoes on."
         },
@@ -439,11 +431,11 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/child_development_yc_6.svg",
-      "character_1_id": "f3_uncle",
-      "character_2_id": "f3_son_4",
-      "character_1_text": "Let me put your shoes on.",
+      "text_1_facilitator": "Children (just like us) can learn a lot from their mistakes.\n\nLet’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes.",
       "_translations": {
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "character_1_text": {
           "kw_ar": true
         },
@@ -454,13 +446,17 @@
           "kw_ar": true
         }
       },
+      "image_asset": "images/comics/child_development_yc_5.svg",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_son_4",
+      "character_1_text": "Let me put your shoes on.",
       "character_2_text": "No, I want to do it myself!",
       "character_3_id": "f3_uncle",
       "character_3_text": "Okay, @data.characters.f3_son_4.name, you can do it yourself.",
       "completed": false
     },
     {
-      "id": "explore_9",
+      "id": "explore_8",
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f3_son_4.name doesn't push his foot in all the way and struggles to fasten the shoes."
@@ -476,7 +472,7 @@
         }
       },
       "category_id": "explore",
-      "image_asset": "images/comics/child_development_yc_7.svg",
+      "image_asset": "images/comics/child_development_yc_6.svg",
       "character_1_id": "f3_son_4",
       "character_2_id": "f3_uncle",
       "character_1_text": "I can’t do it!",
@@ -501,37 +497,47 @@
       "completed": false
     },
     {
-      "id": "explore_10",
+      "id": "explore_9",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe."
-        },
-        "character_2_text": {
+        }
+      },
+      "category_id": "explore",
+      "image_asset": "images/comics/child_development_yc_7.svg",
+      "character_1_id": "f3_uncle",
+      "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
+      "_translations": {
+        "character_1_text": {
+          "kw_ar": true
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_10",
+      "_translatedFields": {
+        "character_1_text": {
           "eng": "I did it!"
         },
-        "character_3_text": {
+        "character_2_text": {
           "eng": "Great job, @data.characters.f3_son_4.name! You are becoming a strong boy!"
         }
       },
       "category_id": "explore",
       "image_asset": "images/comics/child_development_yc_8.svg",
-      "character_1_id": "f3_uncle",
-      "character_2_id": "f3_son_4",
-      "character_1_text": "Hold your shoe in both your hands. Now, place your left foot in the shoe. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your right shoe.",
+      "character_1_id": "f3_son_4",
+      "character_2_id": "f3_uncle",
+      "character_1_text": "I did it!",
       "_translations": {
         "character_1_text": {
           "kw_ar": true
         },
         "character_2_text": {
           "kw_ar": true
-        },
-        "character_3_text": {
-          "kw_ar": true
         }
       },
-      "character_2_text": "I did it!",
-      "character_3_id": "f3_uncle",
-      "character_3_text": "Great job, @data.characters.f3_son_4.name! You are becoming a strong boy!",
+      "character_2_text": "Great job, @data.characters.f3_son_4.name! You are becoming a strong boy!",
       "completed": false
     },
     {
