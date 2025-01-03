@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 232
+        "count": 231
       },
       {
         "type": "feedback",
@@ -203,7 +203,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 78
+        "count": 79
       },
       {
         "type": "pop_up",
@@ -243,7 +243,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37269 KB",
+        "KB": "37272 KB",
         "MB": "37.3 MB"
       },
       {
@@ -298,6 +298,10 @@
       {
         "path": "images/icons/book_outline_white.svg",
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/close.svg",
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/diamond_blue.png",
@@ -882,9 +886,9 @@
         "size_kb": 4.5
       },
       {
-        "path": "images/icons/close.svg",
+        "path": "images/icons/close.png",
         "count": 1,
-        "size_kb": 0.2
+        "size_kb": 2.5
       },
       {
         "path": "images/icons/diamond.png",

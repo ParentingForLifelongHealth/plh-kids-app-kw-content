@@ -4,15 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "name": "close_icon_asset",
-      "value": "images/icons/close.svg",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "close_icon_asset"
-    },
-    {
       "type": "display_group",
       "name": "dg_header",
       "condition": "@fields._deployment_name != \"plh_kids_kw\"",
@@ -64,6 +55,15 @@
         "padding: 0 24px"
       ],
       "rows": [
+        {
+          "name": "close_icon_asset",
+          "value": "images/icons/close.png",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "dg_header.close_icon_asset"
+        },
         {
           "type": "image",
           "name": "icon_asset",

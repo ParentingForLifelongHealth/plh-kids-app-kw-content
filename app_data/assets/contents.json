@@ -383,6 +383,10 @@
     "md5Checksum": "5b02b07f32d48f1bddd4b2387a0fd861",
     "size_kb": 4.5
   },
+  "images/icons/close.png": {
+    "md5Checksum": "194eb7680628a6de14788a502bd2cf29",
+    "size_kb": 2.5
+  },
   "images/icons/close.svg": {
     "md5Checksum": "fe0e3cd9a5e6ea4f636fa693c2f999a1",
     "size_kb": 0.2
