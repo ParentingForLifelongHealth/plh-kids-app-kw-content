@@ -56,10 +56,10 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 232 |
+| emit: uncompleted | 231 |
 | feedback | 13 |
 | go_to | 10 |
-| nav_stack | 78 |
+| nav_stack | 79 |
 | pop_up | 27 |
 | reset_app | 1 |
 | set_data | 24 |
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37269 KB | 37.3 MB |
+| total | 37272 KB | 37.3 MB |
 | unused | 9583 KB | 9.6 MB |
 </details>
 
@@ -97,6 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
+| images/icons/close.svg | 0.2 |
 | images/icons/diamond_blue.png | 4.7 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
@@ -237,7 +238,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/balance_blue.png | 4.7 | 2 |
 | images/icons/brain_blue.png | 5.2 | 2 |
 | images/icons/clock_blue.png | 4.5 | 6 |
-| images/icons/close.svg | 0.2 | 1 |
+| images/icons/close.png | 2.5 | 1 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/document.svg | 7.3 | 1 |
