@@ -57,6 +57,9 @@
       "parameter_list": {
         "background_image_asset": "images/backgrounds/kites.svg"
       },
+      "style_list": [
+        "width: 100%"
+      ],
       "exclude_from_translation": true,
       "rows": [
         {
