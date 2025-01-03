@@ -1708,7 +1708,10 @@
         {
           "type": "text",
           "name": "spacer",
-          "condition": false,
+          "value": "",
+          "_translations": {
+            "value": {}
+          },
           "exclude_from_translation": true,
           "style_list": [
             "flex: 1"

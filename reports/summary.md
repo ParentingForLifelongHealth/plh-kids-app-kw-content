@@ -11,7 +11,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 51 |
+| display_group | 50 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -25,10 +25,10 @@
 | qr_code | 1 |
 | radio_button_grid | 5 |
 | radio_group | 2 |
-| round_button | 3 |
+| round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1049 |
+| set_variable | 1050 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -50,13 +50,13 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 229 |
+| emit: completed | 230 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 230 |
+| emit: uncompleted | 232 |
 | feedback | 13 |
 | go_to | 10 |
 | nav_stack | 78 |
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 39480 KB | 39.5 MB |
+| total | 37269 KB | 37.3 MB |
 | unused | 9583 KB | 9.6 MB |
 </details>
 
@@ -172,8 +172,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
 | images/backgrounds/activity_bottom_left.png | 3533.5 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
-| images/backgrounds/library_bottom_right.png | 64 | 1 |
-| images/backgrounds/library_top_right.png | 3559.2 | 1 |
+| images/backgrounds/library_bottom_right.png | 54 | 1 |
+| images/backgrounds/library_top_right.png | 1358.6 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -237,6 +237,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/balance_blue.png | 4.7 | 2 |
 | images/icons/brain_blue.png | 5.2 | 2 |
 | images/icons/clock_blue.png | 4.5 | 6 |
+| images/icons/close.svg | 0.2 | 1 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/document.svg | 7.3 | 1 |

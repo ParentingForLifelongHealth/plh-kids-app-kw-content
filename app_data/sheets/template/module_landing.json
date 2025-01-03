@@ -836,10 +836,11 @@
                           "args": [
                             "open"
                           ],
-                          "_raw": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
-                          "_cleaned": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                          "_raw": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
+                          "_cleaned": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                           "params": {
-                            "template": "@local.module_start_at_uncompleted"
+                            "template": "@local.module_start_at_uncompleted",
+                            "header": false
                           }
                         }
                       ],
@@ -862,7 +863,7 @@
                           "0": {
                             "_raw": [
                               {
-                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                                 "matchedExpression": "@local.module_start_at_uncompleted",
                                 "type": "local",
                                 "fieldName": "module_start_at_uncompleted"
@@ -870,7 +871,7 @@
                             ],
                             "_cleaned": [
                               {
-                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                                 "matchedExpression": "@local.module_start_at_uncompleted",
                                 "type": "local",
                                 "fieldName": "module_start_at_uncompleted"
@@ -938,10 +939,11 @@
                           "args": [
                             "open"
                           ],
-                          "_raw": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
-                          "_cleaned": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                          "_raw": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
+                          "_cleaned": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                           "params": {
-                            "template": "@local.module_start_at_uncompleted"
+                            "template": "@local.module_start_at_uncompleted",
+                            "header": false
                           }
                         }
                       ],
@@ -964,7 +966,7 @@
                           "0": {
                             "_raw": [
                               {
-                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                                 "matchedExpression": "@local.module_start_at_uncompleted",
                                 "type": "local",
                                 "fieldName": "module_start_at_uncompleted"
@@ -972,7 +974,7 @@
                             ],
                             "_cleaned": [
                               {
-                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted",
+                                "fullExpression": "click | nav_stack: open | template: @local.module_start_at_uncompleted, header: false",
                                 "matchedExpression": "@local.module_start_at_uncompleted",
                                 "type": "local",
                                 "fieldName": "module_start_at_uncompleted"
@@ -1076,10 +1078,11 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: @local.module_start_at_beginning",
-                  "_cleaned": "click | nav_stack: open | template: @local.module_start_at_beginning",
+                  "_raw": "click | nav_stack: open | template: @local.module_start_at_beginning, header: false",
+                  "_cleaned": "click | nav_stack: open | template: @local.module_start_at_beginning, header: false",
                   "params": {
-                    "template": "@local.module_start_at_beginning"
+                    "template": "@local.module_start_at_beginning",
+                    "header": false
                   }
                 }
               ],
@@ -1102,7 +1105,7 @@
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: @local.module_start_at_beginning",
+                        "fullExpression": "click | nav_stack: open | template: @local.module_start_at_beginning, header: false",
                         "matchedExpression": "@local.module_start_at_beginning",
                         "type": "local",
                         "fieldName": "module_start_at_beginning"
@@ -1110,7 +1113,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: @local.module_start_at_beginning",
+                        "fullExpression": "click | nav_stack: open | template: @local.module_start_at_beginning, header: false",
                         "matchedExpression": "@local.module_start_at_beginning",
                         "type": "local",
                         "fieldName": "module_start_at_beginning"

@@ -35,7 +35,7 @@
       },
       {
         "type": "display_group",
-        "count": 51
+        "count": 50
       },
       {
         "type": "image",
@@ -91,7 +91,7 @@
       },
       {
         "type": "round_button",
-        "count": 3
+        "count": 4
       },
       {
         "type": "select_text",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1049
+        "count": 1050
       },
       {
         "type": "simple_checkbox",
@@ -167,7 +167,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 229
+        "count": 230
       },
       {
         "type": "emit: force_reload",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 230
+        "count": 232
       },
       {
         "type": "feedback",
@@ -243,8 +243,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "39480 KB",
-        "MB": "39.5 MB"
+        "KB": "37269 KB",
+        "MB": "37.3 MB"
       },
       {
         "assets": "unused",
@@ -559,12 +559,12 @@
       {
         "path": "images/backgrounds/library_bottom_right.png",
         "count": 1,
-        "size_kb": 64
+        "size_kb": 54
       },
       {
         "path": "images/backgrounds/library_top_right.png",
         "count": 1,
-        "size_kb": 3559.2
+        "size_kb": 1358.6
       },
       {
         "path": "images/backgrounds/progress_arc.png",
@@ -880,6 +880,11 @@
         "path": "images/icons/clock_blue.png",
         "count": 6,
         "size_kb": 4.5
+      },
+      {
+        "path": "images/icons/close.svg",
+        "count": 1,
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/diamond.png",
