@@ -2640,7 +2640,7 @@
     "note": ""
   },
   {
-    "SourceText": "Nothing here yet!\nMark games as favorites by tapping the ❤️ icon to quickly find what you enjoy most.",
+    "SourceText": "Nothing here yet!\nMark games as favourites by tapping the ❤️ icon to quickly find what you enjoy most.",
     "text": "لا يجود نشاط هنا بعد!\nقم بضغط علامة ❤️ على الألعاب المفضلة للعثور عليها أسرع.",
     "type": "global",
     "note": ""
@@ -2989,7 +2989,7 @@
   },
   {
     "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "لتشغيل التطبيق في وضع المبرمج، أدخل رمز المبرمج الخاص بك في المربع أدناه واضغط على local.submit@.",
+    "text": "لتشغيل التطبيق في وضع المبرمج، أدخل رمز المبرمج الخاص بك في المربع أدناه واضغط على @local.submit.",
     "type": "template",
     "note": "The string @local.submit should not be translated."
   },
@@ -6073,7 +6073,7 @@
   },
   {
     "SourceText": "How will it help you and your family?",
-    "text": "كيف سيساعدكم؟ ",
+    "text": "كيف سيساعدكم؟",
     "type": "data_list",
     "note": ""
   },

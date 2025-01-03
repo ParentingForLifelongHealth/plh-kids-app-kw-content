@@ -1054,6 +1054,43 @@
       }
     },
     {
+      "type": "text",
+      "name": "print_media_title",
+      "value": "**@local.media_title**",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.article_data.media_title)",
+      "exclude_from_translation": true,
+      "_nested_name": "print_media_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "**@local.media_title**",
+            "matchedExpression": "@local.media_title",
+            "type": "local",
+            "fieldName": "media_title"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.media_title)",
+            "matchedExpression": "@local.article_data.media_title",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.media_title": [
+          "value"
+        ],
+        "@local.article_data.media_title": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "video",
       "condition": "@local.article_data.media_type == \"video\"",
@@ -1062,43 +1099,6 @@
       },
       "exclude_from_translation": true,
       "rows": [
-        {
-          "type": "title",
-          "name": "print_media_title",
-          "value": "@local.media_title",
-          "_translations": {
-            "value": {}
-          },
-          "condition": "!!(@local.article_data.media_title)",
-          "exclude_from_translation": true,
-          "_nested_name": "video.print_media_title",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.media_title",
-                "matchedExpression": "@local.media_title",
-                "type": "local",
-                "fieldName": "media_title"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "!!(@local.article_data.media_title)",
-                "matchedExpression": "@local.article_data.media_title",
-                "type": "local",
-                "fieldName": "article_data"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.media_title": [
-              "value"
-            ],
-            "@local.article_data.media_title": [
-              "condition"
-            ]
-          }
-        },
         {
           "type": "video",
           "name": "media_asset",
@@ -1155,72 +1155,6 @@
           "_translations": {
             "value": {}
           },
-          "condition": "!!(@local.article_data.media_title)",
-          "parameter_list": {
-            "title": "@local.media_title",
-            "transcript_text": "@local.article_data.media_transcript"
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "audio.media_asset",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.article_data.media_asset",
-                "matchedExpression": "@local.article_data.media_asset",
-                "type": "local",
-                "fieldName": "article_data"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "!!(@local.article_data.media_title)",
-                "matchedExpression": "@local.article_data.media_title",
-                "type": "local",
-                "fieldName": "article_data"
-              }
-            ],
-            "parameter_list": {
-              "title": [
-                {
-                  "fullExpression": "@local.media_title",
-                  "matchedExpression": "@local.media_title",
-                  "type": "local",
-                  "fieldName": "media_title"
-                }
-              ],
-              "transcript_text": [
-                {
-                  "fullExpression": "@local.article_data.media_transcript",
-                  "matchedExpression": "@local.article_data.media_transcript",
-                  "type": "local",
-                  "fieldName": "article_data"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@local.article_data.media_asset": [
-              "value"
-            ],
-            "@local.article_data.media_title": [
-              "condition"
-            ],
-            "@local.media_title": [
-              "parameter_list.title"
-            ],
-            "@local.article_data.media_transcript": [
-              "parameter_list.transcript_text"
-            ]
-          }
-        },
-        {
-          "type": "audio",
-          "name": "media_asset",
-          "value": "@local.article_data.media_asset",
-          "_translations": {
-            "value": {}
-          },
-          "condition": "!(@local.article_data.media_title)",
           "parameter_list": {
             "transcript_text": "@local.article_data.media_transcript"
           },
@@ -1231,14 +1165,6 @@
               {
                 "fullExpression": "@local.article_data.media_asset",
                 "matchedExpression": "@local.article_data.media_asset",
-                "type": "local",
-                "fieldName": "article_data"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "!(@local.article_data.media_title)",
-                "matchedExpression": "@local.article_data.media_title",
                 "type": "local",
                 "fieldName": "article_data"
               }
@@ -1257,9 +1183,6 @@
           "_dynamicDependencies": {
             "@local.article_data.media_asset": [
               "value"
-            ],
-            "@local.article_data.media_title": [
-              "condition"
             ],
             "@local.article_data.media_transcript": [
               "parameter_list.transcript_text"
