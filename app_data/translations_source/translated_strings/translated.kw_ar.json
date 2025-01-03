@@ -702,8 +702,8 @@
     "note": ""
   },
   {
-    "SourceText": "Adapted from [Kiwico]{https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis}",
-    "text": "مقتبس من [كيوي كو ] {https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis}",
+    "SourceText": "Adapted from [Kiwico](https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis)",
+    "text": "مقتبس من [كيوي كو](https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis)",
     "type": "data_list",
     "note": ""
   },
@@ -2604,6 +2604,18 @@
     "note": ""
   },
   {
+    "SourceText": "Well done for finishing all modules and home activities!",
+    "text": "أحسنت على إكمال جميع الدروس والأنشطة المنزلية!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Unlock all moments of play",
+    "text": "احصل على جميع أنشطة اللعب",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Moments of Play",
     "text": "نشاط اللعب",
     "type": "global",
@@ -2984,6 +2996,12 @@
   {
     "SourceText": "Submit",
     "text": "إرسال",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "اضغط واكتب",
     "type": "template",
     "note": ""
   },

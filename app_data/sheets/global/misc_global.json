@@ -298,7 +298,9 @@
       "name": "well_done_finishing_module_hp",
       "value": "Well done for finishing all modules and home activities!",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -306,7 +308,9 @@
       "name": "unlock_all_moments_of_play",
       "value": "Unlock all moments of play",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
