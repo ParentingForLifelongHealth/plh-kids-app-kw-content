@@ -3633,13 +3633,6 @@
     "settings": {
       "flow_type": "template",
       "flow_name": "settings",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": 0
-          }
-        }
-      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "settings_about": {

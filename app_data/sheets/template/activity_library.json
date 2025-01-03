@@ -8,9 +8,15 @@
       "name": "dg_top",
       "parameter_list": {
         "sticky": "top",
-        "style": "background_solid"
+        "style": "background_solid",
+        "background_image_asset": "images/backgrounds/library_top_right.png",
+        "background_image_position": "top right",
+        "variant": "inline_padding"
       },
       "exclude_from_translation": true,
+      "style_list": [
+        "width: 100%"
+      ],
       "rows": [
         {
           "type": "display_group",
@@ -20,55 +26,38 @@
           },
           "rows": [
             {
-              "type": "display_group",
-              "name": "dg_top_background",
-              "parameter_list": {
-                "background_image_asset": "images/backgrounds/library_top_right.png",
-                "background_image_position": "top right",
-                "variant": "inline_padding"
+              "type": "title",
+              "name": "title",
+              "value": "@global.moments_of_play",
+              "_translations": {
+                "value": {}
               },
               "exclude_from_translation": true,
               "style_list": [
-                "width: 100%"
+                "margin-top: 72px"
               ],
-              "rows": [
-                {
-                  "type": "title",
-                  "name": "title",
-                  "value": "@global.moments_of_play",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "exclude_from_translation": true,
-                  "style_list": [
-                    "margin-top: 72px"
-                  ],
-                  "_nested_name": "dg_top.dg_column.dg_top_background.title",
-                  "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "@global.moments_of_play",
-                        "matchedExpression": "@global.moments_of_play",
-                        "type": "global",
-                        "fieldName": "moments_of_play"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@global.moments_of_play": [
-                      "value"
-                    ]
+              "_nested_name": "dg_top.dg_column.title",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.moments_of_play",
+                    "matchedExpression": "@global.moments_of_play",
+                    "type": "global",
+                    "fieldName": "moments_of_play"
                   }
-                }
-              ],
-              "_nested_name": "dg_top.dg_column.dg_top_background"
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.moments_of_play": [
+                  "value"
+                ]
+              }
             },
             {
               "type": "display_group",
               "name": "dg_top_below_background",
               "parameter_list": {
-                "style": "column",
-                "variant": "inline_padding"
+                "style": "column"
               },
               "exclude_from_translation": true,
               "rows": [
@@ -1719,6 +1708,7 @@
         {
           "type": "text",
           "name": "spacer",
+          "condition": false,
           "exclude_from_translation": true,
           "style_list": [
             "flex: 1"
