@@ -91,21 +91,21 @@
     "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
     "size_kb": 5.9
   },
-  "images/backgrounds/activity_bottom.svg": {
-    "md5Checksum": "a2293388730f2fe243c1d284a715979c",
-    "size_kb": 26.3
+  "images/backgrounds/activity_bottom_left.png": {
+    "md5Checksum": "a2a20bfe1c23f917b0f752a02d87ee43",
+    "size_kb": 3533.5
   },
   "images/backgrounds/kites.svg": {
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3
   },
-  "images/backgrounds/library_bottom_left.svg": {
-    "md5Checksum": "8182ec65385018d265d605af8843e0ab",
-    "size_kb": 6.8
+  "images/backgrounds/library_bottom_right.png": {
+    "md5Checksum": "013b308d429a8f9e942c0bee521e6ff2",
+    "size_kb": 64
   },
-  "images/backgrounds/library_top_right.svg": {
-    "md5Checksum": "e25c406d3ff6da9275f56ef29fd5d88f",
-    "size_kb": 13.8
+  "images/backgrounds/library_top_right.png": {
+    "md5Checksum": "c5e8c1970a44539affdedbd5e4a33cdc",
+    "size_kb": 3559.2
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",

@@ -254,6 +254,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "debug_finished_all_content",
       "_dynamicFields": {
         "value": [

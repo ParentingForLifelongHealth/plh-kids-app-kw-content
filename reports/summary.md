@@ -5,13 +5,13 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
-| audio | 4 |
-| button | 47 |
+| audio | 3 |
+| button | 52 |
 | combo_box | 4 |
-| data_items | 46 |
+| data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 55 |
+| display_group | 56 |
 | image | 12 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -28,16 +28,16 @@
 | round_button | 3 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1033 |
+| set_variable | 1042 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 62 |
+| text | 72 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 30 |
+| title | 29 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -62,10 +62,10 @@
 | nav_stack | 78 |
 | pop_up | 27 |
 | reset_app | 1 |
-| set_data | 19 |
+| set_data | 24 |
 | set_field | 36 |
 | set_item | 24 |
-| set_local | 13 |
+| set_local | 18 |
 | task | 3 |
 | user | 1 |
 </details>
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 32338 KB | 32.3 MB |
+| total | 39448 KB | 39.4 MB |
 | unused | 9583 KB | 9.6 MB |
 </details>
 
@@ -170,10 +170,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
-| images/backgrounds/activity_bottom.svg | 26.3 | 1 |
+| images/backgrounds/activity_bottom_left.png | 3533.5 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
-| images/backgrounds/library_bottom_left.svg | 6.8 | 1 |
-| images/backgrounds/library_top_right.svg | 13.8 | 1 |
+| images/backgrounds/library_bottom_right.png | 64 | 1 |
+| images/backgrounds/library_top_right.png | 3559.2 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -333,7 +333,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 54 |
+| template |  | 55 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>
