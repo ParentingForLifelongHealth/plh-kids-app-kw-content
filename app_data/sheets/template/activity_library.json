@@ -2137,7 +2137,7 @@
     },
     {
       "name": "count_division_string",
-      "value": "<div dir=\"ltr\">@local.unlocked_count + \" / \" +  @local.activity_count</div>",
+      "value": "@local.unlocked_count + \"/\" + @local.activity_count",
       "_translations": {
         "value": {}
       },
@@ -2146,13 +2146,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "<div dir=\"ltr\">@local.unlocked_count + \" / \" +  @local.activity_count</div>",
+            "fullExpression": "@local.unlocked_count + \"/\" + @local.activity_count",
             "matchedExpression": "@local.unlocked_count",
             "type": "local",
             "fieldName": "unlocked_count"
           },
           {
-            "fullExpression": "<div dir=\"ltr\">@local.unlocked_count + \" / \" +  @local.activity_count</div>",
+            "fullExpression": "@local.unlocked_count + \"/\" + @local.activity_count",
             "matchedExpression": "@local.activity_count",
             "type": "local",
             "fieldName": "activity_count"
@@ -2169,6 +2169,30 @@
       }
     },
     {
+      "name": "count_division_string_ltr",
+      "value": "<div dir=\"ltr\">@local.count_division_string</div>",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "count_division_string_ltr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "<div dir=\"ltr\">@local.count_division_string</div>",
+            "matchedExpression": "@local.count_division_string",
+            "type": "local",
+            "fieldName": "count_division_string"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.count_division_string": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg_bottom",
       "parameter_list": {
@@ -2180,29 +2204,40 @@
       "style_list": [
         "min-height: 88px",
         "width: 100%",
-        "justify-content: flex-end",
         "padding: 0 24px"
       ],
       "rows": [
         {
           "type": "text",
+          "name": "spacer",
+          "exclude_from_translation": true,
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_bottom.spacer"
+        },
+        {
+          "type": "text",
           "name": "text_unlocked",
-          "value": "@local.count_division_string\n@global.unlocked",
+          "value": "@local.count_division_string_ltr\n@global.unlocked",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
+          "style_list": [
+            "text-align: end"
+          ],
           "_nested_name": "dg_bottom.text_unlocked",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.count_division_string\n@global.unlocked",
-                "matchedExpression": "@local.count_division_string",
+                "fullExpression": "@local.count_division_string_ltr\n@global.unlocked",
+                "matchedExpression": "@local.count_division_string_ltr",
                 "type": "local",
-                "fieldName": "count_division_string"
+                "fieldName": "count_division_string_ltr"
               },
               {
-                "fullExpression": "@local.count_division_string\n@global.unlocked",
+                "fullExpression": "@local.count_division_string_ltr\n@global.unlocked",
                 "matchedExpression": "@global.unlocked",
                 "type": "global",
                 "fieldName": "unlocked"
@@ -2210,7 +2245,7 @@
             ]
           },
           "_dynamicDependencies": {
-            "@local.count_division_string": [
+            "@local.count_division_string_ltr": [
               "value"
             ],
             "@global.unlocked": [

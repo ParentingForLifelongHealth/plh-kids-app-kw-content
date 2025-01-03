@@ -1054,9 +1054,9 @@
       }
     },
     {
-      "type": "title",
+      "type": "text",
       "name": "print_media_title",
-      "value": "@local.media_title",
+      "value": "**@local.media_title**",
       "_translations": {
         "value": {}
       },
@@ -1066,7 +1066,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.media_title",
+            "fullExpression": "**@local.media_title**",
             "matchedExpression": "@local.media_title",
             "type": "local",
             "fieldName": "media_title"

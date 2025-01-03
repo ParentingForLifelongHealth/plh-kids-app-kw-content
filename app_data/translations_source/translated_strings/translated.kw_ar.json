@@ -2989,7 +2989,7 @@
   },
   {
     "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "لتشغيل التطبيق في وضع المبرمج، أدخل رمز المبرمج الخاص بك في المربع أدناه واضغط على local.submit@.",
+    "text": "لتشغيل التطبيق في وضع المبرمج، أدخل رمز المبرمج الخاص بك في المربع أدناه واضغط على @local.submit.",
     "type": "template",
     "note": "The string @local.submit should not be translated."
   },
@@ -6073,7 +6073,7 @@
   },
   {
     "SourceText": "How will it help you and your family?",
-    "text": "كيف سيساعدكم؟ ",
+    "text": "كيف سيساعدكم؟",
     "type": "data_list",
     "note": ""
   },
