@@ -34,7 +34,8 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "margin-top: 72px"
+                "margin-top: 72px",
+                "margin-bottom: -36px"
               ],
               "_nested_name": "dg_top.dg_column.title",
               "_dynamicFields": {
@@ -341,7 +342,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "condition": "!@local.finished_all_content",
+                  "condition": false,
                   "exclude_from_translation": true,
                   "_nested_name": "dg_top.dg_column.dg_top_below_background.intro_text",
                   "_dynamicFields": {
@@ -352,22 +353,11 @@
                         "type": "global",
                         "fieldName": "complete_your_modules_and_home_activities_to_unlock_new_moments_of_play"
                       }
-                    ],
-                    "condition": [
-                      {
-                        "fullExpression": "!@local.finished_all_content",
-                        "matchedExpression": "!@local.finished_all_content",
-                        "type": "local",
-                        "fieldName": "finished_all_content"
-                      }
                     ]
                   },
                   "_dynamicDependencies": {
                     "@global.complete_your_modules_and_home_activities_to_unlock_new_moments_of_play": [
                       "value"
-                    ],
-                    "!@local.finished_all_content": [
-                      "condition"
                     ]
                   }
                 },
