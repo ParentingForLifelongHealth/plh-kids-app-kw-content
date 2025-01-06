@@ -819,10 +819,11 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: activity_@item.id",
-                  "_cleaned": "click | nav_stack: open | template: activity_@item.id",
+                  "_raw": "click | nav_stack: open | template: activity_@item.id , header: false",
+                  "_cleaned": "click | nav_stack: open | template: activity_@item.id , header: false",
                   "params": {
-                    "template": "activity_@item.id"
+                    "template": "activity_@item.id",
+                    "header": false
                   }
                 }
               ],
@@ -1030,7 +1031,7 @@
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
+                        "fullExpression": "click | nav_stack: open | template: activity_@item.id , header: false",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -1038,7 +1039,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
+                        "fullExpression": "click | nav_stack: open | template: activity_@item.id , header: false",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
