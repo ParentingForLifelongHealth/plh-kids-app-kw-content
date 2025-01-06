@@ -84,7 +84,22 @@
     },
     {
       "type": "display_group",
+      "parameter_list": {
+        "sticky": "top"
+      },
       "rows": [
+        {
+          "type": "display_group",
+          "rows": [
+            {
+              "type": "text",
+              "name": "empty",
+              "_nested_name": "display_group_6.display_group_1.empty"
+            }
+          ],
+          "name": "display_group_1",
+          "_nested_name": "display_group_6.display_group_1"
+        },
         {
           "type": "text",
           "name": "empty",

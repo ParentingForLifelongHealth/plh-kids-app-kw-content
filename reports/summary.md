@@ -11,7 +11,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 51 |
+| display_group | 52 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -33,7 +33,7 @@
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 73 |
+| text | 74 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
