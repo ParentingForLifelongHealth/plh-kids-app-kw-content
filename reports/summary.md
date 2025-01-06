@@ -11,7 +11,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 52 |
+| display_group | 51 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
