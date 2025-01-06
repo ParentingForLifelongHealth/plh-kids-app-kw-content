@@ -11,7 +11,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 50 |
+| display_group | 51 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -25,7 +25,7 @@
 | qr_code | 1 |
 | radio_button_grid | 5 |
 | radio_group | 2 |
-| round_button | 4 |
+| round_button | 5 |
 | select_text | 1 |
 | set_field | 4 |
 | set_variable | 1050 |
@@ -33,7 +33,7 @@
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 72 |
+| text | 73 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
@@ -59,7 +59,7 @@
 | emit: uncompleted | 231 |
 | feedback | 13 |
 | go_to | 10 |
-| nav_stack | 79 |
+| nav_stack | 80 |
 | pop_up | 27 |
 | reset_app | 1 |
 | set_data | 24 |
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37359 KB | 37.4 MB |
+| total | 37361 KB | 37.4 MB |
 | unused | 28179 KB | 28.2 MB |
 </details>
 
@@ -329,6 +329,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/kw.svg | 0.5 | 2 |
 | images/icons/balance_blue.png | 4.7 | 2 |
 | images/icons/brain_blue.png | 5.2 | 2 |
+| images/icons/cancel.svg | 1.7 | 1 |
 | images/icons/clock_blue.png | 4.5 | 6 |
 | images/icons/close.png | 2.5 | 1 |
 | images/icons/diamond.png | 1.8 | 1 |

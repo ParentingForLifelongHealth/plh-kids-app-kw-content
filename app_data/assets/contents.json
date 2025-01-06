@@ -535,6 +535,10 @@
     "md5Checksum": "efeb76494b51228450e4d123d0e7c1af",
     "size_kb": 5.2
   },
+  "images/icons/cancel.svg": {
+    "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
+    "size_kb": 1.7
+  },
   "images/icons/clock_blue.png": {
     "md5Checksum": "5b02b07f32d48f1bddd4b2387a0fd861",
     "size_kb": 4.5
