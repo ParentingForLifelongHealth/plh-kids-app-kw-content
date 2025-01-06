@@ -54,12 +54,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_praise",
+      "flow_name": "module_feelings",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "module_feelings",
+      "flow_name": "module_praise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

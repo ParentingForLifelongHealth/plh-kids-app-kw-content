@@ -67,12 +67,12 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_praise_articles",
+      "flow_name": "prep_feelings_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_feelings_articles",
+      "flow_name": "prep_praise_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

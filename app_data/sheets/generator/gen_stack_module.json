@@ -87,12 +87,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_praise",
+      "flow_name": "stack_module_feelings",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_feelings",
+      "flow_name": "stack_module_praise",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

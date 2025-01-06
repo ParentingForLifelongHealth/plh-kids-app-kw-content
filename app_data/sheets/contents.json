@@ -633,12 +633,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_praise_check_in_6",
+          "flow_name": "article_feelings_check_in_7",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_feelings_check_in_7",
+          "flow_name": "article_praise_check_in_6",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1126,12 +1126,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_praise",
+          "flow_name": "module_feelings",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "module_feelings",
+          "flow_name": "module_praise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1184,12 +1184,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_landing_praise",
+          "flow_name": "module_landing_feelings",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "module_landing_feelings",
+          "flow_name": "module_landing_praise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1242,12 +1242,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_overview_praise",
+          "flow_name": "module_overview_feelings",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "module_overview_feelings",
+          "flow_name": "module_overview_praise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1300,12 +1300,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_praise_start_at_uncompleted",
+          "flow_name": "module_feelings_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "module_feelings_start_at_uncompleted",
+          "flow_name": "module_praise_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1358,12 +1358,12 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_praise_articles",
+          "flow_name": "prep_feelings_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_feelings_articles",
+          "flow_name": "prep_praise_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -1416,12 +1416,12 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_praise_categories",
+          "flow_name": "prep_feelings_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_feelings_categories",
+          "flow_name": "prep_praise_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -1532,12 +1532,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_praise",
+          "flow_name": "stack_module_feelings",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_feelings",
+          "flow_name": "stack_module_praise",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1590,12 +1590,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_praise_start_at_uncompleted",
+          "flow_name": "stack_module_feelings_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_feelings_start_at_uncompleted",
+          "flow_name": "stack_module_praise_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -1732,12 +1732,12 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_praise_relax_10",
+          "flow_name": "article_feelings_relax_11",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "article_feelings_relax_11",
+          "flow_name": "article_praise_relax_10",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
