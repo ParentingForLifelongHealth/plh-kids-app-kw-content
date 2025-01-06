@@ -75,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37272 KB | 37.3 MB |
-| unused | 9583 KB | 9.6 MB |
+| total | 37359 KB | 37.4 MB |
+| unused | 28179 KB | 28.2 MB |
 </details>
 
 <details open>
@@ -90,9 +90,48 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 686.5 |
 | android/icon.png | 578.2 |
 | android/splash.png | 996 |
-| contents.json | 5.9 |
+| audio/care_audio_1.mp3 | 527.5 |
+| audio/care_audio_2.mp3 | 1166.3 |
+| audio/celebrate_audio_1.mp3 | 497.1 |
+| audio/connect_audio_1.mp3 | 891.7 |
+| audio/connect_audio_2.mp3 | 981.4 |
+| audio/consequences_audio_1.mp3 | 800.2 |
+| audio/consequences_audio_2.mp3 | 1206.6 |
+| audio/feelings_audio_1.mp3 | 336 |
+| audio/feelings_audio_2.mp3 | 635.8 |
+| audio/instructions_audio_1.mp3 | 613.7 |
+| audio/instructions_audio_2.mp3 | 784.2 |
+| audio/learn_audio_1.mp3 | 563.1 |
+| audio/learn_audio_2.mp3 | 254.5 |
+| audio/praise_audio_1.mp3 | 344 |
+| audio/praise_audio_2.mp3 | 1042.6 |
+| audio/rules_audio_1.mp3 | 427.6 |
+| audio/rules_audio_2.mp3 | 742.7 |
+| audio/solve_audio_1.mp3 | 609 |
+| audio/solve_audio_2.mp3 | 468.1 |
+| contents.json | 16.8 |
 | images/child_development_yc.png | 758.1 |
+| images/childdevelopment.svg | 20.3 |
+| images/comics/instructions_yc_5.svg | 124.9 |
+| images/comics/instructions_yc_6.svg | 122.1 |
+| images/comics/instructions_yc_7.svg | 125.9 |
+| images/comics/learn_experience_yc_1.svg | 77.7 |
+| images/comics/learn_experience_yc_2.svg | 82.7 |
+| images/comics/learn_experience_yc_3.svg | 81.8 |
+| images/comics/learn_experience_yc_4.svg | 82.5 |
+| images/comics/learn_experience_yc_5.svg | 71.1 |
+| images/comics/play_yc_1.svg | 286.4 |
+| images/comics/play_yc_2.svg | 283.3 |
+| images/comics/play_yc_3.svg | 80.8 |
+| images/comics/play_yc_4.svg | 98.5 |
+| images/comics/routines_yc_10.svg | 111.8 |
+| images/comics/routines_yc_7.svg | 140.7 |
+| images/comics/routines_yc_8.svg | 96.8 |
+| images/comics/routines_yc_9.svg | 116.9 |
+| images/comics/teach_consequences_yc_3.jpg | 3174 |
+| images/consequences.jpg | 115.1 |
 | images/consequences_yc.png | 629.1 |
+| images/facilitators_face.svg | 39.3 |
 | images/feelings_yc.png | 578.8 |
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -123,15 +162,25 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_mark_blue.svg | 0.8 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
+| images/instructions.svg | 23.2 |
 | images/instructions_yc.png | 752.7 |
+| images/kw_facilitator_rd.jpg | 35.2 |
+| images/kw_facilitator_sq.jpg | 30 |
 | images/logos/favicon.png | 48.3 |
 | images/logos/kuwait.png | 248 |
+| images/logos/plh.jpeg | 9.4 |
 | images/logos/plh_white.png | 12.8 |
+| images/one_on_one_challenges.svg | 13.1 |
 | images/one_on_one_yc.png | 883.8 |
+| images/praise.svg | 11.3 |
 | images/praise_yc.png | 758.1 |
 | images/problem_solving_yc.png | 824.2 |
+| images/problemsolving.svg | 19.6 |
 | images/routines_yc.png | 1035.5 |
+| images/rulesroutines.jpg | 102.2 |
 | images/self_care_yc.png | 608.4 |
+| images/selfcare.jpg | 96.6 |
+| images/talk_feelings_challenges.svg | 19.3 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 </details>
@@ -143,7 +192,50 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/kw_facilitator_rd.png | 1 |
+| https://img.youtube.com/vi/3rj6-Dy_Q68/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/676iBYMa00I/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/6GdWUOPAov0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/797ACibKTEk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/7WFhlqYDNlk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/8ZTAB0_g_KA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/A-_gIZ3m3Tc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/B60KbIbDsxk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CLN8FF_k7G4/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CpMd6B_ozag/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/E1j2A5wGGMg/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/FKPFx3AXrxs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/GP0aKJjXcdE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HFQIlMK58_A/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HrKa6THgM8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/J7dIoKfQczw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JoN_xyYurrw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/KQis5PintDM/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/QKZoDBIoZUc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIra0dav_kY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIwVM6yyhUw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T4zcv8srKPY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T6gHmW5QRgA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/TLJw_EScg2s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/V-TKV-bP4mE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/W4o2W_cPStQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/X5aMX0y9Mbs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/_GSLZqq1_D8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/a0cQkV21Zc0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/aQ0chEky8ys/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/dAhAJBePJPw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/d_HmLsmeK98/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/fnjLhQf0sek/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/gKja8sxVAZU/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/iSWM8Bp0KzQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/jU9vyQXxnsk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kVQOGVXyJCc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kwJMQXw6ko8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/noyAxN4YG3g/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/p7Ybpp0C2f8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 </details>
 
 <details >
@@ -305,6 +397,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/kw_f3_son_4.svg | 24.6 | 1 |
 | images/kw_f3_uncle.svg | 14.3 | 1 |
 | images/kw_facilitator.svg | 23.6 | 1 |
+| images/kw_facilitator_rd.png | 87.3 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/app_logo.png | 36 | 1 |

@@ -112,12 +112,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_praise_start_at_uncompleted",
+      "flow_name": "stack_module_feelings_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_feelings_start_at_uncompleted",
+      "flow_name": "stack_module_praise_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -28,12 +28,12 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_praise_categories",
+      "flow_name": "prep_feelings_categories",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_feelings_categories",
+      "flow_name": "prep_praise_categories",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
