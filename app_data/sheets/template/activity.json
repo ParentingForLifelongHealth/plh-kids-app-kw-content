@@ -84,9 +84,6 @@
     },
     {
       "type": "display_group",
-      "parameter_list": {
-        "sticky": "top"
-      },
       "rows": [
         {
           "type": "text",
