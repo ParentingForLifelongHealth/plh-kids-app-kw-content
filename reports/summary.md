@@ -11,7 +11,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 51 |
+| display_group | 50 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -25,15 +25,15 @@
 | qr_code | 1 |
 | radio_button_grid | 5 |
 | radio_group | 2 |
-| round_button | 5 |
+| round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1052 |
+| set_variable | 1053 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 74 |
+| text | 72 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
@@ -59,12 +59,12 @@
 | emit: uncompleted | 231 |
 | feedback | 13 |
 | go_to | 10 |
-| nav_stack | 80 |
+| nav_stack | 79 |
 | pop_up | 27 |
 | reset_app | 1 |
-| set_data | 24 |
+| set_data | 25 |
 | set_field | 36 |
-| set_item | 24 |
+| set_item | 25 |
 | set_local | 18 |
 | task | 3 |
 | user | 1 |
@@ -75,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37271 KB | 37.3 MB |
-| unused | 9583 KB | 9.6 MB |
+| total | 37269 KB | 37.3 MB |
+| unused | 9585 KB | 9.6 MB |
 </details>
 
 <details open>
@@ -97,6 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/flags/tz.svg | 0.5 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
+| images/icons/cancel.svg | 1.7 |
 | images/icons/diamond_blue.png | 4.7 |
 | images/icons/faces/angry.svg | 1.1 |
 | images/icons/faces/confused.svg | 1.8 |
@@ -235,7 +236,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/flags/kw.svg | 0.5 | 2 |
 | images/icons/balance_blue.png | 4.7 | 2 |
 | images/icons/brain_blue.png | 5.2 | 2 |
-| images/icons/cancel.svg | 1.7 | 1 |
 | images/icons/clock_blue.png | 4.5 | 6 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |

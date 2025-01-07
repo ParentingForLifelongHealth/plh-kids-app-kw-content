@@ -857,11 +857,20 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: activity_@item.id , header: false",
-                  "_cleaned": "click | nav_stack: open | template: activity_@item.id , header: false",
+                  "_raw": "click | nav_stack: open | template: activity_@item.id",
+                  "_cleaned": "click | nav_stack: open | template: activity_@item.id",
                   "params": {
-                    "template": "activity_@item.id",
-                    "header": false
+                    "template": "activity_@item.id"
+                  }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "set_item",
+                  "args": [],
+                  "_raw": "click | set_item | accessed: true",
+                  "_cleaned": "click | set_item | accessed: true",
+                  "params": {
+                    "accessed": true
                   }
                 }
               ],
@@ -1069,7 +1078,7 @@
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id , header: false",
+                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -1077,7 +1086,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id , header: false",
+                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
