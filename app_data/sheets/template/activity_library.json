@@ -4,13 +4,34 @@
   "status": "released",
   "rows": [
     {
+      "name": "background_image_position",
+      "value": "right",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "background_image_position"
+    },
+    {
+      "name": "background_image_position",
+      "value": "left",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "@fields._language == \"kw_ar\"": "true"
+      },
+      "type": "set_variable",
+      "_nested_name": "background_image_position"
+    },
+    {
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
         "sticky": "top",
         "style": "background_solid",
         "background_image_asset": "images/backgrounds/library_top_right.png",
-        "background_image_position": "top right",
+        "background_image_position": "top @local.background_image_position",
         "variant": "inline_padding"
       },
       "exclude_from_translation": true,
@@ -790,7 +811,24 @@
           "_nested_name": "dg_top.dg_column"
         }
       ],
-      "_nested_name": "dg_top"
+      "_nested_name": "dg_top",
+      "_dynamicFields": {
+        "parameter_list": {
+          "background_image_position": [
+            {
+              "fullExpression": "top @local.background_image_position",
+              "matchedExpression": "@local.background_image_position",
+              "type": "local",
+              "fieldName": "background_image_position"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.background_image_position": [
+          "parameter_list.background_image_position"
+        ]
+      }
     },
     {
       "type": "display_grid",
@@ -1686,7 +1724,7 @@
       "parameter_list": {
         "sticky": "bottom",
         "background_image_asset": "images/backgrounds/library_bottom_right.png",
-        "background_image_position": "bottom right",
+        "background_image_position": "bottom @local.background_image_position",
         "variant": "inline_padding"
       },
       "exclude_from_translation": true,
@@ -1747,7 +1785,24 @@
           }
         }
       ],
-      "_nested_name": "dg_bottom"
+      "_nested_name": "dg_bottom",
+      "_dynamicFields": {
+        "parameter_list": {
+          "background_image_position": [
+            {
+              "fullExpression": "bottom @local.background_image_position",
+              "matchedExpression": "@local.background_image_position",
+              "type": "local",
+              "fieldName": "background_image_position"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.background_image_position": [
+          "parameter_list.background_image_position"
+        ]
+      }
     }
   ],
   "_xlsxPath": "KW activity library.xlsx"
