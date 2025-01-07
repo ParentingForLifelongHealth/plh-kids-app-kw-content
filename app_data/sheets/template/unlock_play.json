@@ -192,6 +192,18 @@
                   "params": {
                     "template": "activity_@local.activity_id"
                   }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "set_data",
+                  "args": [],
+                  "_raw": "click | set_data | \n_list_id: activity_tasks,\n_id: @local.activity_id,\naccessed: true",
+                  "_cleaned": "click | set_data | \n_list_id: activity_tasks,\n_id: @local.activity_id,\naccessed: true",
+                  "params": {
+                    "_list_id": "activity_tasks",
+                    "_id": "@local.activity_id",
+                    "accessed": true
+                  }
                 }
               ],
               "exclude_from_translation": true,
@@ -233,6 +245,34 @@
                         }
                       ]
                     }
+                  },
+                  "2": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_data | \n_list_id: activity_tasks,\n_id: @local.activity_id,\naccessed: true",
+                        "matchedExpression": "@local.activity_id",
+                        "type": "local",
+                        "fieldName": "activity_id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_data | \n_list_id: activity_tasks,\n_id: @local.activity_id,\naccessed: true",
+                        "matchedExpression": "@local.activity_id",
+                        "type": "local",
+                        "fieldName": "activity_id"
+                      }
+                    ],
+                    "params": {
+                      "_id": [
+                        {
+                          "fullExpression": "@local.activity_id",
+                          "matchedExpression": "@local.activity_id",
+                          "type": "local",
+                          "fieldName": "activity_id"
+                        }
+                      ]
+                    }
                   }
                 }
               },
@@ -243,7 +283,10 @@
                 "@local.activity_id": [
                   "action_list.1._raw",
                   "action_list.1._cleaned",
-                  "action_list.1.params.template"
+                  "action_list.1.params.template",
+                  "action_list.2._raw",
+                  "action_list.2._cleaned",
+                  "action_list.2.params._id"
                 ]
               }
             }

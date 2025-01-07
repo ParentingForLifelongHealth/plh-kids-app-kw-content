@@ -187,6 +187,39 @@
       "_nested_name": "hp_challenge"
     },
     {
+      "name": "row_id_hp_challenge",
+      "value": "@local.row_id@local.hp_challenge",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "row_id_hp_challenge",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_id@local.hp_challenge",
+            "matchedExpression": "@local.row_id",
+            "type": "local",
+            "fieldName": "row_id"
+          },
+          {
+            "fullExpression": "@local.row_id@local.hp_challenge",
+            "matchedExpression": "@local.hp_challenge",
+            "type": "local",
+            "fieldName": "hp_challenge"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_id": [
+          "value"
+        ],
+        "@local.hp_challenge": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "top_text",
       "value": "@local.row_data.top_text",
       "_translations": {

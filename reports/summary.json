@@ -35,7 +35,7 @@
       },
       {
         "type": "display_group",
-        "count": 51
+        "count": 50
       },
       {
         "type": "image",
@@ -91,7 +91,7 @@
       },
       {
         "type": "round_button",
-        "count": 5
+        "count": 4
       },
       {
         "type": "select_text",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1052
+        "count": 1053
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "text",
-        "count": 74
+        "count": 72
       },
       {
         "type": "text_area",
@@ -203,7 +203,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 80
+        "count": 79
       },
       {
         "type": "pop_up",
@@ -215,7 +215,7 @@
       },
       {
         "type": "set_data",
-        "count": 24
+        "count": 25
       },
       {
         "type": "set_field",
@@ -223,7 +223,7 @@
       },
       {
         "type": "set_item",
-        "count": 24
+        "count": 25
       },
       {
         "type": "set_local",
@@ -243,12 +243,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37271 KB",
+        "KB": "37269 KB",
         "MB": "37.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "9583 KB",
+        "KB": "9585 KB",
         "MB": "9.6 MB"
       }
     ]
@@ -298,6 +298,10 @@
       {
         "path": "images/icons/book_outline_white.svg",
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/cancel.svg",
+        "size_kb": 1.7
       },
       {
         "path": "images/icons/diamond_blue.png",
@@ -869,11 +873,6 @@
         "path": "images/icons/brain_blue.png",
         "count": 2,
         "size_kb": 5.2
-      },
-      {
-        "path": "images/icons/cancel.svg",
-        "count": 1,
-        "size_kb": 1.7
       },
       {
         "path": "images/icons/clock_blue.png",
