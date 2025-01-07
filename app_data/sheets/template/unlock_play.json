@@ -187,11 +187,10 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: activity_@local.activity_id, header: false",
-                  "_cleaned": "click | nav_stack: open | template: activity_@local.activity_id, header: false",
+                  "_raw": "click | nav_stack: open | template: activity_@local.activity_id",
+                  "_cleaned": "click | nav_stack: open | template: activity_@local.activity_id",
                   "params": {
-                    "template": "activity_@local.activity_id",
-                    "header": false
+                    "template": "activity_@local.activity_id"
                   }
                 }
               ],
@@ -210,7 +209,7 @@
                   "1": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id, header: false",
+                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
                         "matchedExpression": "@local.activity_id",
                         "type": "local",
                         "fieldName": "activity_id"
@@ -218,7 +217,7 @@
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id, header: false",
+                        "fullExpression": "click | nav_stack: open | template: activity_@local.activity_id",
                         "matchedExpression": "@local.activity_id",
                         "type": "local",
                         "fieldName": "activity_id"

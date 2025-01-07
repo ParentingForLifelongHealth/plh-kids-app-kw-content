@@ -57,7 +57,8 @@
       "type": "display_group",
       "name": "dg_top",
       "parameter_list": {
-        "sticky": "top"
+        "sticky": "top",
+        "style": "background_solid"
       },
       "exclude_from_translation": true,
       "style_list": [

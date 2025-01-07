@@ -57,10 +57,11 @@
       "rows": [
         {
           "name": "close_icon_asset",
-          "value": "images/icons/close.png",
+          "value": "close",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_header.close_icon_asset"
         },
