@@ -43,7 +43,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_face_asset",
-      "value": "images/kw_facilitator_rd.png",
+      "value": "images/kw_facilitator.svg",
       "_translations": {
         "value": {}
       },
