@@ -844,6 +844,9 @@
           "type": "data_items",
           "name": "loop_activities",
           "value": "@data.activity_tasks",
+          "parameter_list": {
+            "sort": "locked"
+          },
           "exclude_from_translation": true,
           "rows": [
             {
