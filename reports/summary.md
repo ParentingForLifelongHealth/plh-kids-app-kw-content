@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37269 KB | 37.3 MB |
+| total | 37278 KB | 37.3 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -312,7 +312,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/problem_solving_yc.svg | 235.1 | 2 |
 | images/routines_yc.svg | 1854.9 | 2 |
 | images/self_care_yc.svg | 94 | 2 |
-| images/shell_closed.png | 443.3 | 1 |
+| images/shell_closed.png | 452.4 | 1 |
 | images/shell_open.png | 1031.9 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/gift_box.json | 787.9 | 1 |

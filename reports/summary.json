@@ -243,7 +243,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37269 KB",
+        "KB": "37278 KB",
         "MB": "37.3 MB"
       },
       {
@@ -1257,7 +1257,7 @@
       {
         "path": "images/shell_closed.png",
         "count": 1,
-        "size_kb": 443.3
+        "size_kb": 452.4
       },
       {
         "path": "images/shell_open.png",
