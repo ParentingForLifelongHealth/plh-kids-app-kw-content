@@ -21,7 +21,7 @@
 | plh_bottom_nav | 1 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 1 |
-| progress_path | 1 |
+| plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 5 |
 | radio_group | 2 |
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37278 KB | 37.3 MB |
+| total | 44036 KB | 44 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -172,8 +172,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
 | images/backgrounds/activity_bottom_left.png | 3533.5 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
-| images/backgrounds/library_bottom_right.png | 54 | 1 |
-| images/backgrounds/library_top_right.png | 1358.6 | 1 |
+| images/backgrounds/library_bottom_right.png | 1937.5 | 1 |
+| images/backgrounds/library_top_right.png | 3718.1 | 1 |
+| images/backgrounds/map_view_bg.png | 2514.4 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |

@@ -22,9 +22,9 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "progress_path",
+          "type": "plh_progress_path",
           "parameter_list": {
-            "variant": "basic"
+            "background_image_asset": "images/backgrounds/map_view_bg.png"
           },
           "exclude_from_translation": true,
           "rows": [
@@ -47,7 +47,7 @@
                       },
                       "exclude_from_translation": true,
                       "type": "set_variable",
-                      "_nested_name": "dg_all_modules.progress_path_1.items_1.module_card_@item.id.module_id",
+                      "_nested_name": "dg_all_modules.plh_progress_path_1.items_1.module_card_@item.id.module_id",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -59,7 +59,7 @@
                         ],
                         "_nested_name": [
                           {
-                            "fullExpression": "dg_all_modules.progress_path_1.items_1.module_card_@item.id.module_id",
+                            "fullExpression": "dg_all_modules.plh_progress_path_1.items_1.module_card_@item.id.module_id",
                             "matchedExpression": "@item.id.module_id",
                             "type": "item",
                             "fieldName": "id"
@@ -76,7 +76,7 @@
                       }
                     }
                   ],
-                  "_nested_name": "dg_all_modules.progress_path_1.items_1.module_card_@item.id",
+                  "_nested_name": "dg_all_modules.plh_progress_path_1.items_1.module_card_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -88,7 +88,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_all_modules.progress_path_1.items_1.module_card_@item.id",
+                        "fullExpression": "dg_all_modules.plh_progress_path_1.items_1.module_card_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -104,7 +104,7 @@
                 }
               ],
               "name": "items_1",
-              "_nested_name": "dg_all_modules.progress_path_1.items_1",
+              "_nested_name": "dg_all_modules.plh_progress_path_1.items_1",
               "_dynamicFields": {
                 "value": [
                   {
@@ -122,8 +122,8 @@
               }
             }
           ],
-          "name": "progress_path_1",
-          "_nested_name": "dg_all_modules.progress_path_1"
+          "name": "plh_progress_path_1",
+          "_nested_name": "dg_all_modules.plh_progress_path_1"
         }
       ],
       "_nested_name": "dg_all_modules"

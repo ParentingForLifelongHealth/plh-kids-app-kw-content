@@ -92,38 +92,42 @@
     "size_kb": 5.9
   },
   "images/backgrounds/activity_bottom_left.png": {
-    "md5Checksum": "a2a20bfe1c23f917b0f752a02d87ee43",
-    "size_kb": 3533.5
+    "md5Checksum": "138c8deb2649ea682bf7618da921cf93",
+    "size_kb": 3538.7
   },
   "images/backgrounds/kites.svg": {
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3
   },
   "images/backgrounds/library_bottom_right.png": {
-    "md5Checksum": "1914b3a9b6dd9846a9e0b14099ba65ec",
+    "md5Checksum": "96f4d10c8e9eac14c806b9a243c35b81",
     "overrides": {
       "theme_default": {
         "kw_ar": {
           "filePath": "images/backgrounds/kw_ar/library_bottom_right.png",
-          "md5Checksum": "177d31e17f6c532d367e4372c34c4ba0",
-          "size_kb": 53.7
+          "md5Checksum": "09f46b84e78bd95b7ea75247bd922b07",
+          "size_kb": 1945.2
         }
       }
     },
-    "size_kb": 54
+    "size_kb": 1937.5
   },
   "images/backgrounds/library_top_right.png": {
-    "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
+    "md5Checksum": "fb25e8382a1891a4662332c43dee5224",
     "overrides": {
       "theme_default": {
         "kw_ar": {
           "filePath": "images/backgrounds/kw_ar/library_top_right.png",
-          "md5Checksum": "a25a4ba8ca3ae54b9ea97612409e9816",
-          "size_kb": 1367.5
+          "md5Checksum": "2ed3737cef0c0e4a7fe06ce8089f5a87",
+          "size_kb": 3769.1
         }
       }
     },
-    "size_kb": 1358.6
+    "size_kb": 3718.1
+  },
+  "images/backgrounds/map_view_bg.png": {
+    "md5Checksum": "1cc8cc867437b3094f5926c473f92434",
+    "size_kb": 2514.4
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",

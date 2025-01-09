@@ -74,7 +74,7 @@
         "count": 1
       },
       {
-        "type": "progress_path",
+        "type": "plh_progress_path",
         "count": 1
       },
       {
@@ -243,8 +243,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37278 KB",
-        "MB": "37.3 MB"
+        "KB": "44036 KB",
+        "MB": "44 MB"
       },
       {
         "assets": "unused",
@@ -557,12 +557,17 @@
       {
         "path": "images/backgrounds/library_bottom_right.png",
         "count": 1,
-        "size_kb": 54
+        "size_kb": 1937.5
       },
       {
         "path": "images/backgrounds/library_top_right.png",
         "count": 1,
-        "size_kb": 1358.6
+        "size_kb": 3718.1
+      },
+      {
+        "path": "images/backgrounds/map_view_bg.png",
+        "count": 1,
+        "size_kb": 2514.4
       },
       {
         "path": "images/backgrounds/progress_arc.png",
