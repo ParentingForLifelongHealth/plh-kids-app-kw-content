@@ -1,4 +1,4 @@
-import { extendDeploymentConfig } from "scripts";
+import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
 
 const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" });
 
@@ -36,7 +36,7 @@ config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
 // To reduce app size, exclude png images in comics folder
-config.app_data.assets_filter_function = (fileEntry) => 
+config.app_data.assets_filter_function = (fileEntry) =>
   !(fileEntry.relativePath.startsWith("images/comics") && fileEntry.relativePath.endsWith(".png")) && !fileEntry.relativePath.includes("video")
 
 config.web.favicon_asset = "images/logos/favicon.png";
@@ -45,7 +45,14 @@ config.api.db_name = "plh_kids_kw";
 
 config.app_data.output_path = "./app_data";
 
-config.auth = { provider:'firebase'};
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json'),
+  crashlytics: { enabled: false },
+}
+
+config.auth = {
+  provider: 'firebase',
+}
 
 config.app_config.APP_LANGUAGES.default = "kw_ar";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "تطبيق دايم";
