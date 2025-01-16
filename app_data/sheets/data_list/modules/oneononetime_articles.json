@@ -507,45 +507,6 @@
         },
         "quiz_2_feedback_6": {
           "kw_ar": true
-        },
-        "quiz_3_question": {
-          "kw_ar": true
-        },
-        "quiz_3_option_1_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_1": {
-          "kw_ar": true
-        },
-        "quiz_3_option_2_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_2": {
-          "kw_ar": true
-        },
-        "quiz_3_option_3_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_3": {
-          "kw_ar": true
-        },
-        "quiz_3_option_4_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_4": {
-          "kw_ar": true
-        },
-        "quiz_3_option_5_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_5": {
-          "kw_ar": true
-        },
-        "quiz_3_option_6_text": {
-          "kw_ar": true
-        },
-        "quiz_3_feedback_6": {
-          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -617,45 +578,6 @@
         },
         "quiz_2_feedback_6": {
           "eng": "Fantastic! Whatever time you choose, making it a regular part of your routine ensures meaningful one-on-one time with your child."
-        },
-        "quiz_3_question": {
-          "eng": "How will you spend one-on-one time with your child today?"
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Join them when they play"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Chat before bedtime"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together."
-        },
-        "quiz_3_option_3_text": {
-          "eng": "Eat a meal together"
-        },
-        "quiz_3_feedback_3": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Think of ways to make daily activities fun together."
-        },
-        "quiz_3_option_4_text": {
-          "eng": "Watch a YouTube show together"
-        },
-        "quiz_3_feedback_4": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
-        },
-        "quiz_3_option_5_text": {
-          "eng": "Read a book together"
-        },
-        "quiz_3_feedback_5": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
-        },
-        "quiz_3_option_6_text": {
-          "eng": "Do a chore together"
-        },
-        "quiz_3_feedback_6": {
-          "eng": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
         }
       },
       "quiz_1_question": "Where will you spend one-on-one time with your child?",
@@ -679,20 +601,7 @@
       "quiz_2_option_5_text": "During a commute (e.g., driving to school or an activity)",
       "quiz_2_feedback_5": "Excellent idea! Commutes are a valuable opportunity to chat and spend meaningful time together",
       "quiz_2_option_6_text": "Other",
-      "quiz_2_feedback_6": "Fantastic! Whatever time you choose, making it a regular part of your routine ensures meaningful one-on-one time with your child.",
-      "quiz_3_question": "How will you spend one-on-one time with your child today?",
-      "quiz_3_option_1_text": "Join them when they play",
-      "quiz_3_feedback_1": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together.",
-      "quiz_3_option_2_text": "Chat before bedtime",
-      "quiz_3_feedback_2": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? We’ve all been there! Try to think of ways to make daily activities fun together.",
-      "quiz_3_option_3_text": "Eat a meal together",
-      "quiz_3_feedback_3": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Think of ways to make daily activities fun together.",
-      "quiz_3_option_4_text": "Watch a YouTube show together",
-      "quiz_3_feedback_4": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
-      "quiz_3_option_5_text": "Read a book together",
-      "quiz_3_feedback_5": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together.",
-      "quiz_3_option_6_text": "Do a chore together",
-      "quiz_3_feedback_6": "Great idea!\n\nDo you ever feel like you have NO TIME and are exhausted? Try to think of ways to make daily activities fun together."
+      "quiz_2_feedback_6": "Fantastic! Whatever time you choose, making it a regular part of your routine ensures meaningful one-on-one time with your child."
     }
   ],
   "_xlsxPath": "KW modules.xlsx"
