@@ -676,6 +676,41 @@
       }
     },
     {
+      "type": "text",
+      "name": "text_2",
+      "value": "@local.article_data.text_2",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.article_data.text_2)",
+      "exclude_from_translation": true,
+      "_nested_name": "text_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.article_data.text_2",
+            "matchedExpression": "@local.article_data.text_2",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.text_2)",
+            "matchedExpression": "@local.article_data.text_2",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.article_data.text_2": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "template",
       "name": "comic_bubble_1",
       "value": "comic_bubble",
@@ -999,41 +1034,6 @@
       },
       "_dynamicDependencies": {
         "@local.article_data.character_4_text": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "text_2",
-      "value": "@local.article_data.text_2",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "!!(@local.article_data.text_2)",
-      "exclude_from_translation": true,
-      "_nested_name": "text_2",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.article_data.text_2",
-            "matchedExpression": "@local.article_data.text_2",
-            "type": "local",
-            "fieldName": "article_data"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!(@local.article_data.text_2)",
-            "matchedExpression": "@local.article_data.text_2",
-            "type": "local",
-            "fieldName": "article_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.article_data.text_2": [
-          "value",
           "condition"
         ]
       }

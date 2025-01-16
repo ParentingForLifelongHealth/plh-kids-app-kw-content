@@ -6,13 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 55 |
+| button | 59 |
 | combo_box | 4 |
-| data_items | 45 |
+| data_items | 52 |
 | debug_toggle | 1 |
-| display_grid | 1 |
-| display_group | 48 |
-| image | 9 |
+| display_grid | 2 |
+| display_group | 52 |
+| image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
 | nested_properties | 54 |
@@ -23,22 +23,22 @@
 | plh_module_list_item | 1 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 4 |
+| radio_button_grid | 5 |
 | radio_group | 2 |
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1109 |
+| set_variable | 1062 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 60 |
+| text | 73 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 35 |
-| toggle_bar | 2 |
+| title | 36 |
+| toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 4 |
@@ -233,15 +233,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/comics/self_care_yc_4.svg | 179.4 | 2 |
 | images/consequences_yc.svg | 153.9 | 2 |
 | images/feelings_yc.svg | 202.2 | 2 |
-| images/flags/gb.svg | 0.5 | 2 |
-| images/flags/kw.svg | 0.5 | 2 |
+| images/flags/gb.svg | 0.5 | 4 |
+| images/flags/kw.svg | 0.5 | 4 |
 | images/icons/balance_blue.png | 4.7 | 2 |
 | images/icons/brain_blue.png | 5.2 | 2 |
 | images/icons/clock_blue.png | 4.5 | 6 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/document.svg | 7.3 | 2 |
-| images/icons/expand_circle_right.png | 0.9 | 2 |
+| images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/eye_blue.png | 4.2 | 4 |
 | images/icons/faces/flushed_face.svg | 4.9 | 2 |
 | images/icons/faces/happy.svg | 53.5 | 33 |
@@ -324,7 +324,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 5 |
+| data_list |  | 6 |
 | data_list | activities | 1 |
 | data_list | app_config_language_list | 1 |
 | data_list | characters | 1 |

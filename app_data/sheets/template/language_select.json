@@ -221,9 +221,6 @@
           "_cleaned": "click | emit: force_restart"
         }
       ],
-      "parameter_list": {
-        "style": "navigation"
-      },
       "_nested_name": "button_completed"
     }
   ],

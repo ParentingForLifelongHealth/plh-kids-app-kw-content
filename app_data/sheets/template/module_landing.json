@@ -397,16 +397,6 @@
               }
             },
             {
-              "name": "icon_asset",
-              "value": "images/icons/expand_circle_right.png",
-              "_translations": {
-                "value": {}
-              },
-              "exclude_from_translation": true,
-              "type": "set_variable",
-              "_nested_name": "dg_bottom.dg_wheel_and_hp.icon_asset"
-            },
-            {
               "name": "hp_review",
               "value": "stack_hp_review_@local.module_id",
               "_translations": {
@@ -844,9 +834,6 @@
                           }
                         }
                       ],
-                      "parameter_list": {
-                        "icon": "@local.icon_asset"
-                      },
                       "hidden": "@item.completed",
                       "exclude_from_translation": true,
                       "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed.loop_inner.button_start",
@@ -889,16 +876,6 @@
                             }
                           }
                         },
-                        "parameter_list": {
-                          "icon": [
-                            {
-                              "fullExpression": "@local.icon_asset",
-                              "matchedExpression": "@local.icon_asset",
-                              "type": "local",
-                              "fieldName": "icon_asset"
-                            }
-                          ]
-                        },
                         "hidden": [
                           {
                             "fullExpression": "@item.completed",
@@ -916,9 +893,6 @@
                           "action_list.0._raw",
                           "action_list.0._cleaned",
                           "action_list.0.params.template"
-                        ],
-                        "@local.icon_asset": [
-                          "parameter_list.icon"
                         ],
                         "@item.completed": [
                           "hidden"
@@ -947,9 +921,6 @@
                           }
                         }
                       ],
-                      "parameter_list": {
-                        "icon": "@local.icon_asset"
-                      },
                       "hidden": "!@item.completed",
                       "exclude_from_translation": true,
                       "_nested_name": "dg_bottom.loop_outer.dg_module_not_completed.loop_inner.button_continue",
@@ -992,16 +963,6 @@
                             }
                           }
                         },
-                        "parameter_list": {
-                          "icon": [
-                            {
-                              "fullExpression": "@local.icon_asset",
-                              "matchedExpression": "@local.icon_asset",
-                              "type": "local",
-                              "fieldName": "icon_asset"
-                            }
-                          ]
-                        },
                         "hidden": [
                           {
                             "fullExpression": "!@item.completed",
@@ -1019,9 +980,6 @@
                           "action_list.0._raw",
                           "action_list.0._cleaned",
                           "action_list.0.params.template"
-                        ],
-                        "@local.icon_asset": [
-                          "parameter_list.icon"
                         ],
                         "!@item.completed": [
                           "hidden"
@@ -1086,9 +1044,6 @@
                   }
                 }
               ],
-              "parameter_list": {
-                "icon": "@local.icon_asset"
-              },
               "condition": "@item.completed",
               "exclude_from_translation": true,
               "_nested_name": "dg_bottom.loop_outer.button_restart",
@@ -1131,16 +1086,6 @@
                     }
                   }
                 },
-                "parameter_list": {
-                  "icon": [
-                    {
-                      "fullExpression": "@local.icon_asset",
-                      "matchedExpression": "@local.icon_asset",
-                      "type": "local",
-                      "fieldName": "icon_asset"
-                    }
-                  ]
-                },
                 "condition": [
                   {
                     "fullExpression": "@item.completed",
@@ -1158,9 +1103,6 @@
                   "action_list.0._raw",
                   "action_list.0._cleaned",
                   "action_list.0.params.template"
-                ],
-                "@local.icon_asset": [
-                  "parameter_list.icon"
                 ],
                 "@item.completed": [
                   "condition"
