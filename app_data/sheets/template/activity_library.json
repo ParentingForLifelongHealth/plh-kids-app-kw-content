@@ -9,8 +9,24 @@
       "_translations": {
         "value": {}
       },
+      "condition": "@fields._app_language_direction != \"rtl\"",
       "type": "set_variable",
-      "_nested_name": "background_image_position"
+      "_nested_name": "background_image_position",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language_direction != \"rtl\"",
+            "matchedExpression": "@fields._app_language_direction",
+            "type": "fields",
+            "fieldName": "_app_language_direction"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language_direction": [
+          "condition"
+        ]
+      }
     },
     {
       "name": "background_image_position",
@@ -18,11 +34,24 @@
       "_translations": {
         "value": {}
       },
-      "parameter_list": {
-        "@fields._language == \"kw_ar\"": "true"
-      },
+      "condition": "@fields._app_language_direction == \"rtl\"",
       "type": "set_variable",
-      "_nested_name": "background_image_position"
+      "_nested_name": "background_image_position",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language_direction == \"rtl\"",
+            "matchedExpression": "@fields._app_language_direction",
+            "type": "fields",
+            "fieldName": "_app_language_direction"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language_direction": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -1712,6 +1741,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "count_division_string_ltr",
       "_dynamicFields": {

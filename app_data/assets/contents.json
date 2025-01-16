@@ -99,27 +99,14 @@
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
     "size_kb": 37.3
   },
-  "images/backgrounds/library_bottom_right.png": {
-    "md5Checksum": "1914b3a9b6dd9846a9e0b14099ba65ec",
-    "overrides": {
-      "theme_default": {
-        "kw_ar": {
-          "filePath": "images/backgrounds/kw_ar/library_bottom_right.png",
-          "md5Checksum": "09f46b84e78bd95b7ea75247bd922b07",
-          "size_kb": 1945.2
-        }
-      }
-    },
-    "size_kb": 54
-  },
   "images/backgrounds/library_top_right.png": {
     "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
     "overrides": {
       "theme_default": {
         "kw_ar": {
           "filePath": "images/backgrounds/kw_ar/library_top_right.png",
-          "md5Checksum": "2ed3737cef0c0e4a7fe06ce8089f5a87",
-          "size_kb": 3769.1
+          "md5Checksum": "a25a4ba8ca3ae54b9ea97612409e9816",
+          "size_kb": 1367.5
         }
       }
     },

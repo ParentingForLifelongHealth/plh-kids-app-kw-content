@@ -6,12 +6,12 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 63 |
-| combo_box | 4 |
+| button | 66 |
+| combo_box | 6 |
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 51 |
+| display_group | 52 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -28,16 +28,16 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1064 |
+| set_variable | 1067 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 74 |
+| text | 76 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 37 |
+| title | 38 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -51,7 +51,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 1 |
-| emit: completed | 232 |
+| emit: completed | 235 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
@@ -64,7 +64,7 @@
 | pop_up | 33 |
 | reset_app | 1 |
 | set_data | 25 |
-| set_field | 36 |
+| set_field | 47 |
 | set_item | 25 |
 | set_local | 18 |
 | task | 3 |
@@ -76,7 +76,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 44041 KB | 44 MB |
+| total | 37450 KB | 37.4 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -144,6 +144,50 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| https://img.youtube.com/vi/3rj6-Dy_Q68/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/676iBYMa00I/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/6GdWUOPAov0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/797ACibKTEk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/7WFhlqYDNlk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/8ZTAB0_g_KA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/A-_gIZ3m3Tc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/B60KbIbDsxk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CLN8FF_k7G4/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/CpMd6B_ozag/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/E1j2A5wGGMg/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/FKPFx3AXrxs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/GP0aKJjXcdE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HFQIlMK58_A/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/HrKa6THgM8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/J7dIoKfQczw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JX20xrpfu8s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/JoN_xyYurrw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/KQis5PintDM/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/QKZoDBIoZUc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIra0dav_kY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/RIwVM6yyhUw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T4zcv8srKPY/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/T6gHmW5QRgA/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/TLJw_EScg2s/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/V-TKV-bP4mE/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/W4o2W_cPStQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/X5aMX0y9Mbs/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/_GSLZqq1_D8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/a0cQkV21Zc0/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/aQ0chEky8ys/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/dAhAJBePJPw/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/d_HmLsmeK98/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/fnjLhQf0sek/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/gKja8sxVAZU/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/iSWM8Bp0KzQ/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/jU9vyQXxnsk/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kVQOGVXyJCc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/kwJMQXw6ko8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/noyAxN4YG3g/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/p7Ybpp0C2f8/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/qHWNLHpx5Mc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
+| https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 </details>
 
 <details >
@@ -173,9 +217,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
 | images/backgrounds/activity_bottom_left.png | 3538.7 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
-| images/backgrounds/library_bottom_right.png | 1937.5 | 1 |
-| images/backgrounds/library_top_right.png | 3718.1 | 1 |
-| images/backgrounds/map_view_bg.png | 2514.4 | 1 |
+| images/backgrounds/library_bottom_right.png | 54 | 1 |
+| images/backgrounds/library_top_right.png | 1358.6 | 1 |
+| images/backgrounds/map_view_bg.jpg | 166.5 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -341,7 +385,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 57 |
+| template |  | 58 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>
