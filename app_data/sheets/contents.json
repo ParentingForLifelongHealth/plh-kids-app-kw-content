@@ -3544,6 +3544,11 @@
       "flow_name": "library",
       "_xlsxPath": "templates/app_navigation.xlsx"
     },
+    "login": {
+      "flow_type": "template",
+      "flow_name": "login",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
+    },
     "media_transcript": {
       "flow_type": "template",
       "flow_name": "media_transcript",

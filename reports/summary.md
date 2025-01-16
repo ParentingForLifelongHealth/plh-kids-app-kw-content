@@ -6,12 +6,12 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 59 |
+| button | 63 |
 | combo_box | 4 |
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 52 |
+| display_group | 51 |
 | image | 10 |
 | items | 10 |
 | lottie_animation | 3 |
@@ -28,16 +28,16 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1062 |
+| set_variable | 1064 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 73 |
+| text | 74 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 36 |
+| title | 37 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
@@ -50,7 +50,8 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| emit: completed | 230 |
+| auth | 1 |
+| emit: completed | 232 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 7 |
 | emit: force_restart | 3 |
@@ -58,7 +59,7 @@
 | emit: set_language | 1 |
 | emit: uncompleted | 231 |
 | feedback | 13 |
-| go_to | 10 |
+| go_to | 11 |
 | nav_stack | 79 |
 | pop_up | 33 |
 | reset_app | 1 |
@@ -340,7 +341,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 56 |
+| template |  | 57 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>

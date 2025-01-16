@@ -294,194 +294,15 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "dg_completed",
-      "hidden": "!(!!@fields.user_gender && !!@fields.user_type)",
-      "rows": [
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              },
-              {
-                "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition",
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "countdown_days",
-                "0"
-              ],
-              "_raw": "click | set_field: countdown_days: 0",
-              "_cleaned": "click | set_field: countdown_days: 0"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type == \"facilitator\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type == \"facilitator\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "countdown_days",
-                "7"
-              ],
-              "_raw": "click | set_field: countdown_days: 7",
-              "_cleaned": "click | set_field: countdown_days: 7"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type == \"caregiver\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type == \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "dg_completed",
+      "name": "continue_disabled",
+      "value": "!(!!@fields.user_gender && !!@fields.user_type)",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "continue_disabled",
       "_dynamicFields": {
-        "hidden": [
+        "value": [
           {
             "fullExpression": "!(!!@fields.user_gender && !!@fields.user_type)",
             "matchedExpression": "!@fields.user_gender",
@@ -498,10 +319,232 @@
       },
       "_dynamicDependencies": {
         "!@fields.user_gender": [
-          "hidden"
+          "value"
         ],
         "!@fields.user_type": [
-          "hidden"
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_data_completed",
+            true
+          ],
+          "_raw": "click | set_field: user_data_completed: true",
+          "_cleaned": "click | set_field: user_data_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "@local.continue_disabled"
+      },
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
+            "matchedExpression": "@fields.user_type",
+            "type": "fields",
+            "fieldName": "user_type"
+          },
+          {
+            "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
+            "matchedExpression": "@fields.user_type",
+            "type": "fields",
+            "fieldName": "user_type"
+          }
+        ],
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "@local.continue_disabled",
+              "matchedExpression": "@local.continue_disabled",
+              "type": "local",
+              "fieldName": "continue_disabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.user_type": [
+          "condition",
+          "condition"
+        ],
+        "@local.continue_disabled": [
+          "parameter_list.disabled"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_data_completed",
+            true
+          ],
+          "_raw": "click | set_field: user_data_completed: true",
+          "_cleaned": "click | set_field: user_data_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "0"
+          ],
+          "_raw": "click | set_field: countdown_days: 0",
+          "_cleaned": "click | set_field: countdown_days: 0"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "@fields.user_type == \"facilitator\"",
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "@local.continue_disabled"
+      },
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.user_type == \"facilitator\"",
+            "matchedExpression": "@fields.user_type",
+            "type": "fields",
+            "fieldName": "user_type"
+          }
+        ],
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "@local.continue_disabled",
+              "matchedExpression": "@local.continue_disabled",
+              "type": "local",
+              "fieldName": "continue_disabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.user_type": [
+          "condition"
+        ],
+        "@local.continue_disabled": [
+          "parameter_list.disabled"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_data_completed",
+            true
+          ],
+          "_raw": "click | set_field: user_data_completed: true",
+          "_cleaned": "click | set_field: user_data_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "7"
+          ],
+          "_raw": "click | set_field: countdown_days: 7",
+          "_cleaned": "click | set_field: countdown_days: 7"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "@fields.user_type == \"caregiver\"",
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "@local.continue_disabled"
+      },
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.user_type == \"caregiver\"",
+            "matchedExpression": "@fields.user_type",
+            "type": "fields",
+            "fieldName": "user_type"
+          }
+        ],
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "@local.continue_disabled",
+              "matchedExpression": "@local.continue_disabled",
+              "type": "local",
+              "fieldName": "continue_disabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.user_type": [
+          "condition"
+        ],
+        "@local.continue_disabled": [
+          "parameter_list.disabled"
         ]
       }
     }

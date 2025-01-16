@@ -1,0 +1,192 @@
+{
+  "flow_type": "template",
+  "flow_name": "login",
+  "status": "released",
+  "rows": [
+    {
+      "name": "show_title",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_title"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@global.create_an_account",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.show_title)",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.create_an_account",
+            "matchedExpression": "@global.create_an_account",
+            "type": "global",
+            "fieldName": "create_an_account"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.show_title)",
+            "matchedExpression": "@local.show_title",
+            "type": "local",
+            "fieldName": "show_title"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.create_an_account": [
+          "value"
+        ],
+        "@local.show_title": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@global.create_account_question",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.create_account_question",
+            "matchedExpression": "@global.create_account_question",
+            "type": "global",
+            "fieldName": "create_account_question"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.create_account_question": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_login",
+      "value": "Login",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "auth",
+          "args": [
+            "sign_in_google"
+          ],
+          "_raw": "click | auth: sign_in_google",
+          "_cleaned": "click | auth: sign_in_google"
+        }
+      ],
+      "_nested_name": "button_login"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Skip",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "login_completed",
+            true
+          ],
+          "_raw": "click | set_field: login_completed: TRUE",
+          "_cleaned": "click | set_field: login_completed: TRUE"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "!(@fields._auth_user_id)",
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!(@fields._auth_user_id)",
+            "matchedExpression": "@fields._auth_user_id",
+            "type": "fields",
+            "fieldName": "_auth_user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._auth_user_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "login_completed",
+            true
+          ],
+          "_raw": "click | set_field: login_completed: TRUE",
+          "_cleaned": "click | set_field: login_completed: TRUE"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "condition": "!!(@fields._auth_user_id)",
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!!(@fields._auth_user_id)",
+            "matchedExpression": "@fields._auth_user_id",
+            "type": "fields",
+            "fieldName": "_auth_user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._auth_user_id": [
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/kids app_launch.xlsx"
+}
