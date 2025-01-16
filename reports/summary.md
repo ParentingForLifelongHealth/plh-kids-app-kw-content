@@ -6,13 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 53 |
+| button | 55 |
 | combo_box | 4 |
-| data_items | 52 |
+| data_items | 45 |
 | debug_toggle | 1 |
-| display_grid | 2 |
-| display_group | 50 |
-| image | 10 |
+| display_grid | 1 |
+| display_group | 48 |
+| image | 9 |
 | items | 10 |
 | lottie_animation | 3 |
 | nested_properties | 54 |
@@ -23,22 +23,22 @@
 | plh_module_list_item | 1 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 5 |
+| radio_button_grid | 4 |
 | radio_group | 2 |
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1053 |
+| set_variable | 1109 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 311 |
-| text | 72 |
+| text | 60 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 32 |
-| toggle_bar | 4 |
+| title | 35 |
+| toggle_bar | 2 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 4 |
@@ -60,7 +60,7 @@
 | feedback | 13 |
 | go_to | 10 |
 | nav_stack | 79 |
-| pop_up | 27 |
+| pop_up | 33 |
 | reset_app | 1 |
 | set_data | 25 |
 | set_field | 36 |
@@ -75,7 +75,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 44036 KB | 44 MB |
+| total | 44041 KB | 44 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -170,7 +170,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_4.mp3 | 653.2 | 2 |
 | audio/relax/relax_6.mp3 | 389.7 | 2 |
 | audio/relax/relax_8.mp3 | 432.9 | 2 |
-| images/backgrounds/activity_bottom_left.png | 3533.5 | 1 |
+| images/backgrounds/activity_bottom_left.png | 3538.7 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/library_bottom_right.png | 1937.5 | 1 |
 | images/backgrounds/library_top_right.png | 3718.1 | 1 |
@@ -240,7 +240,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/clock_blue.png | 4.5 | 6 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
-| images/icons/document.svg | 7.3 | 1 |
+| images/icons/document.svg | 7.3 | 2 |
 | images/icons/expand_circle_right.png | 0.9 | 2 |
 | images/icons/eye_blue.png | 4.2 | 4 |
 | images/icons/faces/flushed_face.svg | 4.9 | 2 |
@@ -250,7 +250,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/smiling.svg | 5.1 | 2 |
 | images/icons/faces/stressed.svg | 60 | 20 |
 | images/icons/faces/tired.svg | 54 | 18 |
-| images/icons/feather.svg | 3.5 | 1 |
+| images/icons/feather.svg | 3.5 | 2 |
 | images/icons/football_blue.png | 5.1 | 2 |
 | images/icons/heart.png | 0.8 | 2 |
 | images/icons/heart_filled.png | 1.4 | 1 |
@@ -261,17 +261,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/home_active.svg | 0.4 | 1 |
 | images/icons/hourglass_blue.png | 4.3 | 2 |
 | images/icons/in_progress.svg | 1.1 | 2 |
-| images/icons/key.svg | 5.5 | 1 |
+| images/icons/key.svg | 5.5 | 2 |
 | images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
-| images/icons/locked.png | 0.7 | 3 |
-| images/icons/magnify_glass.svg | 1.9 | 1 |
+| images/icons/locked.png | 0.7 | 4 |
+| images/icons/magnify_glass.svg | 1.9 | 2 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/notification_bell.png | 0.9 | 1 |
 | images/icons/parent_child_heart.svg | 3 | 10 |
 | images/icons/pencil.svg | 1.1 | 10 |
-| images/icons/profile_card.svg | 7.4 | 1 |
+| images/icons/profile_card.svg | 7.4 | 2 |
 | images/icons/question_blue.png | 3.4 | 2 |
 | images/icons/repeat_blue.png | 5.4 | 2 |
 | images/icons/settings.svg | 2.4 | 1 |
@@ -289,7 +289,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 4 |
-| images/icons/world.svg | 6.2 | 1 |
+| images/icons/world.svg | 6.2 | 2 |
 | images/instructions_yc.svg | 208.8 | 2 |
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
 | images/kw_f1_daughter_6.svg | 37 | 1 |
@@ -340,7 +340,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 55 |
+| template |  | 56 |
 | template | generated | 235 |
 | template | legal_terms | 4 |
 </details>

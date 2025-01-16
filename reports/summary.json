@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 53
+        "count": 55
       },
       {
         "type": "combo_box",
@@ -23,7 +23,7 @@
       },
       {
         "type": "data_items",
-        "count": 52
+        "count": 45
       },
       {
         "type": "debug_toggle",
@@ -31,15 +31,15 @@
       },
       {
         "type": "display_grid",
-        "count": 2
+        "count": 1
       },
       {
         "type": "display_group",
-        "count": 50
+        "count": 48
       },
       {
         "type": "image",
-        "count": 10
+        "count": 9
       },
       {
         "type": "items",
@@ -83,7 +83,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 5
+        "count": 4
       },
       {
         "type": "radio_group",
@@ -103,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1053
+        "count": 1109
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "text",
-        "count": 72
+        "count": 60
       },
       {
         "type": "text_area",
@@ -139,11 +139,11 @@
       },
       {
         "type": "title",
-        "count": 32
+        "count": 35
       },
       {
         "type": "toggle_bar",
-        "count": 4
+        "count": 2
       },
       {
         "type": "update_action_list",
@@ -207,7 +207,7 @@
       },
       {
         "type": "pop_up",
-        "count": 27
+        "count": 33
       },
       {
         "type": "reset_app",
@@ -243,7 +243,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "44036 KB",
+        "KB": "44041 KB",
         "MB": "44 MB"
       },
       {
@@ -547,7 +547,7 @@
       {
         "path": "images/backgrounds/activity_bottom_left.png",
         "count": 1,
-        "size_kb": 3533.5
+        "size_kb": 3538.7
       },
       {
         "path": "images/backgrounds/kites.svg",
@@ -896,7 +896,7 @@
       },
       {
         "path": "images/icons/document.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 7.3
       },
       {
@@ -946,7 +946,7 @@
       },
       {
         "path": "images/icons/feather.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 3.5
       },
       {
@@ -1001,7 +1001,7 @@
       },
       {
         "path": "images/icons/key.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 5.5
       },
       {
@@ -1021,12 +1021,12 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 3,
+        "count": 4,
         "size_kb": 0.7
       },
       {
         "path": "images/icons/magnify_glass.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.9
       },
       {
@@ -1051,7 +1051,7 @@
       },
       {
         "path": "images/icons/profile_card.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 7.4
       },
       {
@@ -1141,7 +1141,7 @@
       },
       {
         "path": "images/icons/world.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 6.2
       },
       {
@@ -1366,7 +1366,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 55
+        "total": 56
       },
       {
         "type": "template",

@@ -129,7 +129,7 @@
       "image_asset": "images/child_development_yc.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_3",
-      "title": "Child Development",
+      "title": "Development Through Play",
       "_translations": {
         "title": {
           "kw_ar": true
@@ -137,7 +137,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Child Development"
+          "eng": "Development Through Play"
         }
       },
       "completed": false,
