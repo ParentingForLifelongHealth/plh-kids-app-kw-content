@@ -74,7 +74,7 @@
       "id": "app_start_login",
       "priority": 4,
       "condition_list": [
-        "(!@fields.login_completed) && @fields._deployment_name == \"plh_kids_kw\""
+        "!@fields.login_completed"
       ],
       "action_list": [
         {

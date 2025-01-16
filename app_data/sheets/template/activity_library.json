@@ -1739,6 +1739,7 @@
         "background_image_position": "bottom @local.background_image_position",
         "variant": "inline_padding"
       },
+      "condition": false,
       "exclude_from_translation": true,
       "style_list": [
         "width: 100%",

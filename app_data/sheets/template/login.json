@@ -12,7 +12,7 @@
     {
       "type": "title",
       "name": "title",
-      "value": "@global.create_an_account",
+      "value": "@global.login",
       "_translations": {
         "value": {}
       },
@@ -21,10 +21,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.create_an_account",
-            "matchedExpression": "@global.create_an_account",
+            "fullExpression": "@global.login",
+            "matchedExpression": "@global.login",
             "type": "global",
-            "fieldName": "create_an_account"
+            "fieldName": "login"
           }
         ],
         "condition": [
@@ -37,7 +37,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@global.create_an_account": [
+        "@global.login": [
           "value"
         ],
         "@local.show_title": [
@@ -103,16 +103,6 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "login_completed",
-            true
-          ],
-          "_raw": "click | set_field: login_completed: TRUE",
-          "_cleaned": "click | set_field: login_completed: TRUE"
-        },
-        {
-          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
@@ -149,16 +139,6 @@
         }
       },
       "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "login_completed",
-            true
-          ],
-          "_raw": "click | set_field: login_completed: TRUE",
-          "_cleaned": "click | set_field: login_completed: TRUE"
-        },
         {
           "trigger": "click",
           "action_id": "emit",

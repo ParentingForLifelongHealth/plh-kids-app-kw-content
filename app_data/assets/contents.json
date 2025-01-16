@@ -100,7 +100,7 @@
     "size_kb": 37.3
   },
   "images/backgrounds/library_bottom_right.png": {
-    "md5Checksum": "96f4d10c8e9eac14c806b9a243c35b81",
+    "md5Checksum": "1914b3a9b6dd9846a9e0b14099ba65ec",
     "overrides": {
       "theme_default": {
         "kw_ar": {
@@ -110,10 +110,10 @@
         }
       }
     },
-    "size_kb": 1937.5
+    "size_kb": 54
   },
   "images/backgrounds/library_top_right.png": {
-    "md5Checksum": "fb25e8382a1891a4662332c43dee5224",
+    "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
     "overrides": {
       "theme_default": {
         "kw_ar": {
@@ -123,11 +123,11 @@
         }
       }
     },
-    "size_kb": 3718.1
+    "size_kb": 1358.6
   },
-  "images/backgrounds/map_view_bg.png": {
-    "md5Checksum": "1cc8cc867437b3094f5926c473f92434",
-    "size_kb": 2514.4
+  "images/backgrounds/map_view_bg.jpg": {
+    "md5Checksum": "32ead7b148675483ce2688b12668156d",
+    "size_kb": 166.5
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",

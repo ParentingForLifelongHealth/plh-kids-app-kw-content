@@ -24,7 +24,7 @@
         {
           "type": "plh_progress_path",
           "parameter_list": {
-            "background_image_asset": "images/backgrounds/map_view_bg.png"
+            "background_image_asset": "images/backgrounds/map_view_bg.jpg"
           },
           "exclude_from_translation": true,
           "rows": [
