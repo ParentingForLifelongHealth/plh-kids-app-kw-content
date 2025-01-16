@@ -100,18 +100,6 @@
       "_translations": {
         "value": {}
       },
-      "action_list": [
-        {
-          "trigger": "changed",
-          "action_id": "set_field",
-          "args": [
-            "user_gender",
-            "this.value"
-          ],
-          "_raw": "changed | set_field: user_gender: @local.user_gender_select",
-          "_cleaned": "changed | set_field: user_gender: @local.user_gender_select"
-        }
-      ],
       "parameter_list": {
         "answer_list": "@local.user_gender_select_options"
       },
@@ -125,26 +113,6 @@
             "fieldName": "user_gender"
           }
         ],
-        "action_list": {
-          "0": {
-            "_raw": [
-              {
-                "fullExpression": "changed | set_field: user_gender: @local.user_gender_select",
-                "matchedExpression": "@local.user_gender_select",
-                "type": "local",
-                "fieldName": "user_gender_select"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "changed | set_field: user_gender: @local.user_gender_select",
-                "matchedExpression": "@local.user_gender_select",
-                "type": "local",
-                "fieldName": "user_gender_select"
-              }
-            ]
-          }
-        },
         "parameter_list": {
           "answer_list": [
             {
@@ -159,10 +127,6 @@
       "_dynamicDependencies": {
         "@fields.user_gender": [
           "value"
-        ],
-        "@local.user_gender_select": [
-          "action_list.0._raw",
-          "action_list.0._cleaned"
         ],
         "@local.user_gender_select_options": [
           "parameter_list.answer_list"
@@ -224,18 +188,6 @@
       "_translations": {
         "value": {}
       },
-      "action_list": [
-        {
-          "trigger": "changed",
-          "action_id": "set_field",
-          "args": [
-            "user_type",
-            "this.value"
-          ],
-          "_raw": "changed | set_field: user_type: @local.user_type_select",
-          "_cleaned": "changed | set_field: user_type: @local.user_type_select"
-        }
-      ],
       "parameter_list": {
         "answer_list": "@local.user_type_select_options"
       },
@@ -249,26 +201,6 @@
             "fieldName": "user_type"
           }
         ],
-        "action_list": {
-          "0": {
-            "_raw": [
-              {
-                "fullExpression": "changed | set_field: user_type: @local.user_type_select",
-                "matchedExpression": "@local.user_type_select",
-                "type": "local",
-                "fieldName": "user_type_select"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "changed | set_field: user_type: @local.user_type_select",
-                "matchedExpression": "@local.user_type_select",
-                "type": "local",
-                "fieldName": "user_type_select"
-              }
-            ]
-          }
-        },
         "parameter_list": {
           "answer_list": [
             {
@@ -284,10 +216,6 @@
         "@fields.user_type": [
           "value"
         ],
-        "@local.user_type_select": [
-          "action_list.0._raw",
-          "action_list.0._cleaned"
-        ],
         "@local.user_type_select_options": [
           "parameter_list.answer_list"
         ]
@@ -295,7 +223,7 @@
     },
     {
       "name": "continue_disabled",
-      "value": "!(!!@fields.user_gender && !!@fields.user_type)",
+      "value": "!(!!@local.user_gender_select && !!@local.user_type_select)",
       "_translations": {
         "value": {}
       },
@@ -304,24 +232,24 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "!(!!@fields.user_gender && !!@fields.user_type)",
-            "matchedExpression": "!@fields.user_gender",
-            "type": "fields",
-            "fieldName": "user_gender"
+            "fullExpression": "!(!!@local.user_gender_select && !!@local.user_type_select)",
+            "matchedExpression": "!@local.user_gender_select",
+            "type": "local",
+            "fieldName": "user_gender_select"
           },
           {
-            "fullExpression": "!(!!@fields.user_gender && !!@fields.user_type)",
-            "matchedExpression": "!@fields.user_type",
-            "type": "fields",
-            "fieldName": "user_type"
+            "fullExpression": "!(!!@local.user_gender_select && !!@local.user_type_select)",
+            "matchedExpression": "!@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
           }
         ]
       },
       "_dynamicDependencies": {
-        "!@fields.user_gender": [
+        "!@local.user_gender_select": [
           "value"
         ],
-        "!@fields.user_type": [
+        "!@local.user_type_select": [
           "value"
         ]
       }
@@ -336,6 +264,26 @@
         }
       },
       "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_gender",
+            "@local.user_gender_select"
+          ],
+          "_raw": "click | set_field: user_gender: @local.user_gender_select",
+          "_cleaned": "click | set_field: user_gender: @local.user_gender_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select",
+          "_cleaned": "click | set_field: user_type: @local.user_type_select"
+        },
         {
           "trigger": "click",
           "action_id": "set_field",
@@ -356,25 +304,83 @@
           "_cleaned": "click | emit: completed"
         }
       ],
-      "condition": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
+      "condition": "@local.user_gender_select != \"facilitator\" && @local.user_type_select != \"caregiver\"",
       "parameter_list": {
         "style": "navigation",
         "disabled": "@local.continue_disabled"
       },
       "_nested_name": "button_completed",
       "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_gender_select",
+                  "matchedExpression": "@local.user_gender_select",
+                  "type": "local",
+                  "fieldName": "user_gender_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          }
+        },
         "condition": [
           {
-            "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-            "matchedExpression": "@fields.user_type",
-            "type": "fields",
-            "fieldName": "user_type"
+            "fullExpression": "@local.user_gender_select != \"facilitator\" && @local.user_type_select != \"caregiver\"",
+            "matchedExpression": "@local.user_gender_select",
+            "type": "local",
+            "fieldName": "user_gender_select"
           },
           {
-            "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-            "matchedExpression": "@fields.user_type",
-            "type": "fields",
-            "fieldName": "user_type"
+            "fullExpression": "@local.user_gender_select != \"facilitator\" && @local.user_type_select != \"caregiver\"",
+            "matchedExpression": "@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
           }
         ],
         "parameter_list": {
@@ -389,8 +395,16 @@
         }
       },
       "_dynamicDependencies": {
-        "@fields.user_type": [
-          "condition",
+        "@local.user_gender_select": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ],
+        "@local.user_type_select": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
           "condition"
         ],
         "@local.continue_disabled": [
@@ -408,6 +422,26 @@
         }
       },
       "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_gender",
+            "@local.user_gender_select"
+          ],
+          "_raw": "click | set_field: user_gender: @local.user_gender_select",
+          "_cleaned": "click | set_field: user_gender: @local.user_gender_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select",
+          "_cleaned": "click | set_field: user_type: @local.user_type_select"
+        },
         {
           "trigger": "click",
           "action_id": "set_field",
@@ -438,19 +472,77 @@
           "_cleaned": "click | emit: completed"
         }
       ],
-      "condition": "@fields.user_type == \"facilitator\"",
+      "condition": "@local.user_type_select == \"facilitator\"",
       "parameter_list": {
         "style": "navigation",
         "disabled": "@local.continue_disabled"
       },
       "_nested_name": "button_completed",
       "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_gender_select",
+                  "matchedExpression": "@local.user_gender_select",
+                  "type": "local",
+                  "fieldName": "user_gender_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          }
+        },
         "condition": [
           {
-            "fullExpression": "@fields.user_type == \"facilitator\"",
-            "matchedExpression": "@fields.user_type",
-            "type": "fields",
-            "fieldName": "user_type"
+            "fullExpression": "@local.user_type_select == \"facilitator\"",
+            "matchedExpression": "@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
           }
         ],
         "parameter_list": {
@@ -465,7 +557,15 @@
         }
       },
       "_dynamicDependencies": {
-        "@fields.user_type": [
+        "@local.user_gender_select": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.user_type_select": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
           "condition"
         ],
         "@local.continue_disabled": [
@@ -483,6 +583,26 @@
         }
       },
       "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_gender",
+            "@local.user_gender_select"
+          ],
+          "_raw": "click | set_field: user_gender: @local.user_gender_select",
+          "_cleaned": "click | set_field: user_gender: @local.user_gender_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select",
+          "_cleaned": "click | set_field: user_type: @local.user_type_select"
+        },
         {
           "trigger": "click",
           "action_id": "set_field",
@@ -513,19 +633,77 @@
           "_cleaned": "click | emit: completed"
         }
       ],
-      "condition": "@fields.user_type == \"caregiver\"",
+      "condition": "@local.user_type_select == \"caregiver\"",
       "parameter_list": {
         "style": "navigation",
         "disabled": "@local.continue_disabled"
       },
       "_nested_name": "button_completed",
       "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_gender_select",
+                  "matchedExpression": "@local.user_gender_select",
+                  "type": "local",
+                  "fieldName": "user_gender_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          }
+        },
         "condition": [
           {
-            "fullExpression": "@fields.user_type == \"caregiver\"",
-            "matchedExpression": "@fields.user_type",
-            "type": "fields",
-            "fieldName": "user_type"
+            "fullExpression": "@local.user_type_select == \"caregiver\"",
+            "matchedExpression": "@local.user_type_select",
+            "type": "local",
+            "fieldName": "user_type_select"
           }
         ],
         "parameter_list": {
@@ -540,7 +718,15 @@
         }
       },
       "_dynamicDependencies": {
-        "@fields.user_type": [
+        "@local.user_gender_select": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.user_type_select": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
           "condition"
         ],
         "@local.continue_disabled": [
