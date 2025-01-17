@@ -12,4 +12,4 @@ jobs:
     uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-pr-preview.yml@refactor/gh-action-reusable-secrets
     secrets:
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-      DEPLOYMENT_PRIVATE_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}
