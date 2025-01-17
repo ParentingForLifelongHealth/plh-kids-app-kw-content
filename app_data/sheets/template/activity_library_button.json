@@ -79,6 +79,54 @@
       }
     },
     {
+      "name": "activity_row_locked",
+      "value": "@local.activity_row.locked",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "activity_row_locked",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.activity_row.locked",
+            "matchedExpression": "@local.activity_row.locked",
+            "type": "local",
+            "fieldName": "activity_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.activity_row.locked": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "activity_row_favourite",
+      "value": "@local.activity_row.favourite",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "activity_row_favourite",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.activity_row.favourite",
+            "matchedExpression": "@local.activity_row.favourite",
+            "type": "local",
+            "fieldName": "activity_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.activity_row.favourite": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "card",
       "value": "@local.activity_row.title",
@@ -99,10 +147,11 @@
           "trigger": "click",
           "action_id": "set_data",
           "args": [],
-          "_raw": "click | set_data | \n\n_list_id: activities,\naccessed: true",
-          "_cleaned": "click | set_data | \n\n_list_id: activities,\naccessed: true",
+          "_raw": "click | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\naccessed: true",
+          "_cleaned": "click | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\naccessed: true",
           "params": {
             "_list_id": "activities",
+            "_id": "@local.activity_id",
             "accessed": true
           }
         }
@@ -110,14 +159,14 @@
       "parameter_list": {
         "variant": "card-portrait",
         "image_asset": "@local.activity_row.image_asset",
-        "disabled": "@local.activity_row.locked"
+        "disabled": "@local.activity_row_locked"
       },
       "exclude_from_translation": true,
       "rows": [
         {
           "type": "toggle_bar",
           "name": "toggle",
-          "value": "@local.activity_row.favourite",
+          "value": "@local.activity_row_favourite",
           "_translations": {
             "value": {}
           },
@@ -126,10 +175,11 @@
               "trigger": "changed",
               "action_id": "set_data",
               "args": [],
-              "_raw": "changed | set_data | \n\n_list_id: activities,\nfavourite: !@item.favourite",
-              "_cleaned": "changed | set_data | \n\n_list_id: activities,\nfavourite: !@item.favourite",
+              "_raw": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
+              "_cleaned": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
               "params": {
                 "_list_id": "activities",
+                "_id": "@local.activity_id",
                 "favourite": "!@item.favourite"
               }
             }
@@ -139,23 +189,29 @@
             "icon_true_asset": "images/icons/heart_filled_red.png",
             "icon_false_asset": "images/icons/heart.png"
           },
-          "condition": "!@local.activity_row.locked",
+          "condition": "!@local.activity_row_locked",
           "exclude_from_translation": true,
           "_nested_name": "card.toggle",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.activity_row.favourite",
-                "matchedExpression": "@local.activity_row.favourite",
+                "fullExpression": "@local.activity_row_favourite",
+                "matchedExpression": "@local.activity_row_favourite",
                 "type": "local",
-                "fieldName": "activity_row"
+                "fieldName": "activity_row_favourite"
               }
             ],
             "action_list": {
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\nfavourite: !@item.favourite",
+                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  },
+                  {
+                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
                     "matchedExpression": "!@item.favourite",
                     "type": "item",
                     "fieldName": "favourite"
@@ -163,13 +219,27 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\nfavourite: !@item.favourite",
+                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
+                    "matchedExpression": "@local.activity_id",
+                    "type": "local",
+                    "fieldName": "activity_id"
+                  },
+                  {
+                    "fullExpression": "changed | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\nfavourite: !@item.favourite",
                     "matchedExpression": "!@item.favourite",
                     "type": "item",
                     "fieldName": "favourite"
                   }
                 ],
                 "params": {
+                  "_id": [
+                    {
+                      "fullExpression": "@local.activity_id",
+                      "matchedExpression": "@local.activity_id",
+                      "type": "local",
+                      "fieldName": "activity_id"
+                    }
+                  ],
                   "favourite": [
                     {
                       "fullExpression": "!@item.favourite",
@@ -183,23 +253,28 @@
             },
             "condition": [
               {
-                "fullExpression": "!@local.activity_row.locked",
-                "matchedExpression": "!@local.activity_row.locked",
+                "fullExpression": "!@local.activity_row_locked",
+                "matchedExpression": "!@local.activity_row_locked",
                 "type": "local",
-                "fieldName": "activity_row"
+                "fieldName": "activity_row_locked"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.activity_row.favourite": [
+            "@local.activity_row_favourite": [
               "value"
+            ],
+            "@local.activity_id": [
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "action_list.0.params._id"
             ],
             "!@item.favourite": [
               "action_list.0._raw",
               "action_list.0._cleaned",
               "action_list.0.params.favourite"
             ],
-            "!@local.activity_row.locked": [
+            "!@local.activity_row_locked": [
               "condition"
             ]
           }
@@ -211,21 +286,21 @@
           "_translations": {
             "value": {}
           },
-          "condition": "@local.activity_row.locked",
+          "condition": "@local.activity_row_locked",
           "exclude_from_translation": true,
           "_nested_name": "card.image_locked",
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "@local.activity_row.locked",
-                "matchedExpression": "@local.activity_row.locked",
+                "fullExpression": "@local.activity_row_locked",
+                "matchedExpression": "@local.activity_row_locked",
                 "type": "local",
-                "fieldName": "activity_row"
+                "fieldName": "activity_row_locked"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.activity_row.locked": [
+            "@local.activity_row_locked": [
               "condition"
             ]
           }
@@ -269,6 +344,34 @@
                 }
               ]
             }
+          },
+          "1": {
+            "_raw": [
+              {
+                "fullExpression": "click | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\naccessed: true",
+                "matchedExpression": "@local.activity_id",
+                "type": "local",
+                "fieldName": "activity_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_data | \n\n_list_id: activities,\n_id: @local.activity_id,\naccessed: true",
+                "matchedExpression": "@local.activity_id",
+                "type": "local",
+                "fieldName": "activity_id"
+              }
+            ],
+            "params": {
+              "_id": [
+                {
+                  "fullExpression": "@local.activity_id",
+                  "matchedExpression": "@local.activity_id",
+                  "type": "local",
+                  "fieldName": "activity_id"
+                }
+              ]
+            }
           }
         },
         "parameter_list": {
@@ -282,10 +385,10 @@
           ],
           "disabled": [
             {
-              "fullExpression": "@local.activity_row.locked",
-              "matchedExpression": "@local.activity_row.locked",
+              "fullExpression": "@local.activity_row_locked",
+              "matchedExpression": "@local.activity_row_locked",
               "type": "local",
-              "fieldName": "activity_row"
+              "fieldName": "activity_row_locked"
             }
           ]
         }
@@ -297,12 +400,15 @@
         "@local.activity_id": [
           "action_list.0._raw",
           "action_list.0._cleaned",
-          "action_list.0.params.template"
+          "action_list.0.params.template",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
+          "action_list.1.params._id"
         ],
         "@local.activity_row.image_asset": [
           "parameter_list.image_asset"
         ],
-        "@local.activity_row.locked": [
+        "@local.activity_row_locked": [
           "parameter_list.disabled"
         ]
       }

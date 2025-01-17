@@ -965,6 +965,76 @@
                       "_nested_name"
                     ]
                   }
+                },
+                {
+                  "name": "activity_row_locked",
+                  "value": "@item.locked",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.activity_row_locked",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.locked",
+                        "matchedExpression": "@item.locked",
+                        "type": "item",
+                        "fieldName": "locked"
+                      }
+                    ],
+                    "_nested_name": [
+                      {
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.activity_row_locked",
+                        "matchedExpression": "@item.id.activity_row_locked",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.locked": [
+                      "value"
+                    ],
+                    "@item.id.activity_row_locked": [
+                      "_nested_name"
+                    ]
+                  }
+                },
+                {
+                  "name": "activity_row_favourite",
+                  "value": "@item.favourite",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.activity_row_favourite",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.favourite",
+                        "matchedExpression": "@item.favourite",
+                        "type": "item",
+                        "fieldName": "favourite"
+                      }
+                    ],
+                    "_nested_name": [
+                      {
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.activity_row_favourite",
+                        "matchedExpression": "@item.id.activity_row_favourite",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.favourite": [
+                      "value"
+                    ],
+                    "@item.id.activity_row_favourite": [
+                      "_nested_name"
+                    ]
+                  }
                 }
               ],
               "_nested_name": "display_grid.loop_activities.card_@item.id",
