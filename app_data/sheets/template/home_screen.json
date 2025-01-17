@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "0 0"
+      }
+    }
+  },
   "rows": [
     {
       "name": "false_text",
@@ -58,12 +65,12 @@
       "name": "dg_top",
       "parameter_list": {
         "sticky": "top",
-        "style": "background_solid"
+        "style": "background_solid",
+        "variant": "inline_padding"
       },
       "exclude_from_translation": true,
       "style_list": [
-        "justify-content: space-between",
-        "padding: 0 24px"
+        "justify-content: space-between"
       ],
       "rows": [
         {
@@ -106,9 +113,6 @@
             "position": "right"
           },
           "exclude_from_translation": true,
-          "style_list": [
-            "margin: 0 24px"
-          ],
           "_nested_name": "dg_top.display_modules_as_list",
           "_dynamicFields": {
             "value": [
@@ -214,6 +218,10 @@
     {
       "type": "display_group",
       "name": "module_list",
+      "parameter_list": {
+        "variant": "inline_padding",
+        "style": "column"
+      },
       "condition": "@fields.display_modules_as_list",
       "exclude_from_translation": true,
       "rows": [

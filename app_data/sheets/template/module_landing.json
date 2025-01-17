@@ -5,7 +5,7 @@
   "parameter_list": {
     "app_config": {
       "LAYOUT": {
-        "page_padding": 0
+        "page_padding": "0 0"
       }
     }
   },
@@ -207,6 +207,7 @@
       "type": "display_group",
       "name": "dg_bottom",
       "parameter_list": {
+        "variant": "inline_padding",
         "style": "column"
       },
       "exclude_from_translation": true,

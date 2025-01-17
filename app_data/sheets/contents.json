@@ -3493,6 +3493,13 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "hp_challenges": {
@@ -3570,7 +3577,7 @@
       "parameter_list": {
         "app_config": {
           "LAYOUT": {
-            "page_padding": 0
+            "page_padding": "0 0"
           }
         }
       },
@@ -3644,6 +3651,13 @@
     "settings": {
       "flow_type": "template",
       "flow_name": "settings",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "24px 0"
+          }
+        }
+      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "settings_about": {
@@ -3659,18 +3673,6 @@
     "settings_language_select": {
       "flow_type": "template",
       "flow_name": "settings_language_select",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
-    "settings_margins": {
-      "flow_type": "template",
-      "flow_name": "settings_margins",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": "0 24px"
-          }
-        }
-      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "settings_privacy_policy": {
