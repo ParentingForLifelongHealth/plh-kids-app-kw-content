@@ -1,7 +1,16 @@
 {
-  "flow_name": "module_landing_consequences",
-  "flow_subtype": "generated",
   "flow_type": "template",
+  "flow_name": "module_landing_oneononetime",
+  "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "0 0"
+      }
+    }
+  },
+  "__EMPTY": "oneononetime",
+  "__EMPTY_1": 27,
   "rows": [
     {
       "type": "template",
@@ -30,15 +39,17 @@
       "rows": [
         {
           "name": "module_id",
-          "value": "consequences",
+          "value": "oneononetime",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "module_landing.module_id"
         }
       ],
       "_nested_name": "module_landing"
     }
-  ]
+  ],
+  "_xlsxPath": "KW module_navigation.xlsx"
 }
