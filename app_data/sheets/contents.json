@@ -2161,9 +2161,14 @@
       "flow_name": "activity_library",
       "_xlsxPath": "KW activity library.xlsx"
     },
-    "activity_library_translation": {
+    "activity_library_button": {
       "flow_type": "template",
-      "flow_name": "activity_library_translation",
+      "flow_name": "activity_library_button",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
+    "activity_library_sub": {
+      "flow_type": "template",
+      "flow_name": "activity_library_sub",
       "_xlsxPath": "KW activity library.xlsx"
     },
     "app_about": {
