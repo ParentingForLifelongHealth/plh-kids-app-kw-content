@@ -12,3 +12,4 @@ jobs:
     uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-pr-preview.yml@master
     secrets:
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}
