@@ -2161,6 +2161,11 @@
       "flow_name": "activity_library",
       "_xlsxPath": "KW activity library.xlsx"
     },
+    "activity_library_translation": {
+      "flow_type": "template",
+      "flow_name": "activity_library_translation",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -3490,8 +3495,8 @@
           }
         }
       },
-      "__EMPTY": "childdevelopment",
-      "__EMPTY_1": 31,
+      "comment": "childdevelopment",
+      "comment_2": 31,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_consequences": {
@@ -3504,8 +3509,8 @@
           }
         }
       },
-      "__EMPTY": "consequences",
-      "__EMPTY_1": 27,
+      "comment": "consequences",
+      "comment_2": 27,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_feelings": {
@@ -3518,8 +3523,8 @@
           }
         }
       },
-      "__EMPTY": "feelings",
-      "__EMPTY_1": 23,
+      "comment": "feelings",
+      "comment_2": 23,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_instructions": {
@@ -3532,8 +3537,8 @@
           }
         }
       },
-      "__EMPTY": "instructions",
-      "__EMPTY_1": 27,
+      "comment": "instructions",
+      "comment_2": 27,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_oneononetime": {
@@ -3546,8 +3551,8 @@
           }
         }
       },
-      "__EMPTY": "oneononetime",
-      "__EMPTY_1": 27,
+      "comment": "oneononetime",
+      "comment_2": 27,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_praise": {
@@ -3560,8 +3565,8 @@
           }
         }
       },
-      "__EMPTY": "praise",
-      "__EMPTY_1": 21,
+      "comment": "praise",
+      "comment_2": 21,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_problemsolving": {
@@ -3574,8 +3579,8 @@
           }
         }
       },
-      "__EMPTY": "problemsolving",
-      "__EMPTY_1": 29,
+      "comment": "problemsolving",
+      "comment_2": 29,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_rulesroutines": {
@@ -3588,8 +3593,8 @@
           }
         }
       },
-      "__EMPTY": "rulesroutines",
-      "__EMPTY_1": 28,
+      "comment": "rulesroutines",
+      "comment_2": 28,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_landing_selfcare": {
@@ -3602,8 +3607,8 @@
           }
         }
       },
-      "__EMPTY": "selfcare",
-      "__EMPTY_1": 23,
+      "comment": "selfcare",
+      "comment_2": 23,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_list_item": {

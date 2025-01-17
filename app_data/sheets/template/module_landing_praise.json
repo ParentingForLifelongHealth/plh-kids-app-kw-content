@@ -9,8 +9,8 @@
       }
     }
   },
-  "__EMPTY": "praise",
-  "__EMPTY_1": 21,
+  "comment": "praise",
+  "comment_2": 21,
   "rows": [
     {
       "type": "template",
