@@ -257,9 +257,6 @@
       "_metadata": {
         "priority": {
           "type": "number"
-        },
-        "condition_list": {
-          "type": "boolean"
         }
       }
     },

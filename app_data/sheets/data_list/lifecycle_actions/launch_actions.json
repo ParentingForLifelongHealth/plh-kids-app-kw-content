@@ -71,27 +71,6 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_login",
-      "priority": 4,
-      "condition_list": false,
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "pop_up",
-          "args": [
-            "login"
-          ],
-          "_raw": "pop_up: login | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: login | fullscreen: true, showCloseButton: false",
-          "params": {
-            "fullscreen": true,
-            "showCloseButton": false
-          }
-        }
-      ]
-    },
-    {
-      "lifecycle_event": "app_start",
       "id": "app_start_user_data",
       "priority": 5,
       "condition_list": [
@@ -134,9 +113,6 @@
   "_metadata": {
     "priority": {
       "type": "number"
-    },
-    "condition_list": {
-      "type": "boolean"
     }
   }
 }
