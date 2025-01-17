@@ -775,7 +775,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "would_you_like_to_create_an_account?_this_will_allow_you_to_retrieve_your_data_if_you_lose_your_device.",
+      "name": "create_account_question",
       "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
       "_translations": {
         "value": {

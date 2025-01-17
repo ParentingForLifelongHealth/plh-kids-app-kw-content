@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "activity_library",
+  "flow_name": "activity_library_sub",
   "status": "released",
   "rows": [
     {
@@ -925,133 +925,33 @@
               }
             },
             {
-              "type": "button",
+              "type": "template",
               "name": "card_@item.id",
-              "value": "@item.title",
-              "action_list": [
-                {
-                  "trigger": "click",
-                  "action_id": "nav_stack",
-                  "args": [
-                    "open"
-                  ],
-                  "_raw": "click | nav_stack: open | template: activity_@item.id",
-                  "_cleaned": "click | nav_stack: open | template: activity_@item.id",
-                  "params": {
-                    "template": "activity_@item.id"
-                  }
-                },
-                {
-                  "trigger": "click",
-                  "action_id": "set_item",
-                  "args": [],
-                  "_raw": "click | set_item | accessed: true",
-                  "_cleaned": "click | set_item | accessed: true",
-                  "params": {
-                    "accessed": true
-                  }
-                }
-              ],
-              "parameter_list": {
-                "variant": "card-portrait",
-                "image_asset": "@item.image_asset",
-                "disabled": "@item.locked"
-              },
+              "value": "activity_library_button",
               "hidden": "(@local.filter == \"favourite\" && !@item.favourite) || (@local.filter == \"not_locked\" && @item.locked)",
               "exclude_from_translation": true,
               "rows": [
                 {
-                  "type": "toggle_bar",
-                  "name": "toggle_@item.id",
-                  "value": "@item.favourite",
+                  "name": "activity_id",
+                  "value": "@item.id",
                   "_translations": {
                     "value": {}
                   },
-                  "action_list": [
-                    {
-                      "trigger": "changed",
-                      "action_id": "set_item",
-                      "args": [],
-                      "_raw": "changed | set_item | favourite: !@item.favourite",
-                      "_cleaned": "changed | set_item | favourite: !@item.favourite",
-                      "params": {
-                        "favourite": "!@item.favourite"
-                      }
-                    }
-                  ],
-                  "parameter_list": {
-                    "variant": "icon",
-                    "icon_true_asset": "images/icons/heart_filled_red.png",
-                    "icon_false_asset": "images/icons/heart.png"
-                  },
-                  "condition": "!@item.locked",
-                  "exclude_from_translation": true,
-                  "_nested_name": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
+                  "type": "set_variable",
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.activity_id",
                   "_dynamicFields": {
-                    "name": [
+                    "value": [
                       {
-                        "fullExpression": "toggle_@item.id",
+                        "fullExpression": "@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
-                      }
-                    ],
-                    "value": [
-                      {
-                        "fullExpression": "@item.favourite",
-                        "matchedExpression": "@item.favourite",
-                        "type": "item",
-                        "fieldName": "favourite"
-                      }
-                    ],
-                    "action_list": {
-                      "0": {
-                        "_raw": [
-                          {
-                            "fullExpression": "changed | set_item | favourite: !@item.favourite",
-                            "matchedExpression": "!@item.favourite",
-                            "type": "item",
-                            "fieldName": "favourite"
-                          }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "changed | set_item | favourite: !@item.favourite",
-                            "matchedExpression": "!@item.favourite",
-                            "type": "item",
-                            "fieldName": "favourite"
-                          }
-                        ],
-                        "params": {
-                          "favourite": [
-                            {
-                              "fullExpression": "!@item.favourite",
-                              "matchedExpression": "!@item.favourite",
-                              "type": "item",
-                              "fieldName": "favourite"
-                            }
-                          ]
-                        }
-                      }
-                    },
-                    "condition": [
-                      {
-                        "fullExpression": "!@item.locked",
-                        "matchedExpression": "!@item.locked",
-                        "type": "item",
-                        "fieldName": "locked"
                       }
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
-                        "matchedExpression": "@item.id.toggle_",
-                        "type": "item",
-                        "fieldName": "id"
-                      },
-                      {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.toggle_@item.id",
-                        "matchedExpression": "@item.id",
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.activity_id",
+                        "matchedExpression": "@item.id.activity_id",
                         "type": "item",
                         "fieldName": "id"
                       }
@@ -1059,45 +959,23 @@
                   },
                   "_dynamicDependencies": {
                     "@item.id": [
-                      "name",
-                      "_nested_name"
-                    ],
-                    "@item.favourite": [
                       "value"
                     ],
-                    "!@item.favourite": [
-                      "action_list.0._raw",
-                      "action_list.0._cleaned",
-                      "action_list.0.params.favourite"
-                    ],
-                    "!@item.locked": [
-                      "condition"
-                    ],
-                    "@item.id.toggle_": [
+                    "@item.id.activity_id": [
                       "_nested_name"
                     ]
                   }
                 },
                 {
-                  "type": "image",
-                  "name": "image_locked_@item.id",
-                  "value": "images/icons/locked.png",
+                  "name": "activity_row_locked",
+                  "value": "@item.locked",
                   "_translations": {
                     "value": {}
                   },
-                  "condition": "@item.locked",
-                  "exclude_from_translation": true,
-                  "_nested_name": "display_grid.loop_activities.card_@item.id.image_locked_@item.id",
+                  "type": "set_variable",
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.activity_row_locked",
                   "_dynamicFields": {
-                    "name": [
-                      {
-                        "fullExpression": "image_locked_@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "condition": [
+                    "value": [
                       {
                         "fullExpression": "@item.locked",
                         "matchedExpression": "@item.locked",
@@ -1107,28 +985,53 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.image_locked_@item.id",
-                        "matchedExpression": "@item.id.image_locked_",
-                        "type": "item",
-                        "fieldName": "id"
-                      },
-                      {
-                        "fullExpression": "display_grid.loop_activities.card_@item.id.image_locked_@item.id",
-                        "matchedExpression": "@item.id",
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.activity_row_locked",
+                        "matchedExpression": "@item.id.activity_row_locked",
                         "type": "item",
                         "fieldName": "id"
                       }
                     ]
                   },
                   "_dynamicDependencies": {
-                    "@item.id": [
-                      "name",
-                      "_nested_name"
-                    ],
                     "@item.locked": [
-                      "condition"
+                      "value"
                     ],
-                    "@item.id.image_locked_": [
+                    "@item.id.activity_row_locked": [
+                      "_nested_name"
+                    ]
+                  }
+                },
+                {
+                  "name": "activity_row_favourite",
+                  "value": "@item.favourite",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_grid.loop_activities.card_@item.id.activity_row_favourite",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.favourite",
+                        "matchedExpression": "@item.favourite",
+                        "type": "item",
+                        "fieldName": "favourite"
+                      }
+                    ],
+                    "_nested_name": [
+                      {
+                        "fullExpression": "display_grid.loop_activities.card_@item.id.activity_row_favourite",
+                        "matchedExpression": "@item.id.activity_row_favourite",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.favourite": [
+                      "value"
+                    ],
+                    "@item.id.activity_row_favourite": [
                       "_nested_name"
                     ]
                   }
@@ -1144,62 +1047,6 @@
                     "fieldName": "id"
                   }
                 ],
-                "value": [
-                  {
-                    "fullExpression": "@item.title",
-                    "matchedExpression": "@item.title",
-                    "type": "item",
-                    "fieldName": "title"
-                  }
-                ],
-                "action_list": {
-                  "0": {
-                    "_raw": [
-                      {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | nav_stack: open | template: activity_@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "params": {
-                      "template": [
-                        {
-                          "fullExpression": "activity_@item.id",
-                          "matchedExpression": "@item.id",
-                          "type": "item",
-                          "fieldName": "id"
-                        }
-                      ]
-                    }
-                  }
-                },
-                "parameter_list": {
-                  "image_asset": [
-                    {
-                      "fullExpression": "@item.image_asset",
-                      "matchedExpression": "@item.image_asset",
-                      "type": "item",
-                      "fieldName": "image_asset"
-                    }
-                  ],
-                  "disabled": [
-                    {
-                      "fullExpression": "@item.locked",
-                      "matchedExpression": "@item.locked",
-                      "type": "item",
-                      "fieldName": "locked"
-                    }
-                  ]
-                },
                 "hidden": [
                   {
                     "fullExpression": "(@local.filter == \"favourite\" && !@item.favourite) || (@local.filter == \"not_locked\" && @item.locked)",
@@ -1238,26 +1085,16 @@
               "_dynamicDependencies": {
                 "@item.id": [
                   "name",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned",
-                  "action_list.0.params.template",
                   "_nested_name"
-                ],
-                "@item.title": [
-                  "value"
-                ],
-                "@item.image_asset": [
-                  "parameter_list.image_asset"
-                ],
-                "@item.locked": [
-                  "parameter_list.disabled",
-                  "hidden"
                 ],
                 "@local.filter": [
                   "hidden",
                   "hidden"
                 ],
                 "!@item.favourite": [
+                  "hidden"
+                ],
+                "@item.locked": [
                   "hidden"
                 ]
               }

@@ -1168,64 +1168,6 @@
         }
       ]
     },
-    "gen_module_landing": {
-      "flow_type": "generator",
-      "flow_name": "gen_module_landing",
-      "parameter_list": {
-        "input_data_list": "modules",
-        "output_flow_name": "module_landing_@gen.id",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_xlsxPath": "KW module_navigation.xlsx",
-      "_output_flows": [
-        {
-          "flow_name": "module_landing_selfcare",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_oneononetime",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_feelings",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_praise",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_instructions",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_rulesroutines",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_childdevelopment",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_consequences",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_landing_problemsolving",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "gen_module_overview": {
       "flow_type": "generator",
       "flow_name": "gen_module_overview",
@@ -2219,6 +2161,16 @@
       "flow_name": "activity_library",
       "_xlsxPath": "KW activity library.xlsx"
     },
+    "activity_library_button": {
+      "flow_type": "template",
+      "flow_name": "activity_library_button",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
+    "activity_library_sub": {
+      "flow_type": "template",
+      "flow_name": "activity_library_sub",
+      "_xlsxPath": "KW activity library.xlsx"
+    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -3210,51 +3162,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_landing_childdevelopment": {
-      "flow_name": "module_landing_childdevelopment",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_consequences": {
-      "flow_name": "module_landing_consequences",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_feelings": {
-      "flow_name": "module_landing_feelings",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_instructions": {
-      "flow_name": "module_landing_instructions",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_oneononetime": {
-      "flow_name": "module_landing_oneononetime",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_praise": {
-      "flow_name": "module_landing_praise",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_problemsolving": {
-      "flow_name": "module_landing_problemsolving",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_rulesroutines": {
-      "flow_name": "module_landing_rulesroutines",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_landing_selfcare": {
-      "flow_name": "module_landing_selfcare",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_oneononetime": {
       "flow_name": "module_oneononetime",
       "flow_subtype": "generated",
@@ -3493,6 +3400,13 @@
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "hp_challenges": {
@@ -3544,6 +3458,11 @@
       "flow_name": "library",
       "_xlsxPath": "templates/app_navigation.xlsx"
     },
+    "login": {
+      "flow_type": "template",
+      "flow_name": "login",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
+    },
     "media_transcript": {
       "flow_type": "template",
       "flow_name": "media_transcript",
@@ -3565,10 +3484,136 @@
       "parameter_list": {
         "app_config": {
           "LAYOUT": {
-            "page_padding": 0
+            "page_padding": "0 0"
           }
         }
       },
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_childdevelopment": {
+      "flow_type": "template",
+      "flow_name": "module_landing_childdevelopment",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "childdevelopment",
+      "comment_2": 31,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_consequences": {
+      "flow_type": "template",
+      "flow_name": "module_landing_consequences",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "consequences",
+      "comment_2": 27,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_feelings": {
+      "flow_type": "template",
+      "flow_name": "module_landing_feelings",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "feelings",
+      "comment_2": 23,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_instructions": {
+      "flow_type": "template",
+      "flow_name": "module_landing_instructions",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "instructions",
+      "comment_2": 27,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_oneononetime": {
+      "flow_type": "template",
+      "flow_name": "module_landing_oneononetime",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "oneononetime",
+      "comment_2": 27,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_praise": {
+      "flow_type": "template",
+      "flow_name": "module_landing_praise",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "praise",
+      "comment_2": 21,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_problemsolving": {
+      "flow_type": "template",
+      "flow_name": "module_landing_problemsolving",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "problemsolving",
+      "comment_2": 29,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_rulesroutines": {
+      "flow_type": "template",
+      "flow_name": "module_landing_rulesroutines",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "rulesroutines",
+      "comment_2": 28,
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
+    "module_landing_selfcare": {
+      "flow_type": "template",
+      "flow_name": "module_landing_selfcare",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "0 0"
+          }
+        }
+      },
+      "comment": "selfcare",
+      "comment_2": 23,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_list_item": {
@@ -3639,6 +3684,13 @@
     "settings": {
       "flow_type": "template",
       "flow_name": "settings",
+      "parameter_list": {
+        "app_config": {
+          "LAYOUT": {
+            "page_padding": "24px 0"
+          }
+        }
+      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "settings_about": {
@@ -3654,18 +3706,6 @@
     "settings_language_select": {
       "flow_type": "template",
       "flow_name": "settings_language_select",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
-    "settings_margins": {
-      "flow_type": "template",
-      "flow_name": "settings_margins",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": "0 24px"
-          }
-        }
-      },
       "_xlsxPath": "KW app_navigation.xlsx"
     },
     "settings_privacy_policy": {
@@ -3696,6 +3736,11 @@
     "user_data": {
       "flow_type": "template",
       "flow_name": "user_data",
+      "_xlsxPath": "templates/kids app_launch.xlsx"
+    },
+    "user_data_disabled": {
+      "flow_type": "template",
+      "flow_name": "user_data_disabled",
       "_xlsxPath": "templates/kids app_launch.xlsx"
     },
     "user_id": {
