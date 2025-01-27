@@ -43,7 +43,7 @@
       },
       {
         "type": "items",
-        "count": 10
+        "count": 9
       },
       {
         "type": "lottie_animation",
@@ -111,7 +111,7 @@
       },
       {
         "type": "task_card",
-        "count": 3
+        "count": 4
       },
       {
         "type": "task_progress_bar",
@@ -203,7 +203,7 @@
       },
       {
         "type": "go_to",
-        "count": 11
+        "count": 12
       },
       {
         "type": "nav_stack",
@@ -223,7 +223,7 @@
       },
       {
         "type": "set_field",
-        "count": 47
+        "count": 48
       },
       {
         "type": "set_item",

@@ -30,7 +30,7 @@
 | set_field | 4 |
 | set_variable | 1089 |
 | simple_checkbox | 1 |
-| task_card | 3 |
+| task_card | 4 |
 | task_progress_bar | 2 |
 | template | 312 |
 | text | 90 |
