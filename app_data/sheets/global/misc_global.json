@@ -802,6 +802,14 @@
           "kw_ar": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in",
+      "value": "You are logged in.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx"

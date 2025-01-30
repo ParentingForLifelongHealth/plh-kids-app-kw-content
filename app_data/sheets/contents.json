@@ -3629,7 +3629,7 @@
     "module_path": {
       "flow_type": "template",
       "flow_name": "module_path",
-      "_xlsxPath": "templates/modules/module_navigation.xlsx"
+      "_xlsxPath": "KW module_navigation.xlsx"
     },
     "module_start_at_id": {
       "flow_type": "template",
