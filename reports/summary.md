@@ -6,7 +6,7 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 66 |
+| button | 65 |
 | combo_box | 6 |
 | data_items | 61 |
 | debug_toggle | 1 |
@@ -53,7 +53,7 @@
 | auth | 2 |
 | emit: completed | 235 |
 | emit: force_reload | 3 |
-| emit: force_reprocess | 10 |
+| emit: force_reprocess | 9 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |

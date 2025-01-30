@@ -274,26 +274,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "type": "button",
-      "name": "debug",
-      "value": "Refresh",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "force_reprocess"
-          ],
-          "_raw": "click | emit: force_reprocess",
-          "_cleaned": "click | emit: force_reprocess"
-        }
-      ],
-      "_nested_name": "debug"
     }
   ],
   "_xlsxPath": "templates/kids app_launch.xlsx"

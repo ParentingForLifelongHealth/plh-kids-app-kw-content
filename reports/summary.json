@@ -15,7 +15,7 @@
       },
       {
         "type": "button",
-        "count": 66
+        "count": 65
       },
       {
         "type": "combo_box",
@@ -179,7 +179,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 10
+        "count": 9
       },
       {
         "type": "emit: force_restart",
