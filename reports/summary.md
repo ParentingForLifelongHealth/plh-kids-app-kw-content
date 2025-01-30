@@ -6,14 +6,14 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 64 |
+| button | 66 |
 | combo_box | 6 |
-| data_items | 59 |
+| data_items | 61 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 56 |
+| display_group | 58 |
 | image | 11 |
-| items | 10 |
+| items | 9 |
 | lottie_animation | 3 |
 | nested_properties | 54 |
 | number_selector | 1 |
@@ -28,12 +28,12 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1089 |
+| set_variable | 1099 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 312 |
-| text | 90 |
+| template | 311 |
+| text | 95 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
@@ -50,21 +50,21 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| auth | 1 |
+| auth | 2 |
 | emit: completed | 235 |
 | emit: force_reload | 3 |
-| emit: force_reprocess | 7 |
+| emit: force_reprocess | 10 |
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
 | emit: uncompleted | 231 |
 | feedback | 13 |
-| go_to | 11 |
+| go_to | 12 |
 | nav_stack | 80 |
 | pop_up | 27 |
 | reset_app | 1 |
 | set_data | 30 |
-| set_field | 47 |
+| set_field | 49 |
 | set_item | 26 |
 | set_local | 23 |
 | task | 3 |
@@ -76,7 +76,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 37995 KB | 38 MB |
+| total | 37283 KB | 37.3 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -219,7 +219,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/activity_bottom_left.png | 3538.7 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/library_top_right.png | 1358.6 | 2 |
-| images/backgrounds/map_view_bg.jpg | 765.7 | 1 |
+| images/backgrounds/map_view_bg.jpg | 166.3 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -297,7 +297,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/faces/tired.svg | 54 | 18 |
 | images/icons/feather.svg | 3.5 | 1 |
 | images/icons/football_blue.png | 5.1 | 2 |
-| images/icons/heart.png | 0.8 | 3 |
+| images/icons/heart.png | 1.3 | 3 |
 | images/icons/heart_filled.png | 1.4 | 2 |
 | images/icons/heart_filled_active.png | 1.5 | 2 |
 | images/icons/heart_filled_blue.png | 4.9 | 12 |
@@ -310,7 +310,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
-| images/icons/locked.png | 0.7 | 5 |
+| images/icons/locked.png | 0.7 | 6 |
 | images/icons/magnify_glass.svg | 1.9 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/notification_bell.png | 0.9 | 1 |
@@ -361,7 +361,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/shell_closed.png | 452.4 | 1 |
 | images/shell_open.png | 1031.9 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
-| lottie/gift_box.json | 787.9 | 1 |
+| lottie/gift_box.json | 674.5 | 1 |
 </details>
 
 <details >
