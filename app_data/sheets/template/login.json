@@ -46,83 +46,105 @@
       }
     },
     {
-      "type": "text",
-      "name": "text",
-      "value": "@global.create_account_question",
-      "_translations": {
-        "value": {}
+      "type": "display_group",
+      "name": "login",
+      "condition": "!(@fields._auth_user_id)",
+      "parameter_list": {
+        "style": "column"
       },
-      "_nested_name": "text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.create_account_question",
-            "matchedExpression": "@global.create_account_question",
-            "type": "global",
-            "fieldName": "create_account_question"
+      "rows": [
+        {
+          "type": "text",
+          "name": "text_login",
+          "value": "@global.create_account_question",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "login.text_login",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.create_account_question",
+                "matchedExpression": "@global.create_account_question",
+                "type": "global",
+                "fieldName": "create_account_question"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.create_account_question": [
+              "value"
+            ]
           }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.create_account_question": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "button_login",
-      "value": "Login",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "auth",
-          "args": [
-            "sign_in_google"
-          ],
-          "_raw": "click | auth: sign_in_google",
-          "_cleaned": "click | auth: sign_in_google"
-        }
-      ],
-      "_nested_name": "button_login"
-    },
-    {
-      "type": "button",
-      "name": "button_completed",
-      "value": "Skip",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "click | emit: completed",
-          "_cleaned": "click | emit: completed"
         },
         {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "login_skipped",
-            true
+          "type": "button",
+          "name": "button_login",
+          "value": "Login",
+          "_translations": {
+            "value": {
+              "kw_ar": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "auth",
+              "args": [
+                "sign_in_google"
+              ],
+              "_raw": "click | auth: sign_in_google",
+              "_cleaned": "click | auth: sign_in_google"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess",
+              "_cleaned": "click | emit: force_reprocess"
+            }
           ],
-          "_raw": "click | set_field: login_skipped: true",
-          "_cleaned": "click | set_field: login_skipped: true"
+          "_nested_name": "login.button_login"
+        },
+        {
+          "type": "button",
+          "name": "button_completed",
+          "value": "Skip",
+          "_translations": {
+            "value": {
+              "kw_ar": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "login_finished",
+                true
+              ],
+              "_raw": "click | set_field: login_finished: true",
+              "_cleaned": "click | set_field: login_finished: true"
+            }
+          ],
+          "parameter_list": {
+            "style": "navigation"
+          },
+          "_nested_name": "login.button_completed"
         }
       ],
-      "condition": "!(@fields._auth_user_id)",
-      "_nested_name": "button_completed",
+      "_nested_name": "login",
       "_dynamicFields": {
         "condition": [
           {
@@ -140,27 +162,103 @@
       }
     },
     {
-      "type": "button",
-      "name": "button_completed",
-      "value": "Continue",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+      "type": "display_group",
+      "name": "logout",
+      "condition": "!!(@fields._auth_user_id)",
+      "parameter_list": {
+        "style": "column"
       },
-      "action_list": [
+      "rows": [
         {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "completed"
+          "type": "text",
+          "name": "text_logged_in",
+          "value": "@global.logged_in",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "logout.text_logged_in",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.logged_in",
+                "matchedExpression": "@global.logged_in",
+                "type": "global",
+                "fieldName": "logged_in"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.logged_in": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_logout",
+          "value": "Logout",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "auth",
+              "args": [
+                "sign_out"
+              ],
+              "_raw": "click | auth: sign_out",
+              "_cleaned": "click | auth: sign_out"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reprocess"
+              ],
+              "_raw": "click | emit: force_reprocess",
+              "_cleaned": "click | emit: force_reprocess"
+            }
           ],
-          "_raw": "click | emit: completed",
-          "_cleaned": "click | emit: completed"
+          "_nested_name": "logout.button_logout"
+        },
+        {
+          "type": "button",
+          "name": "button_completed",
+          "value": "Continue",
+          "_translations": {
+            "value": {
+              "kw_ar": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "login_finished",
+                true
+              ],
+              "_raw": "click | set_field: login_finished: true",
+              "_cleaned": "click | set_field: login_finished: true"
+            }
+          ],
+          "parameter_list": {
+            "style": "navigation"
+          },
+          "_nested_name": "logout.button_completed"
         }
       ],
-      "condition": "!!(@fields._auth_user_id)",
-      "_nested_name": "button_completed",
+      "_nested_name": "logout",
       "_dynamicFields": {
         "condition": [
           {
@@ -176,6 +274,26 @@
           "condition"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "debug",
+      "value": "Refresh",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "force_reprocess"
+          ],
+          "_raw": "click | emit: force_reprocess",
+          "_cleaned": "click | emit: force_reprocess"
+        }
+      ],
+      "_nested_name": "debug"
     }
   ],
   "_xlsxPath": "templates/kids app_launch.xlsx"

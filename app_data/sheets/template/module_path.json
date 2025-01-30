@@ -357,7 +357,7 @@
           }
         },
         {
-          "name": "completed_midnight",
+          "name": "completed_midnight_@item.id",
           "value": "@calc(new Date(@item.completed_ts).setTime(0,0,0,0))",
           "_translations": {
             "value": {}
@@ -365,8 +365,16 @@
           "condition": false,
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "loop.completed_midnight",
+          "_nested_name": "loop.completed_midnight_@item.id",
           "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "completed_midnight_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
             "value": [
               {
                 "fullExpression": "@calc(new Date(@item.completed_ts).setTime(0,0,0,0))",
@@ -380,9 +388,21 @@
                 "type": "calc",
                 "fieldName": "new Date(@item.completed_ts).setTime(0,0,0,0)"
               }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "loop.completed_midnight_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
             ]
           },
           "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ],
             "@item.completed_ts": [
               "value"
             ],
