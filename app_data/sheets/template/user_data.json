@@ -368,6 +368,15 @@
           "trigger": "click",
           "action_id": "emit",
           "args": [
+            "server_sync"
+          ],
+          "_raw": "click | emit: server_sync",
+          "_cleaned": "click | emit: server_sync"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
             "completed"
           ],
           "_raw": "click | emit: completed",
