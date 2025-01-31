@@ -6,12 +6,12 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
-| button | 65 |
+| button | 64 |
 | combo_box | 6 |
 | data_items | 61 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 58 |
+| display_group | 57 |
 | image | 11 |
 | items | 9 |
 | lottie_animation | 3 |
@@ -28,11 +28,11 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1099 |
+| set_variable | 1106 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 311 |
+| template | 314 |
 | text | 95 |
 | text_area | 2 |
 | text_box | 4 |
@@ -57,14 +57,14 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 2 |
 | emit: set_language | 1 |
-| emit: uncompleted | 231 |
+| emit: uncompleted | 234 |
 | feedback | 13 |
 | go_to | 12 |
 | nav_stack | 80 |
-| pop_up | 27 |
+| pop_up | 28 |
 | reset_app | 1 |
 | set_data | 30 |
-| set_field | 49 |
+| set_field | 46 |
 | set_item | 26 |
 | set_local | 23 |
 | task | 3 |
@@ -385,7 +385,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 21 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 68 |
+| template |  | 69 |
 | template | generated | 226 |
 | template | legal_terms | 4 |
 </details>

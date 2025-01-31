@@ -755,6 +755,14 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "logout",
+      "value": "Logout",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "login_with_existing_account",
       "value": "Login with existing account",
       "_translations": {

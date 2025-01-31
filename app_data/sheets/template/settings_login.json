@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "settings_profile",
+  "flow_name": "settings_login",
   "status": "released",
   "rows": [
     {
@@ -21,25 +21,73 @@
       "rows": [
         {
           "name": "title",
-          "value": "@global.profile",
+          "value": "@global.login",
           "_translations": {
             "value": {}
           },
+          "condition": "!(@fields._auth_user_id)",
           "type": "set_variable",
           "_nested_name": "settings_header.title",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.profile",
-                "matchedExpression": "@global.profile",
+                "fullExpression": "@global.login",
+                "matchedExpression": "@global.login",
                 "type": "global",
-                "fieldName": "profile"
+                "fieldName": "login"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!(@fields._auth_user_id)",
+                "matchedExpression": "@fields._auth_user_id",
+                "type": "fields",
+                "fieldName": "_auth_user_id"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.profile": [
+            "@global.login": [
               "value"
+            ],
+            "@fields._auth_user_id": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "title",
+          "value": "@global.logout",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!(@fields._auth_user_id)",
+          "type": "set_variable",
+          "_nested_name": "settings_header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.logout",
+                "matchedExpression": "@global.logout",
+                "type": "global",
+                "fieldName": "logout"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!(@fields._auth_user_id)",
+                "matchedExpression": "@fields._auth_user_id",
+                "type": "fields",
+                "fieldName": "_auth_user_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.logout": [
+              "value"
+            ],
+            "@fields._auth_user_id": [
+              "condition"
             ]
           }
         }
@@ -48,8 +96,8 @@
     },
     {
       "type": "template",
-      "name": "user_data",
-      "value": "user_data",
+      "name": "login",
+      "value": "login",
       "action_list": [
         {
           "trigger": "uncompleted",
@@ -75,61 +123,10 @@
           "name": "show_title",
           "value": false,
           "type": "set_variable",
-          "_nested_name": "user_data.show_title"
-        },
-        {
-          "name": "button_completed",
-          "value": "@global.save",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "user_data.button_completed",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.save",
-                "matchedExpression": "@global.save",
-                "type": "global",
-                "fieldName": "save"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.save": [
-              "value"
-            ]
-          }
+          "_nested_name": "login.show_title"
         }
       ],
-      "_nested_name": "user_data"
-    },
-    {
-      "type": "template",
-      "name": "user_id",
-      "value": "user_id",
-      "action_list": [
-        {
-          "trigger": "uncompleted",
-          "action_id": "emit",
-          "args": [
-            "uncompleted"
-          ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
-        },
-        {
-          "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
-        }
-      ],
-      "rows": [],
-      "_nested_name": "user_id"
+      "_nested_name": "login"
     }
   ],
   "_xlsxPath": "KW app_navigation.xlsx"

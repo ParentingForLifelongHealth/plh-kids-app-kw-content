@@ -64,6 +64,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "has_optional_login",
+      "value": false
+    },
+    {
+      "type": "declare_global_constant",
       "name": "user_id_text",
       "value": "User ID",
       "_translations": {
@@ -72,6 +77,62 @@
         }
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip",
+      "value": "Skip",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "continue",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login",
+      "value": "Login",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "create_account_question",
+      "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logout",
+      "value": "Logout",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in",
+      "value": "You are logged in.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "app_menu.xlsx"

@@ -80,11 +80,9 @@
         {
           "type": "button",
           "name": "button_login",
-          "value": "Login",
+          "value": "@global.login",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -106,16 +104,29 @@
               "_cleaned": "click | emit: force_reprocess"
             }
           ],
-          "_nested_name": "login.button_login"
+          "_nested_name": "login.button_login",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.login",
+                "matchedExpression": "@global.login",
+                "type": "global",
+                "fieldName": "login"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.login": [
+              "value"
+            ]
+          }
         },
         {
           "type": "button",
           "name": "button_completed",
-          "value": "Skip",
+          "value": "@global.skip",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -131,17 +142,32 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "login_finished",
+                "login_skipped",
                 true
               ],
-              "_raw": "click | set_field: login_finished: true",
-              "_cleaned": "click | set_field: login_finished: true"
+              "_raw": "click | set_field: login_skipped: true",
+              "_cleaned": "click | set_field: login_skipped: true"
             }
           ],
           "parameter_list": {
             "style": "navigation"
           },
-          "_nested_name": "login.button_completed"
+          "_nested_name": "login.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.skip",
+                "matchedExpression": "@global.skip",
+                "type": "global",
+                "fieldName": "skip"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.skip": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "login",
@@ -196,7 +222,7 @@
         {
           "type": "button",
           "name": "button_logout",
-          "value": "Logout",
+          "value": "@global.logout",
           "_translations": {
             "value": {}
           },
@@ -220,16 +246,29 @@
               "_cleaned": "click | emit: force_reprocess"
             }
           ],
-          "_nested_name": "logout.button_logout"
+          "_nested_name": "logout.button_logout",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.logout",
+                "matchedExpression": "@global.logout",
+                "type": "global",
+                "fieldName": "logout"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.logout": [
+              "value"
+            ]
+          }
         },
         {
           "type": "button",
           "name": "button_completed",
-          "value": "Continue",
+          "value": "@global.continue",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -240,22 +279,27 @@
               ],
               "_raw": "click | emit: completed",
               "_cleaned": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "login_finished",
-                true
-              ],
-              "_raw": "click | set_field: login_finished: true",
-              "_cleaned": "click | set_field: login_finished: true"
             }
           ],
           "parameter_list": {
             "style": "navigation"
           },
-          "_nested_name": "logout.button_completed"
+          "_nested_name": "logout.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.continue",
+                "matchedExpression": "@global.continue",
+                "type": "global",
+                "fieldName": "continue"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.continue": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "logout",
@@ -276,5 +320,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/kids app_launch.xlsx"
+  "_xlsxPath": "app_menu.xlsx"
 }

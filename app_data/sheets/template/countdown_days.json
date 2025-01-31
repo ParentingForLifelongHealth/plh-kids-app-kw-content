@@ -15,19 +15,17 @@
       "_nested_name": "title"
     },
     {
-      "type": "text",
-      "name": "text_1",
-      "value": "Countdown days: @fields.countdown_days",
+      "name": "countdown_days",
+      "value": "@fields.countdown_days",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       },
-      "_nested_name": "text_1",
+      "type": "set_variable",
+      "_nested_name": "countdown_days",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Countdown days: @fields.countdown_days",
+            "fullExpression": "@fields.countdown_days",
             "matchedExpression": "@fields.countdown_days",
             "type": "fields",
             "fieldName": "countdown_days"
@@ -36,6 +34,30 @@
       },
       "_dynamicDependencies": {
         "@fields.countdown_days": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text_1",
+      "value": "Countdown days: @local.countdown_days",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Countdown days: @local.countdown_days",
+            "matchedExpression": "@local.countdown_days",
+            "type": "local",
+            "fieldName": "countdown_days"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.countdown_days": [
           "value"
         ]
       }

@@ -294,202 +294,23 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "dg_completed",
-      "hidden": "!(!!@fields.user_gender && !!@fields.user_type)",
-      "rows": [
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              },
-              {
-                "fullExpression": "@fields.user_type != \"facilitator\" && @fields.user_type != \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition",
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "countdown_days",
-                "0"
-              ],
-              "_raw": "click | set_field: countdown_days: 0",
-              "_cleaned": "click | set_field: countdown_days: 0"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type == \"facilitator\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type == \"facilitator\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "kw_ar": true
-            }
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "user_data_completed",
-                true
-              ],
-              "_raw": "click | set_field: user_data_completed: true",
-              "_cleaned": "click | set_field: user_data_completed: true"
-            },
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "countdown_days",
-                "7"
-              ],
-              "_raw": "click | set_field: countdown_days: 7",
-              "_cleaned": "click | set_field: countdown_days: 7"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            }
-          ],
-          "condition": "@fields.user_type == \"caregiver\"",
-          "parameter_list": {
-            "style": "navigation"
-          },
-          "_nested_name": "dg_completed.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.user_type == \"caregiver\"",
-                "matchedExpression": "@fields.user_type",
-                "type": "fields",
-                "fieldName": "user_type"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.user_type": [
-              "condition"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "dg_completed",
+      "name": "completed_enabled",
+      "value": "!!@fields.user_gender && !!@fields.user_type",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "completed_enabled",
       "_dynamicFields": {
-        "hidden": [
+        "value": [
           {
-            "fullExpression": "!(!!@fields.user_gender && !!@fields.user_type)",
+            "fullExpression": "!!@fields.user_gender && !!@fields.user_type",
             "matchedExpression": "!@fields.user_gender",
             "type": "fields",
             "fieldName": "user_gender"
           },
           {
-            "fullExpression": "!(!!@fields.user_gender && !!@fields.user_type)",
+            "fullExpression": "!!@fields.user_gender && !!@fields.user_type",
             "matchedExpression": "!@fields.user_type",
             "type": "fields",
             "fieldName": "user_type"
@@ -498,10 +319,160 @@
       },
       "_dynamicDependencies": {
         "!@fields.user_gender": [
-          "hidden"
+          "value"
         ],
         "!@fields.user_type": [
-          "hidden"
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_gender",
+            "@local.user_gender_select"
+          ],
+          "_raw": "click | set_field: user_gender: @local.user_gender_select",
+          "_cleaned": "click | set_field: user_gender: @local.user_gender_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_type",
+            "@local.user_type_select"
+          ],
+          "_raw": "click | set_field: user_type: @local.user_type_select",
+          "_cleaned": "click | set_field: user_type: @local.user_type_select"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "user_data_completed",
+            true
+          ],
+          "_raw": "click | set_field: user_data_completed: true",
+          "_cleaned": "click | set_field: user_data_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        }
+      ],
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "!@local.completed_enabled"
+      },
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.continue",
+            "matchedExpression": "@global.continue",
+            "type": "global",
+            "fieldName": "continue"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_gender_select",
+                  "matchedExpression": "@local.user_gender_select",
+                  "type": "local",
+                  "fieldName": "user_gender_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_gender: @local.user_gender_select",
+                "matchedExpression": "@local.user_gender_select",
+                "type": "local",
+                "fieldName": "user_gender_select"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.user_type_select",
+                  "matchedExpression": "@local.user_type_select",
+                  "type": "local",
+                  "fieldName": "user_type_select"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: user_type: @local.user_type_select",
+                "matchedExpression": "@local.user_type_select",
+                "type": "local",
+                "fieldName": "user_type_select"
+              }
+            ]
+          }
+        },
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "!@local.completed_enabled",
+              "matchedExpression": "!@local.completed_enabled",
+              "type": "local",
+              "fieldName": "completed_enabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.continue": [
+          "value"
+        ],
+        "@local.user_gender_select": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.user_type_select": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned"
+        ],
+        "!@local.completed_enabled": [
+          "parameter_list.disabled"
         ]
       }
     }
