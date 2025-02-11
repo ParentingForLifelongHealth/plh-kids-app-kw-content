@@ -3635,18 +3635,6 @@
       "comment_2": 23,
       "_xlsxPath": "KW module_navigation.xlsx"
     },
-    "module_landing_fix": {
-      "flow_type": "template",
-      "flow_name": "module_landing_fix",
-      "parameter_list": {
-        "app_config": {
-          "LAYOUT": {
-            "page_padding": "0 0"
-          }
-        }
-      },
-      "_xlsxPath": "KW module_navigation.xlsx"
-    },
     "module_landing_instructions": {
       "flow_type": "template",
       "flow_name": "module_landing_instructions",

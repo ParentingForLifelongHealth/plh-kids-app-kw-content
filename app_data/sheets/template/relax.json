@@ -287,8 +287,24 @@
         {
           "name": "is_standalone_task",
           "value": true,
+          "condition": "@fields._deployment_name == \"plh_kids_tz\"",
           "type": "set_variable",
-          "_nested_name": "nav_buttons.is_standalone_task"
+          "_nested_name": "nav_buttons.is_standalone_task",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@fields._deployment_name == \"plh_kids_tz\"",
+                "matchedExpression": "@fields._deployment_name",
+                "type": "fields",
+                "fieldName": "_deployment_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields._deployment_name": [
+              "condition"
+            ]
+          }
         }
       ],
       "_nested_name": "nav_buttons"
