@@ -746,29 +746,25 @@
     {
       "type": "declare_global_constant",
       "name": "login",
-      "value": "Login",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "logout",
-      "value": "Logout",
+      "value": "Sign in",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "login_with_existing_account",
-      "value": "Login with existing account",
+      "name": "login_google",
+      "value": "Sign in with Google",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logout",
+      "value": "Sign out",
+      "_translations": {
+        "value": {}
       }
     },
     {
@@ -784,21 +780,9 @@
     {
       "type": "declare_global_constant",
       "name": "create_account_question",
-      "value": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+      "value": "Creating an account allows you to save your progress across devices. It is optional.",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "already_have_an_account?_log_in_here.",
-      "value": "Already have an account? Log in here.",
-      "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       }
     },
     {
@@ -813,8 +797,32 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "skip_login",
+      "value": "Continue without an account",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_splash",
+      "value": "Welcome! Excited to have you here. Let’s keep going.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "logged_in_splash_user",
+      "value": "Welcome! Excited to have you here @global.user_name! Let’s keep going.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "logged_in",
-      "value": "You are logged in.",
+      "value": "You are signed in.",
       "_translations": {
         "value": {}
       }

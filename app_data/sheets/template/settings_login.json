@@ -124,6 +124,30 @@
           "value": false,
           "type": "set_variable",
           "_nested_name": "login.show_title"
+        },
+        {
+          "name": "text_logged_in",
+          "value": "@global.logged_in",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "login.text_logged_in",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.logged_in",
+                "matchedExpression": "@global.logged_in",
+                "type": "global",
+                "fieldName": "logged_in"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.logged_in": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "login"

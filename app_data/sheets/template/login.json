@@ -104,6 +104,10 @@
               "_cleaned": "click | emit: force_reprocess"
             }
           ],
+          "parameter_list": {
+            "variant": "card",
+            "style": "no-background"
+          },
           "_nested_name": "login.button_login",
           "_dynamicFields": {
             "value": [
@@ -124,7 +128,7 @@
         {
           "type": "button",
           "name": "button_completed",
-          "value": "@global.skip",
+          "value": "@global.skip_login",
           "_translations": {
             "value": {}
           },
@@ -156,15 +160,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.skip",
-                "matchedExpression": "@global.skip",
+                "fullExpression": "@global.skip_login",
+                "matchedExpression": "@global.skip_login",
                 "type": "global",
-                "fieldName": "skip"
+                "fieldName": "skip_login"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.skip": [
+            "@global.skip_login": [
               "value"
             ]
           }
@@ -198,7 +202,7 @@
         {
           "type": "text",
           "name": "text_logged_in",
-          "value": "@global.logged_in",
+          "value": "@global.logged_in_splash",
           "_translations": {
             "value": {}
           },
@@ -206,15 +210,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.logged_in",
-                "matchedExpression": "@global.logged_in",
+                "fullExpression": "@global.logged_in_splash",
+                "matchedExpression": "@global.logged_in_splash",
                 "type": "global",
-                "fieldName": "logged_in"
+                "fieldName": "logged_in_splash"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.logged_in": [
+            "@global.logged_in_splash": [
               "value"
             ]
           }
@@ -246,6 +250,10 @@
               "_cleaned": "click | emit: force_reprocess"
             }
           ],
+          "parameter_list": {
+            "variant": "card",
+            "style": "no-background"
+          },
           "_nested_name": "logout.button_logout",
           "_dynamicFields": {
             "value": [
