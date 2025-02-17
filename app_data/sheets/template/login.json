@@ -312,6 +312,7 @@
         {
           "type": "data_items",
           "name": "find_last_synced_id",
+          "value": "_auth_profiles",
           "parameter_list": {
             "sort": "updatedAt",
             "reverse": "true",
