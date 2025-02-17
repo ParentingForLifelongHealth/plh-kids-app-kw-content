@@ -454,8 +454,5 @@
       }
     }
   ],
-  "_xlsxPath": "app_menu.xlsx",
-  "_overrides": {
-    "login_splash": "!@fields.splash_screens_completed"
-  }
+  "_xlsxPath": "app_menu.xlsx"
 }

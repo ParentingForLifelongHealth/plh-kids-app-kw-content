@@ -251,9 +251,9 @@
     },
     "launch_actions": {
       "flow_type": "data_list",
-      "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "templates/kids app_launch.xlsx",
+      "flow_subtype": "lifecycle_actions",
+      "_xlsxPath": "KW app_launch.xlsx",
       "_metadata": {
         "priority": {
           "type": "number"
@@ -3520,16 +3520,11 @@
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "app_launch.xlsx",
-      "_overrides": {
-        "language_select_splash": "!@fields.splash_screens_completed"
-      }
+      "_xlsxPath": "app_launch.xlsx"
     },
     "language_select_splash": {
       "flow_type": "template",
       "flow_name": "language_select_splash",
-      "override_target": "language_select",
-      "override_condition": "!@fields.splash_screens_completed",
       "_xlsxPath": "KW app_launch.xlsx"
     },
     "accept_terms": {
@@ -3564,16 +3559,11 @@
     "login": {
       "flow_type": "template",
       "flow_name": "login",
-      "_xlsxPath": "app_menu.xlsx",
-      "_overrides": {
-        "login_splash": "!@fields.splash_screens_completed"
-      }
+      "_xlsxPath": "app_menu.xlsx"
     },
     "login_splash": {
       "flow_type": "template",
       "flow_name": "login_splash",
-      "override_target": "login",
-      "override_condition": "!@fields.splash_screens_completed",
       "_xlsxPath": "KW app_launch.xlsx"
     },
     "media_transcript": {
@@ -3864,16 +3854,11 @@
     "user_data": {
       "flow_type": "template",
       "flow_name": "user_data",
-      "_xlsxPath": "templates/kids app_launch.xlsx",
-      "_overrides": {
-        "user_data_splash": "!@fields.splash_screens_completed"
-      }
+      "_xlsxPath": "templates/kids app_launch.xlsx"
     },
     "user_data_splash": {
       "flow_type": "template",
       "flow_name": "user_data_splash",
-      "override_target": "user_data",
-      "override_condition": "!@fields.splash_screens_completed",
       "_xlsxPath": "KW app_launch.xlsx"
     },
     "user_id": {

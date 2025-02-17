@@ -486,8 +486,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/kids app_launch.xlsx",
-  "_overrides": {
-    "user_data_splash": "!@fields.splash_screens_completed"
-  }
+  "_xlsxPath": "templates/kids app_launch.xlsx"
 }

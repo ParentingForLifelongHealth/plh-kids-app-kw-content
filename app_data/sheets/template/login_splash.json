@@ -2,8 +2,6 @@
   "flow_type": "template",
   "flow_name": "login_splash",
   "status": "released",
-  "override_target": "login",
-  "override_condition": "!@fields.splash_screens_completed",
   "rows": [
     {
       "type": "template",

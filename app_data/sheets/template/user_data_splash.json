@@ -2,8 +2,6 @@
   "flow_type": "template",
   "flow_name": "user_data_splash",
   "status": "released",
-  "override_target": "user_data",
-  "override_condition": "!@fields.splash_screens_completed",
   "rows": [
     {
       "type": "template",

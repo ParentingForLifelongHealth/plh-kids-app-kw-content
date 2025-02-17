@@ -227,8 +227,5 @@
       "_nested_name": "button_completed"
     }
   ],
-  "_xlsxPath": "app_launch.xlsx",
-  "_overrides": {
-    "language_select_splash": "!@fields.splash_screens_completed"
-  }
+  "_xlsxPath": "app_launch.xlsx"
 }

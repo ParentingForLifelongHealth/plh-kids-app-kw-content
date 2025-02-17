@@ -2,8 +2,6 @@
   "flow_type": "template",
   "flow_name": "language_select_splash",
   "status": "released",
-  "override_target": "language_select",
-  "override_condition": "!@fields.splash_screens_completed",
   "rows": [
     {
       "type": "template",
