@@ -10,6 +10,12 @@
       "exclude_from_translation": true
     },
     {
+      "type": "declare_field_default",
+      "name": "splash_screens_completed",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
       "type": "declare_global_constant",
       "name": "dev_mode_code",
       "value": "app_dev",
@@ -65,7 +71,8 @@
     {
       "type": "declare_global_constant",
       "name": "has_optional_login",
-      "value": false
+      "value": false,
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -75,8 +82,7 @@
         "value": {
           "kw_ar": true
         }
-      },
-      "exclude_from_translation": true
+      }
     },
     {
       "type": "declare_global_constant",

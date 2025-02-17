@@ -814,7 +814,7 @@
     {
       "type": "declare_global_constant",
       "name": "logged_in_splash_user",
-      "value": "Welcome! Excited to have you here @global.user_name! Let’s keep going.",
+      "value": "Welcome! Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
       "_translations": {
         "value": {}
       }
@@ -823,6 +823,22 @@
       "type": "declare_global_constant",
       "name": "logged_in",
       "value": "You are signed in.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "previous_login",
+      "value": "It looks like you've logged in on another device before. Would you like to continue from where you left off? If you do, any progress made on this device will be lost.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "restore_data",
+      "value": "Load saved progress",
       "_translations": {
         "value": {}
       }

@@ -1,0 +1,24 @@
+{
+  "flow_type": "template",
+  "flow_name": "language_select_splash",
+  "status": "released",
+  "override_target": "language_select",
+  "override_condition": "!@fields.splash_screens_completed",
+  "rows": [
+    {
+      "type": "template",
+      "name": "language_select",
+      "value": "language_select",
+      "rows": [],
+      "_nested_name": "language_select"
+    },
+    {
+      "type": "template",
+      "name": "splash_footer",
+      "value": "splash_footer",
+      "rows": [],
+      "_nested_name": "splash_footer"
+    }
+  ],
+  "_xlsxPath": "KW app_launch.xlsx"
+}

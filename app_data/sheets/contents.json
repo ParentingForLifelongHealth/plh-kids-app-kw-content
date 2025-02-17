@@ -2219,16 +2219,6 @@
       "flow_name": "activity_library",
       "_xlsxPath": "KW activity library.xlsx"
     },
-    "activity_library_button": {
-      "flow_type": "template",
-      "flow_name": "activity_library_button",
-      "_xlsxPath": "KW activity library.xlsx"
-    },
-    "activity_library_sub": {
-      "flow_type": "template",
-      "flow_name": "activity_library_sub",
-      "_xlsxPath": "KW activity library.xlsx"
-    },
     "app_about": {
       "flow_type": "template",
       "flow_name": "app_about",
@@ -3530,7 +3520,17 @@
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "app_launch.xlsx"
+      "_xlsxPath": "app_launch.xlsx",
+      "_overrides": {
+        "language_select_splash": "!@fields.splash_screens_completed"
+      }
+    },
+    "language_select_splash": {
+      "flow_type": "template",
+      "flow_name": "language_select_splash",
+      "override_target": "language_select",
+      "override_condition": "!@fields.splash_screens_completed",
+      "_xlsxPath": "KW app_launch.xlsx"
     },
     "accept_terms": {
       "flow_type": "template",
@@ -3564,7 +3564,17 @@
     "login": {
       "flow_type": "template",
       "flow_name": "login",
-      "_xlsxPath": "app_menu.xlsx"
+      "_xlsxPath": "app_menu.xlsx",
+      "_overrides": {
+        "login_splash": "!@fields.splash_screens_completed"
+      }
+    },
+    "login_splash": {
+      "flow_type": "template",
+      "flow_name": "login_splash",
+      "override_target": "login",
+      "override_condition": "!@fields.splash_screens_completed",
+      "_xlsxPath": "KW app_launch.xlsx"
     },
     "media_transcript": {
       "flow_type": "template",
@@ -3799,22 +3809,27 @@
           }
         }
       },
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_about": {
       "flow_type": "template",
       "flow_name": "settings_about",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_header": {
       "flow_type": "template",
       "flow_name": "settings_header",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_language_select": {
       "flow_type": "template",
       "flow_name": "settings_language_select",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
+    },
+    "settings_login": {
+      "flow_type": "template",
+      "flow_name": "settings_login",
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_login": {
       "flow_type": "template",
@@ -3824,22 +3839,27 @@
     "settings_privacy_policy": {
       "flow_type": "template",
       "flow_name": "settings_privacy_policy",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_profile": {
       "flow_type": "template",
       "flow_name": "settings_profile",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_terms": {
       "flow_type": "template",
       "flow_name": "settings_terms",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
     },
     "settings_user_id": {
       "flow_type": "template",
       "flow_name": "settings_user_id",
-      "_xlsxPath": "KW app_navigation.xlsx"
+      "_xlsxPath": "KW settings.xlsx"
+    },
+    "splash_footer": {
+      "flow_type": "template",
+      "flow_name": "splash_footer",
+      "_xlsxPath": "KW app_launch.xlsx"
     },
     "unlock_play": {
       "flow_type": "template",
@@ -3849,12 +3869,17 @@
     "user_data": {
       "flow_type": "template",
       "flow_name": "user_data",
-      "_xlsxPath": "templates/kids app_launch.xlsx"
+      "_xlsxPath": "templates/kids app_launch.xlsx",
+      "_overrides": {
+        "user_data_splash": "!@fields.splash_screens_completed"
+      }
     },
-    "user_data_disabled": {
+    "user_data_splash": {
       "flow_type": "template",
-      "flow_name": "user_data_disabled",
-      "_xlsxPath": "templates/kids app_launch.xlsx"
+      "flow_name": "user_data_splash",
+      "override_target": "user_data",
+      "override_condition": "!@fields.splash_screens_completed",
+      "_xlsxPath": "KW app_launch.xlsx"
     },
     "user_id": {
       "flow_type": "template",

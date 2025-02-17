@@ -2270,6 +2270,12 @@
     },
     {
       "name": "has_any_image",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "has_any_image"
+    },
+    {
+      "name": "has_any_image",
       "value": "!!@local.option_1_image || !!@local.option_2_image || !!@local.option_3_image || !!@local.option_4_image || !!@local.option_5_image || !!@local.option_6_image",
       "_translations": {
         "value": {}

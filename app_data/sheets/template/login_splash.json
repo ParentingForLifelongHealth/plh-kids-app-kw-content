@@ -1,0 +1,24 @@
+{
+  "flow_type": "template",
+  "flow_name": "login_splash",
+  "status": "released",
+  "override_target": "login",
+  "override_condition": "!@fields.splash_screens_completed",
+  "rows": [
+    {
+      "type": "template",
+      "name": "login",
+      "value": "login",
+      "rows": [],
+      "_nested_name": "login"
+    },
+    {
+      "type": "template",
+      "name": "splash_footer",
+      "value": "splash_footer",
+      "rows": [],
+      "_nested_name": "splash_footer"
+    }
+  ],
+  "_xlsxPath": "KW app_launch.xlsx"
+}
