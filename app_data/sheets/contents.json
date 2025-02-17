@@ -3831,11 +3831,6 @@
       "flow_name": "settings_login",
       "_xlsxPath": "KW settings.xlsx"
     },
-    "settings_login": {
-      "flow_type": "template",
-      "flow_name": "settings_login",
-      "_xlsxPath": "KW app_navigation.xlsx"
-    },
     "settings_privacy_policy": {
       "flow_type": "template",
       "flow_name": "settings_privacy_policy",

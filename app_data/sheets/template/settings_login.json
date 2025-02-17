@@ -348,6 +348,7 @@
     },
     {
       "type": "data_items",
+      "name": "find_last_synced_id",
       "value": "_auth_profiles",
       "parameter_list": {
         "sort": "updatedAt",
@@ -362,7 +363,10 @@
           "_translations": {
             "value": {}
           },
-          "_nested_name": "data_items_9.text_previous_login",
+          "style_list": [
+            "margin-bottom: 12px"
+          ],
+          "_nested_name": "find_last_synced_id.text_previous_login",
           "_dynamicFields": {
             "value": [
               {
@@ -407,7 +411,7 @@
               "_cleaned": "click | emit: force_restart"
             }
           ],
-          "_nested_name": "data_items_9.button_restore",
+          "_nested_name": "find_last_synced_id.button_restore",
           "_dynamicFields": {
             "value": [
               {
@@ -460,8 +464,7 @@
           }
         }
       ],
-      "name": "data_items_9",
-      "_nested_name": "data_items_9"
+      "_nested_name": "find_last_synced_id"
     }
   ],
   "_xlsxPath": "KW settings.xlsx"

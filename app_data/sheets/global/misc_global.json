@@ -830,7 +830,7 @@
     {
       "type": "declare_global_constant",
       "name": "previous_login",
-      "value": "It looks like you've logged in on another device before. Would you like to continue from where you left off? If you do, any progress made on this device will be lost.",
+      "value": "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\nIf you do, any progress made on this device will be lost.",
       "_translations": {
         "value": {}
       }
