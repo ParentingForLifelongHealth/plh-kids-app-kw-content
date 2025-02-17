@@ -126,51 +126,6 @@
                   "value": false,
                   "type": "set_variable",
                   "_nested_name": "pick_random_locked_activity.module_start_at_id.module.show_progress_bar"
-                },
-                {
-                  "type": "nested_properties",
-                  "name": "article_last",
-                  "rows": [
-                    {
-                      "type": "nested_properties",
-                      "name": "article",
-                      "rows": [
-                        {
-                          "type": "nested_properties",
-                          "name": "nav_buttons",
-                          "rows": [
-                            {
-                              "name": "next_icon_src",
-                              "value": "@global.first_completion_icon",
-                              "_translations": {
-                                "value": {}
-                              },
-                              "type": "set_variable",
-                              "_nested_name": "pick_random_locked_activity.module_start_at_id.module.article_last.article.nav_buttons.next_icon_src",
-                              "_dynamicFields": {
-                                "value": [
-                                  {
-                                    "fullExpression": "@global.first_completion_icon",
-                                    "matchedExpression": "@global.first_completion_icon",
-                                    "type": "global",
-                                    "fieldName": "first_completion_icon"
-                                  }
-                                ]
-                              },
-                              "_dynamicDependencies": {
-                                "@global.first_completion_icon": [
-                                  "value"
-                                ]
-                              }
-                            }
-                          ],
-                          "_nested_name": "pick_random_locked_activity.module_start_at_id.module.article_last.article.nav_buttons"
-                        }
-                      ],
-                      "_nested_name": "pick_random_locked_activity.module_start_at_id.module.article_last.article"
-                    }
-                  ],
-                  "_nested_name": "pick_random_locked_activity.module_start_at_id.module.article_last"
                 }
               ],
               "_nested_name": "pick_random_locked_activity.module_start_at_id.module"

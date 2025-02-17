@@ -105,28 +105,6 @@
                 {
                   "name": "show_progress_bar",
                   "value": false
-                },
-                {
-                  "type": "nested_properties",
-                  "name": "article_last",
-                  "rows": [
-                    {
-                      "type": "nested_properties",
-                      "name": "article",
-                      "rows": [
-                        {
-                          "type": "nested_properties",
-                          "name": "nav_buttons",
-                          "rows": [
-                            {
-                              "name": "next_icon_src",
-                              "value": "@global.first_completion_icon"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }

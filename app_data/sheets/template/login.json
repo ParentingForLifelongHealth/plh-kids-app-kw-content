@@ -291,9 +291,27 @@
           "_nested_name": "logged_in.feedback"
         },
         {
+          "name": "no_previous_id",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "logged_in.no_previous_id"
+        },
+        {
           "type": "data_items",
           "name": "find_last_synced_id",
           "value": "_auth_profiles",
+          "action_list": [
+            {
+              "trigger": "data_changed",
+              "action_id": "set_local",
+              "args": [
+                "no_previous_id",
+                "@items.length === 0"
+              ],
+              "_raw": "data_changed | set_local : no_previous_id : @items.length === 0",
+              "_cleaned": "data_changed | set_local : no_previous_id : @items.length === 0"
+            }
+          ],
           "parameter_list": {
             "sort": "updatedAt",
             "reverse": "true",
@@ -385,6 +403,56 @@
             }
           ],
           "_nested_name": "logged_in.find_last_synced_id"
+        },
+        {
+          "type": "button",
+          "name": "button_completed",
+          "value": "@global.continue",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            }
+          ],
+          "condition": "@local.no_previous_id",
+          "parameter_list": {
+            "style": "navigation"
+          },
+          "_nested_name": "logged_in.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.continue",
+                "matchedExpression": "@global.continue",
+                "type": "global",
+                "fieldName": "continue"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@local.no_previous_id",
+                "matchedExpression": "@local.no_previous_id",
+                "type": "local",
+                "fieldName": "no_previous_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.continue": [
+              "value"
+            ],
+            "@local.no_previous_id": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "button",
