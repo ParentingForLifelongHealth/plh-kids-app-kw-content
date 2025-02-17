@@ -138,7 +138,7 @@
         },
         {
           "type": "button",
-          "name": "button_completed",
+          "name": "button_skip",
           "value": "@global.skip_login",
           "_translations": {
             "value": {}
@@ -167,7 +167,7 @@
           "parameter_list": {
             "style": "navigation"
           },
-          "_nested_name": "login.button_completed",
+          "_nested_name": "login.button_skip",
           "_dynamicFields": {
             "value": [
               {
@@ -291,27 +291,28 @@
           "_nested_name": "logged_in.feedback"
         },
         {
-          "name": "no_previous_id",
-          "value": true,
-          "type": "set_variable",
-          "_nested_name": "logged_in.no_previous_id"
-        },
-        {
           "type": "data_items",
-          "name": "find_last_synced_id",
           "value": "_auth_profiles",
           "action_list": [
             {
               "trigger": "data_changed",
-              "action_id": "set_local",
+              "action_id": "set_field",
               "args": [
-                "no_previous_id",
-                "@items.length === 0"
+                "exists_previous_auth_id",
+                "!(@items.length === 0)"
               ],
-              "_raw": "data_changed | set_local : no_previous_id : @items.length === 0",
-              "_cleaned": "data_changed | set_local : no_previous_id : @items.length === 0"
+              "_raw": "data_changed | set_field : exists_previous_auth_id : !(@items.length === 0)",
+              "_cleaned": "data_changed | set_field : exists_previous_auth_id : !(@items.length === 0)"
             }
           ],
+          "rows": [],
+          "name": "data_items_2",
+          "_nested_name": "logged_in.data_items_2"
+        },
+        {
+          "type": "data_items",
+          "name": "find_last_synced_id",
+          "condition": "@fields.exists_previous_auth_id",
           "parameter_list": {
             "sort": "updatedAt",
             "reverse": "true",
@@ -320,7 +321,7 @@
           "rows": [
             {
               "type": "button",
-              "name": "button_completed",
+              "name": "button_import",
               "value": "@global.continue",
               "_translations": {
                 "value": {}
@@ -349,7 +350,7 @@
               "parameter_list": {
                 "style": "navigation"
               },
-              "_nested_name": "logged_in.find_last_synced_id.button_completed",
+              "_nested_name": "logged_in.find_last_synced_id.button_import",
               "_dynamicFields": {
                 "value": [
                   {
@@ -402,7 +403,22 @@
               }
             }
           ],
-          "_nested_name": "logged_in.find_last_synced_id"
+          "_nested_name": "logged_in.find_last_synced_id",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@fields.exists_previous_auth_id",
+                "matchedExpression": "@fields.exists_previous_auth_id",
+                "type": "fields",
+                "fieldName": "exists_previous_auth_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.exists_previous_auth_id": [
+              "condition"
+            ]
+          }
         },
         {
           "type": "button",
@@ -422,7 +438,7 @@
               "_cleaned": "click | emit: completed"
             }
           ],
-          "condition": "@local.no_previous_id",
+          "condition": "!@fields.exists_previous_auth_id",
           "parameter_list": {
             "style": "navigation"
           },
@@ -438,10 +454,10 @@
             ],
             "condition": [
               {
-                "fullExpression": "@local.no_previous_id",
-                "matchedExpression": "@local.no_previous_id",
-                "type": "local",
-                "fieldName": "no_previous_id"
+                "fullExpression": "!@fields.exists_previous_auth_id",
+                "matchedExpression": "!@fields.exists_previous_auth_id",
+                "type": "fields",
+                "fieldName": "exists_previous_auth_id"
               }
             ]
           },
@@ -449,7 +465,7 @@
             "@global.continue": [
               "value"
             ],
-            "@local.no_previous_id": [
+            "!@fields.exists_previous_auth_id": [
               "condition"
             ]
           }
