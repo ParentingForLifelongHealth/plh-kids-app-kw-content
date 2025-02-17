@@ -28,6 +28,12 @@
       }
     },
     {
+      "name": "just_logged_in",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "just_logged_in"
+    },
+    {
       "type": "template",
       "name": "settings_header",
       "value": "settings_header",
@@ -166,6 +172,16 @@
               ],
               "_raw": "click | emit: force_reprocess",
               "_cleaned": "click | emit: force_reprocess"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "just_logged_in",
+                true
+              ],
+              "_raw": "click | set_local: just_logged_in: true",
+              "_cleaned": "click | set_local: just_logged_in: true"
             }
           ],
           "_nested_name": "login.button_google_sign_in",
@@ -327,6 +343,142 @@
             }
           ],
           "_nested_name": "logged_in.dg_column"
+        },
+        {
+          "type": "data_items",
+          "name": "find_last_synced_id",
+          "value": "_auth_profiles",
+          "condition": "@local.just_logged_in",
+          "parameter_list": {
+            "sort": "updatedAt",
+            "reverse": "true",
+            "limit": "1"
+          },
+          "rows": [
+            {
+              "type": "text",
+              "name": "text_previous_login",
+              "value": "@global.previous_login",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "margin-bottom: 12px"
+              ],
+              "_nested_name": "logged_in.find_last_synced_id.text_previous_login",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.previous_login",
+                    "matchedExpression": "@global.previous_login",
+                    "type": "global",
+                    "fieldName": "previous_login"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.previous_login": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "button_restore",
+              "value": "@global.restore_data",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "user",
+                  "args": [
+                    "import",
+                    "@item.id"
+                  ],
+                  "_raw": "click | user: import: @item.id",
+                  "_cleaned": "click | user: import: @item.id"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "force_restart"
+                  ],
+                  "_raw": "click | emit: force_restart",
+                  "_cleaned": "click | emit: force_restart"
+                }
+              ],
+              "_nested_name": "logged_in.find_last_synced_id.button_restore",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.restore_data",
+                    "matchedExpression": "@global.restore_data",
+                    "type": "global",
+                    "fieldName": "restore_data"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "1": [
+                        {
+                          "fullExpression": "@item.id",
+                          "matchedExpression": "@item.id",
+                          "type": "item",
+                          "fieldName": "id"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | user: import: @item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | user: import: @item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@global.restore_data": [
+                  "value"
+                ],
+                "@item.id": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "logged_in.find_last_synced_id",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.just_logged_in",
+                "matchedExpression": "@local.just_logged_in",
+                "type": "local",
+                "fieldName": "just_logged_in"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.just_logged_in": [
+              "condition"
+            ]
+          }
         }
       ],
       "_nested_name": "logged_in",
@@ -345,126 +497,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "type": "data_items",
-      "name": "find_last_synced_id",
-      "value": "_auth_profiles",
-      "parameter_list": {
-        "sort": "updatedAt",
-        "reverse": "true",
-        "limit": "1"
-      },
-      "rows": [
-        {
-          "type": "text",
-          "name": "text_previous_login",
-          "value": "@global.previous_login",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "margin-bottom: 12px"
-          ],
-          "_nested_name": "find_last_synced_id.text_previous_login",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.previous_login",
-                "matchedExpression": "@global.previous_login",
-                "type": "global",
-                "fieldName": "previous_login"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.previous_login": [
-              "value"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_restore",
-          "value": "@global.restore_data",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "user",
-              "args": [
-                "import",
-                "@item.id"
-              ],
-              "_raw": "click | user: import: @item.id",
-              "_cleaned": "click | user: import: @item.id"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "force_restart"
-              ],
-              "_raw": "click | emit: force_restart",
-              "_cleaned": "click | emit: force_restart"
-            }
-          ],
-          "_nested_name": "find_last_synced_id.button_restore",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.restore_data",
-                "matchedExpression": "@global.restore_data",
-                "type": "global",
-                "fieldName": "restore_data"
-              }
-            ],
-            "action_list": {
-              "0": {
-                "args": {
-                  "1": [
-                    {
-                      "fullExpression": "@item.id",
-                      "matchedExpression": "@item.id",
-                      "type": "item",
-                      "fieldName": "id"
-                    }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | user: import: @item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | user: import: @item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              }
-            }
-          },
-          "_dynamicDependencies": {
-            "@global.restore_data": [
-              "value"
-            ],
-            "@item.id": [
-              "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "find_last_synced_id"
     }
   ],
   "_xlsxPath": "KW settings.xlsx"
