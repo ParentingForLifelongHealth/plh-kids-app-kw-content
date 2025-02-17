@@ -312,7 +312,6 @@
         {
           "type": "data_items",
           "name": "find_last_synced_id",
-          "condition": "@fields.exists_previous_auth_id",
           "parameter_list": {
             "sort": "updatedAt",
             "reverse": "true",
@@ -403,22 +402,7 @@
               }
             }
           ],
-          "_nested_name": "logged_in.find_last_synced_id",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "@fields.exists_previous_auth_id",
-                "matchedExpression": "@fields.exists_previous_auth_id",
-                "type": "fields",
-                "fieldName": "exists_previous_auth_id"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.exists_previous_auth_id": [
-              "condition"
-            ]
-          }
+          "_nested_name": "logged_in.find_last_synced_id"
         },
         {
           "type": "button",
