@@ -747,13 +747,28 @@
                           "rows": [
                             {
                               "name": "next_icon_src",
-                              "value": "trophy",
+                              "value": "@global.first_completion_icon",
                               "_translations": {
                                 "value": {}
                               },
                               "exclude_from_translation": true,
                               "type": "set_variable",
-                              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article.nav_buttons.next_icon_src"
+                              "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article.nav_buttons.next_icon_src",
+                              "_dynamicFields": {
+                                "value": [
+                                  {
+                                    "fullExpression": "@global.first_completion_icon",
+                                    "matchedExpression": "@global.first_completion_icon",
+                                    "type": "global",
+                                    "fieldName": "first_completion_icon"
+                                  }
+                                ]
+                              },
+                              "_dynamicDependencies": {
+                                "@global.first_completion_icon": [
+                                  "value"
+                                ]
+                              }
                             }
                           ],
                           "_nested_name": "enable_dynamic_data_actions.only_for_active_index.cond_multi_art.article_last.article.nav_buttons"

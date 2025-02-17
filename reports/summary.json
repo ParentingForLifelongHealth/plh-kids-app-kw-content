@@ -15,15 +15,15 @@
       },
       {
         "type": "button",
-        "count": 65
+        "count": 60
       },
       {
         "type": "combo_box",
-        "count": 6
+        "count": 4
       },
       {
         "type": "data_items",
-        "count": 61
+        "count": 66
       },
       {
         "type": "debug_toggle",
@@ -31,11 +31,15 @@
       },
       {
         "type": "display_grid",
-        "count": 3
+        "count": 2
       },
       {
         "type": "display_group",
-        "count": 58
+        "count": 57
+      },
+      {
+        "type": "google_sign_in_button",
+        "count": 2
       },
       {
         "type": "image",
@@ -51,7 +55,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 54
+        "count": 63
       },
       {
         "type": "number_selector",
@@ -83,7 +87,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 6
+        "count": 5
       },
       {
         "type": "radio_group",
@@ -103,7 +107,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1099
+        "count": 1113
       },
       {
         "type": "simple_checkbox",
@@ -119,11 +123,11 @@
       },
       {
         "type": "template",
-        "count": 311
+        "count": 329
       },
       {
         "type": "text",
-        "count": 95
+        "count": 82
       },
       {
         "type": "text_area",
@@ -139,11 +143,11 @@
       },
       {
         "type": "title",
-        "count": 35
+        "count": 33
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 4
       },
       {
         "type": "update_action_list",
@@ -171,7 +175,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 235
+        "count": 231
       },
       {
         "type": "emit: force_reload",
@@ -179,15 +183,15 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 9
+        "count": 11
       },
       {
         "type": "emit: force_restart",
-        "count": 3
+        "count": 5
       },
       {
         "type": "emit: server_sync",
-        "count": 2
+        "count": 3
       },
       {
         "type": "emit: set_language",
@@ -195,7 +199,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 231
+        "count": 233
       },
       {
         "type": "feedback",
@@ -207,11 +211,11 @@
       },
       {
         "type": "nav_stack",
-        "count": 80
+        "count": 97
       },
       {
         "type": "pop_up",
-        "count": 27
+        "count": 38
       },
       {
         "type": "reset_app",
@@ -219,19 +223,19 @@
       },
       {
         "type": "set_data",
-        "count": 30
+        "count": 34
       },
       {
         "type": "set_field",
-        "count": 49
+        "count": 46
       },
       {
         "type": "set_item",
-        "count": 26
+        "count": 34
       },
       {
         "type": "set_local",
-        "count": 23
+        "count": 20
       },
       {
         "type": "task",
@@ -239,7 +243,7 @@
       },
       {
         "type": "user",
-        "count": 1
+        "count": 3
       }
     ]
   },
@@ -247,8 +251,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37283 KB",
-        "MB": "37.3 MB"
+        "KB": "38612 KB",
+        "MB": "38.6 MB"
       },
       {
         "assets": "unused",
@@ -677,7 +681,7 @@
       },
       {
         "path": "images/backgrounds/library_bottom_right.png",
-        "count": 2,
+        "count": 1,
         "missing": true
       }
     ]
@@ -780,13 +784,18 @@
         "size_kb": 3538.7
       },
       {
+        "path": "images/backgrounds/dunes.png",
+        "count": 1,
+        "size_kb": 1329.3
+      },
+      {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "size_kb": 37.3
       },
       {
         "path": "images/backgrounds/library_top_right.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1358.6
       },
       {
@@ -1111,12 +1120,12 @@
       },
       {
         "path": "images/icons/diamond.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.8
       },
       {
         "path": "images/icons/diamond_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.7
       },
       {
@@ -1181,17 +1190,17 @@
       },
       {
         "path": "images/icons/heart.png",
-        "count": 3,
+        "count": 2,
         "size_kb": 1.3
       },
       {
         "path": "images/icons/heart_filled.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.4
       },
       {
         "path": "images/icons/heart_filled_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.5
       },
       {
@@ -1201,7 +1210,7 @@
       },
       {
         "path": "images/icons/heart_filled_red.png",
-        "count": 3,
+        "count": 2,
         "size_kb": 1.4
       },
       {
@@ -1246,7 +1255,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 6,
+        "count": 5,
         "size_kb": 0.7
       },
       {
@@ -1351,12 +1360,12 @@
       },
       {
         "path": "images/icons/trophy.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.6
       },
       {
         "path": "images/icons/trophy_active.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.7
       },
       {
@@ -1576,7 +1585,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 21
+        "total": 22
       },
       {
         "type": "global",
@@ -1591,12 +1600,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 68
+        "total": 71
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 226
+        "total": 235
       },
       {
         "type": "template",

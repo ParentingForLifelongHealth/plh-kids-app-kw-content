@@ -1,8 +1,8 @@
 {
   "flow_type": "data_list",
-  "flow_subtype": "lifecycle_actions",
   "flow_name": "launch_actions",
   "status": "released",
+  "flow_subtype": "lifecycle_actions",
   "rows": [
     {
       "lifecycle_event": "app_start",
@@ -35,10 +35,10 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "language_select"
+            "language_select_splash"
           ],
-          "_raw": "pop_up: language_select | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: language_select | fullscreen: true, showCloseButton: false",
+          "_raw": "pop_up: language_select_splash | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: language_select_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -58,10 +58,10 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "accept_terms"
+            "accept_terms_splash"
           ],
-          "_raw": "pop_up: accept_terms | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: accept_terms | fullscreen: true, showCloseButton: false",
+          "_raw": "pop_up: accept_terms_splash | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: accept_terms_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -71,20 +71,20 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_user_data",
-      "priority": 5,
+      "id": "app_start_login",
+      "priority": 4,
       "condition_list": [
-        "!@fields.user_data_completed && @fields.user_mode"
+        "!@fields.login_skipped && !@fields._auth_user_id && @global.has_optional_login && @fields.user_mode"
       ],
       "action_list": [
         {
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "user_data"
+            "login_splash"
           ],
-          "_raw": "pop_up: user_data | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: user_data | fullscreen: true, showCloseButton: false",
+          "_raw": "pop_up: login_splash | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: login_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -95,7 +95,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 6,
+      "priority": 5,
       "action_list": [
         {
           "trigger": "click",
@@ -109,7 +109,7 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/kids app_launch.xlsx",
+  "_xlsxPath": "KW app_launch.xlsx",
   "_metadata": {
     "priority": {
       "type": "number"

@@ -79,18 +79,31 @@
         },
         {
           "name": "button_completed",
-          "value": "Save",
+          "value": "@global.save",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "language_select.button_completed"
+          "_nested_name": "language_select.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.save",
+                "matchedExpression": "@global.save",
+                "type": "global",
+                "fieldName": "save"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.save": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "language_select"
     }
   ],
-  "_xlsxPath": "KW app_navigation.xlsx"
+  "_xlsxPath": "KW settings.xlsx"
 }

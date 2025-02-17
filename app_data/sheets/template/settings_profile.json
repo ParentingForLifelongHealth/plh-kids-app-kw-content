@@ -79,18 +79,58 @@
         },
         {
           "name": "button_completed",
-          "value": "Save",
+          "value": "@global.save",
           "_translations": {
-            "value": {
-              "kw_ar": true
-            }
+            "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "user_data.button_completed"
+          "_nested_name": "user_data.button_completed",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.save",
+                "matchedExpression": "@global.save",
+                "type": "global",
+                "fieldName": "save"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.save": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "user_data"
+    },
+    {
+      "type": "template",
+      "name": "user_id",
+      "value": "user_id",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        }
+      ],
+      "rows": [],
+      "_nested_name": "user_id"
     }
   ],
-  "_xlsxPath": "KW app_navigation.xlsx"
+  "_xlsxPath": "KW settings.xlsx"
 }

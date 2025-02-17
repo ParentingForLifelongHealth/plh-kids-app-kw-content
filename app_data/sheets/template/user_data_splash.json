@@ -1,0 +1,22 @@
+{
+  "flow_type": "template",
+  "flow_name": "user_data_splash",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "user_data",
+      "value": "user_data",
+      "rows": [],
+      "_nested_name": "user_data"
+    },
+    {
+      "type": "template",
+      "name": "splash_footer",
+      "value": "splash_footer",
+      "rows": [],
+      "_nested_name": "splash_footer"
+    }
+  ],
+  "_xlsxPath": "KW app_launch.xlsx"
+}
