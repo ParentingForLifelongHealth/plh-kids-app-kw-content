@@ -7,6 +7,17 @@
       "type": "template",
       "name": "language_select",
       "value": "language_select",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        }
+      ],
       "rows": [],
       "_nested_name": "language_select"
     },
