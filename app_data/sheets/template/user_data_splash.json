@@ -7,6 +7,17 @@
       "type": "template",
       "name": "user_data",
       "value": "user_data",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        }
+      ],
       "rows": [],
       "_nested_name": "user_data"
     },

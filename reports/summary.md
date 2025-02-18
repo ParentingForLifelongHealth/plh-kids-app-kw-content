@@ -52,7 +52,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 231 |
+| emit: completed | 234 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 11 |
 | emit: force_restart | 5 |
