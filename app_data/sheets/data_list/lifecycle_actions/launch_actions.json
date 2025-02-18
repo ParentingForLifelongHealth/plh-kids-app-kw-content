@@ -58,10 +58,10 @@
           "trigger": "click",
           "action_id": "pop_up",
           "args": [
-            "accept_terms_splash"
+            "accept_terms"
           ],
-          "_raw": "pop_up: accept_terms_splash | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: accept_terms_splash | fullscreen: true, showCloseButton: false",
+          "_raw": "pop_up: accept_terms | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: accept_terms | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
