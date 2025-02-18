@@ -29,7 +29,7 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1113 |
+| set_variable | 1112 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
@@ -65,9 +65,9 @@
 | pop_up | 38 |
 | reset_app | 1 |
 | set_data | 34 |
-| set_field | 46 |
+| set_field | 47 |
 | set_item | 34 |
-| set_local | 20 |
+| set_local | 19 |
 | task | 3 |
 | user | 3 |
 </details>
