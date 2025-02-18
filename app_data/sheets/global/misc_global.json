@@ -805,8 +805,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "welcome",
+      "value": "Welcome",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "logged_in_splash",
-      "value": "Welcome! Excited to have you here. Let’s keep going.",
+      "value": "Excited to have you here! Let’s keep going.",
       "_translations": {
         "value": {}
       }
@@ -814,7 +822,7 @@
     {
       "type": "declare_global_constant",
       "name": "logged_in_splash_user",
-      "value": "Welcome! Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
+      "value": "Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
       "_translations": {
         "value": {}
       }
