@@ -38,7 +38,7 @@
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 33 |
+| title | 34 |
 | toggle_bar | 4 |
 | update_action_list | 2 |
 | video | 3 |
