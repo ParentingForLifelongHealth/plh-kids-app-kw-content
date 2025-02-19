@@ -10,6 +10,7 @@
         "value": {}
       },
       "condition": "@fields._app_language_direction != \"rtl\"",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "background_image_position",
       "_dynamicFields": {
@@ -35,6 +36,7 @@
         "value": {}
       },
       "condition": "@fields._app_language_direction == \"rtl\"",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "background_image_position",
       "_dynamicFields": {
