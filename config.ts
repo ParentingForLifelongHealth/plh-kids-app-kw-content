@@ -3,8 +3,8 @@ import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
 const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" });
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-kids-app-kw-content.git",
-  content_tag_latest: "1.2.21",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-kw-content",
+  content_tag_latest: "1.2.22",
 };
 
 config.android = {
@@ -30,7 +30,10 @@ config.google_drive.sheets_folder_ids = [
   "1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx" // kids_kw
 ];
 
-config.google_drive.assets_folder_ids = ["1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp"];
+config.google_drive.assets_folder_ids = [
+  "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", // kids_global
+  "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp" // kids_kw
+];
 
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
