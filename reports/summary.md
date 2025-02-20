@@ -8,15 +8,15 @@
 | audio | 3 |
 | button | 60 |
 | combo_box | 4 |
-| data_items | 66 |
+| data_items | 59 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 57 |
+| display_group | 58 |
 | google_sign_in_button | 2 |
 | image | 11 |
 | items | 9 |
 | lottie_animation | 3 |
-| nested_properties | 63 |
+| nested_properties | 59 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
@@ -24,22 +24,21 @@
 | plh_module_list_item | 1 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 5 |
-| radio_group | 2 |
+| radio_button_grid | 6 |
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1112 |
+| set_variable | 1095 |
 | simple_checkbox | 1 |
-| task_card | 4 |
+| task_card | 5 |
 | task_progress_bar | 2 |
-| template | 329 |
-| text | 82 |
+| template | 319 |
+| text | 88 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 34 |
-| toggle_bar | 4 |
+| title | 35 |
+| toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 4 |
@@ -52,22 +51,22 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 234 |
+| emit: completed | 233 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 11 |
 | emit: force_restart | 5 |
 | emit: server_sync | 3 |
 | emit: set_language | 1 |
-| emit: uncompleted | 233 |
+| emit: uncompleted | 232 |
 | feedback | 13 |
-| go_to | 12 |
-| nav_stack | 97 |
-| pop_up | 38 |
+| go_to | 13 |
+| nav_stack | 79 |
+| pop_up | 29 |
 | reset_app | 1 |
-| set_data | 34 |
-| set_field | 47 |
-| set_item | 34 |
-| set_local | 19 |
+| set_data | 25 |
+| set_field | 37 |
+| set_item | 26 |
+| set_local | 22 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -77,7 +76,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 38612 KB | 38.6 MB |
+| total | 38575 KB | 38.6 MB |
 | unused | 9585 KB | 9.6 MB |
 </details>
 
@@ -221,7 +220,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/dunes.png | 1329.3 | 1 |
 | images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/library_top_right.png | 1358.6 | 1 |
-| images/backgrounds/map_view_bg.jpg | 166.3 | 1 |
+| images/backgrounds/map_view_bg.jpg | 129.5 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
@@ -312,7 +311,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lightbulb_blue.png | 3.6 | 2 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
-| images/icons/locked.png | 0.7 | 5 |
+| images/icons/locked.png | 0.7 | 6 |
 | images/icons/magnify_glass.svg | 1.9 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 10 |
 | images/icons/notification_bell.png | 0.9 | 1 |
@@ -384,10 +383,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 2 |
 | data_pipe | generated | 18 |
-| generator |  | 22 |
+| generator |  | 21 |
 | global |  | 4 |
 | global | legal_terms | 1 |
 | template |  | 71 |
-| template | generated | 235 |
+| template | generated | 226 |
 | template | legal_terms | 4 |
 </details>
