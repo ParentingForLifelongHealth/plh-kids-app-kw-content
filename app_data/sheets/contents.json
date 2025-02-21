@@ -3621,6 +3621,11 @@
       "flow_name": "module_landing_sub",
       "_xlsxPath": "KW module_navigation.xlsx"
     },
+    "module_list": {
+      "flow_type": "template",
+      "flow_name": "module_list",
+      "_xlsxPath": "KW module_navigation.xlsx"
+    },
     "module_list_item": {
       "flow_type": "template",
       "flow_name": "module_list_item",
