@@ -285,7 +285,7 @@
                   }
                 },
                 {
-                  "type": "task_card",
+                  "type": "plh_module_list_item",
                   "name": "locked_@item.id",
                   "action_list": [
                     {
@@ -300,9 +300,9 @@
                   ],
                   "parameter_list": {
                     "variant": "circle",
-                    "image": "@item.image_asset",
-                    "locked": "TRUE",
+                    "module_image_asset": "@item.image_asset",
                     "locked_image_asset": "images/icons/locked.png",
+                    "is_locked": "TRUE",
                     "highlighted": "@local.is_highlighted"
                   },
                   "condition": "!(@item.id == @local.current_module_id || @item.completed)",
@@ -348,7 +348,7 @@
                       }
                     },
                     "parameter_list": {
-                      "image": [
+                      "module_image_asset": [
                         {
                           "fullExpression": "@item.image_asset",
                           "matchedExpression": "@item.image_asset",
@@ -404,7 +404,7 @@
                       "_nested_name"
                     ],
                     "@item.image_asset": [
-                      "parameter_list.image"
+                      "parameter_list.module_image_asset"
                     ],
                     "@local.is_highlighted": [
                       "parameter_list.highlighted"
@@ -418,7 +418,7 @@
                   }
                 },
                 {
-                  "type": "task_card",
+                  "type": "plh_module_list_item",
                   "name": "unlocked_@item.id",
                   "action_list": [
                     {
@@ -433,9 +433,9 @@
                   ],
                   "parameter_list": {
                     "variant": "circle",
-                    "image": "@item.image_asset",
-                    "locked": "FALSE",
+                    "module_image_asset": "@item.image_asset",
                     "locked_image_asset": "images/icons/locked.png",
+                    "is_locked": "FALSE",
                     "highlighted": "@local.is_highlighted"
                   },
                   "condition": "@item.id == @local.current_module_id || @item.completed",
@@ -481,7 +481,7 @@
                       }
                     },
                     "parameter_list": {
-                      "image": [
+                      "module_image_asset": [
                         {
                           "fullExpression": "@item.image_asset",
                           "matchedExpression": "@item.image_asset",
@@ -537,7 +537,7 @@
                       "_nested_name"
                     ],
                     "@item.image_asset": [
-                      "parameter_list.image"
+                      "parameter_list.module_image_asset"
                     ],
                     "@local.is_highlighted": [
                       "parameter_list.highlighted"

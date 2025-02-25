@@ -6,12 +6,13 @@
 | accordion | 1 |
 | accordion_section | 1 |
 | audio | 3 |
+| begin_display_group | 1 |
 | button | 60 |
 | combo_box | 4 |
-| data_items | 61 |
+| data_items | 62 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 58 |
+| display_group | 57 |
 | google_sign_in_button | 2 |
 | image | 11 |
 | items | 9 |
@@ -28,12 +29,12 @@
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1098 |
+| set_variable | 1099 |
 | simple_checkbox | 1 |
 | task_card | 5 |
 | task_progress_bar | 2 |
-| template | 319 |
-| text | 87 |
+| template | 320 |
+| text | 84 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
@@ -63,10 +64,10 @@
 | nav_stack | 79 |
 | pop_up | 29 |
 | reset_app | 1 |
-| set_data | 25 |
+| set_data | 26 |
 | set_field | 37 |
 | set_item | 26 |
-| set_local | 23 |
+| set_local | 25 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -386,7 +387,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 21 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 71 |
+| template |  | 72 |
 | template | generated | 226 |
 | template | legal_terms | 4 |
 </details>
