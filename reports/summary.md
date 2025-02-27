@@ -22,7 +22,7 @@
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
 | plh_module_details_header | 1 |
-| plh_module_list_item | 1 |
+| plh_module_list_item | 3 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 6 |
@@ -31,7 +31,7 @@
 | set_field | 4 |
 | set_variable | 1099 |
 | simple_checkbox | 1 |
-| task_card | 5 |
+| task_card | 3 |
 | task_progress_bar | 2 |
 | template | 320 |
 | text | 84 |

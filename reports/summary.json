@@ -79,7 +79,7 @@
       },
       {
         "type": "plh_module_list_item",
-        "count": 1
+        "count": 3
       },
       {
         "type": "plh_progress_path",
@@ -115,7 +115,7 @@
       },
       {
         "type": "task_card",
-        "count": 5
+        "count": 3
       },
       {
         "type": "task_progress_bar",
