@@ -3404,9 +3404,19 @@
       "flow_name": "hp_challenges",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
+    "hp_challenges_refactor": {
+      "flow_type": "template",
+      "flow_name": "hp_challenges_refactor",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
+    },
     "hp_review": {
       "flow_type": "template",
       "flow_name": "hp_review",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
+    },
+    "hp_review_refactor": {
+      "flow_type": "template",
+      "flow_name": "hp_review_refactor",
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx"
     },
     "import_user_data": {

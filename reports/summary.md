@@ -8,16 +8,16 @@
 | audio | 3 |
 | begin_display_group | 1 |
 | button | 60 |
-| combo_box | 4 |
-| data_items | 62 |
+| combo_box | 7 |
+| data_items | 72 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 57 |
+| display_group | 61 |
 | google_sign_in_button | 2 |
 | image | 11 |
 | items | 9 |
 | lottie_animation | 3 |
-| nested_properties | 59 |
+| nested_properties | 60 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
@@ -25,20 +25,20 @@
 | plh_module_list_item | 3 |
 | plh_progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 6 |
+| radio_button_grid | 10 |
 | round_button | 4 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1099 |
+| set_variable | 1281 |
 | simple_checkbox | 1 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 320 |
-| text | 84 |
+| template | 341 |
+| text | 92 |
 | text_area | 2 |
 | text_box | 4 |
 | text_bubble | 2 |
-| title | 35 |
+| title | 36 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -52,22 +52,22 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 233 |
+| emit: completed | 236 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 11 |
 | emit: force_restart | 5 |
 | emit: server_sync | 3 |
 | emit: set_language | 1 |
-| emit: uncompleted | 232 |
+| emit: uncompleted | 235 |
 | feedback | 13 |
 | go_to | 13 |
 | nav_stack | 79 |
 | pop_up | 29 |
 | reset_app | 1 |
 | set_data | 26 |
-| set_field | 37 |
-| set_item | 26 |
-| set_local | 25 |
+| set_field | 39 |
+| set_item | 32 |
+| set_local | 30 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -387,7 +387,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 21 |
 | global |  | 4 |
 | global | legal_terms | 1 |
-| template |  | 72 |
+| template |  | 75 |
 | template | generated | 226 |
 | template | legal_terms | 4 |
 </details>
