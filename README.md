@@ -1,7 +1,9 @@
 # plh-kids-app-kw-content
 This package contains data used in the Kuwait version of the PLH Kids app
 
-Linked directly to PLH Kids https://github.com/IDEMSInternational/plh-kids-app-content
+Linked directly to: [PLH Kids deployment](https://github.com/IDEMSInternational/plh-kids-app-content)
+
+Description of postgres data variables: [PLH Kids KW Codebook](https://docs.google.com/spreadsheets/d/1fr172q1HW5IZU7-j4ICaiHpZBYSIHlcBzMHxOQnE5cs/edit?gid=0#gid=0)
 
 ## App Preview
 UAT: https://plh-kids-kw-uat1.web.app/
