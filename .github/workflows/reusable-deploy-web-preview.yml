@@ -22,11 +22,6 @@ on:
         description: Firebase site for hosting
         type: string
         default: ${{vars.FIREBASE_HOSTING_TARGET}}
-    secrets:  # Declare secrets you expect to receive
-      FIREBASE_SERVICE_ACCOUNT:
-        required: true
-      DEPLOYMENT_PRIVATE_KEY:
-        description: Provide private key if deployment uses encrypted config
 
 jobs:
   build_action:
