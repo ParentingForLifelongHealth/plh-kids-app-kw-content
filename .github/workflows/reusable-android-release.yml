@@ -5,7 +5,7 @@ env:
   ##################################################################################
   #         Main Code
   ##################################################################################
-name: Android - Release to Google Play
+name: Android - Release to Google Play TEST
   
 on:
  workflow_dispatch:
