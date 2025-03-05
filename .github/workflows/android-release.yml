@@ -11,7 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Debug Secrets
-        run: echo "Secrets loaded: ${{ secrets.DEPLOYMENT_PRIVATE_KEY != '' }}"
+        run: |
+          if [ -z "${{ secrets.DEPLOYMENT_PRIVATE_KEY }}" ]; then
+            echo "Secret is missing or empty"
+          else
+            echo "Secret is set"
+          fi
 
   android_release:
     uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-android-release.yml@master
