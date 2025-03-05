@@ -1,0 +1,26 @@
+env:
+    DEPLOYMENT_NAME: ${{vars.DEPLOYMENT_NAME}}
+    APP_CODE_BRANCH: ${{vars.APP_CODE_BRANCH}}
+    PARENT_DEPLOYMENT_REPO: ${{vars.PARENT_DEPLOYMENT_REPO}}
+    PARENT_DEPLOYMENT_NAME: ${{vars.PARENT_DEPLOYMENT_NAME}}
+    PARENT_DEPLOYMENT_BRANCH: ${{vars.PARENT_DEPLOYMENT_BRANCH}}
+    DEPLOYMENT_PRIVATE_KEY: ${{secrets.DEPLOYMENT_PRIVATE_KEY}}
+    FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}
+
+
+name: TEST
+
+on:
+  workflow_dispatch:
+
+jobs:  
+    testing:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Populate Encryption key
+          if: env.DEPLOYMENT_PRIVATE_KEY != ''
+          run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./private.key
+
+        - name: Populate firebaseconfig
+          if: env.FIREBASE_CONFIG != ''
+          run: echo "${{env.FIREBASE_CONFIG}}" > ./private.key
