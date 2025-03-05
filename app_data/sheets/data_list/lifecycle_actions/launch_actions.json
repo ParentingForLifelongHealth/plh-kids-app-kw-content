@@ -74,7 +74,7 @@
       "id": "app_start_login",
       "priority": 4,
       "condition_list": [
-        "!@fields.login_skipped && !@fields._auth_user_id && @global.has_optional_login && @fields.user_mode"
+        "!@fields.login_passed && @global.has_optional_login && @fields.user_mode"
       ],
       "action_list": [
         {
