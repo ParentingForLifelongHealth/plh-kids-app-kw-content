@@ -17,11 +17,7 @@ concurrency:
 
 on:
   workflow_dispatch:
-    inputs:
-      firebase-host:
-        description: Firebase site for hosting
-        type: string
-        default: ${{vars.FIREBASE_HOSTING_TARGET}}
+
 
 jobs:
   build_action:
@@ -55,7 +51,7 @@ jobs:
         run: |
           FIREBASE_RC_TARGETS=$(jq -n \
             --argjson "${{env.FIREBASE_PROJECT_ID}}" \
-            '{"hosting":{"${{inputs.firebase-host}}":["${{inputs.firebase-host}}"]}}' \
+            '{"hosting":{"${{env.FIREBASE_HOSTING_TARGET}}":["${{env.FIREBASE_HOSTING_TARGET}}"]}}' \
             '$ARGS.named'
             )
           FIREBASE_RC=$(jq -n \
@@ -71,7 +67,7 @@ jobs:
       - name: Populate Firebase JSON
         run: |
           FIREBASE_JSON_HOSTING=$(jq -n \
-          --arg target "${{inputs.firebase-host}}" \
+          --arg target "${{env.FIREBASE_HOSTING_TARGET}}" \
           --arg public "www" \
           --argjson ignore '["firebase.json"]' \
           --argjson rewrites '[{"source": "**","destination": "/index.html"}]' \
@@ -92,7 +88,7 @@ jobs:
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
           projectId: "${{ env.FIREBASE_PROJECT_ID }}"
           channelId: "${{ env.FIREBASE_HOSTING_CHANNEL }}"
-          target: "${{inputs.firebase-host}}"
+          target: "${{env.FIREBASE_HOSTING_TARGET}}"
           expires: "30d"
 ##################################################################################
 #         Useful Links
