@@ -102,39 +102,49 @@
           }
         },
         {
-          "type": "google_sign_in_button",
-          "name": "button_google_sign_in",
-          "value": "@global.login_google",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
+          "type": "display_group",
+          "name": "dg_centre_button",
+          "style_list": [
+            "justify-content: center"
+          ],
+          "rows": [
             {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "force_reprocess"
+              "type": "google_sign_in_button",
+              "name": "button_google_sign_in",
+              "value": "@global.login_google",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "force_reprocess"
+                  ],
+                  "_raw": "click | emit: force_reprocess",
+                  "_cleaned": "click | emit: force_reprocess"
+                }
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_nested_name": "login.dg_centre_button.button_google_sign_in",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.login_google",
+                    "matchedExpression": "@global.login_google",
+                    "type": "global",
+                    "fieldName": "login_google"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.login_google": [
+                  "value"
+                ]
+              }
             }
           ],
-          "_nested_name": "login.button_google_sign_in",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.login_google",
-                "matchedExpression": "@global.login_google",
-                "type": "global",
-                "fieldName": "login_google"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.login_google": [
-              "value"
-            ]
-          }
+          "_nested_name": "login.dg_centre_button"
         },
         {
           "type": "button",
