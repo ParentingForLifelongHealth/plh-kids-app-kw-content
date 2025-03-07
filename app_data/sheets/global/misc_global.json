@@ -748,7 +748,9 @@
       "name": "login",
       "value": "Sign in",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -756,7 +758,9 @@
       "name": "login_google",
       "value": "Sign in with Google",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -764,7 +768,9 @@
       "name": "logout",
       "value": "Sign out",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -782,7 +788,9 @@
       "name": "create_account_question",
       "value": "Creating an account allows you to save your progress across devices. It is optional.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -800,7 +808,9 @@
       "name": "skip_login",
       "value": "Continue without an account",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -808,7 +818,9 @@
       "name": "welcome",
       "value": "Welcome",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -816,7 +828,9 @@
       "name": "logged_in_splash",
       "value": "Excited to have you here! Let’s keep going.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -824,7 +838,9 @@
       "name": "logged_in_splash_user",
       "value": "Excited to have you here @fields._auth_user_given_name! Let’s keep going.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -832,7 +848,9 @@
       "name": "logged_in",
       "value": "You are signed in.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -840,7 +858,9 @@
       "name": "previous_login",
       "value": "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\nIf you do, any progress made on this device will be lost.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -848,7 +868,9 @@
       "name": "restore_data",
       "value": "Load saved progress",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     }
   ],

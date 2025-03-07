@@ -65,7 +65,9 @@
           "name": "button_dynamic_data",
           "value": "Dynamic data",
           "_translations": {
-            "value": {}
+            "value": {
+              "kw_ar": true
+            }
           },
           "action_list": [
             {
