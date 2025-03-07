@@ -129,7 +129,9 @@
       "name": "logout",
       "value": "Logout",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
@@ -137,7 +139,9 @@
       "name": "logged_in",
       "value": "You are logged in.",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     }
   ],

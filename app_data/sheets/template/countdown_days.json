@@ -43,7 +43,9 @@
       "name": "text_1",
       "value": "Countdown days: @local.countdown_days",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       },
       "_nested_name": "text_1",
       "_dynamicFields": {
