@@ -46,6 +46,15 @@
           ],
           "_raw": "uncompleted | emit: uncompleted",
           "_cleaned": "uncompleted | emit: uncompleted"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "go_to",
+          "args": [
+            "settings"
+          ],
+          "_raw": "uncompleted | go_to: settings",
+          "_cleaned": "uncompleted | go_to: settings"
         }
       ],
       "rows": [
