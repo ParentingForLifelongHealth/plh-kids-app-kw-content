@@ -40,7 +40,7 @@
 | text_bubble | 2 |
 | title | 35 |
 | toggle_bar | 5 |
-| update_action_list | 2 |
+| update_action_list | 3 |
 | video | 3 |
 | youtube | 4 |
 </details>

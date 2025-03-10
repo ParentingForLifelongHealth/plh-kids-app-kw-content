@@ -11,6 +11,22 @@
   },
   "rows": [
     {
+      "type": "update_action_list",
+      "name": "update_login_button",
+      "action_list": [
+        {
+          "trigger": "nav_resume",
+          "action_id": "emit",
+          "args": [
+            "force_reload"
+          ],
+          "_raw": "nav_resume | emit: force_reload",
+          "_cleaned": "nav_resume | emit: force_reload"
+        }
+      ],
+      "_nested_name": "update_login_button"
+    },
+    {
       "name": "next_icon_asset",
       "value": "chevron-forward",
       "_translations": {
