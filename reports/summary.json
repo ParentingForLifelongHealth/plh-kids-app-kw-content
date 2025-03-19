@@ -19,7 +19,7 @@
       },
       {
         "type": "button",
-        "count": 60
+        "count": 61
       },
       {
         "type": "combo_box",
@@ -175,11 +175,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 233
+        "count": 234
       },
       {
         "type": "emit: force_reload",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: force_reprocess",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: set_language",
@@ -207,7 +207,7 @@
       },
       {
         "type": "go_to",
-        "count": 13
+        "count": 14
       },
       {
         "type": "nav_stack",
@@ -227,7 +227,7 @@
       },
       {
         "type": "set_field",
-        "count": 38
+        "count": 41
       },
       {
         "type": "set_item",

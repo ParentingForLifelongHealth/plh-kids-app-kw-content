@@ -7,7 +7,7 @@
 | accordion_section | 1 |
 | audio | 3 |
 | begin_display_group | 1 |
-| button | 60 |
+| button | 61 |
 | combo_box | 6 |
 | data_items | 68 |
 | debug_toggle | 1 |
@@ -52,20 +52,20 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 233 |
-| emit: force_reload | 3 |
+| emit: completed | 234 |
+| emit: force_reload | 4 |
 | emit: force_reprocess | 11 |
 | emit: force_restart | 5 |
-| emit: server_sync | 3 |
+| emit: server_sync | 4 |
 | emit: set_language | 1 |
 | emit: uncompleted | 232 |
 | feedback | 13 |
-| go_to | 13 |
+| go_to | 14 |
 | nav_stack | 79 |
 | pop_up | 29 |
 | reset_app | 1 |
 | set_data | 26 |
-| set_field | 38 |
+| set_field | 41 |
 | set_item | 35 |
 | set_local | 26 |
 | task | 3 |
