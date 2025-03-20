@@ -117,8 +117,48 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_splash_screens_completed",
+      "id": "app_start_countdown_days_migration_facilitator",
       "priority": 6,
+      "condition_list": [
+        "@calc(@fields.countdown_days.includes(\"calc\") && @fields.user_type == \"facilitator\")"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "0"
+          ],
+          "_raw": "set_field: countdown_days: 0",
+          "_cleaned": "click | set_field: countdown_days: 0"
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_countdown_days_migration_other",
+      "priority": 7,
+      "condition_list": [
+        "@calc(@fields.countdown_days.includes(\"calc\") && @fields.user_type != \"facilitator\")"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "countdown_days",
+            "7"
+          ],
+          "_raw": "set_field: countdown_days: 7",
+          "_cleaned": "click | set_field: countdown_days: 7"
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_splash_screens_completed",
+      "priority": 8,
       "condition_list": [
         "!@fields.splash_screens_completed  && @fields.user_mode"
       ],
@@ -138,7 +178,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 7,
+      "priority": 9,
       "action_list": [
         {
           "trigger": "click",
