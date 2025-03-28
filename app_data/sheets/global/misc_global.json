@@ -765,6 +765,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "login_apple",
+      "value": "Sign in with Apple",
+      "_translations": {
+        "value": {
+          "kw_ar": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "logout",
       "value": "Sign out",
       "_translations": {

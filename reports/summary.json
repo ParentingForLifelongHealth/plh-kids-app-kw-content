@@ -10,6 +10,10 @@
         "count": 1
       },
       {
+        "type": "apple_sign_in_button",
+        "count": 1
+      },
+      {
         "type": "audio",
         "count": 3
       },
@@ -39,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 58
+        "count": 59
       },
       {
         "type": "google_sign_in_button",
@@ -95,7 +99,7 @@
       },
       {
         "type": "round_button",
-        "count": 4
+        "count": 5
       },
       {
         "type": "select_text",
@@ -107,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1214
+        "count": 1215
       },
       {
         "type": "simple_checkbox",
@@ -115,7 +119,7 @@
       },
       {
         "type": "task_card",
-        "count": 3
+        "count": 4
       },
       {
         "type": "task_progress_bar",
@@ -183,7 +187,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 11
+        "count": 12
       },
       {
         "type": "emit: force_restart",
@@ -199,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 232
+        "count": 233
       },
       {
         "type": "feedback",
@@ -215,7 +219,7 @@
       },
       {
         "type": "pop_up",
-        "count": 29
+        "count": 30
       },
       {
         "type": "reset_app",
@@ -235,7 +239,7 @@
       },
       {
         "type": "set_local",
-        "count": 26
+        "count": 27
       },
       {
         "type": "task",

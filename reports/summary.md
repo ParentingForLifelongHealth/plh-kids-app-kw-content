@@ -5,6 +5,7 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
+| apple_sign_in_button | 1 |
 | audio | 3 |
 | begin_display_group | 1 |
 | button | 61 |
@@ -12,7 +13,7 @@
 | data_items | 68 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 58 |
+| display_group | 59 |
 | google_sign_in_button | 2 |
 | image | 11 |
 | items | 9 |
@@ -26,12 +27,12 @@
 | plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 4 |
+| round_button | 5 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1214 |
+| set_variable | 1215 |
 | simple_checkbox | 1 |
-| task_card | 3 |
+| task_card | 4 |
 | task_progress_bar | 2 |
 | template | 326 |
 | text | 85 |
@@ -54,20 +55,20 @@
 | auth | 2 |
 | emit: completed | 234 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 11 |
+| emit: force_reprocess | 12 |
 | emit: force_restart | 5 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 232 |
+| emit: uncompleted | 233 |
 | feedback | 13 |
 | go_to | 14 |
 | nav_stack | 79 |
-| pop_up | 29 |
+| pop_up | 30 |
 | reset_app | 1 |
 | set_data | 26 |
 | set_field | 41 |
 | set_item | 35 |
-| set_local | 26 |
+| set_local | 27 |
 | task | 3 |
 | user | 3 |
 </details>
