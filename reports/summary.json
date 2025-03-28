@@ -255,12 +255,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "38579 KB",
+        "KB": "38575 KB",
         "MB": "38.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "9581 KB",
+        "KB": "9585 KB",
         "MB": "9.6 MB"
       }
     ]
@@ -336,8 +336,20 @@
         "size_kb": 1.3
       },
       {
+        "path": "images/icons/faces/happy_face_new.svg",
+        "size_kb": 1.4
+      },
+      {
         "path": "images/icons/faces/neutral.svg",
         "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/ok_face_new.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/sad_face_new.svg",
+        "size_kb": 1.5
       },
       {
         "path": "images/icons/faces/sadder.svg",
@@ -674,11 +686,6 @@
       {
         "path": "images/backgrounds/library_bottom_right.png",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/diamond_yellow.png",
-        "count": 6,
         "missing": true
       }
     ]
@@ -1147,33 +1154,18 @@
       },
       {
         "path": "images/icons/faces/happy.svg",
-        "count": 29,
+        "count": 33,
         "size_kb": 53.5
       },
       {
-        "path": "images/icons/faces/happy_face_new.svg",
-        "count": 4,
-        "size_kb": 1.4
-      },
-      {
         "path": "images/icons/faces/ok.svg",
-        "count": 27,
+        "count": 31,
         "size_kb": 46.6
       },
       {
-        "path": "images/icons/faces/ok_face_new.svg",
-        "count": 4,
-        "size_kb": 0.5
-      },
-      {
         "path": "images/icons/faces/sad.svg",
-        "count": 29,
+        "count": 31,
         "size_kb": 48.2
-      },
-      {
-        "path": "images/icons/faces/sad_face_new.svg",
-        "count": 4,
-        "size_kb": 1.5
       },
       {
         "path": "images/icons/faces/smiling.svg",
@@ -1182,7 +1174,7 @@
       },
       {
         "path": "images/icons/faces/stressed.svg",
-        "count": 18,
+        "count": 20,
         "size_kb": 60
       },
       {
@@ -1217,7 +1209,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 10,
+        "count": 12,
         "size_kb": 4.9
       },
       {
@@ -1342,7 +1334,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 8,
+        "count": 10,
         "size_kb": 5.1
       },
       {
@@ -1382,7 +1374,7 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 5.1
       },
       {
