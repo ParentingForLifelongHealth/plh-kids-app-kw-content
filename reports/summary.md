@@ -5,7 +5,7 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
-| apple_sign_in_button | 1 |
+| apple_sign_in_button | 2 |
 | audio | 3 |
 | begin_display_group | 1 |
 | button | 61 |
@@ -55,7 +55,7 @@
 | auth | 2 |
 | emit: completed | 234 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 12 |
+| emit: force_reprocess | 13 |
 | emit: force_restart | 5 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
