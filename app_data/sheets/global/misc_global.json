@@ -768,7 +768,9 @@
       "name": "login_apple",
       "value": "Sign in with Apple",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {

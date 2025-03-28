@@ -2916,6 +2916,12 @@
     "note": ""
   },
   {
+    "SourceText": "Sign in with Apple",
+    "text": "تسجيل الدخول مع أبل",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Sign out",
     "text": "تسجيل الخروج",
     "type": "global",
