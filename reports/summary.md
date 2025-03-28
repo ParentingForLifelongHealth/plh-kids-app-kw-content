@@ -5,6 +5,7 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
+| apple_sign_in_button | 1 |
 | audio | 3 |
 | begin_display_group | 1 |
 | button | 61 |
@@ -12,7 +13,7 @@
 | data_items | 68 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 58 |
+| display_group | 59 |
 | google_sign_in_button | 2 |
 | image | 11 |
 | items | 9 |
@@ -26,12 +27,12 @@
 | plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 4 |
+| round_button | 5 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1214 |
+| set_variable | 1215 |
 | simple_checkbox | 1 |
-| task_card | 3 |
+| task_card | 4 |
 | task_progress_bar | 2 |
 | template | 326 |
 | text | 85 |
@@ -54,20 +55,20 @@
 | auth | 2 |
 | emit: completed | 234 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 11 |
+| emit: force_reprocess | 12 |
 | emit: force_restart | 5 |
 | emit: server_sync | 4 |
 | emit: set_language | 1 |
-| emit: uncompleted | 232 |
+| emit: uncompleted | 233 |
 | feedback | 13 |
 | go_to | 14 |
 | nav_stack | 79 |
-| pop_up | 29 |
+| pop_up | 30 |
 | reset_app | 1 |
 | set_data | 26 |
 | set_field | 41 |
 | set_item | 35 |
-| set_local | 26 |
+| set_local | 27 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -77,8 +78,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 38575 KB | 38.6 MB |
-| unused | 9585 KB | 9.6 MB |
+| total | 38579 KB | 38.6 MB |
+| unused | 9581 KB | 9.6 MB |
 </details>
 
 <details open>
@@ -105,10 +106,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
 | images/icons/faces/happiest.svg | 1.3 |
-| images/icons/faces/happy_face_new.svg | 1.4 |
 | images/icons/faces/neutral.svg | 0.5 |
-| images/icons/faces/ok_face_new.svg | 0.5 |
-| images/icons/faces/sad_face_new.svg | 1.5 |
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/scared.svg | 2.1 |
@@ -190,6 +188,7 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 | images/backgrounds/library_bottom_right.png | 1 |
+| images/icons/diamond_yellow.png | 6 |
 </details>
 
 <details >
@@ -291,18 +290,21 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/eye_blue.png | 4.2 | 4 |
 | images/icons/faces/flushed_face.svg | 4.9 | 2 |
-| images/icons/faces/happy.svg | 53.5 | 33 |
-| images/icons/faces/ok.svg | 46.6 | 31 |
-| images/icons/faces/sad.svg | 48.2 | 31 |
+| images/icons/faces/happy.svg | 53.5 | 29 |
+| images/icons/faces/happy_face_new.svg | 1.4 | 4 |
+| images/icons/faces/ok.svg | 46.6 | 27 |
+| images/icons/faces/ok_face_new.svg | 0.5 | 4 |
+| images/icons/faces/sad.svg | 48.2 | 29 |
+| images/icons/faces/sad_face_new.svg | 1.5 | 4 |
 | images/icons/faces/smiling.svg | 5.1 | 2 |
-| images/icons/faces/stressed.svg | 60 | 20 |
+| images/icons/faces/stressed.svg | 60 | 18 |
 | images/icons/faces/tired.svg | 54 | 18 |
 | images/icons/feather.svg | 3.5 | 1 |
 | images/icons/football_blue.png | 5.1 | 2 |
 | images/icons/heart.png | 1.3 | 2 |
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
-| images/icons/heart_filled_blue.png | 4.9 | 12 |
+| images/icons/heart_filled_blue.png | 4.9 | 10 |
 | images/icons/heart_filled_red.png | 1.4 | 2 |
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/home_active.svg | 0.4 | 1 |
@@ -327,7 +329,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 11 |
 | images/icons/smile_eyes_up.svg | 1 | 20 |
 | images/icons/speech_bubble_blue.png | 4.2 | 8 |
-| images/icons/star_filled_blue.png | 5.1 | 10 |
+| images/icons/star_filled_blue.png | 5.1 | 8 |
 | images/icons/star_outline_blue.svg | 1 | 10 |
 | images/icons/tablet_blue.png | 2.8 | 2 |
 | images/icons/thought_bubble.svg | 2.1 | 10 |
@@ -335,7 +337,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/tick_white.svg | 0.3 | 1 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
-| images/icons/trophy_blue.png | 5.1 | 4 |
+| images/icons/trophy_blue.png | 5.1 | 2 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/instructions_yc.svg | 208.8 | 2 |
 | images/kw_f1_daughter_2.svg | 34.2 | 1 |
