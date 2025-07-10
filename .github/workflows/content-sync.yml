@@ -1,12 +1,19 @@
 ##################################################################################
 #         Calls workflow from code repo
 ##################################################################################
-name: Deploy - Firebase
+name: Perform content sync and create a PR
 
 on:
-  push:
-    branches:
-      - "main"
+  workflow_dispatch:
+     inputs:
+        pr-title:
+          description: Title for PR
+          type: string
+          default: sync content from google sheets
+        pr-body:
+          description: Description for PR
+          type: string
+          default: Automated PR creation from actions
 
 jobs:
   call_get_vars:
@@ -14,12 +21,11 @@ jobs:
 
   call_reusable_workflow:
     needs: call_get_vars
-    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/deploy-web-preview.yml@main
+    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/content-sync.yml@main
     with:
+      pr-title: ${{ inputs.pr-title }}
+      pr-body: ${{ inputs.pr-body }}
       APP_CODE_BRANCH: ${{ vars.APP_CODE_BRANCH }}
-      FIREBASE_HOSTING_TARGET: ${{ needs.call_get_vars.outputs.FIREBASE_HOSTING_TARGET }}
-      FIREBASE_PROJECT_ID: ${{ needs.call_get_vars.outputs.FIREBASE_PROJECT_ID }}
-      FIREBASE_HOSTING_CHANNEL: ${{ needs.call_get_vars.outputs.FIREBASE_HOSTING_CHANNEL }}
       LFS_USED: ${{ needs.call_get_vars.outputs.LFS_USED == 'true' }}
       DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.DEPLOYMENT_NAME }}
       PARENT_DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
@@ -28,5 +34,7 @@ jobs:
       ENCRYPTED: ${{ needs.call_get_vars.outputs.ENCRYPTED == 'true' }} 
     secrets:
       DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}  
-      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}  
+      GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}  
+      GDRIVE_TOKEN: ${{ secrets.GDRIVE_TOKEN }}  
+      PAT: ${{ secrets.PAT }}  
       

@@ -8,16 +8,8 @@ on:
     types: [labeled, synchronize]
 
 jobs:
-  pr_preview:
-    uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-pr-preview.yml@master
-    secrets: inherit
-
-
-
-jobs:
   call_get_vars:
     uses: ./.github/workflows/get-vars.yml  
-    id: get_vars
 
   call_reusable_workflow:
     needs: call_get_vars
