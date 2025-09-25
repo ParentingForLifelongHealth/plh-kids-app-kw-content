@@ -326,6 +326,7 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
+        "text_2": {},
         "section_1_title": {
           "kw_ar": true
         },
@@ -379,6 +380,9 @@
         "text_1_facilitator": {
           "eng": "Here are some easy steps to use consequences when your child misbehaves:"
         },
+        "text_2": {
+          "eng": "**Involve your child**\n- Involve your children in planning consequences when you create household rules.\n- Discuss possible consequences together and explain the reasons.\n- Older children can suggest ideas, making them more likely to follow the rules.\nIntroduce consequences to your child when the child is calm\n\n**Be Fair**\n- Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.\n- Make sure the consequence is reasonable for your child’s age and not too severe.\n- If a natural consequence already exists (like a toy breaking), you may not need to add another one.\n\n**Be Calm** \n- Take deep breaths or walk away if you need to calm down first.\n- Respond in a calm, clear way.\n- Shouting only makes things worse and teaches the wrong lesson.\n\n**Give a chance to comply** \n- Try to avoid consequences by giving clear instructions and redirecting first.\n- Before giving a consequence, give your child a choice and 5–10 seconds to follow the instruction\n- Follow all of the building blocks for giving clear and specific instructions.\n- Repeat your instruction ONCE with a choice to comply or receive a consequence: “If you do not do it now, you cannot play with your toys after dinner.” \n- Say the same words and speak calmly, slowly, and firmly. Make sure your child is paying attention. \n- If your child decides to comply after having been given a choice, praise your child for following the instruction – even if your child is unhappy about it. \n- Remember to manage tantrums and whining by ignoring your child’s behaviour (but not the child!).\n\n**How to give a consequence**\n- Consequences should be immediate, reasonable, and realistic.\n- If you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n- If your child forgets or breaks a household rule, give the consequence immediately.\nIt is okay to show your disappointment when your child forgets a Household Rule. \n- Consequences are not punishments. They teach children responsibility for actions and self-discipline.\n\n**Be Consistent**\n- Always follow through once you give a consequence.\n- Be consistent with the rules you set—children learn what to expect."
+        },
         "section_1_title": {
           "eng": "BE CALM"
         },
@@ -428,6 +432,7 @@
           "eng": "Discuss what a consequence could be if children do not follow a certain household rule when you are creating it with them."
         }
       },
+      "text_2": "**Involve your child**\n- Involve your children in planning consequences when you create household rules.\n- Discuss possible consequences together and explain the reasons.\n- Older children can suggest ideas, making them more likely to follow the rules.\nIntroduce consequences to your child when the child is calm\n\n**Be Fair**\n- Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.\n- Make sure the consequence is reasonable for your child’s age and not too severe.\n- If a natural consequence already exists (like a toy breaking), you may not need to add another one.\n\n**Be Calm** \n- Take deep breaths or walk away if you need to calm down first.\n- Respond in a calm, clear way.\n- Shouting only makes things worse and teaches the wrong lesson.\n\n**Give a chance to comply** \n- Try to avoid consequences by giving clear instructions and redirecting first.\n- Before giving a consequence, give your child a choice and 5–10 seconds to follow the instruction\n- Follow all of the building blocks for giving clear and specific instructions.\n- Repeat your instruction ONCE with a choice to comply or receive a consequence: “If you do not do it now, you cannot play with your toys after dinner.” \n- Say the same words and speak calmly, slowly, and firmly. Make sure your child is paying attention. \n- If your child decides to comply after having been given a choice, praise your child for following the instruction – even if your child is unhappy about it. \n- Remember to manage tantrums and whining by ignoring your child’s behaviour (but not the child!).\n\n**How to give a consequence**\n- Consequences should be immediate, reasonable, and realistic.\n- If you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n- If your child forgets or breaks a household rule, give the consequence immediately.\nIt is okay to show your disappointment when your child forgets a Household Rule. \n- Consequences are not punishments. They teach children responsibility for actions and self-discipline.\n\n**Be Consistent**\n- Always follow through once you give a consequence.\n- Be consistent with the rules you set—children learn what to expect.",
       "section_1_title": "BE CALM",
       "section_1_text": "Take some deep breaths or walk away from the situation if you need to.\n\nThen, respond in a calm, clear way.",
       "section_1_button_text": "More tips",
@@ -616,5 +621,6 @@
       "quiz_1_feedback_3": "That's okay. Keep trying. It will get easier in time. You can start by considering smaller behaviours that your child struggles with and planning a fair consequence in advance so you're ready. Remember to take a pause to calm down before you respond."
     }
   ],
-  "_xlsxPath": "KW modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

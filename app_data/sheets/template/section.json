@@ -915,6 +915,41 @@
       }
     },
     {
+      "name": "pop_up_text",
+      "value": "@local.section_extra_text",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!(@local.section_extra_text)",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "pop_up_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.section_extra_text",
+            "matchedExpression": "@local.section_extra_text",
+            "type": "local",
+            "fieldName": "section_extra_text"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.section_extra_text)",
+            "matchedExpression": "@local.section_extra_text",
+            "type": "local",
+            "fieldName": "section_extra_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.section_extra_text": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg",
       "parameter_list": {
@@ -1007,44 +1042,6 @@
                   "condition"
                 ]
               }
-            },
-            {
-              "type": "image",
-              "name": "image_asset",
-              "value": "@local.section_image_asset",
-              "_translations": {
-                "value": {}
-              },
-              "condition": "!!(@local.section_image_asset)",
-              "style_list": [
-                "width: 80px"
-              ],
-              "exclude_from_translation": true,
-              "_nested_name": "dg.dg_top.image_asset",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@local.section_image_asset",
-                    "matchedExpression": "@local.section_image_asset",
-                    "type": "local",
-                    "fieldName": "section_image_asset"
-                  }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "!!(@local.section_image_asset)",
-                    "matchedExpression": "@local.section_image_asset",
-                    "type": "local",
-                    "fieldName": "section_image_asset"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.section_image_asset": [
-                  "value",
-                  "condition"
-                ]
-              }
             }
           ],
           "_nested_name": "dg.dg_top"
@@ -1075,35 +1072,38 @@
           }
         },
         {
-          "name": "pop_up_text",
-          "value": "@local.section_extra_text",
+          "type": "image",
+          "name": "image_asset",
+          "value": "@local.section_image_asset",
           "_translations": {
             "value": {}
           },
-          "condition": "!!(@local.section_extra_text)",
+          "condition": "!!(@local.section_image_asset)",
+          "parameter_list": {
+            "style": "rounded_corners"
+          },
           "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "dg.pop_up_text",
+          "_nested_name": "dg.image_asset",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.section_extra_text",
-                "matchedExpression": "@local.section_extra_text",
+                "fullExpression": "@local.section_image_asset",
+                "matchedExpression": "@local.section_image_asset",
                 "type": "local",
-                "fieldName": "section_extra_text"
+                "fieldName": "section_image_asset"
               }
             ],
             "condition": [
               {
-                "fullExpression": "!!(@local.section_extra_text)",
-                "matchedExpression": "@local.section_extra_text",
+                "fullExpression": "!!(@local.section_image_asset)",
+                "matchedExpression": "@local.section_image_asset",
                 "type": "local",
-                "fieldName": "section_extra_text"
+                "fieldName": "section_image_asset"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.section_extra_text": [
+            "@local.section_image_asset": [
               "value",
               "condition"
             ]
@@ -1203,5 +1203,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/modules/articles.xlsx"
+  "_xlsxPath": "templates/modules/articles.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
 }

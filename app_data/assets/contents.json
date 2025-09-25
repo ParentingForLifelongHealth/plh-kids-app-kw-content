@@ -51,6 +51,38 @@
     "md5Checksum": "fdff329d0c9221958e6641754c583013",
     "size_kb": 257.8
   },
+  "audio/modules/connect/intro_connect_child.m4a": {
+    "md5Checksum": "a1e0775dd6a9a752511b3bd13ec15840",
+    "size_kb": 281.3
+  },
+  "audio/modules/connect/learn_11.m4a": {
+    "md5Checksum": "8d34c644fc17035734ace7d3d15fc336",
+    "size_kb": 426.4
+  },
+  "audio/modules/connect/learn_7.m4a": {
+    "md5Checksum": "390e96e4ad41b4222714bdd05bbb9671",
+    "size_kb": 367.9
+  },
+  "audio/modules/connect/learn_9.m4a": {
+    "md5Checksum": "897810db7f226b5a45a3bd805c56aad4",
+    "size_kb": 233.4
+  },
+  "audio/modules/connect/man/intro_connect_child.m4a": {
+    "md5Checksum": "0bf87f8c70b6bc31cf6541a181733b04",
+    "size_kb": 262.7
+  },
+  "audio/modules/connect/man/learn_11.m4a": {
+    "md5Checksum": "405b9219098946890a585dde17d5bf00",
+    "size_kb": 393.4
+  },
+  "audio/modules/connect/man/learn_7.m4a": {
+    "md5Checksum": "96d532ae92eba79156648d2abf0bc0c9",
+    "size_kb": 335
+  },
+  "audio/modules/connect/man/learn_9.m4a": {
+    "md5Checksum": "33834c486998f852b3ede4b6998d9e32",
+    "size_kb": 196.8
+  },
   "audio/relax/relax_1.mp3": {
     "md5Checksum": "57ac79b3b7996b8375dd40ef787c1e00",
     "size_kb": 769.5
@@ -63,33 +95,93 @@
     "md5Checksum": "6bd6854eddad6fadf0a5bbd352d2b79f",
     "size_kb": 527.7
   },
+  "audio/relax/relax_12.mp3": {
+    "md5Checksum": "1d249c101d65ca13d0968cda45cc5a30",
+    "size_kb": 539.7
+  },
+  "audio/relax/relax_13.mp3": {
+    "md5Checksum": "269b08c84425b17108787ab494d318a5",
+    "size_kb": 398.4
+  },
+  "audio/relax/relax_14.mp3": {
+    "md5Checksum": "932f53982455f20f3fb4ac67e81a8289",
+    "size_kb": 256.9
+  },
+  "audio/relax/relax_15.mp3": {
+    "md5Checksum": "be8ee25971c485d750022bde185fdbee",
+    "size_kb": 125
+  },
+  "audio/relax/relax_16.mp3": {
+    "md5Checksum": "7cef09c03cf46a7fe8e180e740e07c2b",
+    "size_kb": 150.9
+  },
   "audio/relax/relax_17.mp3": {
     "md5Checksum": "c487addd85f28e9a9dba0049c6936668",
     "size_kb": 479.7
+  },
+  "audio/relax/relax_18.mp3": {
+    "md5Checksum": "909d2c93875837b6837daf38f533c748",
+    "size_kb": 312.9
+  },
+  "audio/relax/relax_19.mp3": {
+    "md5Checksum": "62b30c4937b2c13ded2dd1bf42dd8862",
+    "size_kb": 454
+  },
+  "audio/relax/relax_2.mp3": {
+    "md5Checksum": "bfd8f584111063f1409cae955a2b5f66",
+    "size_kb": 404.4
+  },
+  "audio/relax/relax_20.mp3": {
+    "md5Checksum": "53ac5c65ef225a90aef03a8bcaf49936",
+    "size_kb": 539.8
   },
   "audio/relax/relax_21.mp3": {
     "md5Checksum": "8eb89a558dd71e17b011e18920570578",
     "size_kb": 575.2
   },
+  "audio/relax/relax_22.mp3": {
+    "md5Checksum": "58cbec0a352126b0fcc50de7e3b0128f",
+    "size_kb": 109.8
+  },
+  "audio/relax/relax_23.mp3": {
+    "md5Checksum": "e819ffc55caa47550fa5818220944e8d",
+    "size_kb": 122.9
+  },
   "audio/relax/relax_24.mp3": {
     "md5Checksum": "0b00573358196279716181ce0dd6edf0",
     "size_kb": 430.7
+  },
+  "audio/relax/relax_3.mp3": {
+    "md5Checksum": "3a2cbae5e698d0f2849ac760a9e68254",
+    "size_kb": 235.1
   },
   "audio/relax/relax_4.mp3": {
     "md5Checksum": "329c801350dcb14f48cc5ff5bba0c489",
     "size_kb": 653.2
   },
+  "audio/relax/relax_5.mp3": {
+    "md5Checksum": "9dd1b264fe33cda345c179d93e33eb37",
+    "size_kb": 195.7
+  },
   "audio/relax/relax_6.mp3": {
     "md5Checksum": "de2ed880532e15f7b6f7d0961f5a8d61",
     "size_kb": 389.7
+  },
+  "audio/relax/relax_7.mp3": {
+    "md5Checksum": "c4e97034da9bcb7b9685ad89ef7a88ff",
+    "size_kb": 285.3
   },
   "audio/relax/relax_8.mp3": {
     "md5Checksum": "708cd2c013754d0cde0cf9efe6e8e64c",
     "size_kb": 432.9
   },
+  "audio/relax/relax_9.mp3": {
+    "md5Checksum": "9ac4f035b9aced33f8fe8e117029d787",
+    "size_kb": 576.6
+  },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "f269da53d6bbfe0cd1cfd487258f0f3e",
+    "size_kb": 9.6
   },
   "images/backgrounds/activity_bottom_left.png": {
     "md5Checksum": "138c8deb2649ea682bf7618da921cf93",
@@ -199,6 +291,66 @@
   "images/comics/feelings_yc_4.svg": {
     "md5Checksum": "6bfea098194c42121f42426af7a7cd79",
     "size_kb": 216.2
+  },
+  "images/comics/ignore_yc_1.svg": {
+    "md5Checksum": "955575a32b19bc80993dcd68e6844e72",
+    "size_kb": 300.4
+  },
+  "images/comics/ignore_yc_10.svg": {
+    "md5Checksum": "2f5127d3086faa3f6be5e5fbd567e515",
+    "size_kb": 248.4
+  },
+  "images/comics/ignore_yc_11.svg": {
+    "md5Checksum": "85ee2892278348d3a6fa0c6ca82bc467",
+    "size_kb": 243.3
+  },
+  "images/comics/ignore_yc_12.svg": {
+    "md5Checksum": "eb3b31bc45248eb9f29ce98b3c4c02bc",
+    "size_kb": 320.6
+  },
+  "images/comics/ignore_yc_13.svg": {
+    "md5Checksum": "765716ffce4fc8f2c4371bd80e8bc7f7",
+    "size_kb": 246.3
+  },
+  "images/comics/ignore_yc_14.svg": {
+    "md5Checksum": "04d4d56bd6714212e995925bd52eddf7",
+    "size_kb": 294.3
+  },
+  "images/comics/ignore_yc_15.svg": {
+    "md5Checksum": "c59dfc15f90f58db28b27c1e431df954",
+    "size_kb": 244.2
+  },
+  "images/comics/ignore_yc_2.svg": {
+    "md5Checksum": "6ded630c4a148645dd672cfc21bb6470",
+    "size_kb": 300.5
+  },
+  "images/comics/ignore_yc_3.svg": {
+    "md5Checksum": "f2fb3869b652cb9b0c65bc312e56654c",
+    "size_kb": 300.1
+  },
+  "images/comics/ignore_yc_4.svg": {
+    "md5Checksum": "f0f2990e3eb6b2685f7740014a17a1d2",
+    "size_kb": 303.7
+  },
+  "images/comics/ignore_yc_5.svg": {
+    "md5Checksum": "2b6600cb37e184802536862210d77ef7",
+    "size_kb": 302.7
+  },
+  "images/comics/ignore_yc_6.svg": {
+    "md5Checksum": "9403003a1ec6cdedac20bd8eee8eacfa",
+    "size_kb": 301
+  },
+  "images/comics/ignore_yc_7.svg": {
+    "md5Checksum": "95334e35acce0689ad1e85bd44bf4cf0",
+    "size_kb": 294.6
+  },
+  "images/comics/ignore_yc_8.svg": {
+    "md5Checksum": "46a37d9bfa1ea294442ad1fa572e36c9",
+    "size_kb": 300.3
+  },
+  "images/comics/ignore_yc_9.svg": {
+    "md5Checksum": "06a7da60815fcc04582c0a69ca58adfe",
+    "size_kb": 301.6
   },
   "images/comics/instructions_yc_1.svg": {
     "md5Checksum": "c81125d315d897f2f6f3ae701129cab3",

@@ -154,6 +154,80 @@
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
+      "id": "childdevelopment",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/ok.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
+      "text_goal": "Your home activity was to play with your child.",
+      "_translations": {
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "text_goal": {
+          "eng": "Your home activity was to play with your child."
+        },
+        "reply_happy": {
+          "eng": "That is great to hear! Spending time with your child is a great way to build a good relationship with them!"
+        },
+        "reply_ok": {
+          "eng": "Every time you play with your child, you’re building something special, even if it doesn’t always go perfectly. Well done for staying committed!"
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear that it was hard. Sometimes it takes a few tries to find the right way. Keep trying, and remember that playtime is a valuable way to connect with your child. You’re doing your best, and that’s what matters!"
+        },
+        "activity_title": {
+          "eng": "How did your practice go?"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "reply_happy": "That is great to hear! Spending time with your child is a great way to build a good relationship with them!",
+      "reply_ok": "Every time you play with your child, you’re building something special, even if it doesn’t always go perfectly. Well done for staying committed!",
+      "reply_sad": "Sorry to hear that it was hard. Sometimes it takes a few tries to find the right way. Keep trying, and remember that playtime is a valuable way to connect with your child. You’re doing your best, and that’s what matters!",
+      "activity_title": "How did your practice go?",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    },
+    {
       "id": "praise",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/ok.svg",
@@ -376,6 +450,74 @@
       "question_how": "How did it go?"
     },
     {
+      "id": "challengingbehaviours",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/ok.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
+      "text_goal": "Your goal was to practise ignoring one challenging behaviour. \n\nFirst try once to Redirect your child’s attention to a positive behaviour.",
+      "_translations": {
+        "text_goal": {},
+        "reply_happy": {},
+        "reply_ok": {
+          "kw_ar": true
+        },
+        "reply_sad": {},
+        "activity_title": {
+          "kw_ar": true
+        },
+        "question_done": {
+          "kw_ar": true
+        },
+        "reply_no": {
+          "kw_ar": true
+        },
+        "question_how": {
+          "kw_ar": true
+        },
+        "outro_text": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "text_goal": {
+          "eng": "Your goal was to practise ignoring one challenging behaviour. \n\nFirst try once to Redirect your child’s attention to a positive behaviour."
+        },
+        "reply_happy": {
+          "eng": "Excellent! Keep up the good work in managing your child's behaviour."
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying!"
+        },
+        "reply_sad": {
+          "eng": "It’s normal to find it hard to help our childrenmanage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙"
+        },
+        "activity_title": {
+          "eng": "How did your practice go?"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
+        },
+        "reply_no": {
+          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "outro_text": {
+          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+        }
+      },
+      "reply_happy": "Excellent! Keep up the good work in managing your child's behaviour.",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying!",
+      "reply_sad": "It’s normal to find it hard to help our childrenmanage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙",
+      "activity_title": "How did your practice go?",
+      "question_done": "Did you have a chance to try this?",
+      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
+      "question_how": "How did it go?",
+      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
+    },
+    {
       "id": "consequences",
       "happy_image_asset": "images/icons/faces/happy.svg",
       "ok_image_asset": "images/icons/faces/ok.svg",
@@ -596,81 +738,8 @@
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
       "question_how": "How did it go?",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
-    },
-    {
-      "id": "childdevelopment",
-      "happy_image_asset": "images/icons/faces/happy.svg",
-      "ok_image_asset": "images/icons/faces/ok.svg",
-      "sad_image_asset": "images/icons/faces/sad.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
-      "text_goal": "Your home activity was to play with your child.",
-      "_translations": {
-        "text_goal": {
-          "kw_ar": true
-        },
-        "reply_happy": {
-          "kw_ar": true
-        },
-        "reply_ok": {
-          "kw_ar": true
-        },
-        "reply_sad": {
-          "kw_ar": true
-        },
-        "activity_title": {
-          "kw_ar": true
-        },
-        "question_done": {
-          "kw_ar": true
-        },
-        "reply_no": {
-          "kw_ar": true
-        },
-        "question_how": {
-          "kw_ar": true
-        },
-        "outro_text": {
-          "kw_ar": true
-        }
-      },
-      "_translatedFields": {
-        "text_goal": {
-          "eng": "Your home activity was to play with your child."
-        },
-        "reply_happy": {
-          "eng": "That is great to hear! Spending time with your child is a great way to build a good relationship with them!"
-        },
-        "reply_ok": {
-          "eng": "Every time you play with your child, you’re building something special, even if it doesn’t always go perfectly. Well done for staying committed!"
-        },
-        "reply_sad": {
-          "eng": "Sorry to hear that it was hard. Sometimes it takes a few tries to find the right way. Keep trying, and remember that playtime is a valuable way to connect with your child. You’re doing your best, and that’s what matters!"
-        },
-        "activity_title": {
-          "eng": "How did your practice go?"
-        },
-        "question_done": {
-          "eng": "Did you have a chance to try this?"
-        },
-        "reply_no": {
-          "eng": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can."
-        },
-        "question_how": {
-          "eng": "How did it go?"
-        },
-        "outro_text": {
-          "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
-        }
-      },
-      "reply_happy": "That is great to hear! Spending time with your child is a great way to build a good relationship with them!",
-      "reply_ok": "Every time you play with your child, you’re building something special, even if it doesn’t always go perfectly. Well done for staying committed!",
-      "reply_sad": "Sorry to hear that it was hard. Sometimes it takes a few tries to find the right way. Keep trying, and remember that playtime is a valuable way to connect with your child. You’re doing your best, and that’s what matters!",
-      "activity_title": "How did your practice go?",
-      "question_done": "Did you have a chance to try this?",
-      "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
-      "question_how": "How did it go?",
-      "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     }
   ],
-  "_xlsxPath": "KW hp_review.xlsx"
+  "_xlsxPath": "KW hp_review.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

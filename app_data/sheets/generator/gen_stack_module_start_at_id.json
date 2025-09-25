@@ -114,6 +114,7 @@
     }
   ],
   "_xlsxPath": "KW module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
   "_output_flows": [
     {
       "flow_name": "stack_module_selfcare_start_at_id",
@@ -127,6 +128,11 @@
     },
     {
       "flow_name": "stack_module_feelings_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_childdevelopment_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -146,7 +152,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_childdevelopment_start_at_id",
+      "flow_name": "stack_module_challengingbehaviours_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

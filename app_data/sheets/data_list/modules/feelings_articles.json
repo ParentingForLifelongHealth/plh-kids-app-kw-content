@@ -346,11 +346,9 @@
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
-      "text_1_facilitator": "With these three tips, you can help your child learn to manage their emotions well.",
+      "text_1_facilitator": "**Notice Feelings** \n- Feelings are connected to thoughts and physical sensations.\n- Notice when your child is feeling good and when they are feeling bad.\n- Recognise both positive and difficult emotions.\n- To recognise, pay attention to your thoughts and to your and your child’s words and actions.\n\n**Accept Feelings** \n- Be open to how you and your child feel. Accept both negative and positive emotions. All feelings are okay.\n- Acknowledge your child’s feelings – even the difficult ones.\n- It is okay for you to also feel difficult emotions about the same issues.\n- The six basic emotions each have a message:\n😊 Happy → Keep doing what makes you feel good.\n☹️ Sad → Something important needs attention.\n😠 Angry → Stand up for yourself and set limits.\n🤢 Disgusted → Move away from something you don’t like.\n😯 Surprised → Stop and pay attention.\n😨 Afraid → Run away from danger.\n- As children get older, they also learn about other emotions such as excitement, frustration, pride, loneliness, peace, guilt, or confusion.\n\n**Talk about your feelings** \n- Get down to your child’s level when talking about feelings.\n- Use physical and verbal support to make your child feel accepted and loved.\n- Commenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n- Use words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n- Describe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”\n- Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”\n- When you share your own feelings with your child, you help your child recognise his/her own emotions. \n- By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n- Model the behaviour you want to see in your child.",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "section_1_title": {
           "kw_ar": true
         },
@@ -390,7 +388,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "With these three tips, you can help your child learn to manage their emotions well."
+          "eng": "**Notice Feelings** \n- Feelings are connected to thoughts and physical sensations.\n- Notice when your child is feeling good and when they are feeling bad.\n- Recognise both positive and difficult emotions.\n- To recognise, pay attention to your thoughts and to your and your child’s words and actions.\n\n**Accept Feelings** \n- Be open to how you and your child feel. Accept both negative and positive emotions. All feelings are okay.\n- Acknowledge your child’s feelings – even the difficult ones.\n- It is okay for you to also feel difficult emotions about the same issues.\n- The six basic emotions each have a message:\n😊 Happy → Keep doing what makes you feel good.\n☹️ Sad → Something important needs attention.\n😠 Angry → Stand up for yourself and set limits.\n🤢 Disgusted → Move away from something you don’t like.\n😯 Surprised → Stop and pay attention.\n😨 Afraid → Run away from danger.\n- As children get older, they also learn about other emotions such as excitement, frustration, pride, loneliness, peace, guilt, or confusion.\n\n**Talk about your feelings** \n- Get down to your child’s level when talking about feelings.\n- Use physical and verbal support to make your child feel accepted and loved.\n- Commenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n- Use words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n- Describe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”\n- Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”\n- When you share your own feelings with your child, you help your child recognise his/her own emotions. \n- By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n- Model the behaviour you want to see in your child."
         },
         "section_1_title": {
           "eng": "NOTICE"
@@ -543,5 +541,6 @@
       "quiz_1_feedback_2": "That's okay. Learning to share emotions with our children can be challenging. Take a minute after one-on-one time today to think through the emotions you saw your child display. You might also want to think about the things that you felt!"
     }
   ],
-  "_xlsxPath": "KW modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }
