@@ -23,15 +23,15 @@
       },
       {
         "type": "button",
-        "count": 61
+        "count": 63
       },
       {
         "type": "combo_box",
-        "count": 6
+        "count": 5
       },
       {
         "type": "data_items",
-        "count": 68
+        "count": 71
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 59
+        "count": 62
       },
       {
         "type": "google_sign_in_button",
@@ -51,7 +51,7 @@
       },
       {
         "type": "image",
-        "count": 11
+        "count": 12
       },
       {
         "type": "items",
@@ -63,7 +63,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 59
+        "count": 65
       },
       {
         "type": "number_selector",
@@ -95,7 +95,7 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 8
+        "count": 6
       },
       {
         "type": "round_button",
@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1215
+        "count": 1185
       },
       {
         "type": "simple_checkbox",
@@ -127,11 +127,11 @@
       },
       {
         "type": "template",
-        "count": 326
+        "count": 343
       },
       {
         "type": "text",
-        "count": 85
+        "count": 99
       },
       {
         "type": "text_area",
@@ -139,7 +139,7 @@
       },
       {
         "type": "text_box",
-        "count": 4
+        "count": 5
       },
       {
         "type": "text_bubble",
@@ -175,11 +175,11 @@
       },
       {
         "type": "auth",
-        "count": 2
+        "count": 4
       },
       {
         "type": "emit: completed",
-        "count": 234
+        "count": 249
       },
       {
         "type": "emit: force_reload",
@@ -187,15 +187,15 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 13
+        "count": 14
       },
       {
         "type": "emit: force_restart",
-        "count": 5
+        "count": 4
       },
       {
         "type": "emit: server_sync",
-        "count": 4
+        "count": 6
       },
       {
         "type": "emit: set_language",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 233
+        "count": 249
       },
       {
         "type": "feedback",
@@ -215,31 +215,35 @@
       },
       {
         "type": "nav_stack",
-        "count": 79
+        "count": 87
       },
       {
         "type": "pop_up",
-        "count": 30
+        "count": 33
       },
       {
         "type": "reset_app",
-        "count": 1
+        "count": 3
+      },
+      {
+        "type": "reset_data",
+        "count": 2
       },
       {
         "type": "set_data",
-        "count": 26
+        "count": 38
       },
       {
         "type": "set_field",
-        "count": 41
+        "count": 39
       },
       {
         "type": "set_item",
-        "count": 35
+        "count": 28
       },
       {
         "type": "set_local",
-        "count": 27
+        "count": 39
       },
       {
         "type": "task",
@@ -255,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "38575 KB",
-        "MB": "38.6 MB"
+        "KB": "39688 KB",
+        "MB": "39.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "9585 KB",
-        "MB": "9.6 MB"
+        "KB": "12774 KB",
+        "MB": "12.8 MB"
       }
     ]
   },
@@ -284,12 +288,56 @@
         "size_kb": 996
       },
       {
+        "path": "audio/care_audio/oneononetime_audio.mp3",
+        "size_kb": 266.7
+      },
+      {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/child_development_yc.png",
         "size_kb": 758.1
+      },
+      {
+        "path": "images/comics/ignore_yc_1.svg",
+        "size_kb": 300.4
+      },
+      {
+        "path": "images/comics/ignore_yc_12.svg",
+        "size_kb": 320.6
+      },
+      {
+        "path": "images/comics/ignore_yc_13.svg",
+        "size_kb": 246.3
+      },
+      {
+        "path": "images/comics/ignore_yc_14.svg",
+        "size_kb": 294.3
+      },
+      {
+        "path": "images/comics/ignore_yc_15.svg",
+        "size_kb": 244.2
+      },
+      {
+        "path": "images/comics/ignore_yc_2.svg",
+        "size_kb": 300.5
+      },
+      {
+        "path": "images/comics/ignore_yc_3.svg",
+        "size_kb": 300.1
+      },
+      {
+        "path": "images/comics/ignore_yc_4.svg",
+        "size_kb": 303.7
+      },
+      {
+        "path": "images/comics/ignore_yc_5.svg",
+        "size_kb": 302.7
+      },
+      {
+        "path": "images/comics/ignore_yc_6.svg",
+        "size_kb": 301
       },
       {
         "path": "images/consequences_yc.png",
@@ -310,6 +358,10 @@
       {
         "path": "images/icons/book_outline_white.svg",
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/brain_blue.png",
+        "size_kb": 5.2
       },
       {
         "path": "images/icons/cancel.svg",
@@ -378,6 +430,10 @@
       {
         "path": "images/icons/in_progress_white.svg",
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/lightbulb_blue.png",
+        "size_kb": 3.6
       },
       {
         "path": "images/icons/parent_child.svg",
@@ -463,6 +519,11 @@
   },
   "assets_missing": {
     "data": [
+      {
+        "path": "audio/connect_audio_1.mp3",
+        "count": 2,
+        "missing": true
+      },
       {
         "path": "https://img.youtube.com/vi/3rj6-Dy_Q68/hqdefault.jpg",
         "count": 2,
@@ -713,11 +774,6 @@
         "size_kb": 278.8
       },
       {
-        "path": "audio/care_audio/oneononetime_audio.mp3",
-        "count": 2,
-        "size_kb": 266.7
-      },
-      {
         "path": "audio/care_audio/praise_audio.mp3",
         "count": 2,
         "size_kb": 237.5
@@ -739,7 +795,7 @@
       },
       {
         "path": "audio/relax/relax_1.mp3",
-        "count": 2,
+        "count": 3,
         "size_kb": 769.5
       },
       {
@@ -901,6 +957,31 @@
         "path": "images/comics/feelings_yc_4.svg",
         "count": 2,
         "size_kb": 216.2
+      },
+      {
+        "path": "images/comics/ignore_yc_10.svg",
+        "count": 2,
+        "size_kb": 248.4
+      },
+      {
+        "path": "images/comics/ignore_yc_11.svg",
+        "count": 2,
+        "size_kb": 243.3
+      },
+      {
+        "path": "images/comics/ignore_yc_7.svg",
+        "count": 2,
+        "size_kb": 294.6
+      },
+      {
+        "path": "images/comics/ignore_yc_8.svg",
+        "count": 2,
+        "size_kb": 300.3
+      },
+      {
+        "path": "images/comics/ignore_yc_9.svg",
+        "count": 2,
+        "size_kb": 301.6
       },
       {
         "path": "images/comics/instructions_yc_1.svg",
@@ -1113,13 +1194,8 @@
         "size_kb": 4.7
       },
       {
-        "path": "images/icons/brain_blue.png",
-        "count": 2,
-        "size_kb": 5.2
-      },
-      {
         "path": "images/icons/clock_blue.png",
-        "count": 6,
+        "count": 4,
         "size_kb": 4.5
       },
       {
@@ -1154,17 +1230,17 @@
       },
       {
         "path": "images/icons/faces/happy.svg",
-        "count": 33,
+        "count": 35,
         "size_kb": 53.5
       },
       {
         "path": "images/icons/faces/ok.svg",
-        "count": 31,
+        "count": 33,
         "size_kb": 46.6
       },
       {
         "path": "images/icons/faces/sad.svg",
-        "count": 31,
+        "count": 33,
         "size_kb": 48.2
       },
       {
@@ -1174,12 +1250,12 @@
       },
       {
         "path": "images/icons/faces/stressed.svg",
-        "count": 20,
+        "count": 21,
         "size_kb": 60
       },
       {
         "path": "images/icons/faces/tired.svg",
-        "count": 18,
+        "count": 19,
         "size_kb": 54
       },
       {
@@ -1243,11 +1319,6 @@
         "size_kb": 5.5
       },
       {
-        "path": "images/icons/lightbulb_blue.png",
-        "count": 2,
-        "size_kb": 3.6
-      },
-      {
         "path": "images/icons/local_library.svg",
         "count": 1,
         "size_kb": 1.6
@@ -1269,7 +1340,7 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 10,
+        "count": 11,
         "size_kb": 0.9
       },
       {
@@ -1279,12 +1350,12 @@
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 10,
+        "count": 11,
         "size_kb": 3
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 10,
+        "count": 11,
         "size_kb": 1.1
       },
       {
@@ -1314,32 +1385,32 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 4,
+        "count": 2,
         "size_kb": 3.3
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 11,
+        "count": 12,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 20,
+        "count": 22,
         "size_kb": 1
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 8,
+        "count": 6,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 10,
+        "count": 6,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 10,
+        "count": 11,
         "size_kb": 1
       },
       {
@@ -1349,7 +1420,7 @@
       },
       {
         "path": "images/icons/thought_bubble.svg",
-        "count": 10,
+        "count": 11,
         "size_kb": 2.1
       },
       {
@@ -1524,7 +1595,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 6
+        "total": 7
       },
       {
         "type": "data_list",
@@ -1549,7 +1620,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 20
+        "total": 22
       },
       {
         "type": "data_list",
@@ -1569,7 +1640,7 @@
       {
         "type": "data_list",
         "subtype": "modules",
-        "total": 11
+        "total": 12
       },
       {
         "type": "data_list",
@@ -1584,17 +1655,17 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 18
+        "total": 20
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 21
+        "total": 22
       },
       {
         "type": "global",
         "subtype": null,
-        "total": 4
+        "total": 5
       },
       {
         "type": "global",
@@ -1609,7 +1680,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 226
+        "total": 245
       },
       {
         "type": "template",

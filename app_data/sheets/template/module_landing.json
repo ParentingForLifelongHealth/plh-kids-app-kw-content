@@ -133,20 +133,20 @@
       }
     },
     {
+      "name": "bg_illustration",
+      "value": "images/backgrounds/progress_arc.png",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "bg_illustration"
+    },
+    {
       "type": "display_group",
       "name": "dg_top",
       "exclude_from_translation": true,
       "rows": [
-        {
-          "name": "bg_illustration",
-          "value": "images/backgrounds/progress_arc.png",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "dg_top.bg_illustration"
-        },
         {
           "type": "plh_module_details_header",
           "name": "plh_module_details_header",
@@ -216,7 +216,8 @@
           "type": "display_group",
           "name": "dg_wheel_and_hp",
           "style_list": [
-            "justify-content: space-between"
+            "justify-content: space-between",
+            "align-items: flex-end"
           ],
           "exclude_from_translation": true,
           "rows": [
@@ -1065,5 +1066,6 @@
       "_nested_name": "dg_bottom"
     }
   ],
-  "_xlsxPath": "KW module_navigation.xlsx"
+  "_xlsxPath": "KW module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }
