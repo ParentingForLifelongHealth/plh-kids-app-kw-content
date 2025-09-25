@@ -55,6 +55,7 @@
     }
   ],
   "_xlsxPath": "KW modules_data_pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
   "_output_flows": [
     {
       "flow_name": "prep_selfcare_articles",
@@ -68,6 +69,11 @@
     },
     {
       "flow_name": "prep_feelings_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_childdevelopment_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -87,7 +93,7 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_childdevelopment_articles",
+      "flow_name": "prep_challengingbehaviours_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

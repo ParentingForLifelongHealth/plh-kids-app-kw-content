@@ -60,8 +60,26 @@
       }
     },
     {
-      "id": "praise",
+      "id": "childdevelopment",
       "number": 4,
+      "image_asset": "images/child_development_yc.svg",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_3",
+      "title": "Development Through Play",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Development Through Play"
+        }
+      }
+    },
+    {
+      "id": "praise",
+      "number": 5,
       "image_asset": "images/praise_yc.svg",
       "relax_id": "relax_10",
       "check_in_id": "check_in_6",
@@ -79,7 +97,7 @@
     },
     {
       "id": "instructions",
-      "number": 5,
+      "number": 6,
       "image_asset": "images/instructions_yc.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_8",
@@ -97,43 +115,38 @@
     },
     {
       "id": "rulesroutines",
-      "number": 6,
+      "number": 7,
       "image_asset": "images/routines_yc.svg",
       "relax_id": "relax_17",
       "check_in_id": "check_in_12",
-      "title": "Rules",
+      "title": "Rules and Routines",
       "_translations": {
-        "title": {
-          "kw_ar": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Rules"
+          "eng": "Rules and Routines"
         }
       }
     },
     {
-      "id": "childdevelopment",
-      "number": 7,
-      "image_asset": "images/child_development_yc.svg",
-      "relax_id": "relax_4",
-      "check_in_id": "check_in_3",
-      "title": "Development Through Play",
+      "id": "challengingbehaviours",
+      "number": 8,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_1",
+      "title": "Challenging Behaviours",
       "_translations": {
-        "title": {
-          "kw_ar": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Development Through Play"
+          "eng": "Challenging Behaviours"
         }
       }
     },
     {
       "id": "consequences",
-      "number": 8,
+      "number": 9,
       "image_asset": "images/consequences_yc.svg",
       "relax_id": "relax_21",
       "check_in_id": "check_in_13",
@@ -151,7 +164,7 @@
     },
     {
       "id": "problemsolving",
-      "number": 9,
+      "number": 10,
       "image_asset": "images/problem_solving_yc.svg",
       "relax_id": "relax_24",
       "check_in_id": "check_in_16",
@@ -169,6 +182,7 @@
     }
   ],
   "_xlsxPath": "KW modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
   "_metadata": {
     "number": {
       "type": "number"

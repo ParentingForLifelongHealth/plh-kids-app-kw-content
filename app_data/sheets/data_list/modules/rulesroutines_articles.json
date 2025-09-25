@@ -643,104 +643,20 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/star_filled_blue.png",
-      "section_2_icon_asset": "images/icons/brain_blue.png",
-      "section_3_icon_asset": "images/icons/clock_blue.png",
-      "text_1_facilitator": "These four tips will help you create rules and routines to bring more structure and peace in your home:",
+      "text_1_facilitator": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
-        "section_1_title": {
-          "kw_ar": true
-        },
-        "section_1_text": {
-          "kw_ar": true
-        },
-        "section_1_button_text": {
-          "kw_ar": true
-        },
-        "section_1_extra_text": {
-          "kw_ar": true
-        },
-        "section_2_title": {
-          "kw_ar": true
-        },
-        "section_2_text": {
-          "kw_ar": true
-        },
-        "section_2_button_text": {
-          "kw_ar": true
-        },
-        "section_2_extra_text": {
-          "kw_ar": true
-        },
-        "section_3_title": {
-          "kw_ar": true
-        },
-        "section_3_text": {
-          "kw_ar": true
-        },
-        "section_3_button_text": {
-          "kw_ar": true
-        },
-        "section_3_extra_text": {
-          "kw_ar": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "These four tips will help you create rules and routines to bring more structure and peace in your home:"
+          "eng": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:"
         },
-        "section_1_title": {
-          "eng": "BE A TEAM"
-        },
-        "section_1_text": {
-          "eng": "When you involve your child in making rules they are more likely to follow them. One rule at a time is easiest."
-        },
-        "section_1_button_text": {
-          "eng": "More tips"
-        },
-        "section_1_extra_text": {
-          "eng": "Plan rules WITH your child. Discuss the reasons for the rule and ask about their ideas.\n\nOlder children can share their own ideas of what they think the rule should be and you can agree together. They will feel appreciated and heard."
-        },
-        "section_2_title": {
-          "eng": "BE REALISTIC"
-        },
-        "section_2_text": {
-          "eng": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later."
-        },
-        "section_2_button_text": {
-          "eng": "More tips"
-        },
-        "section_2_extra_text": {
-          "eng": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but say “pick up all of your building blocks”."
-        },
-        "section_3_title": {
-          "eng": "BE CONSISTENT"
-        },
-        "section_3_text": {
-          "eng": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and this will help them to feel secure. They will learn to be more independent and responsible."
-        },
-        "section_3_button_text": {
-          "eng": "More tips"
-        },
-        "section_3_extra_text": {
-          "eng": "Activities become easier when children learn and get used to a routine."
+        "text_2": {
+          "eng": "**Be a Team** \n- Involve your child in making rules—they are more likely to follow them.\n- Make sure your child understands the reasons why you are establishing a household rule or routine\n- Older children can suggest rules, and you can agree together.\n- Establish household rules and routines when your child is calm and quiet.\n\n**Be Realistic** \n- Make rules and routines positive, specific, and realistic . Example: instead of “Clean up” say “Pick up all of your building blocks.”\n- Consider your child’s age and abilities—make sure they can actually do what you ask.\n- Teach your child how to follow daily routines by breaking them down into small steps.\n- Routines can be short (washing hands before dinner) or longer (bedtime routine).\n- Only introduce one new rule or routine at a time.\n- When following a routine, give one instruction at a time. Keep them simple!\n- Make sure your child follows through with each instruction.\n- Praise your child immediately after following your instructions.\n\n**Be Consistent** \n- Follow rules and routines daily so your child knows what to expect.\n- Use transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n- Use simple incentives to encourage your child.\n- Get help from your spouse or family when needed.\n- Over time, your child will follow routines more independently."
         }
       },
-      "section_1_title": "BE A TEAM",
-      "section_1_text": "When you involve your child in making rules they are more likely to follow them. One rule at a time is easiest.",
-      "section_1_button_text": "More tips",
-      "section_1_extra_text": "Plan rules WITH your child. Discuss the reasons for the rule and ask about their ideas.\n\nOlder children can share their own ideas of what they think the rule should be and you can agree together. They will feel appreciated and heard.",
-      "section_2_title": "BE REALISTIC",
-      "section_2_text": "Consider your child’s age and developmental level when creating rules and routines. They have to be able to do what is expected of them.\n\nRemember: Only introduce one new rule or routine at a time – you can add another one later.",
-      "section_2_button_text": "More tips",
-      "section_2_extra_text": "Make rules and routines realistic for what your child can actually do and specific so there is no misunderstanding. Don’t say “ “clean up” but say “pick up all of your building blocks”.",
-      "section_3_title": "BE CONSISTENT",
-      "section_3_text": "Make sure your child follows the rules and routines daily.\n\nThat way, your child knows what to expect and this will help them to feel secure. They will learn to be more independent and responsible.",
-      "section_3_button_text": "More tips",
-      "section_3_extra_text": "Activities become easier when children learn and get used to a routine."
+      "text_2": "**Be a Team** \n- Involve your child in making rules—they are more likely to follow them.\n- Make sure your child understands the reasons why you are establishing a household rule or routine\n- Older children can suggest rules, and you can agree together.\n- Establish household rules and routines when your child is calm and quiet.\n\n**Be Realistic** \n- Make rules and routines positive, specific, and realistic . Example: instead of “Clean up” say “Pick up all of your building blocks.”\n- Consider your child’s age and abilities—make sure they can actually do what you ask.\n- Teach your child how to follow daily routines by breaking them down into small steps.\n- Routines can be short (washing hands before dinner) or longer (bedtime routine).\n- Only introduce one new rule or routine at a time.\n- When following a routine, give one instruction at a time. Keep them simple!\n- Make sure your child follows through with each instruction.\n- Praise your child immediately after following your instructions.\n\n**Be Consistent** \n- Follow rules and routines daily so your child knows what to expect.\n- Use transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n- Use simple incentives to encourage your child.\n- Get help from your spouse or family when needed.\n- Over time, your child will follow routines more independently."
     },
     {
       "id": "tips_2",
@@ -1071,5 +987,6 @@
       "quiz_1_feedback_2": "That's okay. Setting rules is hard and including children can feel uncomfortable, especially if you’re not used to it. Keep trying until you find a way that works for you and your children. It will be worth it!"
     }
   ],
-  "_xlsxPath": "KW modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

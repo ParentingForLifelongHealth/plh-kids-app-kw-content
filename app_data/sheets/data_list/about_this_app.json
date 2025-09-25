@@ -6,18 +6,17 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+      "text": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nIllustrations in @global.app_name help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health, and shared under a CC BY-SA 4.0 International licence.\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
-        "text": {
-          "kw_ar": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+          "eng": "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n\nIllustrations in @global.app_name help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health, and shared under a CC BY-SA 4.0 International licence.\n\nThe content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }
   ],
-  "_xlsxPath": "deployment_data_kw.xlsx"
+  "_xlsxPath": "deployment_data_kw.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

@@ -1,0 +1,108 @@
+{
+  "flow_name": "challengingbehaviours_category_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax",
+      "icon_asset": "images/icons/smile_eyes_down.svg",
+      "title": "Relax",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relax"
+        }
+      }
+    },
+    {
+      "id": "check_in",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Emotional Check Up",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Emotional Check Up"
+        }
+      }
+    },
+    {
+      "id": "intro",
+      "icon_asset": "images/icons/star_outline_blue.svg",
+      "title": "Today's Topic",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Today's Topic"
+        }
+      }
+    },
+    {
+      "id": "explore",
+      "icon_asset": "images/icons/magnifying_glass.svg",
+      "title": "Explore",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Explore"
+        }
+      }
+    },
+    {
+      "id": "practical_tips",
+      "icon_asset": "images/icons/thought_bubble.svg",
+      "title": "Building Blocks",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Building Blocks"
+        }
+      }
+    },
+    {
+      "id": "practise",
+      "icon_asset": "images/icons/pencil.svg",
+      "title": "Practise",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Practise"
+        }
+      }
+    },
+    {
+      "id": "home_activity",
+      "icon_asset": "images/icons/parent_child_heart.svg",
+      "title": "Home Activity",
+      "_translations": {
+        "title": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home Activity"
+        }
+      }
+    }
+  ]
+}

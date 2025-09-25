@@ -78,6 +78,7 @@
     }
   ],
   "_xlsxPath": "KW articles template generators.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
   "_output_flows": [
     {
       "flow_name": "article_selfcare_check_in_1",
@@ -91,6 +92,11 @@
     },
     {
       "flow_name": "article_feelings_check_in_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_childdevelopment_check_in_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -110,7 +116,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_childdevelopment_check_in_3",
+      "flow_name": "article_challengingbehaviours_check_in_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
