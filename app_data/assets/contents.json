@@ -476,9 +476,17 @@
     "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
     "size_kb": 7.3
   },
+  "images/icons/expand_circle_left_blue.svg": {
+    "md5Checksum": "7aadf9aa7eb68b648f134b194adcd629",
+    "size_kb": 2.1
+  },
   "images/icons/expand_circle_right.png": {
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
     "size_kb": 0.9
+  },
+  "images/icons/expand_circle_right_blue.svg": {
+    "md5Checksum": "f32d18c3819524f1e5c2d65d2b35721c",
+    "size_kb": 2.1
   },
   "images/icons/eye_blue.png": {
     "md5Checksum": "266c565a207e1ebe67ac421cac3a0922",
