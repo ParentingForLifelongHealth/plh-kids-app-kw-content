@@ -42,6 +42,7 @@
     }
   ],
   "_xlsxPath": "templates/modules/module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
   "_output_flows": [
     {
       "flow_name": "module_selfcare",
@@ -55,6 +56,11 @@
     },
     {
       "flow_name": "module_feelings",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_childdevelopment",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -74,7 +80,7 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_childdevelopment",
+      "flow_name": "module_challengingbehaviours",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

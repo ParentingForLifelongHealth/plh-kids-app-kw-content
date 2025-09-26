@@ -298,6 +298,117 @@
       "top_text": "Challenges other parents experience:"
     },
     {
+      "id": "childdevelopment",
+      "challenge_1_tag_list": [
+        "no"
+      ],
+      "challenge_2_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_3_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_4_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_5_tag_list": [
+        "yes",
+        "no"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
+      "question_text": "Did you have any challenges when trying to play with your child?",
+      "_translations": {
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "Did you have any challenges when trying to play with your child?"
+        },
+        "text_challenge_1": {
+          "eng": "I don’t have time to play with my girl or boy."
+        },
+        "reply_challenge_1": {
+          "eng": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\nYou can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or riding in the car.\n\nYour child will appreciate the attention you are giving, even for a short while."
+        },
+        "text_challenge_2": {
+          "eng": "My child is not interested in playing with me."
+        },
+        "reply_challenge_2": {
+          "eng": "You may feel hurt because your child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests."
+        },
+        "text_challenge_3": {
+          "eng": "My child keeps getting hurt from exploring or making new friends."
+        },
+        "reply_challenge_3": {
+          "eng": "It must be hard to see your child getting injured or feeling sad often.\n\nChildren learn and grow from making mistakes. It is an important part of the development of your girl and boy. They will be safe as long as you are aware of their activities and you can prevent anything dangerous from happening.\n\n Build your child’s confidence in their abilities, values, and appearance so that they are comfortable trying new things.\n\nEncourage them to safely try out fun activities with other girls, boys or adults. Praise them when they do it well!\n\nLet your child know that you trust them to be safe and follow the rules that you have set."
+        },
+        "text_challenge_4": {
+          "eng": "My child likes competitive activities but gets angry when they lose or need to share the win."
+        },
+        "reply_challenge_4": {
+          "eng": "⚽ Competitive games can be hard for girls and boys (even adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\nYou can find playful activities in the App."
+        },
+        "text_challenge_5": {
+          "eng": "Other"
+        },
+        "reply_challenge_5": {
+          "eng": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!"
+        },
+        "top_text": {
+          "eng": "Challenges other parents experience:"
+        }
+      },
+      "text_challenge_1": "I don’t have time to play with my girl or boy.",
+      "reply_challenge_1": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\nYou can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or riding in the car.\n\nYour child will appreciate the attention you are giving, even for a short while.",
+      "text_challenge_2": "My child is not interested in playing with me.",
+      "reply_challenge_2": "You may feel hurt because your child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
+      "text_challenge_3": "My child keeps getting hurt from exploring or making new friends.",
+      "reply_challenge_3": "It must be hard to see your child getting injured or feeling sad often.\n\nChildren learn and grow from making mistakes. It is an important part of the development of your girl and boy. They will be safe as long as you are aware of their activities and you can prevent anything dangerous from happening.\n\n Build your child’s confidence in their abilities, values, and appearance so that they are comfortable trying new things.\n\nEncourage them to safely try out fun activities with other girls, boys or adults. Praise them when they do it well!\n\nLet your child know that you trust them to be safe and follow the rules that you have set.",
+      "text_challenge_4": "My child likes competitive activities but gets angry when they lose or need to share the win.",
+      "reply_challenge_4": "⚽ Competitive games can be hard for girls and boys (even adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\nYou can find playful activities in the App.",
+      "text_challenge_5": "Other",
+      "reply_challenge_5": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!",
+      "top_text": "Challenges other parents experience:"
+    },
+    {
       "id": "praise",
       "challenge_1_tag_list": [
         "no"
@@ -589,6 +700,113 @@
       "reply_challenge_4": "The rule needs to be specific and realistic. Make sure to have a rule that can be kept easily, like having one meal together every week instead of every night. Do you need to be more flexible about the rules?",
       "text_challenge_5": "Other",
       "reply_challenge_5": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!",
+      "top_text": "Challenges other parents experience:"
+    },
+    {
+      "id": "challengingbehaviours",
+      "challenge_1_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_2_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_3_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_4_tag_list": [
+        "yes",
+        "no"
+      ],
+      "challenge_5_tag_list": [
+        "yes"
+      ],
+      "challenge_6_tag_list": [
+        "yes",
+        "no"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
+      "question_text": "What was difficult when managing your child's challenging behaviour?",
+      "_translations": {
+        "question_text": {},
+        "text_challenge_1": {},
+        "reply_challenge_1": {},
+        "text_challenge_2": {},
+        "reply_challenge_2": {},
+        "text_challenge_3": {},
+        "reply_challenge_3": {},
+        "text_challenge_4": {},
+        "reply_challenge_4": {},
+        "text_challenge_5": {},
+        "reply_challenge_5": {},
+        "text_challenge_6": {
+          "kw_ar": true
+        },
+        "reply_challenge_6": {
+          "kw_ar": true
+        },
+        "top_text": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "question_text": {
+          "eng": "What was difficult when managing your child's challenging behaviour?"
+        },
+        "text_challenge_1": {
+          "eng": "I can’t redirect my child to a positive behaviour when they are misbehaving."
+        },
+        "reply_challenge_1": {
+          "eng": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.\n\n⭐ Remember to praise your child when they behave well."
+        },
+        "text_challenge_2": {
+          "eng": "I get too angry at my child and find it difficult to be positive with them when they are no longer misbehaving."
+        },
+        "reply_challenge_2": {
+          "eng": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that child is doing and you wish they could do more of. Then, praise them when they do it."
+        },
+        "text_challenge_3": {
+          "eng": "My Child misbehaves all the time."
+        },
+        "reply_challenge_3": {
+          "eng": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it."
+        },
+        "text_challenge_4": {
+          "eng": "I got very angry with my child and shouted at them."
+        },
+        "reply_challenge_4": {
+          "eng": "🌷 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy. The important thing is how we manage that anger and respond to them.\n\n⏸ First, take a pause. \n\nWhen you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\n🌱 When you feel calmer, you could apologise to your child for shouting and remind them that you love them. \n\n🎈 Repeat the core message of what you were trying to say in a calmer way."
+        },
+        "text_challenge_5": {
+          "eng": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot."
+        },
+        "reply_challenge_5": {
+          "eng": "Here are 3️⃣ three tips to remember if your child’s behaviour is persisting:\n\n1️⃣ Your child will act out negatively to get attention if they are not getting positive attention. Try to praise your child’s positive behaviour when you see it.\n\n2️⃣ Remain consistent when ignoring behaviours. Inconsistency may confuse children and reinforce negative attention seeking behaviours. \n\n3️⃣Consider whether the behaviour is age appropriate.Your child may be too young for difficult tasks, like remaining quiet while you are talking to a friend. \n\nRemember that building a positive relationship with your child and giving your child positive attention when they are behaving well is the best way to reduce negative behaviours!"
+        },
+        "text_challenge_6": {
+          "eng": "Other"
+        },
+        "reply_challenge_6": {
+          "eng": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!"
+        },
+        "top_text": {
+          "eng": "Challenges other parents experience:"
+        }
+      },
+      "text_challenge_1": "I can’t redirect my child to a positive behaviour when they are misbehaving.",
+      "reply_challenge_1": "🌱 Next time, try to catch the misbehaviour early on, before it sets in or gets worse.\n\n👂 Talk to them about this behaviour when both of you feel calmer.\n\n⭐ Remember to praise your child when they behave well.",
+      "text_challenge_2": "I get too angry at my child and find it difficult to be positive with them when they are no longer misbehaving.",
+      "reply_challenge_2": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that child is doing and you wish they could do more of. Then, praise them when they do it.",
+      "text_challenge_3": "My Child misbehaves all the time.",
+      "reply_challenge_3": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
+      "text_challenge_4": "I got very angry with my child and shouted at them.",
+      "reply_challenge_4": "🌷 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy. The important thing is how we manage that anger and respond to them.\n\n⏸ First, take a pause. \n\nWhen you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\n🌱 When you feel calmer, you could apologise to your child for shouting and remind them that you love them. \n\n🎈 Repeat the core message of what you were trying to say in a calmer way.",
+      "text_challenge_5": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot.",
+      "reply_challenge_5": "Here are 3️⃣ three tips to remember if your child’s behaviour is persisting:\n\n1️⃣ Your child will act out negatively to get attention if they are not getting positive attention. Try to praise your child’s positive behaviour when you see it.\n\n2️⃣ Remain consistent when ignoring behaviours. Inconsistency may confuse children and reinforce negative attention seeking behaviours. \n\n3️⃣Consider whether the behaviour is age appropriate.Your child may be too young for difficult tasks, like remaining quiet while you are talking to a friend. \n\nRemember that building a positive relationship with your child and giving your child positive attention when they are behaving well is the best way to reduce negative behaviours!",
+      "text_challenge_6": "Other",
+      "reply_challenge_6": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!",
       "top_text": "Challenges other parents experience:"
     },
     {
@@ -1008,118 +1226,8 @@
       "text_challenge_7": "Other",
       "reply_challenge_7": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!",
       "top_text": "Challenges other parents experience:"
-    },
-    {
-      "id": "childdevelopment",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_2_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
-      "question_text": "Did you have any challenges when trying to play with your child?",
-      "_translations": {
-        "question_text": {
-          "kw_ar": true
-        },
-        "text_challenge_1": {
-          "kw_ar": true
-        },
-        "reply_challenge_1": {
-          "kw_ar": true
-        },
-        "text_challenge_2": {
-          "kw_ar": true
-        },
-        "reply_challenge_2": {
-          "kw_ar": true
-        },
-        "text_challenge_3": {
-          "kw_ar": true
-        },
-        "reply_challenge_3": {
-          "kw_ar": true
-        },
-        "text_challenge_4": {
-          "kw_ar": true
-        },
-        "reply_challenge_4": {
-          "kw_ar": true
-        },
-        "text_challenge_5": {
-          "kw_ar": true
-        },
-        "reply_challenge_5": {
-          "kw_ar": true
-        },
-        "top_text": {
-          "kw_ar": true
-        }
-      },
-      "_translatedFields": {
-        "question_text": {
-          "eng": "Did you have any challenges when trying to play with your child?"
-        },
-        "text_challenge_1": {
-          "eng": "I don’t have time to play with my girl or boy."
-        },
-        "reply_challenge_1": {
-          "eng": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\nYou can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or riding in the car.\n\nYour child will appreciate the attention you are giving, even for a short while."
-        },
-        "text_challenge_2": {
-          "eng": "My child is not interested in playing with me."
-        },
-        "reply_challenge_2": {
-          "eng": "You may feel hurt because your child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests."
-        },
-        "text_challenge_3": {
-          "eng": "My child keeps getting hurt from exploring or making new friends."
-        },
-        "reply_challenge_3": {
-          "eng": "It must be hard to see your child getting injured or feeling sad often.\n\nChildren learn and grow from making mistakes. It is an important part of the development of your girl and boy. They will be safe as long as you are aware of their activities and you can prevent anything dangerous from happening.\n\n Build your child’s confidence in their abilities, values, and appearance so that they are comfortable trying new things.\n\nEncourage them to safely try out fun activities with other girls, boys or adults. Praise them when they do it well!\n\nLet your child know that you trust them to be safe and follow the rules that you have set."
-        },
-        "text_challenge_4": {
-          "eng": "My child likes competitive activities but gets angry when they lose or need to share the win."
-        },
-        "reply_challenge_4": {
-          "eng": "⚽ Competitive games can be hard for girls and boys (even adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\nYou can find playful activities in the App."
-        },
-        "text_challenge_5": {
-          "eng": "Other"
-        },
-        "reply_challenge_5": {
-          "eng": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "text_challenge_1": "I don’t have time to play with my girl or boy.",
-      "reply_challenge_1": "It is okay to feel that way. But there are many small ways to spend time with your child!\n\nYou can interact with your child while doing something else. For example, you can ask your child to describe the colours and objects they see around them while you are walking together or riding in the car.\n\nYour child will appreciate the attention you are giving, even for a short while.",
-      "text_challenge_2": "My child is not interested in playing with me.",
-      "reply_challenge_2": "You may feel hurt because your child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
-      "text_challenge_3": "My child keeps getting hurt from exploring or making new friends.",
-      "reply_challenge_3": "It must be hard to see your child getting injured or feeling sad often.\n\nChildren learn and grow from making mistakes. It is an important part of the development of your girl and boy. They will be safe as long as you are aware of their activities and you can prevent anything dangerous from happening.\n\n Build your child’s confidence in their abilities, values, and appearance so that they are comfortable trying new things.\n\nEncourage them to safely try out fun activities with other girls, boys or adults. Praise them when they do it well!\n\nLet your child know that you trust them to be safe and follow the rules that you have set.",
-      "text_challenge_4": "My child likes competitive activities but gets angry when they lose or need to share the win.",
-      "reply_challenge_4": "⚽ Competitive games can be hard for girls and boys (even adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.\n\nYou can find playful activities in the App.",
-      "text_challenge_5": "Other",
-      "reply_challenge_5": "If you’re facing a different challenge, feel free to bring it up during the home activity discussion in the next session. We’re here to support each other!",
-      "top_text": "Challenges other parents experience:"
     }
   ],
-  "_xlsxPath": "KW hp_review.xlsx"
+  "_xlsxPath": "KW hp_review.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

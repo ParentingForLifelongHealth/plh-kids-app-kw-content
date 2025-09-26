@@ -23,15 +23,13 @@
     {
       "id": "check_in",
       "icon_asset": "images/icons/smile_eyes_up.svg",
-      "title": "Check-in",
+      "title": "Emotional Check Up",
       "_translations": {
-        "title": {
-          "kw_ar": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Check-in"
+          "eng": "Emotional Check Up"
         }
       }
     },
@@ -68,15 +66,13 @@
     {
       "id": "practical_tips",
       "icon_asset": "images/icons/thought_bubble.svg",
-      "title": "Review",
+      "title": "Building Blocks",
       "_translations": {
-        "title": {
-          "kw_ar": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Review"
+          "eng": "Building Blocks"
         }
       }
     },
@@ -111,5 +107,6 @@
       }
     }
   ],
-  "_xlsxPath": "KW modules.xlsx"
+  "_xlsxPath": "KW modules.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }
