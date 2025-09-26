@@ -8,12 +8,12 @@
 | apple_sign_in_button | 2 |
 | audio | 3 |
 | begin_display_group | 1 |
-| button | 63 |
+| button | 64 |
 | combo_box | 5 |
-| data_items | 71 |
+| data_items | 83 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 62 |
+| display_group | 65 |
 | google_sign_in_button | 2 |
 | image | 12 |
 | items | 9 |
@@ -27,15 +27,15 @@
 | plh_progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 6 |
-| round_button | 5 |
+| round_button | 7 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1185 |
+| set_variable | 1203 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 343 |
-| text | 99 |
+| template | 345 |
+| text | 112 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
@@ -53,7 +53,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 4 |
-| emit: completed | 249 |
+| emit: completed | 251 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 14 |
 | emit: force_restart | 4 |
@@ -62,14 +62,14 @@
 | emit: uncompleted | 249 |
 | feedback | 13 |
 | go_to | 14 |
-| nav_stack | 87 |
+| nav_stack | 90 |
 | pop_up | 33 |
 | reset_app | 3 |
 | reset_data | 2 |
 | set_data | 38 |
 | set_field | 39 |
-| set_item | 28 |
-| set_local | 39 |
+| set_item | 30 |
+| set_local | 41 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 39688 KB | 39.7 MB |
+| total | 39692 KB | 39.7 MB |
 | unused | 12774 KB | 12.8 MB |
 </details>
 
@@ -307,7 +307,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/document.svg | 7.3 | 1 |
+| images/icons/expand_circle_left_blue.svg | 2.1 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
+| images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
 | images/icons/eye_blue.png | 4.2 | 4 |
 | images/icons/faces/flushed_face.svg | 4.9 | 2 |
 | images/icons/faces/happy.svg | 53.5 | 35 |
@@ -405,7 +407,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| template |  | 73 |
+| template |  | 74 |
 | template | generated | 245 |
 | template | legal_terms | 4 |
 </details>

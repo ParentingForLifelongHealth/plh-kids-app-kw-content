@@ -3762,6 +3762,12 @@
       "_xlsxPath": "KW app_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
     },
+    "home_screen_header": {
+      "flow_type": "template",
+      "flow_name": "home_screen_header",
+      "_xlsxPath": "KW app_navigation.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+    },
     "hp_challenges": {
       "flow_type": "template",
       "flow_name": "hp_challenges",
