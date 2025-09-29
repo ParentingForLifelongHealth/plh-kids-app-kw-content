@@ -88,6 +88,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "close_icon_asset"
     },
@@ -98,6 +99,7 @@
         "sticky": "top",
         "style": "background_solid"
       },
+      "exclude_from_translation": true,
       "style_list": [
         "align-items: center",
         "padding-top: 12px",
