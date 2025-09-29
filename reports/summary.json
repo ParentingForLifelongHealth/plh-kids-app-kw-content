@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 83
+        "count": 73
       },
       {
         "type": "debug_toggle",
@@ -131,7 +131,7 @@
       },
       {
         "type": "text",
-        "count": 112
+        "count": 102
       },
       {
         "type": "text_area",

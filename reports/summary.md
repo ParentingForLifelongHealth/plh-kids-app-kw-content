@@ -10,7 +10,7 @@
 | begin_display_group | 1 |
 | button | 64 |
 | combo_box | 5 |
-| data_items | 83 |
+| data_items | 73 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 65 |
@@ -35,7 +35,7 @@
 | task_card | 4 |
 | task_progress_bar | 2 |
 | template | 345 |
-| text | 112 |
+| text | 102 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
