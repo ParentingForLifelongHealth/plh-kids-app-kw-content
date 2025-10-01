@@ -3838,6 +3838,12 @@
       "_xlsxPath": "templates/app_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
     },
+    "login": {
+      "flow_type": "template",
+      "flow_name": "login",
+      "_xlsxPath": "KW settings.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+    },
     "login_splash": {
       "flow_type": "template",
       "flow_name": "login_splash",
