@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 73
+        "count": 64
       },
       {
         "type": "debug_toggle",
@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1203
+        "count": 1193
       },
       {
         "type": "simple_checkbox",
@@ -127,11 +127,11 @@
       },
       {
         "type": "template",
-        "count": 345
+        "count": 356
       },
       {
         "type": "text",
-        "count": 102
+        "count": 92
       },
       {
         "type": "text_area",
@@ -179,7 +179,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 251
+        "count": 252
       },
       {
         "type": "emit: force_reload",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 249
+        "count": 250
       },
       {
         "type": "feedback",
@@ -231,11 +231,11 @@
       },
       {
         "type": "set_data",
-        "count": 38
+        "count": 29
       },
       {
         "type": "set_field",
-        "count": 39
+        "count": 30
       },
       {
         "type": "set_item",
@@ -243,7 +243,7 @@
       },
       {
         "type": "set_local",
-        "count": 41
+        "count": 31
       },
       {
         "type": "task",
@@ -1685,7 +1685,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 74
+        "total": 75
       },
       {
         "type": "template",

@@ -10,7 +10,7 @@
 | begin_display_group | 1 |
 | button | 64 |
 | combo_box | 5 |
-| data_items | 73 |
+| data_items | 64 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 65 |
@@ -30,12 +30,12 @@
 | round_button | 7 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1203 |
+| set_variable | 1193 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 345 |
-| text | 102 |
+| template | 356 |
+| text | 92 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
@@ -53,23 +53,23 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 4 |
-| emit: completed | 251 |
+| emit: completed | 252 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 14 |
 | emit: force_restart | 4 |
 | emit: server_sync | 6 |
 | emit: set_language | 1 |
-| emit: uncompleted | 249 |
+| emit: uncompleted | 250 |
 | feedback | 13 |
 | go_to | 14 |
 | nav_stack | 90 |
 | pop_up | 33 |
 | reset_app | 3 |
 | reset_data | 2 |
-| set_data | 38 |
-| set_field | 39 |
+| set_data | 29 |
+| set_field | 30 |
 | set_item | 30 |
-| set_local | 41 |
+| set_local | 31 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -407,7 +407,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| template |  | 74 |
+| template |  | 75 |
 | template | generated | 245 |
 | template | legal_terms | 4 |
 </details>
