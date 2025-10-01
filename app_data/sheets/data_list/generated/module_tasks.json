@@ -144,6 +144,7 @@
     {
       "id": "challengingbehaviours",
       "number": 8,
+      "image_asset": "images/challenging_behaviour_yc.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
       "title": "Challenging Behaviours",

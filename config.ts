@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-kw-content",
-  content_tag_latest: "1.4.3",
+  content_tag_latest: "1.4.5",
 };
 
 config.android = {

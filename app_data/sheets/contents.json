@@ -2287,7 +2287,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/home_practice_review/Copy of hp_review.xlsx",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
       "_output_flows": [
         {
@@ -3780,6 +3780,12 @@
       "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
     },
+    "hp_review_with_activity": {
+      "flow_type": "template",
+      "flow_name": "hp_review_with_activity",
+      "_xlsxPath": "templates/home_practice_review/hp_review.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+    },
     "import_user_data": {
       "flow_type": "template",
       "flow_name": "import_user_data",
@@ -3831,6 +3837,12 @@
       "flow_name": "library",
       "_xlsxPath": "templates/app_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+    },
+    "login": {
+      "flow_type": "template",
+      "flow_name": "login",
+      "_xlsxPath": "KW settings.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
     },
     "login_splash": {
       "flow_type": "template",

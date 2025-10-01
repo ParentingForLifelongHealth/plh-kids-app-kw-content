@@ -167,7 +167,8 @@
           "type": "plh_progress_path",
           "parameter_list": {
             "background_image_asset": "@local.background_image_asset",
-            "starting_position": "bottom"
+            "starting_position": "bottom",
+            "module_count": "10"
           },
           "exclude_from_translation": true,
           "rows": [
