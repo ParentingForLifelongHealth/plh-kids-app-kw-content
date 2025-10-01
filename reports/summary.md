@@ -5,16 +5,16 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
-| apple_sign_in_button | 2 |
+| apple_sign_in_button | 3 |
 | audio | 3 |
 | begin_display_group | 1 |
-| button | 64 |
+| button | 68 |
 | combo_box | 5 |
-| data_items | 73 |
+| data_items | 66 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 65 |
-| google_sign_in_button | 2 |
+| display_group | 67 |
+| google_sign_in_button | 3 |
 | image | 12 |
 | items | 9 |
 | lottie_animation | 3 |
@@ -30,16 +30,16 @@
 | round_button | 7 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1203 |
+| set_variable | 1197 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 2 |
-| template | 345 |
-| text | 102 |
+| template | 357 |
+| text | 93 |
 | text_area | 2 |
 | text_box | 5 |
 | text_bubble | 2 |
-| title | 35 |
+| title | 37 |
 | toggle_bar | 5 |
 | update_action_list | 3 |
 | video | 3 |
@@ -52,26 +52,26 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| auth | 4 |
-| emit: completed | 251 |
+| auth | 5 |
+| emit: completed | 254 |
 | emit: force_reload | 4 |
-| emit: force_reprocess | 14 |
-| emit: force_restart | 4 |
+| emit: force_reprocess | 17 |
+| emit: force_restart | 5 |
 | emit: server_sync | 6 |
 | emit: set_language | 1 |
-| emit: uncompleted | 249 |
+| emit: uncompleted | 250 |
 | feedback | 13 |
 | go_to | 14 |
 | nav_stack | 90 |
 | pop_up | 33 |
 | reset_app | 3 |
 | reset_data | 2 |
-| set_data | 38 |
-| set_field | 39 |
+| set_data | 29 |
+| set_field | 34 |
 | set_item | 30 |
-| set_local | 41 |
+| set_local | 31 |
 | task | 3 |
-| user | 3 |
+| user | 4 |
 </details>
 
 <details open>
@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 39692 KB | 39.7 MB |
+| total | 40122 KB | 40.1 MB |
 | unused | 12774 KB | 12.8 MB |
 </details>
 
@@ -238,6 +238,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/library_top_right.png | 1358.6 | 1 |
 | images/backgrounds/map_view_bg.jpg | 129.5 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
+| images/challenging_behaviour_yc.svg | 429.8 | 2 |
 | images/child_development_yc.svg | 243.8 | 2 |
 | images/comics/child_development_yc_1.svg | 361.4 | 2 |
 | images/comics/child_development_yc_2.svg | 357 | 2 |
@@ -407,7 +408,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 22 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| template |  | 74 |
+| template |  | 76 |
 | template | generated | 245 |
 | template | legal_terms | 4 |
 </details>

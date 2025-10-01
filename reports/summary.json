@@ -11,7 +11,7 @@
       },
       {
         "type": "apple_sign_in_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "audio",
@@ -23,7 +23,7 @@
       },
       {
         "type": "button",
-        "count": 64
+        "count": 68
       },
       {
         "type": "combo_box",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 73
+        "count": 66
       },
       {
         "type": "debug_toggle",
@@ -43,11 +43,11 @@
       },
       {
         "type": "display_group",
-        "count": 65
+        "count": 67
       },
       {
         "type": "google_sign_in_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "image",
@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1203
+        "count": 1197
       },
       {
         "type": "simple_checkbox",
@@ -127,11 +127,11 @@
       },
       {
         "type": "template",
-        "count": 345
+        "count": 357
       },
       {
         "type": "text",
-        "count": 102
+        "count": 93
       },
       {
         "type": "text_area",
@@ -147,7 +147,7 @@
       },
       {
         "type": "title",
-        "count": 35
+        "count": 37
       },
       {
         "type": "toggle_bar",
@@ -175,11 +175,11 @@
       },
       {
         "type": "auth",
-        "count": 4
+        "count": 5
       },
       {
         "type": "emit: completed",
-        "count": 251
+        "count": 254
       },
       {
         "type": "emit: force_reload",
@@ -187,11 +187,11 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 14
+        "count": 17
       },
       {
         "type": "emit: force_restart",
-        "count": 4
+        "count": 5
       },
       {
         "type": "emit: server_sync",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 249
+        "count": 250
       },
       {
         "type": "feedback",
@@ -231,11 +231,11 @@
       },
       {
         "type": "set_data",
-        "count": 38
+        "count": 29
       },
       {
         "type": "set_field",
-        "count": 39
+        "count": 34
       },
       {
         "type": "set_item",
@@ -243,7 +243,7 @@
       },
       {
         "type": "set_local",
-        "count": 41
+        "count": 31
       },
       {
         "type": "task",
@@ -251,7 +251,7 @@
       },
       {
         "type": "user",
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -259,8 +259,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "39692 KB",
-        "MB": "39.7 MB"
+        "KB": "40122 KB",
+        "MB": "40.1 MB"
       },
       {
         "assets": "unused",
@@ -867,6 +867,11 @@
         "path": "images/backgrounds/progress_arc.png",
         "count": 1,
         "size_kb": 255.4
+      },
+      {
+        "path": "images/challenging_behaviour_yc.svg",
+        "count": 2,
+        "size_kb": 429.8
       },
       {
         "path": "images/child_development_yc.svg",
@@ -1685,7 +1690,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 74
+        "total": 76
       },
       {
         "type": "template",
