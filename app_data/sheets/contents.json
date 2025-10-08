@@ -1977,6 +1977,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_oneononetime_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_oneononetime_tips_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_oneononetime_home_activity_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3120,6 +3130,16 @@
     },
     "article_oneononetime_tips_1": {
       "flow_name": "article_oneononetime_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_oneononetime_tips_2": {
+      "flow_name": "article_oneononetime_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_oneononetime_tips_3": {
+      "flow_name": "article_oneononetime_tips_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
