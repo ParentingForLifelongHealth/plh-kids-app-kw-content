@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1205
+        "count": 1207
       },
       {
         "type": "simple_checkbox",
@@ -127,7 +127,7 @@
       },
       {
         "type": "template",
-        "count": 360
+        "count": 361
       },
       {
         "type": "text",
@@ -179,7 +179,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 256
+        "count": 257
       },
       {
         "type": "emit: force_reload",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 252
+        "count": 253
       },
       {
         "type": "feedback",
@@ -259,12 +259,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "40122 KB",
+        "KB": "40135 KB",
         "MB": "40.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "12774 KB",
+        "KB": "12761 KB",
         "MB": "12.8 MB"
       }
     ]
@@ -360,16 +360,8 @@
         "size_kb": 0.7
       },
       {
-        "path": "images/icons/brain_blue.png",
-        "size_kb": 5.2
-      },
-      {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
-      },
-      {
-        "path": "images/icons/diamond_blue.png",
-        "size_kb": 4.7
       },
       {
         "path": "images/icons/faces/angry.svg",
@@ -430,10 +422,6 @@
       {
         "path": "images/icons/in_progress_white.svg",
         "size_kb": 1.1
-      },
-      {
-        "path": "images/icons/lightbulb_blue.png",
-        "size_kb": 3.6
       },
       {
         "path": "images/icons/parent_child.svg",
@@ -1199,8 +1187,13 @@
         "size_kb": 4.7
       },
       {
+        "path": "images/icons/brain_blue.png",
+        "count": 2,
+        "size_kb": 5.2
+      },
+      {
         "path": "images/icons/clock_blue.png",
-        "count": 4,
+        "count": 6,
         "size_kb": 4.5
       },
       {
@@ -1212,6 +1205,11 @@
         "path": "images/icons/diamond_active.png",
         "count": 1,
         "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/diamond_blue.png",
+        "count": 2,
+        "size_kb": 4.7
       },
       {
         "path": "images/icons/document.svg",
@@ -1235,7 +1233,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 4,
+        "count": 8,
         "size_kb": 4.2
       },
       {
@@ -1300,7 +1298,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 12,
+        "count": 24,
         "size_kb": 4.9
       },
       {
@@ -1320,7 +1318,7 @@
       },
       {
         "path": "images/icons/hourglass_blue.png",
-        "count": 2,
+        "count": 4,
         "size_kb": 4.3
       },
       {
@@ -1332,6 +1330,11 @@
         "path": "images/icons/key.svg",
         "count": 1,
         "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/lightbulb_blue.png",
+        "count": 2,
+        "size_kb": 3.6
       },
       {
         "path": "images/icons/local_library.svg",
@@ -1380,12 +1383,12 @@
       },
       {
         "path": "images/icons/question_blue.png",
-        "count": 2,
+        "count": 8,
         "size_kb": 3.4
       },
       {
         "path": "images/icons/repeat_blue.png",
-        "count": 2,
+        "count": 6,
         "size_kb": 5.4
       },
       {
@@ -1415,12 +1418,12 @@
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 6,
+        "count": 10,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 6,
+        "count": 14,
         "size_kb": 5.1
       },
       {
@@ -1460,7 +1463,7 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 4,
+        "count": 6,
         "size_kb": 5.1
       },
       {
@@ -1695,7 +1698,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 247
+        "total": 248
       },
       {
         "type": "template",

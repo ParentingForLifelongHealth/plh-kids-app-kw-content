@@ -8,13 +8,14 @@
     {
       "id": "intro_1",
       "category_id": "intro",
-      "text_1_facilitator": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out, not because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?",
+      "attached_single_doc": "https://docs.google.com/document/d/17_p8gGKrVk-MzLXFexAGEYB2Kultn3v7mYhxkfM3iwE",
+      "text_1_facilitator": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?",
       "_translations": {
         "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out, not because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?"
+          "eng": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?"
         }
       }
     },
@@ -345,20 +346,71 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator": "Here are some tips on ignoring challenging behaviour:",
+      "section_1_icon_asset": "images/icons/eye_blue.png",
+      "section_2_icon_asset": "images/icons/repeat_blue.png",
+      "section_3_icon_asset": "images/icons/question_blue.png",
+      "section_4_icon_asset": "images/icons/star_filled_blue.png",
+      "text_1_facilitator": "Here are some tips for managing challenging behaviours:",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Here are some tips on ignoring challenging behaviour:"
+          "eng": "Here are some tips for managing challenging behaviours:"
         },
-        "text_2": {
-          "eng": "**Pay attention** \n- Notice when your child wants or needs positive attention.\n- Listen to what your child says and give attention to his/her positive behaviour.\n- If you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n- Pay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.\n\n**Redirect First** \n- Try to redirect or distract your child before ignoring.\n- Redirect works best for younger children.\n- Use a calm voice and a new activity: “Let’s play ball together instead.”\n- Encourage the opposite of the problem behaviour with rewards and praise.\n\n**How to Ignore** \n- Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n- Ignoring behaviour is sometimes the best response to difficult behaviour.\n- Ignore means no eye contact, no physical contact, and no verbal contact.\n- Ignore only the behaviour, not the child.\n- interrupting, screaming, or mild swearing.\n- Do not ignore aggressive or dangerous behaviours that risk safety.\n- Ignoring is a group effort. Everyone in the family must join in.\n- Ignore works better for children ages 4 and older; Redirect younger children\n- As soon as the negative behaviour ends, praise the next positive behaviour immediately.\n\n**Be Prepared** \n- Ignoring can make behaviour get worse at first before it gets better. Be patient!\n- Stay calm—use your own calming strategies (deep breaths, pausing, walking away).\n- Be consistent when choosing to ignore difficult behavior.\n- Ignoring is easier if we have decided how we are going to act when ignoring."
+        "section_1_title": {
+          "eng": "Pay attention"
+        },
+        "section_1_text": {
+          "eng": "Notice when your child wants or needs positive attention.\n\nListen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of."
+        },
+        "section_2_title": {
+          "eng": "Redirect first"
+        },
+        "section_2_text": {
+          "eng": "Try to redirect or distract your child before ignoring.\n\nRedirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise."
+        },
+        "section_3_title": {
+          "eng": "How to ignore"
+        },
+        "section_3_text": {
+          "eng": "Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n\nIgnoring behaviour is sometimes the best response to difficult behaviour.\n\nIgnore means no eye contact, no physical contact, and no verbal contact.\n\nIgnore only the behaviour, not the child."
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "Do not ignore aggressive or dangerous behaviours that risk safety.\n\nIgnoring is a group effort. Everyone in the family must join in.\n\nIgnore works better for children ages 4 and older; Redirect younger children\n\nAs soon as the negative behaviour ends, praise the next positive behaviour immediately."
+        },
+        "section_4_title": {
+          "eng": "Be prepared"
+        },
+        "section_4_text": {
+          "eng": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).\n\nBe consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
         }
       },
-      "text_2": "**Pay attention** \n- Notice when your child wants or needs positive attention.\n- Listen to what your child says and give attention to his/her positive behaviour.\n- If you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n- Pay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.\n\n**Redirect First** \n- Try to redirect or distract your child before ignoring.\n- Redirect works best for younger children.\n- Use a calm voice and a new activity: “Let’s play ball together instead.”\n- Encourage the opposite of the problem behaviour with rewards and praise.\n\n**How to Ignore** \n- Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n- Ignoring behaviour is sometimes the best response to difficult behaviour.\n- Ignore means no eye contact, no physical contact, and no verbal contact.\n- Ignore only the behaviour, not the child.\n- interrupting, screaming, or mild swearing.\n- Do not ignore aggressive or dangerous behaviours that risk safety.\n- Ignoring is a group effort. Everyone in the family must join in.\n- Ignore works better for children ages 4 and older; Redirect younger children\n- As soon as the negative behaviour ends, praise the next positive behaviour immediately.\n\n**Be Prepared** \n- Ignoring can make behaviour get worse at first before it gets better. Be patient!\n- Stay calm—use your own calming strategies (deep breaths, pausing, walking away).\n- Be consistent when choosing to ignore difficult behavior.\n- Ignoring is easier if we have decided how we are going to act when ignoring."
+      "section_1_title": "Pay attention",
+      "section_1_text": "Notice when your child wants or needs positive attention.\n\nListen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.",
+      "section_2_title": "Redirect first",
+      "section_2_text": "Try to redirect or distract your child before ignoring.\n\nRedirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise.",
+      "section_3_title": "How to ignore",
+      "section_3_text": "Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n\nIgnoring behaviour is sometimes the best response to difficult behaviour.\n\nIgnore means no eye contact, no physical contact, and no verbal contact.\n\nIgnore only the behaviour, not the child.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Do not ignore aggressive or dangerous behaviours that risk safety.\n\nIgnoring is a group effort. Everyone in the family must join in.\n\nIgnore works better for children ages 4 and older; Redirect younger children\n\nAs soon as the negative behaviour ends, praise the next positive behaviour immediately.",
+      "section_4_title": "Be prepared",
+      "section_4_text": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).\n\nBe consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
     },
     {
       "id": "home_activity_1",

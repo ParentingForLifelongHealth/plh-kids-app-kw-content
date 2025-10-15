@@ -617,104 +617,107 @@
         "text_1_facilitator": {
           "eng": "Here are building blocks to give positive instructions that work:"
         },
-        "text_2": {
-          "eng": "**Be Specific** \n- Make sure you have your child’s attention when giving an instruction. Move close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n- Say the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n- Instructions should be a command instead of a question.\n\n**Be Realistic** \n- Give one instruction at a time.\n- Make sure your instruction is something your child can do.\n- Use transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”\n\n**Be Positive** \n- Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n- Give instructions in a calm, firm voice.\n- Act as if you expect your child to follow through.\n- Use “WHEN this, THEN that” to teach children the benefits of good behaviour.\n- Be kind to yourself—learning positive instructions takes practice!\n\n**Praise**\n- Praise your child immediately after following an instruction\n- Use physical and verbal praise to support positive behaviour.\n- Also give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her."
-        },
         "section_1_title": {
-          "eng": "BE SPECIFIC"
+          "eng": "Be Specific"
         },
         "section_1_text": {
-          "eng": "Say the behaviour you want your child to do.\nBut before you do that, connect to them, so they are more likely to listen."
-        },
-        "section_1_button_text": {
-          "eng": "More"
-        },
-        "section_1_extra_text": {
-          "eng": "Use your child’s name to get your child’s attention. Go down to their level. Make eye contact.\n\nThen say exactly what you want them to do. For example: “Please take your shoes off when you come inside the house, Faisal.”"
+          "eng": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nSay the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n\nInstructions should be a command instead of a question."
         },
         "section_2_title": {
-          "eng": "BE REALISTIC"
+          "eng": "Be realistic"
         },
         "section_2_text": {
-          "eng": "Give one instruction at a time, and make sure that the instruction is something that your child can do. \n\nGiving a transition warning helps when you are asking them to change activities!"
-        },
-        "section_2_button_text": {
-          "eng": "More"
-        },
-        "section_2_extra_text": {
-          "eng": "It can be difficult for your child to remember many instructions, so only give one at a time!\n\nIf possible, give a transition warning. For example: “In 10 minutes, you will need to pack away your toys so we can start getting ready for bed.”"
+          "eng": "Give one instruction at a time.\n\nMake sure your instruction is something your child can do.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”"
         },
         "section_3_title": {
-          "eng": "BE POSITIVE"
+          "eng": "Be positive"
         },
         "section_3_text": {
-          "eng": "Try using positive words when giving instructions. For example, instead of “Don’t shout inside the house,” say “Talk in a quiet voice when we’re inside the house.”\n\nALWAYS praise your child for following your instruction. Remember that this will make them more likely to repeat the behaviour you have just praised them for, and listen to you next time!"
+          "eng": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n\nGive instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!"
         },
-        "section_3_button_text": {
-          "eng": "More"
+        "section_4_title": {
+          "eng": "Praise"
         },
-        "section_3_extra_text": {
-          "eng": "Give instructions in a firm voice and stay calm. Behave as if you expect your child to do what you ask.\n\nPraise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n\nAlso, be kind to yourself if you forget sometimes. Learning how to give positive instructions is not easy, but it works!"
+        "section_4_text": {
+          "eng": "Praise your child immediately after following an instruction\n\nUse physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her."
         }
       },
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are building blocks to give positive instructions that work:",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {},
-        "section_1_title": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {
           "kw_ar": true
         },
-        "section_1_text": {
-          "kw_ar": true
-        },
-        "section_1_button_text": {
-          "kw_ar": true
-        },
-        "section_1_extra_text": {
-          "kw_ar": true
-        },
-        "section_2_title": {
-          "kw_ar": true
-        },
-        "section_2_text": {
-          "kw_ar": true
-        },
-        "section_2_button_text": {
-          "kw_ar": true
-        },
-        "section_2_extra_text": {
-          "kw_ar": true
-        },
-        "section_3_title": {
-          "kw_ar": true
-        },
-        "section_3_text": {
-          "kw_ar": true
-        },
-        "section_3_button_text": {
-          "kw_ar": true
-        },
-        "section_3_extra_text": {
-          "kw_ar": true
-        }
+        "section_4_text": {}
       },
-      "text_2": "**Be Specific** \n- Make sure you have your child’s attention when giving an instruction. Move close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n- Say the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n- Instructions should be a command instead of a question.\n\n**Be Realistic** \n- Give one instruction at a time.\n- Make sure your instruction is something your child can do.\n- Use transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”\n\n**Be Positive** \n- Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n- Give instructions in a calm, firm voice.\n- Act as if you expect your child to follow through.\n- Use “WHEN this, THEN that” to teach children the benefits of good behaviour.\n- Be kind to yourself—learning positive instructions takes practice!\n\n**Praise**\n- Praise your child immediately after following an instruction\n- Use physical and verbal praise to support positive behaviour.\n- Also give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her.",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/clock_blue.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_1_title": "BE SPECIFIC",
-      "section_1_text": "Say the behaviour you want your child to do.\nBut before you do that, connect to them, so they are more likely to listen.",
-      "section_1_button_text": "More",
-      "section_1_extra_text": "Use your child’s name to get your child’s attention. Go down to their level. Make eye contact.\n\nThen say exactly what you want them to do. For example: “Please take your shoes off when you come inside the house, Faisal.”",
-      "section_2_title": "BE REALISTIC",
-      "section_2_text": "Give one instruction at a time, and make sure that the instruction is something that your child can do. \n\nGiving a transition warning helps when you are asking them to change activities!",
-      "section_2_button_text": "More",
-      "section_2_extra_text": "It can be difficult for your child to remember many instructions, so only give one at a time!\n\nIf possible, give a transition warning. For example: “In 10 minutes, you will need to pack away your toys so we can start getting ready for bed.”",
-      "section_3_title": "BE POSITIVE",
-      "section_3_text": "Try using positive words when giving instructions. For example, instead of “Don’t shout inside the house,” say “Talk in a quiet voice when we’re inside the house.”\n\nALWAYS praise your child for following your instruction. Remember that this will make them more likely to repeat the behaviour you have just praised them for, and listen to you next time!",
-      "section_3_button_text": "More",
-      "section_3_extra_text": "Give instructions in a firm voice and stay calm. Behave as if you expect your child to do what you ask.\n\nPraise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n\nAlso, be kind to yourself if you forget sometimes. Learning how to give positive instructions is not easy, but it works!",
+      "section_4_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_title": "Be Specific",
+      "section_1_text": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nSay the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n\nInstructions should be a command instead of a question.",
+      "section_2_title": "Be realistic",
+      "section_2_text": "Give one instruction at a time.\n\nMake sure your instruction is something your child can do.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”",
+      "section_3_title": "Be positive",
+      "section_3_text": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n\nGive instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!",
+      "section_4_title": "Praise",
+      "section_4_text": "Praise your child immediately after following an instruction\n\nUse physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her.",
+      "completed": false
+    },
+    {
+      "id": "tips_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here are building blocks for redirecting behaviours:"
+        },
+        "section_1_title": {
+          "eng": "Redirect early"
+        },
+        "section_1_text": {
+          "eng": "Use instructions to move your child from a negative behaviour to a positive one.\n\nTry to catch the behaviour before it starts or very early.\n\nFor younger children, you can also physically redirect them."
+        },
+        "section_2_title": {
+          "eng": "Be enthusiastic"
+        },
+        "section_2_text": {
+          "eng": "Use energy and positivity to encourage the new behaviour.\n\nExample: “Reem, bring the ball here so we can play together!”"
+        },
+        "section_3_title": {
+          "eng": "Praise"
+        },
+        "section_3_text": {
+          "eng": "Praise your child for the next positive behaviour, instead of revisiting the negative one. Example: “Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”\n\nUse verbal praise and physical praise (like a hug) to reinforce positive behaviour."
+        }
+      },
+      "category_id": "practical_tips",
+      "text_1_facilitator": "Here are building blocks for redirecting behaviours:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {}
+      },
+      "section_1_icon_asset": "images/icons/clock_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_1_title": "Redirect early",
+      "section_1_text": "Use instructions to move your child from a negative behaviour to a positive one.\n\nTry to catch the behaviour before it starts or very early.\n\nFor younger children, you can also physically redirect them.",
+      "section_2_title": "Be enthusiastic",
+      "section_2_text": "Use energy and positivity to encourage the new behaviour.\n\nExample: “Reem, bring the ball here so we can play together!”",
+      "section_3_title": "Praise",
+      "section_3_text": "Praise your child for the next positive behaviour, instead of revisiting the negative one. Example: “Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”\n\nUse verbal praise and physical praise (like a hug) to reinforce positive behaviour.",
       "completed": false
     },
     {
