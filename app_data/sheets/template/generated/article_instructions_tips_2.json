@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_oneononetime_tips_3",
+  "flow_name": "article_instructions_tips_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "tips_3",
+          "value": "tips_2",
           "_translations": {
             "value": {}
           },
@@ -39,7 +39,7 @@
         },
         {
           "name": "module_id",
-          "value": "oneononetime",
+          "value": "instructions",
           "_translations": {
             "value": {}
           },

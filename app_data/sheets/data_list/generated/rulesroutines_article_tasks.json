@@ -774,17 +774,69 @@
         "text_1_facilitator": {
           "eng": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:"
         },
-        "text_2": {
-          "eng": "**Be a Team** \n- Involve your child in making rules—they are more likely to follow them.\n- Make sure your child understands the reasons why you are establishing a household rule or routine\n- Older children can suggest rules, and you can agree together.\n- Establish household rules and routines when your child is calm and quiet.\n\n**Be Realistic** \n- Make rules and routines positive, specific, and realistic . Example: instead of “Clean up” say “Pick up all of your building blocks.”\n- Consider your child’s age and abilities—make sure they can actually do what you ask.\n- Teach your child how to follow daily routines by breaking them down into small steps.\n- Routines can be short (washing hands before dinner) or longer (bedtime routine).\n- Only introduce one new rule or routine at a time.\n- When following a routine, give one instruction at a time. Keep them simple!\n- Make sure your child follows through with each instruction.\n- Praise your child immediately after following your instructions.\n\n**Be Consistent** \n- Follow rules and routines daily so your child knows what to expect.\n- Use transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n- Use simple incentives to encourage your child.\n- Get help from your spouse or family when needed.\n- Create a calm environment for your child during routines, especially bedtime.\n- Over time, your child will follow routines more independently."
+        "section_1_title": {
+          "eng": "Be a team"
+        },
+        "section_1_text": {
+          "eng": "Involve your child in making rules—they are more likely to follow them.\n\nMake sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet."
+        },
+        "section_2_title": {
+          "eng": "Be realistic"
+        },
+        "section_2_text": {
+          "eng": "Make rules and routines positive, specific, and realistic. Example: instead of “Clean up” say “Pick up all of your building blocks.”\n\nConsider your child’s age and abilities—make sure they can actually do what you ask.\n\nTeach your child how to follow daily routines by breaking them down into small steps."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "Routines can be short (washing hands before dinner) or longer (bedtime routine).\n\nOnly introduce one new rule or routine at a time.\n\nWhen following a routine, give one instruction at a time. \n\nKeep them simple!\n\nMake sure your child follows through with each instruction.\n\nPraise your child immediately after following your instructions."
+        },
+        "section_3_title": {
+          "eng": "Be consistent"
+        },
+        "section_3_text": {
+          "eng": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child."
+        },
+        "section_3_button_text": {
+          "eng": "More tips"
+        },
+        "section_3_extra_text": {
+          "eng": "Get help from your spouse or family when needed.\n\nCreate a calm environment for your child during routines, especially bedtime.\n\nOver time, your child will follow routines more independently."
         }
       },
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
         "text_1_facilitator": {},
-        "text_2": {}
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {}
       },
-      "text_2": "**Be a Team** \n- Involve your child in making rules—they are more likely to follow them.\n- Make sure your child understands the reasons why you are establishing a household rule or routine\n- Older children can suggest rules, and you can agree together.\n- Establish household rules and routines when your child is calm and quiet.\n\n**Be Realistic** \n- Make rules and routines positive, specific, and realistic . Example: instead of “Clean up” say “Pick up all of your building blocks.”\n- Consider your child’s age and abilities—make sure they can actually do what you ask.\n- Teach your child how to follow daily routines by breaking them down into small steps.\n- Routines can be short (washing hands before dinner) or longer (bedtime routine).\n- Only introduce one new rule or routine at a time.\n- When following a routine, give one instruction at a time. Keep them simple!\n- Make sure your child follows through with each instruction.\n- Praise your child immediately after following your instructions.\n\n**Be Consistent** \n- Follow rules and routines daily so your child knows what to expect.\n- Use transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n- Use simple incentives to encourage your child.\n- Get help from your spouse or family when needed.\n- Create a calm environment for your child during routines, especially bedtime.\n- Over time, your child will follow routines more independently.",
+      "section_1_icon_asset": "images/icons/diamond_blue.png",
+      "section_2_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_3_icon_asset": "images/icons/repeat_blue.png",
+      "section_1_title": "Be a team",
+      "section_1_text": "Involve your child in making rules—they are more likely to follow them.\n\nMake sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet.",
+      "section_2_title": "Be realistic",
+      "section_2_text": "Make rules and routines positive, specific, and realistic. Example: instead of “Clean up” say “Pick up all of your building blocks.”\n\nConsider your child’s age and abilities—make sure they can actually do what you ask.\n\nTeach your child how to follow daily routines by breaking them down into small steps.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Routines can be short (washing hands before dinner) or longer (bedtime routine).\n\nOnly introduce one new rule or routine at a time.\n\nWhen following a routine, give one instruction at a time. \n\nKeep them simple!\n\nMake sure your child follows through with each instruction.\n\nPraise your child immediately after following your instructions.",
+      "section_3_title": "Be consistent",
+      "section_3_text": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child.",
+      "section_3_button_text": "More tips",
+      "section_3_extra_text": "Get help from your spouse or family when needed.\n\nCreate a calm environment for your child during routines, especially bedtime.\n\nOver time, your child will follow routines more independently.",
       "completed": false
     },
     {
@@ -794,7 +846,7 @@
           "eng": "Here are some tips on rules and routines that will help you keep your child safe online:"
         },
         "section_1_title": {
-          "eng": "FIX YOUR TECH"
+          "eng": "Fix your tech"
         },
         "section_1_text": {
           "eng": "Take control of your devices to keep them safe for your children."
@@ -806,7 +858,7 @@
           "eng": "Set up [parental controls](https://www.internetmatters.org/parental-controls/) on your gadgets \n\nTurn on [SafeSearch](https://www.internetmatters.org/parental-controls/entertainment-search-engines/) on your browser \n\nSet up strict [privacy settings](https://www.internetmatters.org/parental-controls/social-media/) on online apps and games \n\nCover webcams when not in use"
         },
         "section_2_title": {
-          "eng": "USE SAFE ONLINE HABITS"
+          "eng": "Use safe online habits"
         },
         "section_2_text": {
           "eng": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)"
@@ -818,7 +870,7 @@
           "eng": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them."
         },
         "section_3_title": {
-          "eng": "SPEND TIME WITH YOUR CHILD"
+          "eng": "Spend time with your child"
         },
         "section_3_text": {
           "eng": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!"
@@ -836,21 +888,11 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {
-          "kw_ar": true
-        },
+        "section_1_title": {},
         "section_1_text": {
           "kw_ar": true
         },
-        "section_1_button_text": {
-          "kw_ar": true
-        },
-        "section_1_extra_text": {
-          "kw_ar": true
-        },
-        "section_2_title": {
-          "kw_ar": true
-        },
+        "section_2_title": {},
         "section_2_text": {
           "kw_ar": true
         },
@@ -860,9 +902,7 @@
         "section_2_extra_text": {
           "kw_ar": true
         },
-        "section_3_title": {
-          "kw_ar": true
-        },
+        "section_3_title": {},
         "section_3_text": {
           "kw_ar": true
         },
@@ -871,23 +911,29 @@
         },
         "section_3_extra_text": {
           "kw_ar": true
+        },
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {
+          "kw_ar": true
         }
       },
       "section_1_icon_asset": "images/icons/tablet_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
-      "section_1_title": "FIX YOUR TECH",
+      "section_1_title": "Fix your tech",
       "section_1_text": "Take control of your devices to keep them safe for your children.",
-      "section_1_button_text": "Learn more",
-      "section_1_extra_text": "Set up [parental controls](https://www.internetmatters.org/parental-controls/) on your gadgets \n\nTurn on [SafeSearch](https://www.internetmatters.org/parental-controls/entertainment-search-engines/) on your browser \n\nSet up strict [privacy settings](https://www.internetmatters.org/parental-controls/social-media/) on online apps and games \n\nCover webcams when not in use",
-      "section_2_title": "USE SAFE ONLINE HABITS",
+      "section_2_title": "Use safe online habits",
       "section_2_text": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)",
       "section_2_button_text": "Learn more",
       "section_2_extra_text": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
-      "section_3_title": "SPEND TIME WITH YOUR CHILD",
+      "section_3_title": "Spend time with your child",
       "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!",
       "section_3_button_text": "Learn more",
       "section_3_extra_text": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Set up [parental controls](https://www.internetmatters.org/parental-controls/) on your gadgets \n\nTurn on [SafeSearch](https://www.internetmatters.org/parental-controls/entertainment-search-engines/) on your browser \n\nSet up strict [privacy settings](https://www.internetmatters.org/parental-controls/social-media/) on online apps and games \n\nCover webcams when not in use",
       "completed": false
     },
     {

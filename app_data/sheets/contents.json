@@ -967,6 +967,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_consequences_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_consequences_practise",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -1853,6 +1858,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_instructions_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_instructions_practise",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -1978,11 +1988,6 @@
         },
         {
           "flow_name": "article_oneononetime_tips_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_oneononetime_tips_3",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -2948,6 +2953,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_consequences_tips_2": {
+      "flow_name": "article_consequences_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_feelings_check_in_7": {
       "flow_name": "article_feelings_check_in_7",
       "flow_subtype": "generated",
@@ -3083,6 +3093,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_instructions_tips_2": {
+      "flow_name": "article_instructions_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_oneononetime_check_in_4": {
       "flow_name": "article_oneononetime_check_in_4",
       "flow_subtype": "generated",
@@ -3135,11 +3150,6 @@
     },
     "article_oneononetime_tips_2": {
       "flow_name": "article_oneononetime_tips_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_oneononetime_tips_3": {
-      "flow_name": "article_oneononetime_tips_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

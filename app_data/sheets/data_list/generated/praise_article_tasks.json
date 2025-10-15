@@ -504,7 +504,7 @@
           "eng": "Here are some simple tips for using praise effectively:"
         },
         "section_1_title": {
-          "eng": "SEE IT"
+          "eng": "Notice"
         },
         "section_1_text": {
           "eng": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do."
@@ -513,31 +513,43 @@
           "eng": "More tips"
         },
         "section_1_extra_text": {
-          "eng": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your child for *trying*. This boosts their self-esteem and confidence, which helps them to learn new behaviours."
+          "eng": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your children for trying, not just succeeding. This boosts their self-esteem and confidence, which helps them to learn new behaviours. \n\nPositive attention encourages positive behaviours."
         },
         "section_2_title": {
-          "eng": "SAY IT"
+          "eng": "Say it"
         },
         "section_2_text": {
-          "eng": "Praise them when you see them do something you like. Do this every day – even if it’s something really small."
+          "eng": "Praise your child every day, even for small things.\n\nUse specific words that describe the behaviour you are praising.\n\nShare how you feel when you praise your child. \n\nGive your child your undivided attention when you are praising them."
         },
         "section_2_button_text": {
           "eng": "More tips"
         },
         "section_2_extra_text": {
-          "eng": "Tell them specifically what they have done well.\n\nBe enthusiastic and really mean it!\n\nYou can show your praise with a big smile and words."
+          "eng": "Get down to your child’s level. Name your child when you speak to them. Look them in the eye. This way your child will know that you are talking to them and giving them praise.\n\nSmile at your child so that they know that they are pleasing you.\n\nPraise can be verbal and physical. Give your child a hug. It will make him or her feel good about him or herself.\n\nBe enthusiastic—show that you really mean it.\n\nPraise is good for you, your children, and your spouse."
         },
         "section_3_title": {
-          "eng": "REWARD IT"
+          "eng": "Praise and go!"
         },
         "section_3_text": {
-          "eng": "Give your child a simple, free reward to encourage them to do more of the behaviours that you have praised them for."
+          "eng": "Give praise without criticism.\n\nGive praise immediately after you see good behaviour. This makes it more likely that this behaviour will happen again.\n\nGive praise for a specific thing that your child has done, or for a specific way your child has behaved. Tell them exactly what the behaviour is that they are being praised for."
         },
         "section_3_button_text": {
           "eng": "More tips"
         },
         "section_3_extra_text": {
-          "eng": "Rewards should be simple and free. \n\nGive your child a hug, extra playtime together, or make their favourite meal. \n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour."
+          "eng": "For big behaviours, break them into smaller steps and praise each step. For example, praise for putting on socks, then shirt, then pants when learning to dress independently.\n\nPraise your child in front of other adults. They will know that you are proud of them and not ashamed to tell everyone.\n\nPraise builds confidence, strengthens relationships, and motivates good behaviour."
+        },
+        "section_4_title": {
+          "eng": "Support praise with simple, free and healthy rewards"
+        },
+        "section_4_text": {
+          "eng": "Give your child a simple, free reward to encourage them to do more of the behaviours that you have praised them for, especially if they are difficult for them to do. \n\nRewards should be free and simple. They also should be healthy! For example, give your child a hug, extra playtime together, or make their favourite meal.\n\nMake sure you can follow through with your rewards. Keep them simple and realistic."
+        },
+        "section_4_button_text": {
+          "eng": "More tips"
+        },
+        "section_4_extra_text": {
+          "eng": "Simple rewards can be a big motivation for your child to keep trying and show more positive behaviour.\n\nPraise and reward come after the behaviour, not before. \n\nReward yourself too—for your hard work as a parent!"
         }
       },
       "category_id": "practical_tips",
@@ -546,58 +558,53 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {
-          "kw_ar": true
-        },
+        "section_1_title": {},
         "section_1_text": {
           "kw_ar": true
         },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {
-          "kw_ar": true
-        },
-        "section_2_title": {
-          "kw_ar": true
-        },
-        "section_2_text": {
-          "kw_ar": true
-        },
+        "section_1_extra_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {
-          "kw_ar": true
-        },
-        "section_3_title": {
-          "kw_ar": true
-        },
-        "section_3_text": {
-          "kw_ar": true
-        },
+        "section_2_extra_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {
+        "section_3_extra_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_4_button_text": {
           "kw_ar": true
-        }
+        },
+        "section_4_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
-      "section_3_icon_asset": "images/icons/trophy_blue.png",
-      "section_1_title": "SEE IT",
+      "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "section_4_icon_asset": "images/icons/trophy_blue.png",
+      "section_1_title": "Notice",
       "section_1_text": "Be on the lookout for good behaviour! When offering praise, focus on anything positive or helpful your child does or attempts to do.",
       "section_1_button_text": "More tips",
-      "section_1_extra_text": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your child for *trying*. This boosts their self-esteem and confidence, which helps them to learn new behaviours.",
-      "section_2_title": "SAY IT",
-      "section_2_text": "Praise them when you see them do something you like. Do this every day – even if it’s something really small.",
+      "section_1_extra_text": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your children for trying, not just succeeding. This boosts their self-esteem and confidence, which helps them to learn new behaviours. \n\nPositive attention encourages positive behaviours.",
+      "section_2_title": "Say it",
+      "section_2_text": "Praise your child every day, even for small things.\n\nUse specific words that describe the behaviour you are praising.\n\nShare how you feel when you praise your child. \n\nGive your child your undivided attention when you are praising them.",
       "section_2_button_text": "More tips",
-      "section_2_extra_text": "Tell them specifically what they have done well.\n\nBe enthusiastic and really mean it!\n\nYou can show your praise with a big smile and words.",
-      "section_3_title": "REWARD IT",
-      "section_3_text": "Give your child a simple, free reward to encourage them to do more of the behaviours that you have praised them for.",
+      "section_2_extra_text": "Get down to your child’s level. Name your child when you speak to them. Look them in the eye. This way your child will know that you are talking to them and giving them praise.\n\nSmile at your child so that they know that they are pleasing you.\n\nPraise can be verbal and physical. Give your child a hug. It will make him or her feel good about him or herself.\n\nBe enthusiastic—show that you really mean it.\n\nPraise is good for you, your children, and your spouse.",
+      "section_3_title": "Praise and go!",
+      "section_3_text": "Give praise without criticism.\n\nGive praise immediately after you see good behaviour. This makes it more likely that this behaviour will happen again.\n\nGive praise for a specific thing that your child has done, or for a specific way your child has behaved. Tell them exactly what the behaviour is that they are being praised for.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "Rewards should be simple and free. \n\nGive your child a hug, extra playtime together, or make their favourite meal. \n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour.",
+      "section_3_extra_text": "For big behaviours, break them into smaller steps and praise each step. For example, praise for putting on socks, then shirt, then pants when learning to dress independently.\n\nPraise your child in front of other adults. They will know that you are proud of them and not ashamed to tell everyone.\n\nPraise builds confidence, strengthens relationships, and motivates good behaviour.",
+      "section_4_title": "Support praise with simple, free and healthy rewards",
+      "section_4_text": "Give your child a simple, free reward to encourage them to do more of the behaviours that you have praised them for, especially if they are difficult for them to do. \n\nRewards should be free and simple. They also should be healthy! For example, give your child a hug, extra playtime together, or make their favourite meal.\n\nMake sure you can follow through with your rewards. Keep them simple and realistic.",
+      "section_4_button_text": "More tips",
+      "section_4_extra_text": "Simple rewards can be a big motivation for your child to keep trying and show more positive behaviour.\n\nPraise and reward come after the behaviour, not before. \n\nReward yourself too—for your hard work as a parent!",
       "completed": false
     },
     {
