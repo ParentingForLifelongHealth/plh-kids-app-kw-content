@@ -328,7 +328,7 @@
           "eng": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times."
         },
         "quiz_2_option_3_text": {
-          "eng": "@data.characters.f2_grandfather quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her"
+          "eng": "@data.characters.f2_grandfather.name quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her"
         },
         "quiz_2_feedback_3": {
           "eng": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times."
@@ -405,7 +405,7 @@
       "quiz_2_feedback_1": "Incorrect. Looking directly at @data.characters.f2_daughter_3.name would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3.name, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
       "quiz_2_option_2_text": "They turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
       "quiz_2_feedback_2": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
-      "quiz_2_option_3_text": "@data.characters.f2_grandfather quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her",
+      "quiz_2_option_3_text": "@data.characters.f2_grandfather.name quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her",
       "quiz_2_feedback_3": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
       "quiz_2_option_4_text": "They leave the room to ignore her completely.",
       "quiz_2_feedback_4": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
@@ -425,7 +425,7 @@
           "eng": ""
         },
         "quiz_1_question": {
-          "eng": "What does the @data.characters.f2_grandfather do when @data.characters.f2_daughter_3.name’s tantrum is over?"
+          "eng": "What does the @data.characters.f2_grandfather.name do when @data.characters.f2_daughter_3.name’s tantrum is over?"
         },
         "quiz_1_option_1_text": {
           "eng": "He praises her for sitting quietly"
@@ -460,7 +460,7 @@
       },
       "quiz_1_feedback_2": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
       "quiz_1_feedback_3": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3.name positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see.",
-      "quiz_1_question": "What does the @data.characters.f2_grandfather do when @data.characters.f2_daughter_3.name’s tantrum is over?",
+      "quiz_1_question": "What does the @data.characters.f2_grandfather.name do when @data.characters.f2_daughter_3.name’s tantrum is over?",
       "quiz_1_option_1_text": "He praises her for sitting quietly",
       "quiz_1_option_2_text": "He tells her that she needs to apologise for the tantrum before having dessert.",
       "quiz_1_option_3_text": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name",
