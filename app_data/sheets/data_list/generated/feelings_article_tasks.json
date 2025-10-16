@@ -468,7 +468,13 @@
           "eng": "Notice Feelings"
         },
         "section_1_text": {
-          "eng": "Feelings are connected to thoughts and physical sensations.\n\nNotice when your child is feeling good and when they are feeling bad.\n\nRecognise both positive and difficult emotions.\n\nTo recognise, pay attention to your thoughts and to your and your child’s words and actions."
+          "eng": "Feelings are connected to thoughts and physical sensations."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Notice when your child is feeling good and when they are feeling bad.\n\nRecognise both positive and difficult emotions.\n\nTo recognise, pay attention to your thoughts and to your and your child’s words and actions."
         },
         "section_2_title": {
           "eng": "Accept Feelings"
@@ -486,23 +492,40 @@
           "eng": "Talk about your feelings"
         },
         "section_3_text": {
-          "eng": "Get down to your child’s level when talking about feelings.\n\nUse physical and verbal support to make your child feel accepted and loved.\n\nCommenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n\nUse words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n\nDescribe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”"
+          "eng": "Get down to your child’s level when talking about feelings.\n\nUse physical and verbal support to make your child feel accepted and loved."
         },
         "section_3_button_text": {
-          "eng": "More tips"
+          "eng": "Learn more"
         },
         "section_3_extra_text": {
-          "eng": "Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”\n\nWhen you share your own feelings with your child, you help your child recognise his/her own emotions. \n\nBy sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n\nModel the behaviour you want to see in your child."
+          "eng": "Commenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n\nUse words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n\nDescribe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”"
+        },
+        "section_4_title": {
+          "eng": "Share your feelings"
+        },
+        "section_4_text": {
+          "eng": "When you share your own feelings with your child, you help your child recognise his/her own emotions."
+        },
+        "section_4_button_text": {
+          "eng": "Learn more"
+        },
+        "section_4_extra_text": {
+          "eng": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n\nModel the behaviour you want to see in your child."
         }
       },
       "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "section_1_title": "Notice Feelings",
       "_translations": {
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
         "section_2_button_text": {},
@@ -512,17 +535,29 @@
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {}
       },
-      "section_1_text": "Feelings are connected to thoughts and physical sensations.\n\nNotice when your child is feeling good and when they are feeling bad.\n\nRecognise both positive and difficult emotions.\n\nTo recognise, pay attention to your thoughts and to your and your child’s words and actions.",
+      "section_1_text": "Feelings are connected to thoughts and physical sensations.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Notice when your child is feeling good and when they are feeling bad.\n\nRecognise both positive and difficult emotions.\n\nTo recognise, pay attention to your thoughts and to your and your child’s words and actions.",
       "section_2_title": "Accept Feelings",
       "section_2_text": "Be open to how you and your child feel. Accept both negative and positive emotions. All feelings are okay.\n\nAcknowledge your child’s feelings – even the difficult ones.\n\nIt is okay for you to also feel difficult emotions about the same issues.",
       "section_2_button_text": "Six basic emotions",
       "section_2_extra_text": "The six basic emotions each have a message:\n\n😊 Happy → Keep doing what makes you feel good.\n\n☹️ Sad → Something important needs attention.\n\n😠 Angry → Stand up for yourself and set limits.\n\n🤢 Disgusted → Move away from something you don’t like.\n\n😯 Surprised → Stop and pay attention.\n\n😨 Afraid → Run away from danger.\n\nAs children get older, they also learn about other emotions such as excitement, frustration, pride, loneliness, peace, guilt, or confusion.",
       "section_3_title": "Talk about your feelings",
-      "section_3_text": "Get down to your child’s level when talking about feelings.\n\nUse physical and verbal support to make your child feel accepted and loved.\n\nCommenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n\nUse words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n\nDescribe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”",
-      "section_3_button_text": "More tips",
-      "section_3_extra_text": "Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”\n\nWhen you share your own feelings with your child, you help your child recognise his/her own emotions. \n\nBy sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n\nModel the behaviour you want to see in your child.",
+      "section_3_text": "Get down to your child’s level when talking about feelings.\n\nUse physical and verbal support to make your child feel accepted and loved.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Commenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n\nUse words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n\nDescribe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”Share your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”",
+      "section_4_title": "Share your feelings",
+      "section_4_text": "When you share your own feelings with your child, you help your child recognise his/her own emotions.",
+      "section_4_button_text": "Learn more",
+      "section_4_extra_text": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n\nModel the behaviour you want to see in your child.",
       "completed": false
     },
     {
@@ -545,6 +580,9 @@
         },
         "quiz_1_feedback_2": {
           "eng": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!"
+        },
+        "section_4_extra_text": {
+          "eng": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too."
         }
       },
       "category_id": "practise",
@@ -567,13 +605,15 @@
         },
         "text_1_facilitator": {
           "kw_ar": true
-        }
+        },
+        "section_4_extra_text": {}
       },
       "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
       "quiz_1_question": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?",
       "quiz_1_option_1_text": "Tie his shoes for him and get out the door. We are late!",
       "quiz_1_option_2_text": "Understand that her son is feeling frustrated. Sit down and help him name his feelings.",
       "text_1_facilitator": "Let’s put the tips you have learnt in action:",
+      "section_4_extra_text": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too.",
       "completed": false
     },
     {

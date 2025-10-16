@@ -142,7 +142,7 @@
       "task_child": "rulesroutines_article_tasks"
     },
     {
-      "id": "challengingbehaviours",
+      "id": "chalbehaviours",
       "number": 8,
       "image_asset": "images/challenging_behaviour_yc.svg",
       "relax_id": "relax_1",
@@ -157,7 +157,7 @@
         }
       },
       "completed": false,
-      "task_child": "challengingbehaviours_article_tasks"
+      "task_child": "chalbehaviours_article_tasks"
     },
     {
       "id": "consequences",

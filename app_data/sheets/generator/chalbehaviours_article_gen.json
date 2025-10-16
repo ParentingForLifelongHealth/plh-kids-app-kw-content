@@ -1,14 +1,14 @@
 {
   "flow_type": "generator",
-  "flow_name": "challengingbehaviours_article_g",
+  "flow_name": "chalbehaviours_article_gen",
   "status": "released",
   "parameter_list": {
-    "input_data_list": "challengingbehaviours_articles",
-    "output_flow_name": "article_challengingbehaviours_@gen.id",
+    "input_data_list": "chalbehaviours_articles",
+    "output_flow_name": "article_chalbehaviours_@gen.id",
     "output_flow_type": "template",
     "output_flow_subtype": "generated"
   },
-  "module_id": "challengingbehaviours",
+  "module_id": "chalbehaviours",
   "rows": [
     {
       "type": "template",
@@ -41,7 +41,7 @@
         },
         {
           "name": "module_id",
-          "value": "challengingbehaviours",
+          "value": "chalbehaviours",
           "exclude_from_translation": true
         }
       ]
@@ -51,57 +51,57 @@
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
   "_output_flows": [
     {
-      "flow_name": "article_challengingbehaviours_intro_1",
+      "flow_name": "article_chalbehaviours_intro_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_intro_2",
+      "flow_name": "article_chalbehaviours_intro_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_1",
+      "flow_name": "article_chalbehaviours_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_2",
+      "flow_name": "article_chalbehaviours_explore_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_3",
+      "flow_name": "article_chalbehaviours_explore_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_4",
+      "flow_name": "article_chalbehaviours_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_5",
+      "flow_name": "article_chalbehaviours_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_7",
+      "flow_name": "article_chalbehaviours_explore_7",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_explore_8",
+      "flow_name": "article_chalbehaviours_explore_8",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_tips_1",
+      "flow_name": "article_chalbehaviours_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_challengingbehaviours_home_activity_1",
+      "flow_name": "article_chalbehaviours_home_activity_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

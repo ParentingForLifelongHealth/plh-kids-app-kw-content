@@ -93,7 +93,7 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_challengingbehaviours_articles",
+      "flow_name": "prep_chalbehaviours_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

@@ -649,6 +649,10 @@
         "text_1_facilitator": {},
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
         "section_2_button_text": {
@@ -670,7 +674,13 @@
           "eng": "Be a team"
         },
         "section_1_text": {
-          "eng": "Involve your child in making rules—they are more likely to follow them.\n\nMake sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet."
+          "eng": "Involve your child in making rules—they are more likely to follow them."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Make sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet."
         },
         "section_2_title": {
           "eng": "Be realistic"
@@ -688,24 +698,26 @@
           "eng": "Be consistent"
         },
         "section_3_text": {
-          "eng": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child."
+          "eng": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine. Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child."
         },
         "section_3_button_text": {
-          "eng": "More tips"
+          "eng": "Learn more"
         },
         "section_3_extra_text": {
           "eng": "Get help from your spouse or family when needed.\n\nCreate a calm environment for your child during routines, especially bedtime.\n\nOver time, your child will follow routines more independently."
         }
       },
       "section_1_title": "Be a team",
-      "section_1_text": "Involve your child in making rules—they are more likely to follow them.\n\nMake sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet.",
+      "section_1_text": "Involve your child in making rules—they are more likely to follow them.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Make sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet.",
       "section_2_title": "Be realistic",
       "section_2_text": "Make rules and routines positive, specific, and realistic. Example: instead of “Clean up” say “Pick up all of your building blocks.”\n\nConsider your child’s age and abilities—make sure they can actually do what you ask.\n\nTeach your child how to follow daily routines by breaking them down into small steps.",
       "section_2_button_text": "Learn more",
       "section_2_extra_text": "Routines can be short (washing hands before dinner) or longer (bedtime routine).\n\nOnly introduce one new rule or routine at a time.\n\nWhen following a routine, give one instruction at a time. \n\nKeep them simple!\n\nMake sure your child follows through with each instruction.\n\nPraise your child immediately after following your instructions.",
       "section_3_title": "Be consistent",
-      "section_3_text": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine.: Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child.",
-      "section_3_button_text": "More tips",
+      "section_3_text": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine. Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child.",
+      "section_3_button_text": "Learn more",
       "section_3_extra_text": "Get help from your spouse or family when needed.\n\nCreate a calm environment for your child during routines, especially bedtime.\n\nOver time, your child will follow routines more independently."
     },
     {
@@ -740,15 +752,11 @@
           "kw_ar": true
         },
         "section_3_title": {},
-        "section_3_text": {
-          "kw_ar": true
-        },
+        "section_3_text": {},
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {
-          "kw_ar": true
-        }
+        "section_3_extra_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -782,13 +790,13 @@
           "eng": "Spend time with your child"
         },
         "section_3_text": {
-          "eng": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!"
+          "eng": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\n\nUse simple language they understand!"
         },
         "section_3_button_text": {
           "eng": "Learn more"
         },
         "section_3_extra_text": {
-          "eng": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages."
+          "eng": "Explore websites, social media, games, and apps together [Common Sense Media](https://www.commonsensemedia.org/app-reviews) has great advice for apps, games and entertainment for different ages."
         }
       },
       "section_1_title": "Fix your tech",
@@ -800,9 +808,9 @@
       "section_2_button_text": "Learn more",
       "section_2_extra_text": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
       "section_3_title": "Spend time with your child",
-      "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\nUse simple language they understand!",
+      "section_3_text": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\n\nUse simple language they understand!",
       "section_3_button_text": "Learn more",
-      "section_3_extra_text": "Explore websites, social media, games, and apps together \n\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews)\nhas great advice for apps,\ngames and entertainment for\ndifferent ages."
+      "section_3_extra_text": "Explore websites, social media, games, and apps together [Common Sense Media](https://www.commonsensemedia.org/app-reviews) has great advice for apps, games and entertainment for different ages."
     },
     {
       "id": "practise",

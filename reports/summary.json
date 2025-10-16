@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1207
+        "count": 1208
       },
       {
         "type": "simple_checkbox",
@@ -127,7 +127,7 @@
       },
       {
         "type": "template",
-        "count": 361
+        "count": 362
       },
       {
         "type": "text",
@@ -179,7 +179,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 257
+        "count": 258
       },
       {
         "type": "emit: force_reload",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 253
+        "count": 254
       },
       {
         "type": "feedback",
@@ -1383,7 +1383,7 @@
       },
       {
         "path": "images/icons/question_blue.png",
-        "count": 8,
+        "count": 10,
         "size_kb": 3.4
       },
       {
@@ -1423,7 +1423,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 14,
+        "count": 16,
         "size_kb": 5.1
       },
       {
@@ -1693,7 +1693,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 76
+        "total": 77
       },
       {
         "type": "template",
