@@ -476,31 +476,61 @@
           "eng": "Stay calm"
         },
         "section_1_text": {
-          "eng": "Take a short pause (even a breath)\n\nGet your child’s attention. Go down to his/her level.\n\nHelp your child calm down by taking a deep breath."
+          "eng": "Take a short pause (even a breath)"
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Get your child’s attention. Go down to his/her level.\n\nHelp your child calm down by taking a deep breath."
         },
         "section_2_title": {
           "eng": "Know it"
         },
         "section_2_text": {
-          "eng": "Put the problem into words. Talk to your child about what the problem is. \n\nFor example, \"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"\n\nConsider the developmental level of your child and what your child can physically do and understand."
+          "eng": "Put the problem into words. Talk to your child about what the problem is."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "For example, \"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"\n\nConsider the developmental level of your child and what your child can physically do and understand."
         },
         "section_3_title": {
           "eng": "Solve it"
         },
         "section_3_text": {
-          "eng": "Together, think of possible solutions to this problem. \n\nWhat could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\""
+          "eng": "Together, think of possible solutions to this problem."
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\""
         },
         "section_4_title": {
           "eng": "Try it"
         },
         "section_4_text": {
-          "eng": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying! \n\nFor example, the next day after the room has been tidied up by the children...\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\" \"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\""
+          "eng": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!"
+        },
+        "section_4_button_text": {
+          "eng": "Learn more"
+        },
+        "section_4_extra_text": {
+          "eng": "For example, the next day after the room has been tidied up by the children...\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\" \"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\""
         },
         "section_5_title": {
           "eng": "Reflect"
         },
         "section_5_text": {
-          "eng": "After you’ve tried it, decide with your child whether or not your solution worked. \n\nFor example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
+          "eng": "After you’ve tried it, decide with your child whether or not your solution worked."
+        },
+        "section_5_button_text": {
+          "eng": "Learn more"
+        },
+        "section_5_extra_text": {
+          "eng": "For example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
         }
       },
       "category_id": "practise",
@@ -538,14 +568,38 @@
         },
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {},
         "section_4_title": {},
-        "section_4_text": {},
+        "section_4_text": {
+          "kw_ar": true
+        },
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {},
         "section_5_title": {},
-        "section_5_text": {}
+        "section_5_text": {
+          "kw_ar": true
+        },
+        "section_5_button_text": {
+          "kw_ar": true
+        },
+        "section_5_extra_text": {}
       },
       "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
@@ -562,15 +616,25 @@
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_1_title": "Stay calm",
-      "section_1_text": "Take a short pause (even a breath)\n\nGet your child’s attention. Go down to his/her level.\n\nHelp your child calm down by taking a deep breath.",
+      "section_1_text": "Take a short pause (even a breath)",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Get your child’s attention. Go down to his/her level.\n\nHelp your child calm down by taking a deep breath.",
       "section_2_title": "Know it",
-      "section_2_text": "Put the problem into words. Talk to your child about what the problem is. \n\nFor example, \"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"\n\nConsider the developmental level of your child and what your child can physically do and understand.",
+      "section_2_text": "Put the problem into words. Talk to your child about what the problem is.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "For example, \"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"\n\nConsider the developmental level of your child and what your child can physically do and understand.",
       "section_3_title": "Solve it",
-      "section_3_text": "Together, think of possible solutions to this problem. \n\nWhat could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
+      "section_3_text": "Together, think of possible solutions to this problem.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
       "section_4_title": "Try it",
-      "section_4_text": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying! \n\nFor example, the next day after the room has been tidied up by the children...\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\" \"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\"",
+      "section_4_text": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!",
+      "section_4_button_text": "Learn more",
+      "section_4_extra_text": "For example, the next day after the room has been tidied up by the children...\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\" \"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\"",
       "section_5_title": "Reflect",
-      "section_5_text": "After you’ve tried it, decide with your child whether or not your solution worked. \n\nFor example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
+      "section_5_text": "After you’ve tried it, decide with your child whether or not your solution worked.",
+      "section_5_button_text": "Learn more",
+      "section_5_extra_text": "For example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
       "completed": false
     },
     {

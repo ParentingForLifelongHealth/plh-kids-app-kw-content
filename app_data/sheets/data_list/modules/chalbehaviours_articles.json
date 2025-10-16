@@ -1,7 +1,7 @@
 {
   "flow_type": "data_list",
-  "flow_name": "challengingbehaviours_articles",
-  "data_list_name": "challengingbehaviours_articles",
+  "flow_name": "chalbehaviours_articles",
+  "data_list_name": "chalbehaviours_articles",
   "status": "released",
   "flow_subtype": "modules",
   "rows": [
@@ -22,7 +22,6 @@
     {
       "id": "intro_2",
       "category_id": "intro",
-      "media_type": "audio",
       "text_1_facilitator": "One effective strategy is learning how to manage these difficult behaviours in the right way. \n\nWe can do this by choosing not to give attention to the behaviours we don’t want to see. \n\nWhen we stop reacting to things like whining or tantrums, our children learn that these actions won’t get them the attention they’re seeking.\n\nInstead, we can focus on giving our children plenty of positive attention when they behave well.",
       "_translations": {
         "text_1_facilitator": {}
@@ -39,7 +38,7 @@
       "image_asset": "images/comics/ignore_yc_7.svg",
       "character_1_id": "f2_daughter_3",
       "character_2_id": "f2_grandfather",
-      "text_1_facilitator": "@data.characters.f2_daughter_3 and her family are having lunch together :",
+      "text_1_facilitator": "@data.characters.f2_daughter_3.name and her family are having lunch together:",
       "_translations": {
         "text_1_facilitator": {},
         "character_1_text": {},
@@ -47,7 +46,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_daughter_3 and her family are having lunch together :"
+          "eng": "@data.characters.f2_daughter_3.name and her family are having lunch together:"
         },
         "character_1_text": {
           "eng": "I want more juice"
@@ -105,14 +104,14 @@
           "eng": "Here we go... just take a deep breath."
         },
         "character_3_text": {
-          "eng": "@data.characters.f2_son_8.name, please fetch the cookies from the counter"
+          "eng": "@data.characters.f2_son_8.name, please fetch the cookies from the counter."
         },
         "character_4_text": {
           "eng": "Okay"
         }
       },
       "character_2_text": "Here we go... just take a deep breath.",
-      "character_3_text": "@data.characters.f2_son_8.name, please fetch the cookies from the counter",
+      "character_3_text": "@data.characters.f2_son_8.name, please fetch the cookies from the counter.",
       "character_4_text": "Okay"
     },
     {
@@ -121,14 +120,14 @@
       "image_asset": "images/comics/ignore_yc_10.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_3",
-      "character_1_text": "@data.characters.f2_son_8, it is so nice to see you helping out in the house.",
+      "character_1_text": "@data.characters.f2_son_8.name, it is so nice to see you helping out in the house.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f2_son_8, it is so nice to see you helping out in the house."
+          "eng": "@data.characters.f2_son_8.name, it is so nice to see you helping out in the house."
         },
         "character_2_text": {
           "eng": "Waaaaaaaa! Waaaaaaaa! WAAAAAA!"
@@ -142,14 +141,14 @@
       "image_asset": "images/comics/ignore_yc_11.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_daughter_3",
-      "character_1_text": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3. Here, have some delicious cookies with us.",
+      "character_1_text": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3.name. Here, have some delicious cookies with us.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3. Here, have some delicious cookies with us."
+          "eng": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3.name. Here, have some delicious cookies with us."
         },
         "character_2_text": {
           "eng": "Thanks!"
@@ -160,7 +159,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "text_1_facilitator": "@data.characters.f2_daughter_3’s grandparents managed her difficult behaviour. Let’s explore how they did this.",
+      "text_1_facilitator": "@data.characters.f2_daughter_3.name’s grandparents managed her difficult behaviour. Let’s explore how they did this.",
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
@@ -191,64 +190,64 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_daughter_3’s grandparents managed her difficult behaviour. Let’s explore how they did this."
+          "eng": "@data.characters.f2_daughter_3.name’s grandparents managed her difficult behaviour. Let’s explore how they did this."
         },
         "quiz_1_question": {
-          "eng": "What did the grandparents do when @data.characters.f2_daughter_3 demanded more juice?"
+          "eng": "What did the grandparents do when @data.characters.f2_daughter_3.name demanded more juice?"
         },
         "quiz_1_option_1_text": {
-          "eng": "The grandparents ignored @data.characters.f2_daughter_3’s whining and focused on giving positive attention to @data.characters.f2_son_8"
+          "eng": "The grandparents ignored @data.characters.f2_daughter_3.name’s whining and focused on giving positive attention to @data.characters.f2_son_8.name"
         },
         "quiz_1_feedback_1": {
-          "eng": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3’s demanding behaviour and instead praised @data.characters.f2_son_8 for his positive actions."
+          "eng": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and instead praised @data.characters.f2_son_8.name for his positive actions."
         },
         "quiz_1_option_2_text": {
-          "eng": "The grandparents scolded @data.characters.f2_daughter_3 and told her to stop whining."
+          "eng": "The grandparents scolded @data.characters.f2_daughter_3.name and told her to stop whining."
         },
         "quiz_1_feedback_2": {
-          "eng": "Incorrect. Scolding @data.characters.f2_daughter_3 would have given her negative attention, reinforcing her behaviour and making the situation worse. \n\nInstead the grandparents removed their attention from @data.characters.f2_daughter_3’s demanding behaviour and gave positive attention to @data.characters.f2_son_8 instead."
+          "eng": "Incorrect. Scolding @data.characters.f2_daughter_3.name would have given her negative attention, reinforcing her behaviour and making the situation worse. \n\nInstead the grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and gave positive attention to @data.characters.f2_son_8.name instead."
         },
         "quiz_1_option_3_text": {
-          "eng": "The grandparents immediately gave @data.characters.f2_daughter_3 more juice to stop her whining."
+          "eng": "The grandparents immediately gave @data.characters.f2_daughter_3.name more juice to stop her whining."
         },
         "quiz_1_feedback_3": {
-          "eng": "Incorrect. Giving @data.characters.f2_daughter_3 more juice would have rewarded her demanding behaviour, teaching her that whining gets results. \n\nInstead, the grandparents ignored her demanding behaviour and praised @data.characters.f2_son_8’s positive behaviour."
+          "eng": "Incorrect. Giving @data.characters.f2_daughter_3.name more juice would have rewarded her demanding behaviour, teaching her that whining gets results. \n\nInstead, the grandparents ignored her demanding behaviour and praised @data.characters.f2_son_8.name’s positive behaviour."
         },
         "quiz_1_option_4_text": {
-          "eng": "The grandparents left the room to avoid hearing @data.characters.f2_daughter_3’s whining."
+          "eng": "The grandparents left the room to avoid hearing @data.characters.f2_daughter_3.name’s whining."
         },
         "quiz_1_feedback_4": {
-          "eng": "Incorrect. Leaving the room could have made @data.characters.f2_daughter_3 feel neglected and unsafe. The grandparents stayed present but chose to ignore the whining behaviour while praising @data.characters.f2_son_8."
+          "eng": "Incorrect. Leaving the room could have made @data.characters.f2_daughter_3.name feel neglected and unsafe. The grandparents stayed present but chose to ignore the whining behaviour while praising @data.characters.f2_son_8.name."
         },
         "quiz_2_question": {
-          "eng": "How do the grandparents ignore @data.characters.f2_daughter_3’s behaviour?"
+          "eng": "How do the grandparents ignore @data.characters.f2_daughter_3.name’s behaviour?"
         },
         "quiz_2_option_1_text": {
-          "eng": "They look directly at @data.characters.f2_daughter_3 but stayed silent."
+          "eng": "They look directly at @data.characters.f2_daughter_3.name but stayed silent."
         },
         "quiz_2_feedback_1": {
-          "eng": "Incorrect. Looking directly at @data.characters.f2_daughter_3 would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3 at all times."
+          "eng": "Incorrect. Looking directly at @data.characters.f2_daughter_3.name would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3.name, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times."
         },
         "quiz_2_option_2_text": {
-          "eng": "They turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her."
+          "eng": "They turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her."
         },
         "quiz_2_feedback_2": {
-          "eng": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3 at all times."
+          "eng": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times."
         },
         "quiz_2_option_3_text": {
-          "eng": "@data.characters.f2_grandfather quietly asks @data.characters.f2_daughter_3 to stop whining but does not yell at her"
+          "eng": "@data.characters.f2_grandfather.name quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her"
         },
         "quiz_2_feedback_3": {
-          "eng": "Incorrect. Even quietly asking @data.characters.f2_daughter_3 to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3 at all times."
+          "eng": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times."
         },
         "quiz_2_option_4_text": {
           "eng": "They leave the room to ignore her completely."
         },
         "quiz_2_feedback_4": {
-          "eng": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her."
+          "eng": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her."
         },
         "quiz_3_question": {
-          "eng": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3’s difficult behaviour?"
+          "eng": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3.name’s difficult behaviour?"
         },
         "quiz_3_option_1_text": {
           "eng": "Because it will make her feel unloved and teach her a lesson"
@@ -260,7 +259,7 @@
           "eng": "Because if they give her attention, she will learn that she gets attention only when she increases her demands."
         },
         "quiz_3_feedback_2": {
-          "eng": "Correct! Giving attention to @data.characters.f2_daughter_3’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants."
+          "eng": "Correct! Giving attention to @data.characters.f2_daughter_3.name’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants."
         },
         "quiz_3_option_3_text": {
           "eng": "Because not giving attention to her behaviour will make her stop immediately and never act out again."
@@ -269,29 +268,29 @@
           "eng": "Incorrect. Not giving attention to negative behaviour may not stop the behaviour immediately. \n\nSometimes when parents begin to ignore a specific difficult behaviour, that behaviour might get worse for a while. \n\nAfter a short while, however, the behaviour will start to decrease, especially if parents are giving their children other positive ways of getting attention. \n\nThe key is consistency, so the child learns over time that demands and tantrums will not be rewarded"
         }
       },
-      "quiz_1_question": "What did the grandparents do when @data.characters.f2_daughter_3 demanded more juice?",
-      "quiz_1_option_1_text": "The grandparents ignored @data.characters.f2_daughter_3’s whining and focused on giving positive attention to @data.characters.f2_son_8",
-      "quiz_1_feedback_1": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3’s demanding behaviour and instead praised @data.characters.f2_son_8 for his positive actions.",
-      "quiz_1_option_2_text": "The grandparents scolded @data.characters.f2_daughter_3 and told her to stop whining.",
-      "quiz_1_feedback_2": "Incorrect. Scolding @data.characters.f2_daughter_3 would have given her negative attention, reinforcing her behaviour and making the situation worse. \n\nInstead the grandparents removed their attention from @data.characters.f2_daughter_3’s demanding behaviour and gave positive attention to @data.characters.f2_son_8 instead.",
-      "quiz_1_option_3_text": "The grandparents immediately gave @data.characters.f2_daughter_3 more juice to stop her whining.",
-      "quiz_1_feedback_3": "Incorrect. Giving @data.characters.f2_daughter_3 more juice would have rewarded her demanding behaviour, teaching her that whining gets results. \n\nInstead, the grandparents ignored her demanding behaviour and praised @data.characters.f2_son_8’s positive behaviour.",
-      "quiz_1_option_4_text": "The grandparents left the room to avoid hearing @data.characters.f2_daughter_3’s whining.",
-      "quiz_1_feedback_4": "Incorrect. Leaving the room could have made @data.characters.f2_daughter_3 feel neglected and unsafe. The grandparents stayed present but chose to ignore the whining behaviour while praising @data.characters.f2_son_8.",
-      "quiz_2_question": "How do the grandparents ignore @data.characters.f2_daughter_3’s behaviour?",
-      "quiz_2_option_1_text": "They look directly at @data.characters.f2_daughter_3 but stayed silent.",
-      "quiz_2_feedback_1": "Incorrect. Looking directly at @data.characters.f2_daughter_3 would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3 at all times.",
-      "quiz_2_option_2_text": "They turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her.",
-      "quiz_2_feedback_2": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3 at all times.",
-      "quiz_2_option_3_text": "@data.characters.f2_grandfather quietly asks @data.characters.f2_daughter_3 to stop whining but does not yell at her",
-      "quiz_2_feedback_3": "Incorrect. Even quietly asking @data.characters.f2_daughter_3 to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3 at all times.",
+      "quiz_1_question": "What did the grandparents do when @data.characters.f2_daughter_3.name demanded more juice?",
+      "quiz_1_option_1_text": "The grandparents ignored @data.characters.f2_daughter_3.name’s whining and focused on giving positive attention to @data.characters.f2_son_8.name",
+      "quiz_1_feedback_1": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and instead praised @data.characters.f2_son_8.name for his positive actions.",
+      "quiz_1_option_2_text": "The grandparents scolded @data.characters.f2_daughter_3.name and told her to stop whining.",
+      "quiz_1_feedback_2": "Incorrect. Scolding @data.characters.f2_daughter_3.name would have given her negative attention, reinforcing her behaviour and making the situation worse. \n\nInstead the grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and gave positive attention to @data.characters.f2_son_8.name instead.",
+      "quiz_1_option_3_text": "The grandparents immediately gave @data.characters.f2_daughter_3.name more juice to stop her whining.",
+      "quiz_1_feedback_3": "Incorrect. Giving @data.characters.f2_daughter_3.name more juice would have rewarded her demanding behaviour, teaching her that whining gets results. \n\nInstead, the grandparents ignored her demanding behaviour and praised @data.characters.f2_son_8.name’s positive behaviour.",
+      "quiz_1_option_4_text": "The grandparents left the room to avoid hearing @data.characters.f2_daughter_3.name’s whining.",
+      "quiz_1_feedback_4": "Incorrect. Leaving the room could have made @data.characters.f2_daughter_3.name feel neglected and unsafe. The grandparents stayed present but chose to ignore the whining behaviour while praising @data.characters.f2_son_8.name.",
+      "quiz_2_question": "How do the grandparents ignore @data.characters.f2_daughter_3.name’s behaviour?",
+      "quiz_2_option_1_text": "They look directly at @data.characters.f2_daughter_3.name but stayed silent.",
+      "quiz_2_feedback_1": "Incorrect. Looking directly at @data.characters.f2_daughter_3.name would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3.name, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
+      "quiz_2_option_2_text": "They turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
+      "quiz_2_feedback_2": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
+      "quiz_2_option_3_text": "@data.characters.f2_grandfather.name quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her",
+      "quiz_2_feedback_3": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
       "quiz_2_option_4_text": "They leave the room to ignore her completely.",
-      "quiz_2_feedback_4": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3, avoid eye contact, and do not speak to her.",
-      "quiz_3_question": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3’s difficult behaviour?",
+      "quiz_2_feedback_4": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
+      "quiz_3_question": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3.name’s difficult behaviour?",
       "quiz_3_option_1_text": "Because it will make her feel unloved and teach her a lesson",
       "quiz_3_feedback_1": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you  avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours.",
       "quiz_3_option_2_text": "Because if they give her attention, she will learn that she gets attention only when she increases her demands.",
-      "quiz_3_feedback_2": "Correct! Giving attention to @data.characters.f2_daughter_3’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants.",
+      "quiz_3_feedback_2": "Correct! Giving attention to @data.characters.f2_daughter_3.name’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants.",
       "quiz_3_option_3_text": "Because not giving attention to her behaviour will make her stop immediately and never act out again.",
       "quiz_3_feedback_3": "Incorrect. Not giving attention to negative behaviour may not stop the behaviour immediately. \n\nSometimes when parents begin to ignore a specific difficult behaviour, that behaviour might get worse for a while. \n\nAfter a short while, however, the behaviour will start to decrease, especially if parents are giving their children other positive ways of getting attention. \n\nThe key is consistency, so the child learns over time that demands and tantrums will not be rewarded"
     },
@@ -314,34 +313,34 @@
           "eng": ""
         },
         "quiz_1_question": {
-          "eng": "What does the @data.characters.f2_grandfather do when @data.characters.f2_daughter_3’s tantrum is over?"
+          "eng": "What does the @data.characters.f2_grandfather.name do when @data.characters.f2_daughter_3.name’s tantrum is over?"
         },
         "quiz_1_option_1_text": {
           "eng": "He praises her for sitting quietly"
         },
         "quiz_1_feedback_1": {
-          "eng": "Correct! Praising @data.characters.f2_daughter_3 for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3 some comfort after a difficult experience."
+          "eng": "Correct! Praising @data.characters.f2_daughter_3.name for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3.name some comfort after a difficult experience."
         },
         "quiz_1_option_2_text": {
           "eng": "He tells her that she needs to apologise for the tantrum before having dessert."
         },
         "quiz_1_feedback_2": {
-          "eng": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3 of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together."
+          "eng": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together."
         },
         "quiz_1_option_3_text": {
-          "eng": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8"
+          "eng": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name"
         },
         "quiz_1_feedback_3": {
-          "eng": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3 positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see."
+          "eng": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3.name positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see."
         }
       },
-      "quiz_1_question": "What does the @data.characters.f2_grandfather do when @data.characters.f2_daughter_3’s tantrum is over?",
+      "quiz_1_question": "What does the @data.characters.f2_grandfather.name do when @data.characters.f2_daughter_3.name’s tantrum is over?",
       "quiz_1_option_1_text": "He praises her for sitting quietly",
-      "quiz_1_feedback_1": "Correct! Praising @data.characters.f2_daughter_3 for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3 some comfort after a difficult experience.",
+      "quiz_1_feedback_1": "Correct! Praising @data.characters.f2_daughter_3.name for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3.name some comfort after a difficult experience.",
       "quiz_1_option_2_text": "He tells her that she needs to apologise for the tantrum before having dessert.",
-      "quiz_1_feedback_2": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3 of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
-      "quiz_1_option_3_text": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8",
-      "quiz_1_feedback_3": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3 positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see."
+      "quiz_1_feedback_2": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
+      "quiz_1_option_3_text": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name",
+      "quiz_1_feedback_3": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3.name positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see."
     },
     {
       "id": "tips_1",
@@ -355,8 +354,16 @@
         "text_1_facilitator": {},
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {},
         "section_3_button_text": {
@@ -364,7 +371,11 @@
         },
         "section_3_extra_text": {},
         "section_4_title": {},
-        "section_4_text": {}
+        "section_4_text": {},
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -374,13 +385,25 @@
           "eng": "Pay attention"
         },
         "section_1_text": {
-          "eng": "Notice when your child wants or needs positive attention.\n\nListen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of."
+          "eng": "Notice when your child wants or needs positive attention."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Listen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of."
         },
         "section_2_title": {
           "eng": "Redirect first"
         },
         "section_2_text": {
-          "eng": "Try to redirect or distract your child before ignoring.\n\nRedirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise."
+          "eng": "Try to redirect or distract your child before ignoring."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "Redirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise."
         },
         "section_3_title": {
           "eng": "How to ignore"
@@ -398,19 +421,31 @@
           "eng": "Be prepared"
         },
         "section_4_text": {
-          "eng": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).\n\nBe consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
+          "eng": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away)."
+        },
+        "section_4_button_text": {
+          "eng": "Learn more"
+        },
+        "section_4_extra_text": {
+          "eng": "Be consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
         }
       },
       "section_1_title": "Pay attention",
-      "section_1_text": "Notice when your child wants or needs positive attention.\n\nListen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.",
+      "section_1_text": "Notice when your child wants or needs positive attention.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Listen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.",
       "section_2_title": "Redirect first",
-      "section_2_text": "Try to redirect or distract your child before ignoring.\n\nRedirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise.",
+      "section_2_text": "Try to redirect or distract your child before ignoring.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Redirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise.",
       "section_3_title": "How to ignore",
       "section_3_text": "Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n\nIgnoring behaviour is sometimes the best response to difficult behaviour.\n\nIgnore means no eye contact, no physical contact, and no verbal contact.\n\nIgnore only the behaviour, not the child.",
       "section_3_button_text": "Learn more",
       "section_3_extra_text": "Do not ignore aggressive or dangerous behaviours that risk safety.\n\nIgnoring is a group effort. Everyone in the family must join in.\n\nIgnore works better for children ages 4 and older; Redirect younger children\n\nAs soon as the negative behaviour ends, praise the next positive behaviour immediately.",
       "section_4_title": "Be prepared",
-      "section_4_text": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).\n\nBe consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
+      "section_4_text": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).",
+      "section_4_button_text": "Learn more",
+      "section_4_extra_text": "Be consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring."
     },
     {
       "id": "home_activity_1",

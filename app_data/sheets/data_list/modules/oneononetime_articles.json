@@ -356,10 +356,22 @@
         "section_1_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {},
         "section_4_title": {},
         "section_4_text": {},
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {},
         "section_5_title": {},
         "section_5_text": {}
       },
@@ -374,19 +386,37 @@
           "eng": "Do it every day"
         },
         "section_2_text": {
-          "eng": "Set aside a specific time each day to spend one-on-one time with your child (at least 5 minutes—more is better!).\n\nChoose a time when you won’t be interrupted and when your child does not have something else they want to do, like watching TV or playing with their tablet.\n\nTurn off the TV, put away mobile phones and tablets.\n\nTell your child you would like to spend one-on-one time and that they can choose what to do."
+          "eng": "Set aside a specific time each day to spend one-on-one time with your child (at least 5 minutes—more is better!)."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "Choose a time when you won’t be interrupted and when your child does not have something else they want to do, like watching TV or playing with their tablet.\n\nTurn off the TV, put away mobile phones and tablets.\n\nTell your child you would like to spend one-on-one time and that they can choose what to do."
         },
         "section_3_title": {
           "eng": "Make sure your child knows you are watching them"
         },
         "section_3_text": {
-          "eng": "Sit close to your child and give them your full attention.\n\nTurn your body towards them or sit beside them.\n\nGet down to your child’s level.\n\nLook at your child and notice what s/he is doing.\n\nUse your child’s name when you speak to him or her."
+          "eng": "Sit close to your child and give them your full attention."
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "Turn your body towards them or sit beside them.\n\nGet down to your child’s level.\n\nLook at your child and notice what s/he is doing.\n\nUse your child’s name when you speak to him or her."
         },
         "section_4_title": {
           "eng": "Follow their lead"
         },
         "section_4_text": {
-          "eng": "Let your child take the lead during one-on-one time.\n\nAccept what your child wants to do as long as it is a safe activity.\n\nChildren need to do things in their own time. Let things go at your child’s pace. Try to give them time to explore and be patient.\n\nYou can watch your child play or you can try different activities together."
+          "eng": "Let your child take the lead during one-on-one time."
+        },
+        "section_4_button_text": {
+          "eng": "Learn more"
+        },
+        "section_4_extra_text": {
+          "eng": "Accept what your child wants to do as long as it is a safe activity.\n\nChildren need to do things in their own time. Let things go at your child’s pace. Try to give them time to explore and be patient.\n\nYou can watch your child play or you can try different activities together."
         },
         "section_5_title": {
           "eng": "Use words to describe what your child is doing"
@@ -397,11 +427,17 @@
       },
       "section_1_text": "The more positive time you spend with your child, the less negative time you will spend with your child.\n\nIt is what you do at home that makes the difference!",
       "section_2_title": "Do it every day",
-      "section_2_text": "Set aside a specific time each day to spend one-on-one time with your child (at least 5 minutes—more is better!).\n\nChoose a time when you won’t be interrupted and when your child does not have something else they want to do, like watching TV or playing with their tablet.\n\nTurn off the TV, put away mobile phones and tablets.\n\nTell your child you would like to spend one-on-one time and that they can choose what to do.",
+      "section_2_text": "Set aside a specific time each day to spend one-on-one time with your child (at least 5 minutes—more is better!).",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Choose a time when you won’t be interrupted and when your child does not have something else they want to do, like watching TV or playing with their tablet.\n\nTurn off the TV, put away mobile phones and tablets.\n\nTell your child you would like to spend one-on-one time and that they can choose what to do.",
       "section_3_title": "Make sure your child knows you are watching them",
-      "section_3_text": "Sit close to your child and give them your full attention.\n\nTurn your body towards them or sit beside them.\n\nGet down to your child’s level.\n\nLook at your child and notice what s/he is doing.\n\nUse your child’s name when you speak to him or her.",
+      "section_3_text": "Sit close to your child and give them your full attention.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Turn your body towards them or sit beside them.\n\nGet down to your child’s level.\n\nLook at your child and notice what s/he is doing.\n\nUse your child’s name when you speak to him or her.",
       "section_4_title": "Follow their lead",
-      "section_4_text": "Let your child take the lead during one-on-one time.\n\nAccept what your child wants to do as long as it is a safe activity.\n\nChildren need to do things in their own time. Let things go at your child’s pace. Try to give them time to explore and be patient.\n\nYou can watch your child play or you can try different activities together.",
+      "section_4_text": "Let your child take the lead during one-on-one time.",
+      "section_4_button_text": "Learn more",
+      "section_4_extra_text": "Accept what your child wants to do as long as it is a safe activity.\n\nChildren need to do things in their own time. Let things go at your child’s pace. Try to give them time to explore and be patient.\n\nYou can watch your child play or you can try different activities together.",
       "section_5_title": "Use words to describe what your child is doing",
       "section_5_text": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening!\n\nYour child will learn a lot from what you say and do."
     },
@@ -418,10 +454,22 @@
           "kw_ar": true
         },
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {},
         "section_4_title": {},
         "section_4_text": {}
       },
@@ -430,19 +478,37 @@
           "eng": "Praise"
         },
         "section_1_text": {
-          "eng": "Remember this is the child's game. Can you think how you have felt recently when someone has been critical of you? \n\nThere is no right or wrong in play, and within reason, what your child chooses to play is right for them. \n\nYour job is to show an interest and say something nice."
+          "eng": "Remember this is the child's game. Can you think how you have felt recently when someone has been critical of you?"
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "There is no right or wrong in play, and within reason, what your child chooses to play is right for them. \n\nYour job is to show an interest and say something nice."
         },
         "section_2_title": {
           "eng": "Give as few instructions or directions as possible"
         },
         "section_2_text": {
-          "eng": "Of course, you have to take action if your child does something that he or she is not allowed to do, such as ignoring an agreed house rule, or wants to do something dangerous (like playing with matches)\n\nHowever, generally when you are spending one-on-one time with your child, s/he or she should lead the activity. \n\nAlso, try not to ask questions."
+          "eng": "Of course, you have to take action if your child does something that he or she is not allowed to do, such as ignoring an agreed house rule, or wants to do something dangerous (like playing with matches)."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "However, generally when you are spending one-on-one time with your child, s/he or she should lead the activity. \n\nAlso, try not to ask questions."
         },
         "section_3_title": {
           "eng": "Give just enough help so it feels like their achievement"
         },
         "section_3_text": {
-          "eng": "Play alongside and copy what they are doing but try to let them keep the initiative. \n\nIf they ask what to do, turn the question back by asking what they could do or think that they might do next. \n\nFor children who do not have self-confidence, it is particularly important that they do not get directions from adults all the time."
+          "eng": "Play alongside and copy what they are doing but try to let them keep the initiative."
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "If they ask what to do, turn the question back by asking what they could do or think that they might do next. \n\nFor children who do not have self-confidence, it is particularly important that they do not get directions from adults all the time."
         },
         "section_4_title": {
           "eng": "You are in charge"
@@ -451,11 +517,17 @@
           "eng": "You must decide when the session finishes. \n\nGive your child a “Transition Warning” when there is one minute remaining in one-on-one time."
         }
       },
-      "section_1_text": "Remember this is the child's game. Can you think how you have felt recently when someone has been critical of you? \n\nThere is no right or wrong in play, and within reason, what your child chooses to play is right for them. \n\nYour job is to show an interest and say something nice.",
+      "section_1_text": "Remember this is the child's game. Can you think how you have felt recently when someone has been critical of you?",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "There is no right or wrong in play, and within reason, what your child chooses to play is right for them. \n\nYour job is to show an interest and say something nice.",
       "section_2_title": "Give as few instructions or directions as possible",
-      "section_2_text": "Of course, you have to take action if your child does something that he or she is not allowed to do, such as ignoring an agreed house rule, or wants to do something dangerous (like playing with matches)\n\nHowever, generally when you are spending one-on-one time with your child, s/he or she should lead the activity. \n\nAlso, try not to ask questions.",
+      "section_2_text": "Of course, you have to take action if your child does something that he or she is not allowed to do, such as ignoring an agreed house rule, or wants to do something dangerous (like playing with matches).",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "However, generally when you are spending one-on-one time with your child, s/he or she should lead the activity. \n\nAlso, try not to ask questions.",
       "section_3_title": "Give just enough help so it feels like their achievement",
-      "section_3_text": "Play alongside and copy what they are doing but try to let them keep the initiative. \n\nIf they ask what to do, turn the question back by asking what they could do or think that they might do next. \n\nFor children who do not have self-confidence, it is particularly important that they do not get directions from adults all the time.",
+      "section_3_text": "Play alongside and copy what they are doing but try to let them keep the initiative.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "If they ask what to do, turn the question back by asking what they could do or think that they might do next. \n\nFor children who do not have self-confidence, it is particularly important that they do not get directions from adults all the time.",
       "section_4_title": "You are in charge",
       "section_4_text": "You must decide when the session finishes. \n\nGive your child a “Transition Warning” when there is one minute remaining in one-on-one time."
     },

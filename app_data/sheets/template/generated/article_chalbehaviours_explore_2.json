@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_challengingbehaviours_home_activity_1",
+  "flow_name": "article_chalbehaviours_explore_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -30,7 +30,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "home_activity_1",
+          "value": "explore_2",
           "_translations": {
             "value": {}
           },
@@ -39,7 +39,7 @@
         },
         {
           "name": "module_id",
-          "value": "challengingbehaviours",
+          "value": "chalbehaviours",
           "_translations": {
             "value": {}
           },

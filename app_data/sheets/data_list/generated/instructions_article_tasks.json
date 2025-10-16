@@ -621,25 +621,49 @@
           "eng": "Be Specific"
         },
         "section_1_text": {
-          "eng": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nSay the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n\nInstructions should be a command instead of a question."
+          "eng": "Say the behaviour you want your child to do. Make your instructions positive, specific, and realistic."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nInstructions should be a command instead of a question."
         },
         "section_2_title": {
           "eng": "Be realistic"
         },
         "section_2_text": {
-          "eng": "Give one instruction at a time.\n\nMake sure your instruction is something your child can do.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”"
+          "eng": "Make sure your instruction is something your child can do."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "Give one instruction at a time.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”"
         },
         "section_3_title": {
           "eng": "Be positive"
         },
         "section_3_text": {
-          "eng": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n\nGive instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!"
+          "eng": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”"
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "Give instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!"
         },
         "section_4_title": {
           "eng": "Praise"
         },
         "section_4_text": {
-          "eng": "Praise your child immediately after following an instruction\n\nUse physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her."
+          "eng": "Praise your child immediately after following an instruction"
+        },
+        "section_4_button_text": {
+          "eng": "Learn more"
+        },
+        "section_4_extra_text": {
+          "eng": "Use physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her."
         }
       },
       "category_id": "practical_tips",
@@ -648,27 +672,51 @@
         "text_1_facilitator": {},
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
         "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {},
         "section_4_title": {
           "kw_ar": true
         },
-        "section_4_text": {}
+        "section_4_text": {},
+        "section_4_button_text": {
+          "kw_ar": true
+        },
+        "section_4_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/clock_blue.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "section_4_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_title": "Be Specific",
-      "section_1_text": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nSay the behaviour you want your child to do. Make your instructions positive, specific, and realistic.\n\nInstructions should be a command instead of a question.",
+      "section_1_text": "Say the behaviour you want your child to do. Make your instructions positive, specific, and realistic.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nInstructions should be a command instead of a question.",
       "section_2_title": "Be realistic",
-      "section_2_text": "Give one instruction at a time.\n\nMake sure your instruction is something your child can do.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”",
+      "section_2_text": "Make sure your instruction is something your child can do.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Give one instruction at a time.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”",
       "section_3_title": "Be positive",
-      "section_3_text": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”\n\nGive instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!",
+      "section_3_text": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Give instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!",
       "section_4_title": "Praise",
-      "section_4_text": "Praise your child immediately after following an instruction\n\nUse physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her.",
+      "section_4_text": "Praise your child immediately after following an instruction",
+      "section_4_button_text": "Learn more",
+      "section_4_extra_text": "Use physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her.",
       "completed": false
     },
     {
@@ -687,13 +735,25 @@
           "eng": "Be enthusiastic"
         },
         "section_2_text": {
-          "eng": "Use energy and positivity to encourage the new behaviour.\n\nExample: “Reem, bring the ball here so we can play together!”"
+          "eng": "Use energy and positivity to encourage the new behaviour."
+        },
+        "section_2_button_text": {
+          "eng": "For example"
+        },
+        "section_2_extra_text": {
+          "eng": "“Reem, bring the ball here so we can play together!”"
         },
         "section_3_title": {
           "eng": "Praise"
         },
         "section_3_text": {
-          "eng": "Praise your child for the next positive behaviour, instead of revisiting the negative one. Example: “Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”\n\nUse verbal praise and physical praise (like a hug) to reinforce positive behaviour."
+          "eng": "Use verbal praise and physical praise (like a hug) to reinforce positive behaviour.\n\nPraise your child for the next positive behaviour, instead of revisiting the negative one."
+        },
+        "section_3_button_text": {
+          "eng": "For example"
+        },
+        "section_3_extra_text": {
+          "eng": "\"Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”"
         }
       },
       "category_id": "practical_tips",
@@ -704,10 +764,14 @@
         "section_1_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {},
+        "section_2_extra_text": {},
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {}
+        "section_3_text": {},
+        "section_3_button_text": {},
+        "section_3_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/clock_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
@@ -715,9 +779,13 @@
       "section_1_title": "Redirect early",
       "section_1_text": "Use instructions to move your child from a negative behaviour to a positive one.\n\nTry to catch the behaviour before it starts or very early.\n\nFor younger children, you can also physically redirect them.",
       "section_2_title": "Be enthusiastic",
-      "section_2_text": "Use energy and positivity to encourage the new behaviour.\n\nExample: “Reem, bring the ball here so we can play together!”",
+      "section_2_text": "Use energy and positivity to encourage the new behaviour.",
+      "section_2_button_text": "For example",
+      "section_2_extra_text": "“Reem, bring the ball here so we can play together!”",
       "section_3_title": "Praise",
-      "section_3_text": "Praise your child for the next positive behaviour, instead of revisiting the negative one. Example: “Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”\n\nUse verbal praise and physical praise (like a hug) to reinforce positive behaviour.",
+      "section_3_text": "Use verbal praise and physical praise (like a hug) to reinforce positive behaviour.\n\nPraise your child for the next positive behaviour, instead of revisiting the negative one.",
+      "section_3_button_text": "For example",
+      "section_3_extra_text": "\"Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”",
       "completed": false
     },
     {

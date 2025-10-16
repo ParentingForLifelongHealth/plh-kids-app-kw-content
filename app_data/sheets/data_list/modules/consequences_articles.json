@@ -327,10 +327,22 @@
         },
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {},
         "section_3_title": {},
-        "section_3_text": {}
+        "section_3_text": {},
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -340,27 +352,51 @@
           "eng": "Involve your child"
         },
         "section_1_text": {
-          "eng": "Involve your children in planning consequences when you create household rules.\n\nDiscuss possible consequences together and explain the reasons.\n\nOlder children can suggest ideas, making them more likely to understand and follow the rules.\n\nIntroduce consequences to your child when the child is calm."
+          "eng": "Involve your children in planning consequences when you create household rules."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Discuss possible consequences together and explain the reasons.\n\nOlder children can suggest ideas, making them more likely to understand and follow the rules.\n\nIntroduce consequences to your child when the child is calm."
         },
         "section_2_title": {
           "eng": "Be Fair"
         },
         "section_2_text": {
-          "eng": "Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.\n\nMake sure the consequence is reasonable for your child’s age and not too severe.\n\nIf a natural consequence already exists (like a toy breaking), you may not need to add another one, but should draw your child’s attention to the natural consequence."
+          "eng": "Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day."
+        },
+        "section_2_button_text": {
+          "eng": "Learn more"
+        },
+        "section_2_extra_text": {
+          "eng": "Make sure the consequence is reasonable for your child’s age and not too severe.\n\nIf a natural consequence already exists (like a toy breaking), you may not need to add another one, but should draw your child’s attention to the natural consequence."
         },
         "section_3_title": {
           "eng": "Be Calm"
         },
         "section_3_text": {
-          "eng": "Take deep breaths or walk away if you need to calm down first.\n\nRespond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
+          "eng": "Take deep breaths or walk away if you need to calm down first."
+        },
+        "section_3_button_text": {
+          "eng": "Learn more"
+        },
+        "section_3_extra_text": {
+          "eng": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
         }
       },
       "section_1_title": "Involve your child",
-      "section_1_text": "Involve your children in planning consequences when you create household rules.\n\nDiscuss possible consequences together and explain the reasons.\n\nOlder children can suggest ideas, making them more likely to understand and follow the rules.\n\nIntroduce consequences to your child when the child is calm.",
+      "section_1_text": "Involve your children in planning consequences when you create household rules.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Discuss possible consequences together and explain the reasons.\n\nOlder children can suggest ideas, making them more likely to understand and follow the rules.\n\nIntroduce consequences to your child when the child is calm.",
       "section_2_title": "Be Fair",
-      "section_2_text": "Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.\n\nMake sure the consequence is reasonable for your child’s age and not too severe.\n\nIf a natural consequence already exists (like a toy breaking), you may not need to add another one, but should draw your child’s attention to the natural consequence.",
+      "section_2_text": "Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.",
+      "section_2_button_text": "Learn more",
+      "section_2_extra_text": "Make sure the consequence is reasonable for your child’s age and not too severe.\n\nIf a natural consequence already exists (like a toy breaking), you may not need to add another one, but should draw your child’s attention to the natural consequence.",
       "section_3_title": "Be Calm",
-      "section_3_text": "Take deep breaths or walk away if you need to calm down first.\n\nRespond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
+      "section_3_text": "Take deep breaths or walk away if you need to calm down first.",
+      "section_3_button_text": "Learn more",
+      "section_3_extra_text": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
     },
     {
       "id": "tips_2",
@@ -372,6 +408,10 @@
       "_translations": {
         "section_1_title": {},
         "section_1_text": {},
+        "section_1_button_text": {
+          "kw_ar": true
+        },
+        "section_1_extra_text": {},
         "section_2_title": {},
         "section_2_text": {},
         "section_2_button_text": {
@@ -390,7 +430,13 @@
           "eng": "Be consistent"
         },
         "section_1_text": {
-          "eng": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.\n\nConsequences need to feel fair. Don’t change a consequence that you’ve agreed on because you feel angry in the moment.\n\nAlways follow through once you give a consequence. Older children may engage in discussion, problem-solving or reflection, but make sure you come back to the consequence."
+          "eng": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child."
+        },
+        "section_1_button_text": {
+          "eng": "Learn more"
+        },
+        "section_1_extra_text": {
+          "eng": "Consequences need to feel fair. Don’t change a consequence that you’ve agreed on because you feel angry in the moment.\n\nAlways follow through once you give a consequence. Older children may engage in discussion, problem-solving or reflection, but make sure you come back to the consequence."
         },
         "section_2_title": {
           "eng": "Give a chance to comply"
@@ -417,7 +463,9 @@
           "eng": "It is okay to show your disappointment when your child forgets a Household Rule. Make it clear that your disappointment is about your child’s action and not your child. For example, you can say, “I love you even when you do something disappointing.”\n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline."
         }
       },
-      "section_1_text": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.\n\nConsequences need to feel fair. Don’t change a consequence that you’ve agreed on because you feel angry in the moment.\n\nAlways follow through once you give a consequence. Older children may engage in discussion, problem-solving or reflection, but make sure you come back to the consequence.",
+      "section_1_text": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.",
+      "section_1_button_text": "Learn more",
+      "section_1_extra_text": "Consequences need to feel fair. Don’t change a consequence that you’ve agreed on because you feel angry in the moment.\n\nAlways follow through once you give a consequence. Older children may engage in discussion, problem-solving or reflection, but make sure you come back to the consequence.",
       "section_2_title": "Give a chance to comply",
       "section_2_text": "Try to avoid consequences by giving clear instructions and redirecting first.\n\nBefore giving a consequence, give your child a choice and 5–10 seconds to start following the instruction.\n\nFollow all of the building blocks for giving clear and specific instructions.\n\nRepeat your instruction ONCE with a choice to comply or receive a consequence: “If you do not do it now, you cannot play with your toys after dinner.”",
       "section_2_button_text": "More tips",

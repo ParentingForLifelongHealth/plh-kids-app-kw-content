@@ -1,12 +1,21 @@
 {
-  "flow_name": "article_challengingbehaviours_tips_1",
-  "flow_subtype": "generated",
   "flow_type": "template",
+  "flow_name": "module_landing_chalbehaviours",
+  "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "0 0"
+      }
+    }
+  },
+  "comment": "chalbehaviours",
+  "comment_2": 29,
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "module_landing",
+      "value": "module_landing",
       "action_list": [
         {
           "trigger": "completed",
@@ -29,26 +38,19 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "tips_1",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "article.article_id"
-        },
-        {
           "name": "module_id",
-          "value": "challengingbehaviours",
+          "value": "chalbehaviours",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "module_landing.module_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "module_landing"
     }
-  ]
+  ],
+  "_xlsxPath": "KW module_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
 }

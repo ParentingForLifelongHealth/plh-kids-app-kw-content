@@ -1,5 +1,5 @@
 {
-  "flow_name": "prep_challengingbehaviours_articles",
+  "flow_name": "prep_chalbehaviours_articles",
   "flow_subtype": "generated",
   "flow_type": "data_pipe",
   "rows": [
@@ -15,7 +15,7 @@
       "args_list": [
         "category_id: relax"
       ],
-      "output_target": "challengingbehaviours_relax | local_only;"
+      "output_target": "chalbehaviours_relax | local_only;"
     },
     {
       "operation": "filter",
@@ -29,14 +29,14 @@
       "args_list": [
         "category_id: check_in"
       ],
-      "output_target": "challengingbehaviours_check_in | local_only;"
+      "output_target": "chalbehaviours_check_in | local_only;"
     },
     {
       "operation": "concat",
       "args_list": [
-        "challengingbehaviours_relax",
-        "challengingbehaviours_check_in",
-        "challengingbehaviours_articles"
+        "chalbehaviours_relax",
+        "chalbehaviours_check_in",
+        "chalbehaviours_articles"
       ],
       "input_source": false
     },
@@ -45,12 +45,12 @@
       "args_list": [
         "completed: FALSE"
       ],
-      "output_target": "challengingbehaviours_article_tasks"
+      "output_target": "chalbehaviours_article_tasks"
     }
   ],
   "_output_flows": [
     {
-      "flow_name": "challengingbehaviours_article_tasks",
+      "flow_name": "chalbehaviours_article_tasks",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     }
