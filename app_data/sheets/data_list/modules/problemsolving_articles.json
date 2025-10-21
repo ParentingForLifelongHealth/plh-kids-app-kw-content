@@ -304,56 +304,14 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
-      "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:"
-        }
-      }
-    },
-    {
-      "id": "practise",
-      "category_id": "practise",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/question_blue.png",
       "section_3_icon_asset": "images/icons/brain_blue.png",
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "section_5_icon_asset": "images/icons/speech_bubble_blue.png",
-      "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
+      "text_1_facilitator": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:",
       "_translations": {
         "text_1_facilitator": {
-          "kw_ar": true
-        },
-        "quiz_1_question": {
-          "kw_ar": true
-        },
-        "quiz_1_option_1_text": {
-          "kw_ar": true
-        },
-        "quiz_1_feedback_1": {
-          "kw_ar": true
-        },
-        "quiz_1_option_2_text": {
-          "kw_ar": true
-        },
-        "quiz_1_feedback_2": {
-          "kw_ar": true
-        },
-        "quiz_1_option_3_text": {
-          "kw_ar": true
-        },
-        "quiz_1_feedback_3": {
-          "kw_ar": true
-        },
-        "quiz_1_option_4_text": {
-          "kw_ar": true
-        },
-        "quiz_1_feedback_4": {
           "kw_ar": true
         },
         "section_1_title": {},
@@ -393,34 +351,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s think of some common problems we could solve with our children."
-        },
-        "quiz_1_question": {
-          "eng": "Do you experience any of these problems at home?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Too much screen time"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Going to sleep late"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Fighting with other children"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Not sharing toys"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+          "eng": "When a problem comes up, take a deep breath before you tackle it. \n\nThen help your child work on the problem with you using these four steps:"
         },
         "section_1_title": {
           "eng": "Stay calm"
@@ -483,15 +414,6 @@
           "eng": "For example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
         }
       },
-      "quiz_1_question": "Do you experience any of these problems at home?",
-      "quiz_1_option_1_text": "Too much screen time",
-      "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
-      "quiz_1_option_2_text": "Going to sleep late",
-      "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
-      "quiz_1_option_3_text": "Fighting with other children",
-      "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
-      "quiz_1_option_4_text": "Not sharing toys",
-      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
       "section_1_title": "Stay calm",
       "section_1_text": "Take a short pause (even a breath)",
       "section_1_button_text": "Learn more",
@@ -512,6 +434,84 @@
       "section_5_text": "After you’ve tried it, decide with your child whether or not your solution worked.",
       "section_5_button_text": "Learn more",
       "section_5_extra_text": "For example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\""
+    },
+    {
+      "id": "practise",
+      "category_id": "practise",
+      "text_1_facilitator": "Let’s think of some common problems we could solve with our children.",
+      "_translations": {
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s think of some common problems we could solve with our children."
+        },
+        "quiz_1_question": {
+          "eng": "Do you experience any of these problems at home?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Too much screen time"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Going to sleep late"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Fighting with other children"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Not sharing toys"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
+        }
+      },
+      "quiz_1_question": "Do you experience any of these problems at home?",
+      "quiz_1_option_1_text": "Too much screen time",
+      "quiz_1_feedback_1": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "quiz_1_option_2_text": "Going to sleep late",
+      "quiz_1_feedback_2": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "quiz_1_option_3_text": "Fighting with other children",
+      "quiz_1_feedback_3": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
+      "quiz_1_option_4_text": "Not sharing toys",
+      "quiz_1_feedback_4": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out."
     },
     {
       "id": "home_activity_1",

@@ -13,7 +13,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did one-on-one time go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -26,7 +28,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -90,7 +94,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did talking about feelings go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -103,7 +109,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -167,7 +175,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did playing with your child go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -180,7 +190,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -244,7 +256,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did praising your child go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -263,7 +277,9 @@
         "outro_text": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -321,7 +337,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did giving positive, specific and realistic instructions go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -337,7 +355,9 @@
         "outro_text": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -398,7 +418,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did making one rule and one routine go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -414,7 +436,9 @@
         "outro_text": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -475,14 +499,24 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did managing challenging behaviours go?",
       "_translations": {
-        "notification_text": {},
-        "text_goal": {},
-        "reply_happy": {},
+        "notification_text": {
+          "kw_ar": true
+        },
+        "text_goal": {
+          "kw_ar": true
+        },
+        "reply_happy": {
+          "kw_ar": true
+        },
         "reply_ok": {
           "kw_ar": true
         },
-        "reply_sad": {},
-        "activity_title": {},
+        "reply_sad": {
+          "kw_ar": true
+        },
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -546,7 +580,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did discussing consequences go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -559,7 +595,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -623,7 +661,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did solving a problem together go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -636,7 +676,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },
@@ -700,7 +742,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1stW5izhIeq7PXhgc8pwE7FlwrYCBeqPNI9XLgOvuuXI",
       "notification_text": "How did taking care of yourself go?",
       "_translations": {
-        "notification_text": {},
+        "notification_text": {
+          "kw_ar": true
+        },
         "text_goal": {
           "kw_ar": true
         },
@@ -713,7 +757,9 @@
         "reply_sad": {
           "kw_ar": true
         },
-        "activity_title": {},
+        "activity_title": {
+          "kw_ar": true
+        },
         "question_done": {
           "kw_ar": true
         },

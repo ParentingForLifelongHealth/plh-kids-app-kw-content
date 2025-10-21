@@ -169,7 +169,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/one_on_one_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -352,7 +354,9 @@
         "quiz_1_feedback_3": {
           "kw_ar": true
         },
-        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
         "quiz_1_feedback_5": {
           "kw_ar": true
         },
@@ -832,25 +836,51 @@
         "quiz_2_feedback_5": {
           "kw_ar": true
         },
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {},
+        "quiz_3_question": {
+          "kw_ar": true
+        },
+        "quiz_3_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_3_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_3_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_3": {
+          "kw_ar": true
+        },
         "quiz_2_option_6_text": {
           "kw_ar": true
         },
         "quiz_2_feedback_6": {
           "kw_ar": true
         },
-        "quiz_3_option_4_text": {},
-        "quiz_3_feedback_4": {},
-        "quiz_3_option_5_text": {},
-        "quiz_3_feedback_5": {},
-        "quiz_3_option_6_text": {},
-        "quiz_3_feedback_6": {}
+        "quiz_3_option_4_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_3_option_5_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_5": {
+          "kw_ar": true
+        },
+        "quiz_3_option_6_text": {
+          "kw_ar": true
+        },
+        "quiz_3_feedback_6": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Perfect! Home is full of opportunities for quality time, whether it's playing, reading, or just relaxing together.",
       "quiz_1_feedback_3": "Excellent idea! The journey to school or daycare can be a special time to connect with your child.",

@@ -730,17 +730,39 @@
       "attached_single_doc": "https://docs.google.com/document/d/194OnCZkOi6ygTeMKCvRXB_tSoJYM6ii2d3MIhL6V7NE",
       "question_text": "What was difficult when managing your child's challenging behaviour?",
       "_translations": {
-        "question_text": {},
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
+        "question_text": {
+          "kw_ar": true
+        },
+        "text_challenge_1": {
+          "kw_ar": true
+        },
+        "reply_challenge_1": {
+          "kw_ar": true
+        },
+        "text_challenge_2": {
+          "kw_ar": true
+        },
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
+        "text_challenge_3": {
+          "kw_ar": true
+        },
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
+        "text_challenge_4": {
+          "kw_ar": true
+        },
+        "reply_challenge_4": {
+          "kw_ar": true
+        },
+        "text_challenge_5": {
+          "kw_ar": true
+        },
+        "reply_challenge_5": {
+          "kw_ar": true
+        },
         "text_challenge_6": {
           "kw_ar": true
         },
