@@ -494,7 +494,9 @@
       "section_4_icon_asset": "images/icons/heart_filled_blue.png",
       "text_1_facilitator": "Here are building blocks to give positive instructions that work:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "section_1_title": {},
         "section_1_text": {},
         "section_1_button_text": {

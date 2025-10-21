@@ -520,17 +520,23 @@
       "section_4_icon_asset": "images/icons/star_filled_blue.png",
       "section_1_title": "Notice Feelings",
       "_translations": {
-        "section_1_title": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
         "section_1_text": {},
         "section_1_button_text": {
           "kw_ar": true
         },
         "section_1_extra_text": {},
-        "section_2_title": {},
+        "section_2_title": {
+          "kw_ar": true
+        },
         "section_2_text": {},
         "section_2_button_text": {},
         "section_2_extra_text": {},
-        "section_3_title": {},
+        "section_3_title": {
+          "kw_ar": true
+        },
         "section_3_text": {},
         "section_3_button_text": {
           "kw_ar": true

@@ -25,7 +25,9 @@
       "icon_asset": "images/icons/smile_eyes_up.svg",
       "title": "Emotional Check Up",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -68,7 +70,9 @@
       "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Building Blocks",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

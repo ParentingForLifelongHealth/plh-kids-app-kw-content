@@ -95,7 +95,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 578.2 |
 | android/splash.png | 996 |
 | audio/care_audio/oneononetime_audio.mp3 | 266.7 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/child_development_yc.png | 758.1 |
 | images/comics/ignore_yc_1.svg | 300.4 |
 | images/comics/ignore_yc_12.svg | 320.6 |

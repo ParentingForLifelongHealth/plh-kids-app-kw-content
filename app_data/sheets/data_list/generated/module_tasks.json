@@ -131,7 +131,9 @@
       "check_in_id": "check_in_12",
       "title": "Rules and Routines",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -149,7 +151,9 @@
       "check_in_id": "check_in_1",
       "title": "Challenging Behaviours",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
