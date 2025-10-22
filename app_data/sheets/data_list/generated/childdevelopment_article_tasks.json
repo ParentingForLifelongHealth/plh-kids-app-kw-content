@@ -717,7 +717,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
         "section_1_text": {
           "kw_ar": true
         },
@@ -727,7 +729,9 @@
         "section_1_extra_text": {
           "kw_ar": true
         },
-        "section_2_title": {},
+        "section_2_title": {
+          "kw_ar": true
+        },
         "section_2_text": {
           "kw_ar": true
         },
@@ -737,7 +741,9 @@
         "section_2_extra_text": {
           "kw_ar": true
         },
-        "section_3_title": {},
+        "section_3_title": {
+          "kw_ar": true
+        },
         "section_3_text": {
           "kw_ar": true
         },

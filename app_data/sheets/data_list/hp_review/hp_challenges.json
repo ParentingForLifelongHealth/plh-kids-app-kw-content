@@ -742,13 +742,13 @@
         "text_challenge_2": {
           "kw_ar": true
         },
-        "reply_challenge_2": {},
+        "reply_challenge_2": {
+          "kw_ar": true
+        },
         "text_challenge_3": {
           "kw_ar": true
         },
-        "reply_challenge_3": {
-          "kw_ar": true
-        },
+        "reply_challenge_3": {},
         "text_challenge_4": {
           "kw_ar": true
         },
@@ -791,7 +791,7 @@
           "eng": "My Child misbehaves all the time."
         },
         "reply_challenge_3": {
-          "eng": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it."
+          "eng": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it."
         },
         "text_challenge_4": {
           "eng": "I got very angry with my child and shouted at them."
@@ -820,7 +820,7 @@
       "text_challenge_2": "I get too angry at my child and find it difficult to be positive with them when they are no longer misbehaving.",
       "reply_challenge_2": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\n☀️ Later, find something small and clear that child is doing and you wish they could do more of. Then, praise them when they do it.",
       "text_challenge_3": "My Child misbehaves all the time.",
-      "reply_challenge_3": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
+      "reply_challenge_3": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
       "text_challenge_4": "I got very angry with my child and shouted at them.",
       "reply_challenge_4": "🌷 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy. The important thing is how we manage that anger and respond to them.\n\n⏸ First, take a pause. \n\nWhen you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n💚 Be kind to yourself. You are both learning and it’s okay not to get it right all the time.\n\n🌱 When you feel calmer, you could apologise to your child for shouting and remind them that you love them. \n\n🎈 Repeat the core message of what you were trying to say in a calmer way.",
       "text_challenge_5": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot.",

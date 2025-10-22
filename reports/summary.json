@@ -259,7 +259,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "40135 KB",
+        "KB": "40139 KB",
         "MB": "40.1 MB"
       },
       {
@@ -735,6 +735,11 @@
       {
         "path": "images/backgrounds/library_bottom_right.png",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/faces/flushed_face.svg",
+        "count": 2,
         "missing": true
       }
     ]
@@ -1237,9 +1242,9 @@
         "size_kb": 4.2
       },
       {
-        "path": "images/icons/faces/flushed_face.svg",
-        "count": 2,
-        "size_kb": 4.9
+        "path": "images/icons/faces/embarrassed.svg",
+        "count": 4,
+        "size_kb": 8.2
       },
       {
         "path": "images/icons/faces/happy.svg",

@@ -523,31 +523,51 @@
         "section_1_title": {
           "kw_ar": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
         "section_2_title": {
           "kw_ar": true
         },
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
+        "section_4_title": {
+          "kw_ar": true
+        },
+        "section_4_text": {
+          "kw_ar": true
+        },
         "section_4_button_text": {
           "kw_ar": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_text": "Feelings are connected to thoughts and physical sensations.",
       "section_1_button_text": "Learn more",
@@ -612,7 +632,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
       "quiz_1_question": "@data.characters.f1_mother.name's son is throwing a tantrum at the front door. It's time to put on his shoes and the family is running late. Tying his shoes is a challenge and he wants to do it himself. How can @data.characters.f1_mother.name respond?",

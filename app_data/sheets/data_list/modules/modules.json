@@ -67,7 +67,9 @@
       "check_in_id": "check_in_3",
       "title": "Child Development through Play",
       "_translations": {
-        "title": {}
+        "title": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -314,40 +314,66 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {},
-        "section_1_text": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {},
-        "section_4_title": {},
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
+        "section_4_title": {
+          "kw_ar": true
+        },
         "section_4_text": {
           "kw_ar": true
         },
         "section_4_button_text": {
           "kw_ar": true
         },
-        "section_4_extra_text": {},
-        "section_5_title": {},
+        "section_4_extra_text": {
+          "kw_ar": true
+        },
+        "section_5_title": {
+          "kw_ar": true
+        },
         "section_5_text": {
           "kw_ar": true
         },
         "section_5_button_text": {
           "kw_ar": true
         },
-        "section_5_extra_text": {}
+        "section_5_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
