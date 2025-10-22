@@ -69,15 +69,13 @@
       "image_asset": "images/child_development_yc.svg",
       "relax_id": "relax_4",
       "check_in_id": "check_in_3",
-      "title": "Development Through Play",
+      "title": "Child Development through Play",
       "_translations": {
-        "title": {
-          "kw_ar": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Development Through Play"
+          "eng": "Child Development through Play"
         }
       },
       "completed": false,

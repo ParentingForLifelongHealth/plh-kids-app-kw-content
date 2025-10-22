@@ -511,9 +511,7 @@
         "reply_ok": {
           "kw_ar": true
         },
-        "reply_sad": {
-          "kw_ar": true
-        },
+        "reply_sad": {},
         "activity_title": {
           "kw_ar": true
         },
@@ -544,7 +542,7 @@
           "eng": "Sorry to hear it was difficult for you. Well done for trying!"
         },
         "reply_sad": {
-          "eng": "It’s normal to find it hard to help our childrenmanage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙"
+          "eng": "It’s normal to find it hard to help our children manage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
@@ -565,7 +563,7 @@
       "text_goal": "Your goal was to practise ignoring one challenging behaviour. \n\nFirst try once to Redirect your child’s attention to a positive behaviour.",
       "reply_happy": "Excellent! Keep up the good work in managing your child's behaviour.",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying!",
-      "reply_sad": "It’s normal to find it hard to help our childrenmanage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙",
+      "reply_sad": "It’s normal to find it hard to help our children manage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙",
       "activity_title": "Let’s check in on your home activity!",
       "question_done": "Did you have a chance to try this?",
       "reply_no": "That is okay, do not be too hard on yourself. We encourage you to try and do it when you can.",
