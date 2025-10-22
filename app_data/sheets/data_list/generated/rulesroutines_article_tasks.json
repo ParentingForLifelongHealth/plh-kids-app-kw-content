@@ -459,7 +459,9 @@
         "quiz_2_feedback_4": {
           "kw_ar": true
         },
-        "quiz_2_option_5_text": {},
+        "quiz_2_option_5_text": {
+          "kw_ar": true
+        },
         "quiz_2_feedback_5": {
           "kw_ar": true
         }
@@ -817,24 +819,42 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {},
-        "section_1_text": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_icon_asset": "images/icons/diamond_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
@@ -902,7 +922,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
         "section_1_text": {
           "kw_ar": true
         },
@@ -912,7 +934,9 @@
         "section_1_extra_text": {
           "kw_ar": true
         },
-        "section_2_title": {},
+        "section_2_title": {
+          "kw_ar": true
+        },
         "section_2_text": {
           "kw_ar": true
         },
@@ -922,12 +946,18 @@
         "section_2_extra_text": {
           "kw_ar": true
         },
-        "section_3_title": {},
-        "section_3_text": {},
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_icon_asset": "images/icons/tablet_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",

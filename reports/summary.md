@@ -79,7 +79,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 40135 KB | 40.1 MB |
+| total | 40139 KB | 40.1 MB |
 | unused | 12761 KB | 12.8 MB |
 </details>
 
@@ -203,6 +203,7 @@ Assets that have references within sheets but do not appear in app-data
 | https://img.youtube.com/vi/szeAVyxh2qc/hqdefault.jpg | 2 |
 | https://img.youtube.com/vi/wng0kJZJoT0/hqdefault.jpg | 2 |
 | images/backgrounds/library_bottom_right.png | 1 |
+| images/icons/faces/flushed_face.svg | 2 |
 </details>
 
 <details >
@@ -311,7 +312,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
 | images/icons/eye_blue.png | 4.2 | 8 |
-| images/icons/faces/flushed_face.svg | 4.9 | 2 |
+| images/icons/faces/embarrassed.svg | 8.2 | 4 |
 | images/icons/faces/happy.svg | 53.5 | 35 |
 | images/icons/faces/ok.svg | 46.6 | 33 |
 | images/icons/faces/sad.svg | 48.2 | 33 |

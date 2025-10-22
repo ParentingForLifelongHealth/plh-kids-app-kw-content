@@ -13,7 +13,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/12kV7LV3NGRg22ss4c5FHXvsITKeiGCaUjbn3Rztxls4",
       "text_1_facilitator": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that belong to us!\"",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "media_title": {
           "kw_ar": true
         },
@@ -495,32 +497,54 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "section_1_title": {},
-        "section_1_text": {},
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {},
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
         "section_4_title": {
           "kw_ar": true
         },
-        "section_4_text": {},
+        "section_4_text": {
+          "kw_ar": true
+        },
         "section_4_button_text": {
           "kw_ar": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -600,19 +624,39 @@
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "text_1_facilitator": "Here are building blocks for redirecting behaviours:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
+        "section_2_button_text": {
+          "kw_ar": true
+        },
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "section_3_text": {
+          "kw_ar": true
+        },
+        "section_3_button_text": {
+          "kw_ar": true
+        },
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

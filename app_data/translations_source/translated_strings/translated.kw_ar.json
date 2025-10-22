@@ -1356,7 +1356,7 @@
     "note": ""
   },
   {
-    "SourceText": "It’s normal to find it hard to help our childrenmanage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙",
+    "SourceText": "It’s normal to find it hard to help our children manage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙",
     "text": "من الطبيعي أن نجد صعوبة في مساعدة أطفالنا على ضبط سلوكهم. الاستمرارية هي الأساس، استمر في رعاية ودعم طفلك وهو يتعلم. 💙",
     "type": "data_list",
     "note": ""
@@ -1848,7 +1848,7 @@
     "note": ""
   },
   {
-    "SourceText": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that child is doing and you wish they could do more of. Then, praise them when they do it.",
+    "SourceText": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\n☀️ Later, find something small and clear that child is doing and you wish they could do more of. Then, praise them when they do it.",
     "text": "🌱 من الطبيعي أن نغضب أحيانًا من أطفالنا عندما يسيئون التصرف.\n\n⏸ المرة القادمة، عندما تشعر بالانفعال أو الغضب خذ نفسًا عميقًا. إذا لزم الأمر، ابتعد عن الموقف قبل أن تُبدي أي رد فعل.\n\nتذكر أن طفلك لا يقصد إيذاءك بسلوكه. إنه يستكشف حدوده كطفل.\n\n☀️ لاحقًا، لاحظ إن فعل طفلك شيء بسيط وواضح تتمنى أن يفعله أكثر وامدحه عندما يفعله.",
     "type": "data_list",
     "note": ""
@@ -3588,6 +3588,78 @@
     "note": ""
   },
   {
+    "SourceText": "Pause and really notice when they are doing something positive. Even if it’s expected of them.\n\nPraise your children for trying, not just succeeding. This boosts their self-esteem and confidence, which helps them to learn new behaviours. \n\nPositive attention encourages positive behaviours.",
+    "text": "توقف ولاحظ جيدًا عندما يفعل طفلك شيئًا إيجابيًا، حتى لو كان متوقعًا منه.\n\nامدح طفلك على المحاولة وليس فقط على الإنجاز. هذا يعزز تقديره لذاته وثقته بنفسه ويساعده على تعلم سلوكيات جديدة.\n\nالاهتمام الإيجابي يشجع على السلوكيات الإيجابية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Say it",
+    "text": "تكلم",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praise your child every day, even for small things.\n\nUse specific words that describe the behaviour you are praising.\n\nShare how you feel when you praise your child. \n\nGive your child your undivided attention when you are praising them.",
+    "text": "امدح طفلك كل يوم، حتى على أبسط الأمور.\n\nاستخدم كلمات دقيقة لتصف السلوك الذي تمدحه.\n\nعبر عن شعورك عندما تمدح طفلك.\n\nامنح طفلك انتباهك الكامل عندما تمدحه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get down to your child’s level. Name your child when you speak to them. Look them in the eye. This way your child will know that you are talking to them and giving them praise.\n\nSmile at your child so that they know that they are pleasing you.\n\nPraise can be verbal and physical. Give your child a hug. It will make him or her feel good about him or herself.\n\nBe enthusiastic—show that you really mean it.\n\nPraise is good for you, your children, and your spouse.",
+    "text": "انزل إلى مستوى طفلك. استخدم اسم طفلك عندما تتحدث إليه. انظر في عينيه ليعرف طفلك أنك تتحدث إليه وتثني عليه.\n\nابتسم لطفلك ليفهم أنك راضٍ عن سلوكه.\n\nيمكن أن يكون المدح لفظي وجسدي. عانق طفلك ليشعر بالرضا عن نفسه.\n\nامدح بحماس - أظهر أنك تعني ما تقوله.\n\nالمدح مفيد لك ولأطفالك ولزوجك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praise and go!",
+    "text": "امدح وانطلق!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give praise without criticism.",
+    "text": "امدح دون انتقاد.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give praise immediately after you see good behaviour. This makes it more likely that this behaviour will happen again.",
+    "text": "امدح طفلك فورًا بعد رؤية سلوك جيد لتزيد من احتمالية تكرار هذا السلوك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to praise effectively",
+    "text": "طريقة المدح الفعال",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give praise for a specific thing that your child has done, or for a specific way your child has behaved. Tell them exactly what the behaviour is that they are being praised for.",
+    "text": "امدح طفلك على سلوك معين قام به طفلك أو على تصرف معين. أخبره بالضبط ما هو السلوك الذي يُمدح عليه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For big behaviours, break them into smaller steps and praise each step. For example, praise for putting on socks, then shirt, then pants when learning to dress independently.\n\nPraise your child in front of other adults. They will know that you are proud of them and not ashamed to tell everyone.\n\nPraise builds confidence, strengthens relationships, and motivates good behaviour.",
+    "text": "بالنسبة للمهام الكبيرة قم بتقسيمها إلى خطوات صغيرة وامدح طفلك على انجاز كل خطوة. مثال: عندما يتعلم طفلك ارتداء ملابسه بمفرده امدحه على ارتداء الجوارب، ثم على لبس القميص، ثم على لبس البنطال.\n\nامدح طفلك أمام الكبار ليعرف أنك فخور به أمام الجميع.\n\nالمدح يبني الثقة بالنفس ويقوي العلاقات ويشجع على السلوك الجيد.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Support praise with simple, free and healthy rewards",
+    "text": "ادعم المدح بمكافآت بسيطة ومجانية وصحية",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Rewards should be free and simple. They also should be healthy! For example, give your child a hug, extra playtime together, or make their favourite meal.\n\nMake sure you can follow through with your rewards. Keep them simple and realistic.\n\nSimple rewards can be a big motivation for your child to keep trying and show more positive behaviour.\n\nPraise and reward come after the behaviour, not before. \n\nReward yourself too—for your hard work as a parent!",
+    "text": "يجب أن تكون المكافآت مجانية وبسيطة، ويجب أن تكون صحية أيضاً! مثال: عانق طفلك، أو امنحه وقتًا إضافيًا للعب معه، أو حضّر له وجبته المفضلة.\n\nتأكد من قدرتك على تقديم مكافآتك. اجعلها بسيطة وواقعية.\n\nيمكن أن تكون المكافآت البسيطة حافزًا كبيرًا لطفلك لمواصلة المحاولة وإظهار سلوكيات إيجابية أكثر.\n\nيأتي المديح والمكافأة بعد السلوك وليس قبله.\n\nكافئ نفسك أيضًا على جهودك كوالد!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Curious to see how praise can help you and your family?\n\nYour home activity is to praise your child for 3 things every day, and praise yourself too for all your hard work being a parent – you deserve it!",
     "text": "هل تريد معرفة كيف يمكن أن يساعدك المدح أنت وعائلتك؟\nنشاطك المنزلي هو أن تمدح طفلك على ثلاثة أشياء كل يوم وأن تمدح نفسك أيضًا على كل ما تبذله من جهد في تربية طفلك، فأنت تستحق ذلك! ",
     "type": "data_list",
@@ -3930,14 +4002,74 @@
     "note": ""
   },
   {
+    "SourceText": "Feelings are connected to thoughts and physical sensations.",
+    "text": "ترتبط المشاعر بالأفكار والأحاسيس الجسدية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Notice when your child is feeling good and when they are feeling bad.\n\nRecognise both positive and difficult emotions.\n\nTo recognise, pay attention to your thoughts and to your and your child’s words and actions.",
+    "text": "لاحظ عندما يشعر طفلك بالمشاعر الإيجابية والسلبية.\n\nتعرف على جميع المشاعر الإيجابية والسلبية.\n\nلتمييز المشاعر انتبه لأفكارك وكلماتك وأفعالك وكلمات وأفعال طفلك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Accept Feelings",
     "text": "تقبل المشاعر",
     "type": "data_list",
     "note": ""
   },
   {
+    "SourceText": "Be open to how you and your child feel. Accept both negative and positive emotions. All feelings are okay.\n\nAcknowledge your child’s feelings – even the difficult ones.\n\nIt is okay for you to also feel difficult emotions about the same issues.",
+    "text": "كن متقبلاً لمشاعرك ومشاعر طفلك. تقبّل المشاعر السلبية والإيجابية. جميع المشاعر مقبولة.\n\nاعترف بمشاعر طفلك - حتى الصعبة منها.\n\nلا بأس أن تشعر أنت أيضًا بمشاعر صعبة تجاه نفس الأمور.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Six basic emotions",
+    "text": "توجد ٦ مشاعر أساسية",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The six basic emotions each have a message:\n\n😊 Happy → Keep doing what makes you feel good.\n\n☹️ Sad → Something important needs attention.\n\n😠 Angry → Stand up for yourself and set limits.\n\n🤢 Disgusted → Move away from something you don’t like.\n\n😯 Surprised → Stop and pay attention.\n\n😨 Afraid → Run away from danger.\n\nAs children get older, they also learn about other emotions such as excitement, frustration, pride, loneliness, peace, guilt, or confusion.",
+    "text": "هذه المشاعر الأساسية لها رسالة:\n\n😊 السعادة ← استمر في فعل ما يُشعرك بالسعادة.\n\n☹️ الحزن ← أمر مهم يحتاج إلى الاهتمام.\n\n😠 الغضب ← دافع عن نفسك وضع حدودًا.\n\n🤢 الاشمئزاز ← ابتعد عن ما لا يُعجبك.\n\n😯 المفاجأة ← توقف وانتبه.\n\n😨 الخوف ← اهرب من الخطر.\n\nمع تقدم الأطفال في السن يتعلمون عن مشاعر أخرى مثل الإثارة والإحباط والفخر والوحدة والسلام والشعور بالذنب والارتباك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Talk about your feelings",
     "text": "عبر عن مشاعرك",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get down to your child’s level when talking about feelings.\n\nUse physical and verbal support to make your child feel accepted and loved.",
+    "text": "انزل إلى مستوى طفلك عندما تتحدث عن المشاعر.\n\nاستخدم التواصل الجسدي واللفظي لتشعر طفلك بالقبول والمحبة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Commenting on your child’s feelings can help him/her learn self-discipline and emotional awareness\n\nUse words to describe your child’s emotions so they can learn to do the same. This may be hard at first, but it is an important step to help manage emotions! \n\nDescribe what you notice in a calm way: “I notice you’re stomping your feet, talking loudly, and your face looks upset. What are you feeling?”\n\nShare your own feelings with your child. For example, “I know I feel the same way when I can’t go out when I want to.”",
+    "text": "التعليق على مشاعر طفلك يساعده على تعلم الانضباط الذاتي والوعي العاطفي.\n\nاستخدم كلمات لوصف مشاعر طفلك حتى يتعلم القيام بالمثل. قد يكون هذا صعبًا في البداية ولكنها خطوة مهمة في تعلم إدارة المشاعر!\n\nصف ما تلاحظه بهدوء: \"ألاحظ أنك تدوس بقدميك على الأرض وتتحدث بصوت عالٍ، ويبدو وجهك منزعجًا. ما الذي تشعر به؟\"\n\nعبر عن مشاعرك أمام طفلك. على سبيل المثال: \"أنا أشعر بنفس الشعور المزعج عندما لا أستطيع أن اعمل ما أريد.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Share your feelings",
+    "text": "تحدث عن مشاعرك",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When you share your own feelings with your child, you help your child recognise his/her own emotions.",
+    "text": "عندما تشارك مشاعرك مع طفلك فإنك تساعده على إدراك مشاعره.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too. \n\nModel the behaviour you want to see in your child.",
+    "text": "بمشاركتك مشاعرك تُظهر لطفلك أنه من المقبول مشاركة مشاعره. سيتعلم أيضًا تحديد المشاعر في نفسه وفي الآخرين.\n\nكن قدوة في السلوك الذي تريد رؤيته في طفلك.",
     "type": "data_list",
     "note": ""
   },
@@ -3974,6 +4106,12 @@
   {
     "SourceText": "That's a great idea. She can also commit to practising shoe tying with him later, when he's more calm and praise him for naming his feelings and for the good effort during their practise session!",
     "text": "فكرة رائعة! يمكنها أن تعده بالتدريب على ربط الحذاء معه عندما يهدأ وتمدحه على تسمية وتحديد مشاعره وعلى الجهد الذي بذله.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "By sharing your own feelings, you also show your child that it's okay to share their feelings. They will learn to recognise emotions in themselves and others too.",
+    "text": "بمشاركتك مشاعرك تُظهر لطفلك أنه من المقبول مشاركة مشاعره. سيتعلم أيضًا تحديد المشاعر في نفسه وفي الآخرين.",
     "type": "data_list",
     "note": ""
   },
@@ -4202,6 +4340,108 @@
   {
     "SourceText": "Here are some easy steps to use consequences when your child misbehaves:",
     "text": "فيما يلي بعض الخطوات السهلة لاستخدام تبعات السلوك السلبي عندما يسيء طفلك التصرف:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Involve your child",
+    "text": "أشرك طفلك",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Involve your children in planning consequences when you create household rules.",
+    "text": "أشرك طفلك في تحديد تبعات السلوك السلبي المناسبة عند تأسيس ضوابط المنزل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Discuss possible consequences together and explain the reasons.\n\nOlder children can suggest ideas, making them more likely to understand and follow the rules.\n\nIntroduce consequences to your child when the child is calm.",
+    "text": "ناقش تبعات السلوك السلبي المحتملة مع طفلك مسبقًا ووضح سبب التبعات.\n\nيمكن للأطفال الأكبر سنًا تقديم اقتراحات للتبعات، مما يزيد من فهمهم للضوابط واتباعها.\n\nاشرح تبعات السلوك السلبي لطفلك عندما يكون هادئ.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be Fair",
+    "text": "كن عادلاً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose consequences that are connected to the behaviour. Example: If toys aren’t put away, they can’t be used the next day.",
+    "text": "اختر تبعات مرتبطة بالسلوك. مثال: إذا لم ترد الألعاب في مكانها، فلن يُسمح لك باللعب في اليوم التالي.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure the consequence is reasonable for your child’s age and not too severe.\n\nIf a natural consequence already exists (like a toy breaking), you may not need to add another one, but should draw your child’s attention to the natural consequence.",
+    "text": "تأكد من أن التبعات مناسبة لعمر طفلك وليست قاسية.\n\nإذا كانت هناك تبعات طبيعية لفعل الطفل (مثل كسر لعبة) فقد لا تحتاج إلى إضافة تبعات أخرى، ولكن يجب لفت انتباه طفلك إلى حدوثها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be Calm",
+    "text": "كن هادئاً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take deep breaths or walk away if you need to calm down first.",
+    "text": "خذ نفسًا عميقًا أو ابتعد إذا كنت بحاجة إلى التهدئة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly.",
+    "text": "تكلم بهدوء ووضوح. حافظ على نبرة صوت هادئة واختصر كلامك واستخدم كلمات يفهمها طفلك.\n\nالصراخ يزيد الأمور سوءًا ويعلم الطفل أنه تصرف مقبول. لا تطبق التبعات إذا كان طفلك مضطربًا أو كنت أنت غاضبًا.\n\nأجّل الموضوع حتى تتمكن من التحدث بهدوء.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.",
+    "text": "التزم بالضوابط التي تضعها ليتعلم طفلك ما يمكن توقعه. التبعات يجب أن تكون متوقعة للطفل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Consequences need to feel fair. Don’t change a consequence that you’ve agreed on because you feel angry in the moment.\n\nAlways follow through once you give a consequence. Older children may engage in discussion, problem-solving or reflection, but make sure you come back to the consequence.",
+    "text": "يجب أن تكون التبعات عادلة. لا تغيرها بعد الاتفاق عليها لمجرد شعورك بالغضب.\n\nالتزم دائمًا بالتبعات بعد تحديدها. قد يناقشك الأطفال الكبار ويقترحون حلول، لكن تأكد من تطبيق التبعات المتفق عليها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give a chance to comply",
+    "text": "اعط فرصة للالتزام",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Try to avoid consequences by giving clear instructions and redirecting first.\n\nBefore giving a consequence, give your child a choice and 5–10 seconds to start following the instruction.\n\nFollow all of the building blocks for giving clear and specific instructions.\n\nRepeat your instruction ONCE with a choice to comply or receive a consequence: “If you do not do it now, you cannot play with your toys after dinner.”",
+    "text": "حاول تجنب استخدام التبعات بإعطاء تعليمات واضحة وإعادة التوجيه الطفل أولاً.\n\nقبل تطبيق التبعات امنح طفلك خيار الالتزام و5-10 ثوانٍ ليبدأ باتباع التعليمات.\n\nاتبع جميع القواعد الأساسية لإعطاء تعليمات واضحة ومحددة.\n\nتكرار التعليمات مرة واحدة مع خيار الالتزام أو تلقي تبعات السلوك السلبي: \"إذا لم تفعل ذلك الآن، لن تتمكن من اللعب بألعابك بعد العشاء.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Say the same words and speak calmly, slowly, and firmly. Make sure your child is paying attention. \n\nIf your child decides to comply after having been given a choice, praise your child for following the instruction – even if your child is unhappy about it. \n\nRemember to manage tantrums and whining by ignoring your child’s behaviour (but not the child!).",
+    "text": "استخدم نفس الكلمات وتحدث بهدوء وبطء وحزم. تأكد من أن طفلك منتبه.\n\nإذا قرر طفلك الالتزام بعد منحه خيار يجب أن تمدحه لاتباعه التعليمات، حتى لو كان الطفل غير سعيد بذلك.\n\nتذكر أن تتعامل مع نوبات الغضب والتذمر عن طريق تجاهل سلوك طفلك (وليس الطفل!).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to give a consequence",
+    "text": "كيفية اعطاء تبعات السلوك السلبي",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, give the consequence immediately.",
+    "text": "يجب أن تكون تبعات السلوك السلبي فورية ومعقولة وواقعية.\n\nإذا تم إعطاء تبعات السلوك السلبي، يجب الانتقال إلى نشاط جديد بدلاً من الإصرار على أن يتبع الطفل التعليمات.\n\nإذا نسي/خالف طفلك ضوابط منزلية تتعلق بالسلامة فطبق التبعات فورًا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is okay to show your disappointment when your child forgets a Household Rule. Make it clear that your disappointment is about your child’s action and not your child. For example, you can say, “I love you even when you do something disappointing.”\n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline.",
+    "text": "لا بأس في إظهار خيبة الأمل عندما ينسى الطفل ضوابط المنزل. وضح أن خيبة أملك تتعلق بأفعال طفلك وليس بالطفل نفسه. مثال: يمكنك أن تقول \"أحبك حتى لو فعلت شيئًا سلبي\".\n\nالتبعات ليست عقوبات، بل تُعلّم الأطفال المسؤولية والانضباط الذاتي.",
     "type": "data_list",
     "note": ""
   },
@@ -4638,10 +4878,22 @@
     "note": ""
   },
   {
+    "SourceText": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?",
+    "text": "سنتعلم اليوم كيفية التعامل مع سلوكيات طفلكِ الصعبة.\nأحيانًا يتصرف أطفالنا بطريقة غير لائقة لأنهم بحاجة إلى الاهتمام. يحتاج الأطفال إلى الاهتمام منذ الصغر. إذا لم يحصلوا على الاهتمام الكافي فسيبذلون جهدًا كبيرًا للحصول عليه عن طريق سلوكيات مثل التذمر والمطالبة والتباهي ونوبات الغضب وغيرها من السلوكيات الصعبة.\n\nفماذا يمكننا أن نفعل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "One effective strategy is learning how to manage these difficult behaviours in the right way. \n\nWe can do this by choosing not to give attention to the behaviours we don’t want to see. \n\nWhen we stop reacting to things like whining or tantrums, our children learn that these actions won’t get them the attention they’re seeking.\n\nInstead, we can focus on giving our children plenty of positive attention when they behave well.",
     "text": "إحدى الاستراتيجيات الفعّالة هي تعلّم كيفية إدارة هذه السلوكيات الصعبة بطريقة صحيحة.\n\nيمكننا تحقيق ذلك باختيار تجاهل السلوكيات التي لا نرغب برؤيتها.\n\nعندما نتوقف عن التفاعل مع تصرفات كالتذمّر أو نوبات الغضب، يتعلم أطفالنا أن هذه الأفعال لن تجلب لهم الاهتمام الذي يبحثون عنه.\n\nبدلاً من ذلك، يمكننا التركيز على منح أطفالنا الكثير من الاهتمام الإيجابي عندما يتصرفون بشكل جيد.",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "@data.characters.f2_daughter_3.name and her family are having lunch together:",
+    "text": "@data.characters.f2_daughter_3.name و عائلتها يتناولون الغداء معاً:",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
   },
   {
     "SourceText": "I want more juice",
@@ -4674,10 +4926,28 @@
     "note": ""
   },
   {
+    "SourceText": "@data.characters.f2_son_8.name, please fetch the cookies from the counter.",
+    "text": "@data.characters.f2_son_8.name من فضلك أحضر البسكويت من على الطاولة.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_son_8.name, should not be translated."
+  },
+  {
+    "SourceText": "@data.characters.f2_son_8.name, it is so nice to see you helping out in the house.",
+    "text": "من الجميل جداً رؤيتك تساعد في البيت يا @data.characters.f2_son_8.name.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_son_8.name, should not be translated."
+  },
+  {
     "SourceText": "Waaaaaaaa! Waaaaaaaa! WAAAAAA!",
     "text": "وااااااء! وااااء! واااااااء!",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3.name. Here, have some delicious cookies with us.",
+    "text": "من الجميل رؤيتك تجلسين بهدوء يا @data.characters.f2_daughter_3.name، تناولي بعض البسكويت اللذيذ معنا.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name. should not be translated."
   },
   {
     "SourceText": "Thanks!",
@@ -4686,10 +4956,70 @@
     "note": ""
   },
   {
-    "SourceText": "They leave the room to ignore her completely.",
-    "text": "غادروا الغرفة وتجاهلوها تماماً.",
+    "SourceText": "@data.characters.f2_daughter_3.name’s grandparents managed her difficult behaviour. Let’s explore how they did this.",
+    "text": "استطاع جد وجدة @data.characters.f2_daughter_3.name التعامل مع سلوكها الصعب. لنستكشف كيف عملوا ذلك.",
     "type": "data_list",
-    "note": ""
+    "note": "The string @data.characters.f2_daughter_3.name’s should not be translated."
+  },
+  {
+    "SourceText": "What did the grandparents do when @data.characters.f2_daughter_3.name demanded more juice?",
+    "text": "ماذا فعل جد وجدة @data.characters.f2_daughter_3.name عندما طالبت بالمزيد من العصير؟",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "The grandparents ignored @data.characters.f2_daughter_3.name’s whining and focused on giving positive attention to @data.characters.f2_son_8.name",
+    "text": "تجاهلوا تذمر @data.characters.f2_daughter_3.name وركزوا على إعطاء اهتمام إيجابي ل@data.characters.f2_son_8.name",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name’s\n@data.characters.f2_son_8.name"
+  },
+  {
+    "SourceText": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and instead praised @data.characters.f2_son_8.name for his positive actions.",
+    "text": "صحيح! لم يعطوا اهتمام لسلوك @data.characters.f2_daughter_3.name الصعب ومدحوا سلوك @data.characters.f2_son_8.name الإيجابي.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name’s\n@data.characters.f2_son_8.name"
+  },
+  {
+    "SourceText": "The grandparents scolded @data.characters.f2_daughter_3.name and told her to stop whining.",
+    "text": "أنبوا @data.characters.f2_daughter_3.name وأمروها أن توقف عن التذمر.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "Incorrect. Scolding @data.characters.f2_daughter_3.name would have given her negative attention, reinforcing her behaviour and making the situation worse. \n\nInstead the grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and gave positive attention to @data.characters.f2_son_8.name instead.",
+    "text": "غير صحيح. تأنيب @data.characters.f2_daughter_3.name كان سيعطيها اهتمام سلبي وسيشجع تصرفها ويزيد من سوء الموقف. \n\nبدلاً من ذلك فإنهم لم يهتموا لسلوك @data.characters.f2_daughter_3.name الصعب وأعطوا @data.characters.f2_son_8.name اهتمام إيجابي.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_daughter_3.name’s\n@data.characters.f2_son_8.name"
+  },
+  {
+    "SourceText": "The grandparents immediately gave @data.characters.f2_daughter_3.name more juice to stop her whining.",
+    "text": "الجد والجدة أعطوا @data.characters.f2_daughter_3.name المزيد من العصير لتتوقف عن التذمر.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "Incorrect. Giving @data.characters.f2_daughter_3.name more juice would have rewarded her demanding behaviour, teaching her that whining gets results. \n\nInstead, the grandparents ignored her demanding behaviour and praised @data.characters.f2_son_8.name’s positive behaviour.",
+    "text": "غير صحيح. إعطاء @data.characters.f2_daughter_3.name المزيد من العصير كان سيشجع سلوكها الصعب وسيعلمها أن التذمر فعال.\n\nبدلاً من ذلك، فإنهم تجاهلوا سلوكها الصعب ومدحوا سلوك @data.characters.f2_son_8.name الإيجابي.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_son_8.name’s"
+  },
+  {
+    "SourceText": "The grandparents left the room to avoid hearing @data.characters.f2_daughter_3.name’s whining.",
+    "text": "الجد والجدة غادروا الغرفة ليتجنبوا سماع تذمر @data.characters.f2_daughter_3.name.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name’s should not be translated."
+  },
+  {
+    "SourceText": "Incorrect. Leaving the room could have made @data.characters.f2_daughter_3.name feel neglected and unsafe. The grandparents stayed present but chose to ignore the whining behaviour while praising @data.characters.f2_son_8.name.",
+    "text": "غير صحيح. مغادرة الغرفة قد يشعر @data.characters.f2_daughter_3.name بالإهمال ويعرضها للخطر. الجد والجدة استمروا بالبقاء ولكن تجاهلوا تذمرها ومدحوا @data.characters.f2_son_8.name.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_son_8.name."
+  },
+  {
+    "SourceText": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3.name’s difficult behaviour?",
+    "text": "لماذا تعتقد أنه من المهم أن يستمروا أفراد العائلة بتجاهل سلوك @data.characters.f2_daughter_3.name الصعب؟",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name’s should not be translated."
   },
   {
     "SourceText": "Because it will make her feel unloved and teach her a lesson",
@@ -4710,6 +5040,12 @@
     "note": ""
   },
   {
+    "SourceText": "Correct! Giving attention to @data.characters.f2_daughter_3.name’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants.",
+    "text": "صحيح! إعطاء الاهتمام لسلوك @data.characters.f2_daughter_3.name سيشجع على تكراره وهذا سيعلمها أن تصعيد المطالبات استراتيجية ناجحة للحصول على ما تريد.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name’s should not be translated."
+  },
+  {
     "SourceText": "Because not giving attention to her behaviour will make her stop immediately and never act out again.",
     "text": "لأن عدم الاهتمام بسلوكها سيجعلها تتوقف فورًا ولن تتصرف هكذا مرة أخرى.",
     "type": "data_list",
@@ -4722,14 +5058,176 @@
     "note": ""
   },
   {
+    "SourceText": "How do the grandparents ignore @data.characters.f2_daughter_3.name’s behaviour?",
+    "text": "كيف استطاع الجد والجدة تجاهل سلوك @data.characters.f2_daughter_3.name؟",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name’s should not be translated."
+  },
+  {
+    "SourceText": "They look directly at @data.characters.f2_daughter_3.name but stayed silent.",
+    "text": "نظروا إلى @data.characters.f2_daughter_3.name ولكن التزموا الصمت.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "Incorrect. Looking directly at @data.characters.f2_daughter_3.name would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3.name, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
+    "text": "غير صحيح. النظر إلى @data.characters.f2_daughter_3.name يعتبر نوع من الاهتمام وهذا ممكن يشجع سلوكها الصعب.\n\nالجد والجدة أداروا عن @data.characters.f2_daughter_3.name وتجنبوا التواصل البصري واللفظي معها.\n\nكانوا على علم بما تفعله @data.characters.f2_daughter_3.name طوال الوقت.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_daughter_3.name,\n@data.characters.f2_daughter_3.name"
+  },
+  {
+    "SourceText": "They turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
+    "text": "أداروا بأجسادهم عن @data.characters.f2_daughter_3.name وتجنبوا التواصل البصري واللفظي معها.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name, should not be translated."
+  },
+  {
+    "SourceText": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
+    "text": "صحيح! عن طريق إدارة أجسادهم عنها وتجنب التواصل البصري واللفظي معها لم يعطوا اهتمام لسلوك @data.characters.f2_daughter_3.name الصعب.\n\nالجد والجدة كانوا على علم بما تفعل @data.characters.f2_daughter_3.name طوال الوقت.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name’s\n@data.characters.f2_daughter_3.name"
+  },
+  {
+    "SourceText": "@data.characters.f2_grandfather.name quietly asks @data.characters.f2_daughter_3.name to stop whining but does not yell at her",
+    "text": "@data.characters.f2_grandfather.name يطلب بهدوء من @data.characters.f2_daughter_3.name التوقف عن التذمر ولكن لا يصرخ عليها",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_grandfather.name\n@data.characters.f2_daughter_3.name"
+  },
+  {
+    "SourceText": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
+    "text": "غير صحيح. الطلب من @data.characters.f2_daughter_3.name للتوقف عن التذمر يمنحها اهتمام لفظي وهذا قد يزيد من سلوكها الصعب.\n\nالجد والجدة يديران أجسادهم عن @data.characters.f2_daughter_3.name ويتجنبوا التواصل البصري واللفظي معها.\nكانوا على علم بما تفعله @data.characters.f2_daughter_3.name طوال الوقت.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_daughter_3.name,\n@data.characters.f2_daughter_3.name"
+  },
+  {
+    "SourceText": "They leave the room to ignore her completely.",
+    "text": "غادروا الغرفة وتجاهلوها تماماً.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Incorrect. Leaving the room might not be safe. Remember, you want to not give attention to the negative behaviour, not ignore the child. \n\nThe grandparents stay present but turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her.",
+    "text": "غير صحيح. مغادرة الغرفة قد يعرضها للخطر. تذكر عليك ألا تعطي اهتمام للسلوك السلبي ولكن لا تتجاهل الطفل.\n\nالجد والجدة استمروا بالبقاء ولكن أداروا عن @data.characters.f2_daughter_3.name وتجنبوا التواصل البصري واللفظي معها.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name, should not be translated."
+  },
+  {
+    "SourceText": "What does the @data.characters.f2_grandfather.name do when @data.characters.f2_daughter_3.name’s tantrum is over?",
+    "text": "ماذا يفعل @data.characters.f2_grandfather.name عندما تنتهي @data.characters.f2_daughter_3.name من نوبة الغضب؟",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_grandfather.name\n@data.characters.f2_daughter_3.name’s"
+  },
+  {
     "SourceText": "He praises her for sitting quietly",
     "text": "يمدحها على جلوسها بهدوء",
     "type": "data_list",
     "note": ""
   },
   {
+    "SourceText": "Correct! Praising @data.characters.f2_daughter_3.name for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3.name some comfort after a difficult experience.",
+    "text": "صحيح! مدح @data.characters.f2_daughter_3.name لسلوكها الهادئ يشجعها على تكرار السلوك الإيجابي. ويدعوها أيضًا لتناول الحلوى معًا.\n\nالمدح وإشراكها في نشاط آخر يوفر ل@data.characters.f2_daughter_3.name الراحة بعد تجربة صعبة.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_daughter_3.name"
+  },
+  {
     "SourceText": "He tells her that she needs to apologise for the tantrum before having dessert.",
     "text": "يخبرها أنها بحاجة إلى الاعتذار عن نوبة الغضب قبل تناول الحلوى.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
+    "text": "غير صحيح. التركيز على نوبة الغضب سيُذكّر @data.characters.f2_daughter_3.name بالسلوك السلبي. قد تُكرر نوبة الغضب.\n\nبدلاً من ذلك، مدحها الجد على هدوئها ودعاها لتناول البسكويت معهم.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name",
+    "text": "يتجاهلها تماماً ويستمر بإعطاء الاهتمام ل@data.characters.f2_son_8.name فقط",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_son_8.name should not be translated."
+  },
+  {
+    "SourceText": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3.name positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see.",
+    "text": "غير صحيح. بعد انتهاء نوبة الغضب، من المهم منح @data.characters.f2_daughter_3.name اهتمام إيجابي لسلوكها الهادئ.\n\nتجاهلها في هذه المرحلة سيُفوّت فرصة لتعزيز السلوك الذي ترغب في رؤيته.",
+    "type": "data_list",
+    "note": "The string @data.characters.f2_daughter_3.name should not be translated."
+  },
+  {
+    "SourceText": "Here are some tips for managing challenging behaviours:",
+    "text": "فيما يلي بعض النصائح حول كيفية التعامل مع السلوكيات الصعبة:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pay attention",
+    "text": "انتبه",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Notice when your child wants or needs positive attention.",
+    "text": "لاحظ إن كان طفلك يريد اهتمام إيجابي.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Listen to what your child says and give attention to his/her positive behaviour.\n\nIf you are doing something important, take a moment to acknowledge your child and redirect her/him to something that will occupy her/his attention.\n\nPay more attention to the behaviour you want more of, and less attention to the behaviour you want less of.",
+    "text": "استمع لما يقوله طفلك واهتم لسلوكه الإيجابي.\n\nإذا كنت تفعل شيئًا مهمًا، خذ دقيقة من وقتك للاستجابة لطفلك وإعادة توجيهه إلى شيء يشغل اهتمامه.\n\nاهتم للسلوك الذي ترغب في رؤيته أكثر وليس للسلوك الذي ترغب في تقليله.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Redirect first",
+    "text": "أعد التوجيه أولاً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Try to redirect or distract your child before ignoring.",
+    "text": "حاول إعادة توجيه طفلك أو تشتيت انتباهه أولاً قبل تجاهله.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Redirect works best for younger children.\n\nUse a calm voice and a new activity: “Let’s play ball together instead.”\n\nEncourage the opposite of the problem behaviour with rewards and praise.",
+    "text": "إعادة التوجيه تنفع أكثر مع الأطفال الأصغر سنًا.\n\nاستخدم صوت هادئ واطرح نشاط جديد عند إعادة التوجيه. مثال: \"هيا نلعب الكرة معًا\"\n\nاستخدم المكافآت والمدح للتشجيع على السلوك العكسي (الغير مُسبب للمشكلة).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to ignore",
+    "text": "كيفية تطبيق التجاهل",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Arguing, sulking, screaming, interrupting, whining, teasing, and sometimes even swearing are behaviours that may be ignored. \n\nIgnoring behaviour is sometimes the best response to difficult behaviour.\n\nIgnore means no eye contact, no physical contact, and no verbal contact.\n\nIgnore only the behaviour, not the child.",
+    "text": "ممكن تجاهل الجدال، والصراخ، والمقاطعة، والتذمر، والمضايقة، وأحيانًا حتى الشتائم.\n\nتجاهل السلوك أحيانًا أفضل رد فعل للسلوكيات الصعبة.\n\nالتجاهل يعني عدم التواصل البصري أو الجسدي أو اللفظي.\n\nتجاهل السلوك، ولكن لا تتجاهل الطفل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do not ignore aggressive or dangerous behaviours that risk safety.\n\nIgnoring is a group effort. Everyone in the family must join in.\n\nIgnore works better for children ages 4 and older; Redirect younger children\n\nAs soon as the negative behaviour ends, praise the next positive behaviour immediately.",
+    "text": "لا تتجاهل السلوكيات العدوانية أو الخطرة التي تُهدد السلامة.\n\nالتجاهل جهد جماعي. يجب على جميع أفراد الأسرة المشاركة فيه.\n\nالتجاهل فعال أكثر مع الأطفال من سن 4 سنوات فما فوق، أعد توجيه الأطفال الأصغر سنًا.\n\nعندما ينتهي السلوك السيء، امدح السلوك الإيجابي التالي فورًا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be prepared",
+    "text": "كن مستعد",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ignoring can make behaviour get worse at first before it gets better. Be patient!\n\nStay calm—use your own calming strategies (deep breaths, pausing, walking away).",
+    "text": "التجاهل قد يُفاقم السلوك في البداية قبل أن يتحسن. تحلَّ بالصبر!\n\nحافظ على هدوئك - استخدم استراتيجياتك التهدئة (تنفس بعمق، أخذ استراحة، ابتعد).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be consistent when choosing to ignore difficult behavior.\n\nIgnoring is easier if we have decided how we are going to act when ignoring.",
+    "text": "كن مُثابرًا عند تجاهل السلوك الصعب.\n\nيصبح التجاهل أسهل إذا قررنا كيف سنتصرف عند تطبيقه.",
     "type": "data_list",
     "note": ""
   },
@@ -4920,6 +5418,96 @@
     "note": ""
   },
   {
+    "SourceText": "Stay calm",
+    "text": "كن هادئاً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a short pause (even a breath)",
+    "text": "خذ استراحة قصيرة (حتى لو كان نفس عميق)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get your child’s attention. Go down to his/her level.\n\nHelp your child calm down by taking a deep breath.",
+    "text": "اجذب انتباه طفلك. انزل إلى مستواه.\n\nساعد طفلك على التهدئة بأخذ نفس عميق.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Know it",
+    "text": "استكشف",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the problem into words. Talk to your child about what the problem is.",
+    "text": "استخدم كلمات لوصف المشكلة. تحدّث مع طفلك عن ماهيتها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, \"I can hear you arguing because you both want to use the tablet. I know I said you both could use it after you’ve helped tidy up your room but we only have one tablet. What should we do about this?\"\n\nConsider the developmental level of your child and what your child can physically do and understand.",
+    "text": "مثال: \"أسمعكما تتجادلان لأنكما تريدان استخدام الجهاز اللوحي. أعلم أنني قلت لكم ممكن استخدامه بعد ترتيب الغرفة لكن لدينا جهاز لوحي واحد فقط. ماذا نفعل الآن؟\"\n\nضع في اعتبارك مستوى نمو طفلك وما يستطيع فعله وفهمه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Solve it",
+    "text": "أجد الحل",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Together, think of possible solutions to this problem.",
+    "text": "فكروا معًا في حلول ممكنة لهذه المشكلة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
+    "text": "ما الذي يمكنكم فعله بشكل مختلف في هذا الموقف مستقبلًا؟\n\nمثال: \"أحد الخيارات هو عدم استخدام الجهاز اللوحي إطلاقًا، أو يمكنكم استخدامه بالتناوب. أو يمكنكم مشاهدة شيء عليه معًا. ما رأيكم؟\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Try it",
+    "text": "جرب الحل",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!",
+    "text": "اختاروا حلاً واحدًا معًا وجربوه في المرة القادمة عندما تكون في موقف مشابه، وامدح طفلك على المحاولة!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, the next day after the room has been tidied up by the children...\"Okay boys, do you remember what we said last night about the tablet? Who can remember the solution we came up with?\" \"That's right – well done for remembering! Let's try to pick something that you both want to watch – I may even come watch with you!\"",
+    "text": "مثال: في اليوم التالي بعد أن ينظف الأطفال الغرفة قل لهم \"هل تتذكرون ما قلناه الليلة الماضية عن الجهاز اللوحي؟ من يتذكر الحل الذي توصلنا إليه؟ هذا صحيح - أحسنتم على التذكر! لنحاول اختيار شيء ترغبون في مشاهدته - وأنا سأشاهده معكم!\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflect",
+    "text": "قيم النتائج",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "After you’ve tried it, decide with your child whether or not your solution worked.",
+    "text": "بعد أن تجرب الحل، قرر مع طفلك مدى نجاحه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, after the YouTube video ends... \"Well that was an exciting video! I never knew I liked watching diving so much, so thank you for introducing me to something new! I think we all had fun watching that together, so I look forward to seeing what you pick to watch tomorrow.\"",
+    "text": "مثال: بعد انتهاء فيديو يوتيوب قل لهم \"كان الفيديو رائع! لم أكن أعلم أنني سأستمتع بمشاهدة الغوص، شكرًا لكم على تعريفي بشيء جديد! أعتقد أننا استمتعنا جميعًا بمشاهدته معًا، لذا أتطلع إلى رؤية ما ستختارونه لمشاهدته غدًا.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Let’s think of some common problems we could solve with our children.",
     "text": "دعونا نفكر في بعض المشاكل الشائعة التي يمكننا حلها مع أطفالنا.",
     "type": "data_list",
@@ -4958,18 +5546,6 @@
   {
     "SourceText": "Talk with your child and use the steps of problem-solving together to come up with solutions that you can try out.",
     "text": "تحدث مع طفلك واستخدم خطوات حل المشاكل معه للتوصل إلى حلول يمكنكم تجربتها.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!",
-    "text": "اختاروا حلاً واحدًا معًا وجربوه في المرة القادمة عندما تكون في موقف مشابه، وامدح طفلك على المحاولة!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "After you’ve tried it, decide with your child whether or not your solution worked.",
-    "text": "بعد أن تجرب الحل، قرر مع طفلك مدى نجاحه.",
     "type": "data_list",
     "note": ""
   },
@@ -5028,7 +5604,7 @@
     "note": ""
   },
   {
-    "SourceText": "Development Through Play",
+    "SourceText": "Child Development through Play",
     "text": "التطور عن طريق اللعب",
     "type": "data_list",
     "note": ""
@@ -5300,6 +5876,144 @@
   {
     "SourceText": "Probably not. Spending time with our children is relaxing because we are able to enjoy time together without it feeling like work.",
     "text": "على الأرجح لا! حيث يعد قضاء الوقت مع أطفالنا أمر مريح لأننا نتمكن من قضاء وقت ممتع معًا دون أن نشعر وكأننا نعمل. ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One-on-one time helps your child feel important, valued, and loved",
+    "text": "قضاء وقت خاص مع طفلك يُشعره بأهميته وقيمته وبمحبتك اتجاهه",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The more positive time you spend with your child, the less negative time you will spend with your child.\n\nIt is what you do at home that makes the difference!",
+    "text": "كلما زاد الوقت الإيجابي الذي تقضيه مع طفلك، قلّ الوقت السلبي.\n\nما تطبقه من مهارات في المنزل هو ما يُحدث الفرق!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do it every day",
+    "text": "طبق القواعد يوميًا",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Set aside a specific time each day to spend one-on-one time with your child (at least 5 minutes—more is better!).",
+    "text": "خصص وقتًا محددًا كل يوم لقضاء وقت خاص مع طفلك (٥ دقائق على الأقل - كلما زادت المدة كان ذلك أفضل!).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose a time when you won’t be interrupted and when your child does not have something else they want to do, like watching TV or playing with their tablet.\n\nTurn off the TV, put away mobile phones and tablets.\n\nTell your child you would like to spend one-on-one time and that they can choose what to do.",
+    "text": "اختر وقتًا لا يُقاطعك فيه أحد، وعندما لا يكون لدى طفلك شيء آخر يريد القيام به (مثل مشاهدة التلفزيون أو اللعب بجهازه اللوحي).\n\nأطفئ التلفزيون وضع الهواتف المحمولة والأجهزة اللوحية بعيدًا.\n\nأخبر طفلك أنك ترغب في قضاء وقت خاص معه وأن بإمكانه اختيار ما يريد فعله.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure your child knows you are watching them",
+    "text": "تأكد من أن طفلك يعرف أنك تنتبه له",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit close to your child and give them your full attention.",
+    "text": "اجلس بالقرب من طفلك وأعطه كامل انتباهك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Turn your body towards them or sit beside them.\n\nGet down to your child’s level.\n\nLook at your child and notice what s/he is doing.\n\nUse your child’s name when you speak to him or her.",
+    "text": "وجّه جسمك نحوه أو اجلس بجانبه.\n\nانزل إلى مستوى طفلك.\n\nانظر إلى طفلك ولاحظ ما يفعله.\n\nاستخدم اسم طفلك عند التحدث إليه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Follow their lead",
+    "text": "دع طفلك يقود",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your child take the lead during one-on-one time.",
+    "text": "دع طفلك يقود أثناء الوقت الخاص.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Accept what your child wants to do as long as it is a safe activity.\n\nChildren need to do things in their own time. Let things go at your child’s pace. Try to give them time to explore and be patient.\n\nYou can watch your child play or you can try different activities together.",
+    "text": "تقبّل ما يختاره طفلك طالما أنه نشاط آمن.\n\nيحتاج الطفل وقت كافٍ للقيام بنشاط معين، فدع الأمور تسير بوتيرة الطفل. حاول أن تمنحه وقت للاستكشاف وتحلى بالصبر.\n\nيمكنك مشاهدة طفلك يلعب أو تجربة أنشطة مختلفة معًا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use words to describe what your child is doing",
+    "text": "استخدم الكلمات لوصف ما يفعله طفلك",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening!\n\nYour child will learn a lot from what you say and do.",
+    "text": "استخدم الكلمات لوصف الأفعال والألوان والأشكال والأرقام والأحجام والملمس ودرجات الحرارة والنكهات والأصوات وأي شيء آخر يحدث!\n\nسيتعلم طفلك الكثير مما تقوله وتفعله.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember this is the child's game. Can you think how you have felt recently when someone has been critical of you?",
+    "text": "تذكر أن هذا نشاط لعب، فلا تنتقد طفلك. هل يمكنك أن تتخيل شعورك عندما انتقدك أحد مؤخرًا؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There is no right or wrong in play, and within reason, what your child chooses to play is right for them. \n\nYour job is to show an interest and say something nice.",
+    "text": "لا يوجد صح أو خطأ في اللعب. في حدود المعقول ما يختاره طفلك للعب هو الأنسب له.\n\nمهمتك هي إظهار الاهتمام وقول شيء لطيف لطفلك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give as few instructions or directions as possible",
+    "text": "أعطِ أقل قدر ممكن من التعليمات أو التوجيهات",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Of course, you have to take action if your child does something that he or she is not allowed to do, such as ignoring an agreed house rule, or wants to do something dangerous (like playing with matches).",
+    "text": "بالطبع يجب أن تتدخل إذا قام طفلكَ بشيء غير مسموح له بفعله (مثل تجاهل ضوابط المنزل المتفق عليها) أو أراد القيام بشيء خطر (مثل اللعب بأعواد الثقاب).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "However, generally when you are spending one-on-one time with your child, s/he or she should lead the activity. \n\nAlso, try not to ask questions.",
+    "text": "غير ذلك، عند قضاء الوقت الخاص مع طفلكَ يجب عليه قيادة النشاط.\n\nحاول عدم طرح الأسئلة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give just enough help so it feels like their achievement",
+    "text": "قدّم اقل مساعدة ممكنة بحيث يشعر الطفل بأنه قد حقق إنجازًا",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Play alongside and copy what they are doing but try to let them keep the initiative.",
+    "text": "شارك طفلك باللعب وقلّد ما يفعله، ولكن حاول أن تترك له القيادة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If they ask what to do, turn the question back by asking what they could do or think that they might do next. \n\nFor children who do not have self-confidence, it is particularly important that they do not get directions from adults all the time.",
+    "text": "إذا سألك عما يجب فعله فأجبه بسؤال عما يعتقد أنه قد يفعله.\n\nبالنسبة للأطفال الذين لا يتمتعون بالثقة بالنفس من المهم جدًا ألا يتلقوا توجيهات من الكبار طوال الوقت.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You are in charge",
+    "text": "أنت المسؤول",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You must decide when the session finishes. \n\nGive your child a “Transition Warning” when there is one minute remaining in one-on-one time.",
+    "text": "أنت الذي تحدد وقت انتهاء الوقت الخاص.\n\nأعطِ طفلك \"تحذير انتقال\" عندما تتبقى دقيقة واحدة من الوقت الخاص.",
     "type": "data_list",
     "note": ""
   },
@@ -5682,6 +6396,12 @@
     "note": ""
   },
   {
+    "SourceText": "He told his daughter to come to him if anything upsets her",
+    "text": "أخبرها أن تخبره إذا تعرضت لأى شئ يزعجها",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "You are correct! \n\nThe father \n✅ sets a household rule to limit gadget use to 30 minutes a day\n✅ Asks his daughter to wait until she's older for a social media account\n✅ Advises against clicking on pop-ups\n✅Encourages his daughter to come talk to him if anything upsets her online.",
     "text": "في حال اخترت أ أو د أو ه فأنت على صواب! \n\nالأب \n✅ يضع ضوابط في المنزل للحد من استخدام الجهاز إلى ٣٠ دقيقة في اليوم.\n✅ يطلب من ابنته الانتظار إلى أن تصبح أكبر لإنشاء حساب على وسائل التواصل الإجتماعي. \n✅ ينصحها بعدم النقر على المواقع والصور التي تظهر تلقائياً. \n✅ يشجع ابنته على التحدث معه إذا أزعجها أي شيء على الإنترنت أو مواقع التواصل الاجتماعى.",
     "type": "data_list",
@@ -5868,8 +6588,62 @@
     "note": ""
   },
   {
+    "SourceText": "Be a team",
+    "text": "اعمل كفريق",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Involve your child in making rules—they are more likely to follow them.",
+    "text": "أشرك طفلك في وضع الضوابط ليكون أكثر ميلاً للالتزام بها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure your child understands the reasons why you are establishing a household rule or routine\n\nOlder children can suggest rules, and you can agree together.\n\nEstablish household rules and routines when your child is calm and quiet.",
+    "text": "تأكد من أن طفلك يفهم أسباب وضعك لضوابط المنزل والنظام اليومي.\n\nيمكن للأطفال الأكبر سناً اقتراح ضوابط معينة ويمكنكما الاتفاق عليها معاً.\n\nحدد ضوابط المنزل والمهام اليومية عندما يكون طفلك هادئاً.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make rules and routines positive, specific, and realistic. Example: instead of “Clean up” say “Pick up all of your building blocks.”\n\nConsider your child’s age and abilities—make sure they can actually do what you ask.\n\nTeach your child how to follow daily routines by breaking them down into small steps.",
+    "text": "تكون ضوابط المنزل والنظام اليومي إيجابية ومحددة وواقعية. مثال: بدلًا من \"نظّف الغرفة\" قل \"اجمع كل مكعبات البناء\".\n\nخذ بعين الاعتبار عمر طفلك وقدراته وتأكد من قدرته على فعل ما تطلبه منه.\n\nعلّم طفلك كيفية اتباع النظام اليومي عن طريق تقسيم المهام إلى خطوات صغيرة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Routines can be short (washing hands before dinner) or longer (bedtime routine).\n\nOnly introduce one new rule or routine at a time.\n\nWhen following a routine, give one instruction at a time. \n\nKeep them simple!\n\nMake sure your child follows through with each instruction.\n\nPraise your child immediately after following your instructions.",
+    "text": "يمكن أن يكون النظام اليومي قصير (مثل غسل اليدين قبل العشاء) أو أطول (مثل نظام وقت النوم).\n\nللضوابط والأنظمة الجديدة، قدم وحدة فقط في كل مرة.\n\nعند اتباع نظام يومي معين أعطِ التعليمات واحدة تلو الأخرى.\n\nاجعل التعليمات بسيطة!\n\nتأكد من أن طفلك يتبع جميع التعليمات.\n\nامدح طفلك فورًا بعد اتباع تعليماتك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be consistent",
+    "text": "كن ثابت",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Follow rules and routines daily so your child knows what to expect.\n\nUse transition warnings before the beginning of a daily routine. Example: “In 5 minutes, it will be bedtime, Sarah.”\n\nUse simple incentives to encourage your child.",
+    "text": "طبق الضوابط والنظام اليومي يوميًا ليعرف طفلك ما يمكن توقعه كل يوم.\n\nاستخدم تحذيرات الانتقال قبل بدء النظام اليومي: مثال: \"بعد 5 دقائق، سيحين وقت النوم يا سارة\"\n\nاستخدم حوافز بسيطة لتشجيع طفلك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get help from your spouse or family when needed.\n\nCreate a calm environment for your child during routines, especially bedtime.\n\nOver time, your child will follow routines more independently.",
+    "text": "اطلب المساعدة من زوجك أو عائلتك عند الحاجة.\n\nأخلق بيئة هادئة لنظام طفلك اليومي، خاصة عند وقت النوم.\n\nمع مرور الوقت سيتبع طفلك النظام اليومي باستقلالية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Here are some tips on rules and routines that will help you keep your child safe online:",
     "text": "إليك بعض النصائح حول الضوابط والأنظمة اليومية التي ستساعدك في الحفاظ على أمان طفلك على الإنترنت ومواقع التواصل الاجتماعى:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Fix your tech",
+    "text": "عدل الإعدادات التكنولوجية",
     "type": "data_list",
     "note": ""
   },
@@ -5886,6 +6660,12 @@
     "note": ""
   },
   {
+    "SourceText": "Use safe online habits",
+    "text": "استخدم طرق آمنة عند استخدام الإنترنت",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Involve your child in creating family tech rules. \n\nCreate device-free spaces and times in your house (eating, playing, schoolwork, and sleeping)",
     "text": "أشرك طفلك في وضع ضوابط الأسرة المتعلقة بالتكنولوجيا.\n\nأنشئ مساحات وأوقات خالية من الأجهزة في منزلك (مثل وقت الأكل واللعب والواجبات المدرسية والنوم)",
     "type": "data_list",
@@ -5894,6 +6674,24 @@
   {
     "SourceText": "Tell your child that if they experience something online that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them.",
     "text": "أخبر طفلك أنه إذا أزعجه أي شيء على الإنترنت أو جعله يشعر بعدم الارتياح أو الخوف فيمكنه التحدث إليك ولن تغضب منه أو تعاقبه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spend time with your child",
+    "text": "اقضي وقتا مع طفلك",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending time with your child online helps you understand their digital world and build a stronger connection. \n\nTalking regularly about what your child sees online can help build trust and keep communication open.\n\nUse simple language they understand!",
+    "text": "قضاء الوقت مع طفلك عند استخدامه للإنترنت يساعدك على فهم عالمه الرقمي ويبني علاقة جيدة معه.\n\nالتحدث بانتظام عما يشاهده طفلك على الإنترنت يُساعد على بناء الثقة بينكم ويشجع على التواصل.\n\nاستخدم لغة بسيطة يفهمها طفلك!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Explore websites, social media, games, and apps together [Common Sense Media](https://www.commonsensemedia.org/app-reviews) has great advice for apps, games and entertainment for different ages.",
+    "text": "استكشفوا المواقع الإلكترونية ومواقع التواصل الاجتماعي والألعاب والتطبيقات معًا.\n[Common Sense Media](https://www.commonsensemedia.org/app-reviews) لديهم نصائح رائعة لاختيار التطبيقات والألعاب ووسائل الترفيه المناسبة لمختلف الأعمار.",
     "type": "data_list",
     "note": ""
   },
@@ -6042,7 +6840,7 @@
     "note": ""
   },
   {
-    "SourceText": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that don't belong to us!\"",
+    "SourceText": "Today's lesson is about learning to give instructions that work! \n\nNobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n\nNegative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n\nChildren are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that belong to us!\"",
     "text": "درس اليوم هو تعلم كيفية إعطاء تعليمات فعّالة!\n\nلا أحد يتبع الضوابط طوال الوقت، لكن طريقة إعطاء التعليمات يمكن أن تساهم في جعل الأجواء أكثر سعادة وهدوءًا في المنزل.\n\nالتعليمات السلبية مثل \"لا تلمس ذلك!\" يمكن أن تجعل الأطفال يشعرون بالإحباط. (وقد تجعل الوالدين أيضًا يشعرون بالذنب!)\n\nيتبع الأطفال التعليمات أكثر عندما تُعبّر عنها بطريقة إيجابية مثل: \"من فضلك، المس الأشياء التي تخصنا فقط!\"",
     "type": "data_list",
     "note": ""
@@ -6366,8 +7164,128 @@
     "note": ""
   },
   {
+    "SourceText": "Be Specific",
+    "text": "كن دقيق",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Say the behaviour you want your child to do. Make your instructions positive, specific, and realistic.",
+    "text": "أخبر طفلك بالسلوك الذي تريده منه. اجعل تعليماتك إيجابية ومحددة وواقعية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure you have your child’s attention when giving an instruction. \n\nMove close to them, say their name, get down to their level and get them to look at you before giving the instruction.\n\nInstructions should be a command instead of a question.",
+    "text": "تأكد أن طفلك منتبه لك عند إعطائه التعليمات.\n\nاقترب منه وانطق اسمه وانزل إلى مستواه واطلب منه أن ينظر إليك قبل إعطاء التعليمات.\n\nيجب أن تكون التعليمات بصيغة أمر بدلًا من أن تكون بصيغة سؤال.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be realistic",
+    "text": "كن واقعي",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure your instruction is something your child can do.",
+    "text": "تأكد من أن طفلك يستطيع تنفيذ تعليماتك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give one instruction at a time.\n\nUse transition warnings when changing activities. Example: “In 10 minutes, you will need to pack away your toys so we can get ready for bed.”",
+    "text": "أعطِ تعليمة واحدة تلو الأخرى.\n\nاستخدم تحذيرات الانتقال عند تغيير الأنشطة. مثال: \"بعد ١٠ دقائق ستحتاج إلى ترتيب ألعابك لنستعد للنوم.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be positive",
+    "text": "كن إيجابي",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use positive words: instead of “Don’t shout,” say “Talk in a quiet voice.”",
+    "text": "استخدم كلمات إيجابية: بدلًا من \"لا تصرخ\"، قل \"تحدث بصوت هادئ\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give instructions in a calm, firm voice.\n\nAct as if you expect your child to follow through.\n\nUse “WHEN this, THEN that” to teach children the benefits of good behaviour.\n\nBe kind to yourself—learning positive instructions takes practice!",
+    "text": "أعطِ التعليمات بصوت هادئ وحازم.\n\nتصرف كما لو كنت تتوقع من طفلك الالتزام بالتعليمات.\n\nاستخدم عبارة \"عندما يحدث هذا، سيحدث ذلك\" لتعليم الأطفال فوائد السلوك الجيد.\n\nكن لطيفًا مع نفسك - تعلم التعليمات الإيجابية يتطلب الممارسة!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praise your child immediately after following an instruction",
+    "text": "امدح طفلك فورًا بعد اتباعه التعليمات",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use physical and verbal praise to support positive behaviour.\n\nAlso give your child instructions to do things that he/she is just about to do. Then he/she is following instructions without realising it, and you can then praise him or her.",
+    "text": "استخدم التواصل الجسدي واللفظي لدعم السلوك الإيجابي.\n\nأعطِ طفلك تعليمات للقيام بأشياء يوشك على قيامه بها. عندها سيتبع التعليمات دون أن يُدرك ذلك، ويمكنك حينها مدحه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are building blocks for redirecting behaviours:",
+    "text": "القواعد الأساسية لإعادة التوجيه:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Redirect early",
+    "text": "قم بإعادة التوجيه مبكرا",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use instructions to move your child from a negative behaviour to a positive one.\n\nTry to catch the behaviour before it starts or very early.\n\nFor younger children, you can also physically redirect them.",
+    "text": "استخدم التعليمات لتحويل سلوك طفلك السلبي إلى سلوك إيجابي.\n\nحاول أن تتدخل قبل أن يبدأ السلوك السلبي أو في وقت مبكر.\n\nللأطفال الأصغر سنًا يمكنك إعادة توجيههم جسديًا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Be enthusiastic",
+    "text": "كن متحمس",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use energy and positivity to encourage the new behaviour.",
+    "text": "استخدم الطاقة والإيجابية لتشجيع الطفل على السلوك الجديد.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "“Reem, bring the ball here so we can play together!”",
+    "text": "مثال: \"ريم، أحضري الكرة لنلعب معًا!\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Praise",
     "text": "المدح ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use verbal praise and physical praise (like a hug) to reinforce positive behaviour.\n\nPraise your child for the next positive behaviour, instead of revisiting the negative one.",
+    "text": "استخدم التواصل اللفظي والجسدي (كالعناق) لتعزيز السلوك الإيجابي.\n\nامدح طفلك على أول سلوك الإيجابي يظهره بدلًا من التركيز على السلوك السلبي.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For example",
+    "text": "على سبيل المثال",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "\"Such a wonderful throw, Ahmed!” Not: “I’m glad you didn’t whine about that.”",
+    "text": "\"رمية رائعة يا أحمد!\" بدلًا من: \"أنا سعيد لأنك لم تتذمر\"",
     "type": "data_list",
     "note": ""
   },
@@ -6888,6 +7806,12 @@
     "note": ""
   },
   {
+    "SourceText": "Play",
+    "text": "العب",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Play is the main way children learn and develop. Through play, they build important physical and social skills. \n\nSet aside time to play games with your child, be creative, and have fun together.",
     "text": "اللعب هو الطريقة الأساسية لتعليم وتطوير الطفل. من خلال اللعب يمكنهم بناء سلوكيات جسدية واجتماعية. خصص وقت للعب مع طفلك وكن مبدعًا، واحظوا ببعض المرح معًا.",
     "type": "data_list",
@@ -6900,6 +7824,12 @@
     "note": ""
   },
   {
+    "SourceText": "Be patient",
+    "text": "كن صبوراً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Learning new things takes time. Be patient and encourage your child to keep trying things they may find hard. \n\nStay calm when they get angry or frustrated - your child will learn to do the same over time.",
     "text": "تعلم الأشياء الجديدة يستغرق وقتًا. كن صبورًا وشجع طفلك على الاستمرار في تجربة الأمور التي قد يجدها صعبة. حافظ على هدوءك عندما يكون طفلك غاضبًا أو مستاء، سيتعلم طفلك فعل ذلك أيضا بمرور الوقت. ",
     "type": "data_list",
@@ -6908,6 +7838,12 @@
   {
     "SourceText": "You can support them by praising them for trying and helping them break large tasks into smaller tasks that are appropriate for their age.\n\nUse play to help your child learn difficult skills like losing, sharing, or taking turns.",
     "text": "يمكنك دعم طفلك من خلال مدحه على المحاولة ومساعدته في تقسيم المهام الكبيرة إلى مهام أصغر لتكون مناسبة لسنه. استخدم اللعب لتعليم طفلك سلوكيات صعبة مثل تقبل الخسارة ومشاركة الآخرين وتبادل الأدوار. ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Support curiosity",
+    "text": "ادعم الفضول",
     "type": "data_list",
     "note": ""
   },

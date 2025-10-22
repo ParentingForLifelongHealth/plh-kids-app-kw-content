@@ -132,7 +132,9 @@
       "category_id": "intro",
       "text_1_facilitator": "Today we will learn how to manage your child’s challenging behaviours. \nSometimes our children act out because they need attention. Children need attention from a very young age. If they don’t get attention freely, they work hard to get it. These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other difficult behaviours. \n\nSo what can we do?",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "kw_ar": true
+        }
       },
       "completed": false
     },
@@ -168,7 +170,9 @@
       "category_id": "explore",
       "text_1_facilitator": "@data.characters.f2_daughter_3.name and her family are having lunch together:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "character_1_text": {
           "kw_ar": true
         },
@@ -237,7 +241,9 @@
         "character_2_text": {
           "kw_ar": true
         },
-        "character_3_text": {},
+        "character_3_text": {
+          "kw_ar": true
+        },
         "character_4_text": {
           "kw_ar": true
         }
@@ -265,7 +271,9 @@
       "character_2_id": "f2_daughter_3",
       "character_1_text": "@data.characters.f2_son_8.name, it is so nice to see you helping out in the house.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -289,7 +297,9 @@
       "character_2_id": "f2_daughter_3",
       "character_1_text": "It is nice to see you sitting quietly, @data.characters.f2_daughter_3.name. Here, have some delicious cookies with us.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "kw_ar": true
+        },
         "character_2_text": {
           "kw_ar": true
         }
@@ -355,17 +365,39 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Correct! The grandparents removed their attention from @data.characters.f2_daughter_3.name’s demanding behaviour and instead praised @data.characters.f2_son_8.name for his positive actions.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_option_4_text": {},
-        "text_1_facilitator": {},
-        "quiz_3_question": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_4_text": {
+          "kw_ar": true
+        },
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "quiz_3_question": {
+          "kw_ar": true
+        },
         "quiz_3_option_1_text": {
           "kw_ar": true
         },
@@ -375,7 +407,9 @@
         "quiz_3_option_2_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_2": {},
+        "quiz_3_feedback_2": {
+          "kw_ar": true
+        },
         "quiz_3_option_3_text": {
           "kw_ar": true
         },
@@ -459,29 +493,55 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Incorrect. Looking directly at @data.characters.f2_daughter_3.name would still give her some attention, which could reinforce her behaviour. \n\nThe grandparents turned their body away from @data.characters.f2_daughter_3.name, avoided eye contact, and did not speak to her. \n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_1": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_3": {
+          "kw_ar": true
+        },
+        "quiz_1_feedback_4": {
+          "kw_ar": true
+        },
+        "quiz_1_question": {
+          "kw_ar": true
+        },
+        "quiz_1_option_1_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_2_text": {
+          "kw_ar": true
+        },
+        "quiz_1_option_3_text": {
+          "kw_ar": true
+        },
         "quiz_1_option_4_text": {
           "kw_ar": true
         },
         "text_1_facilitator": {},
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "kw_ar": true
+        },
         "quiz_2_option_1_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "kw_ar": true
+        },
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_2_feedback_2": {
+          "kw_ar": true
+        },
+        "quiz_2_option_3_text": {
+          "kw_ar": true
+        },
+        "quiz_2_feedback_3": {
+          "kw_ar": true
+        }
       },
       "quiz_1_feedback_2": "Correct! By turning their body away, avoiding eye contact, and not speaking, the grandparents effectively remove all attention from @data.characters.f2_daughter_3.name’s demanding behaviour.\n\n\nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
       "quiz_1_feedback_3": "Incorrect. Even quietly asking @data.characters.f2_daughter_3.name to stop whining gives her verbal attention, which could reinforce her behaviour. \n\nThe grandparents turn their body away from @data.characters.f2_daughter_3.name, avoid eye contact, and do not speak to her. \nThe grandparents were aware of @data.characters.f2_daughter_3.name at all times.",
@@ -559,31 +619,57 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are some tips for managing challenging behaviours:",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
+        "section_1_title": {
+          "kw_ar": true
+        },
+        "section_1_text": {
+          "kw_ar": true
+        },
         "section_1_button_text": {
           "kw_ar": true
         },
-        "section_1_extra_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
+        "section_1_extra_text": {
+          "kw_ar": true
+        },
+        "section_2_title": {
+          "kw_ar": true
+        },
+        "section_2_text": {
+          "kw_ar": true
+        },
         "section_2_button_text": {
           "kw_ar": true
         },
-        "section_2_extra_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
+        "section_2_extra_text": {
+          "kw_ar": true
+        },
+        "section_3_title": {
+          "kw_ar": true
+        },
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
+        "section_3_extra_text": {
+          "kw_ar": true
+        },
+        "section_4_title": {
+          "kw_ar": true
+        },
+        "section_4_text": {
+          "kw_ar": true
+        },
         "section_4_button_text": {
           "kw_ar": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/repeat_blue.png",

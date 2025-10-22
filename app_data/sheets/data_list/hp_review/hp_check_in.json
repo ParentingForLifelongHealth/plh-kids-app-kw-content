@@ -511,7 +511,9 @@
         "reply_ok": {
           "kw_ar": true
         },
-        "reply_sad": {},
+        "reply_sad": {
+          "kw_ar": true
+        },
         "activity_title": {
           "kw_ar": true
         },
