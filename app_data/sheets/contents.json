@@ -14,12 +14,7 @@
       "data_list_name": "activities",
       "flow_subtype": "activities",
       "_xlsxPath": "KW activities.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
-      "_metadata": {
-        "child_age_list": {
-          "type": "number"
-        }
-      }
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
     },
     "language": {
       "flow_type": "data_list",
@@ -58,9 +53,6 @@
       "flow_subtype": "generated",
       "flow_type": "data_list",
       "_metadata": {
-        "child_age_list": {
-          "type": "number"
-        },
         "accessed": {
           "type": "boolean"
         },
