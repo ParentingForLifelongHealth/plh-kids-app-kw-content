@@ -86,11 +86,9 @@
     {
       "type": "declare_global_constant",
       "name": "check_in",
-      "value": "Check-in",
+      "value": "Share your progress",
       "_translations": {
-        "value": {
-          "kw_ar": true
-        }
+        "value": {}
       }
     },
     {
