@@ -347,7 +347,7 @@
           "eng": "Because it will make her feel unloved and teach her a lesson"
         },
         "quiz_3_feedback_1": {
-          "eng": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you  avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours."
+          "eng": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours."
         },
         "quiz_3_option_2_text": {
           "eng": "Because if they give her attention, she will learn that she gets attention only when she increases her demands."
@@ -401,9 +401,7 @@
         "quiz_3_option_1_text": {
           "kw_ar": true
         },
-        "quiz_3_feedback_1": {
-          "kw_ar": true
-        },
+        "quiz_3_feedback_1": {},
         "quiz_3_option_2_text": {
           "kw_ar": true
         },
@@ -428,7 +426,7 @@
       "text_1_facilitator": "@data.characters.f2_daughter_3.name’s grandparents managed her difficult behaviour. Let’s explore how they did this.",
       "quiz_3_question": "Why do you think it is important that the family members continue to not give attention to @data.characters.f2_daughter_3.name’s difficult behaviour?",
       "quiz_3_option_1_text": "Because it will make her feel unloved and teach her a lesson",
-      "quiz_3_feedback_1": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you  avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours.",
+      "quiz_3_feedback_1": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours.",
       "quiz_3_option_2_text": "Because if they give her attention, she will learn that she gets attention only when she increases her demands.",
       "quiz_3_feedback_2": "Correct! Giving attention to @data.characters.f2_daughter_3.name’s behaviour would reinforce it, teaching her that escalating demands is a successful strategy for getting what she wants.",
       "quiz_3_option_3_text": "Because not giving attention to her behaviour will make her stop immediately and never act out again.",
@@ -481,7 +479,7 @@
           "eng": "He tells her that she needs to apologise for the tantrum before having dessert."
         },
         "quiz_2_feedback_2": {
-          "eng": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together."
+          "eng": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again. \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together."
         },
         "quiz_2_option_3_text": {
           "eng": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name"
@@ -533,9 +531,7 @@
         "quiz_2_option_2_text": {
           "kw_ar": true
         },
-        "quiz_2_feedback_2": {
-          "kw_ar": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {
           "kw_ar": true
         },
@@ -556,7 +552,7 @@
       "quiz_2_option_1_text": "He praises her for sitting quietly",
       "quiz_2_feedback_1": "Correct! Praising @data.characters.f2_daughter_3.name for her calm behaviour helps reinforce positive behaviour. He also invites her to have dessert together. \n\nBoth the praise and involving her in another activity provide @data.characters.f2_daughter_3.name some comfort after a difficult experience.",
       "quiz_2_option_2_text": "He tells her that she needs to apologise for the tantrum before having dessert.",
-      "quiz_2_feedback_2": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
+      "quiz_2_feedback_2": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again. \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
       "quiz_2_option_3_text": "He ignores her completely and continues to pay attention only to @data.characters.f2_son_8.name",
       "quiz_2_feedback_3": "Incorrect. Once the tantrum is over, it is important to give @data.characters.f2_daughter_3.name positive attention for calm behaviour. \n\nIgnoring her at this point would miss an opportunity to reinforce the behaviour you want to see.",
       "completed": false

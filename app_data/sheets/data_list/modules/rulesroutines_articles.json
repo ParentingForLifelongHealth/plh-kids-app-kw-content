@@ -646,11 +646,9 @@
       "section_1_icon_asset": "images/icons/diamond_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/repeat_blue.png",
-      "text_1_facilitator": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:",
+      "text_1_facilitator": "Here are building blocks that will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "section_1_title": {
           "kw_ar": true
         },
@@ -690,7 +688,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:"
+          "eng": "Here are building blocks that will help you create rules and routines to bring more structure and peace in your home:"
         },
         "section_1_title": {
           "eng": "Be a team"
