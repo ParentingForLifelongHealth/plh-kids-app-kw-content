@@ -463,7 +463,7 @@
           "eng": "Learn more"
         },
         "section_3_extra_text": {
-          "eng": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\""
+          "eng": "What could you or your child do differently in this situation in the future? \n\nFor example, \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\""
         },
         "section_4_title": {
           "eng": "Try it"
@@ -529,9 +529,7 @@
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {
-          "kw_ar": true
-        },
+        "section_3_extra_text": {},
         "section_4_title": {
           "kw_ar": true
         },
@@ -573,7 +571,7 @@
       "section_3_title": "Solve it",
       "section_3_text": "Together, think of possible solutions to this problem.",
       "section_3_button_text": "Learn more",
-      "section_3_extra_text": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
+      "section_3_extra_text": "What could you or your child do differently in this situation in the future? \n\nFor example, \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
       "section_4_title": "Try it",
       "section_4_text": "Choose one solution together.\n\nTry it next time you are in a similar situation, and praise your child for trying!",
       "section_4_button_text": "Learn more",

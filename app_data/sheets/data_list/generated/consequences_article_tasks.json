@@ -160,7 +160,7 @@
           "eng": "Let’s see how @data.characters.f3_uncle.name uses consequences to help @data.characters.f3_son_4.name follow instructions:"
         },
         "character_1_text": {
-          "eng": "You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys."
+          "eng": "You are building such an interesting shape, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys."
         }
       },
       "category_id": "explore",
@@ -169,13 +169,11 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {
-          "kw_ar": true
-        }
+        "character_1_text": {}
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
       "character_1_id": "f3_uncle",
-      "character_1_text": "You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
+      "character_1_text": "You are building such an interesting shape, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
       "completed": false
     },
     {
@@ -476,7 +474,7 @@
           "eng": "Learn more"
         },
         "section_3_extra_text": {
-          "eng": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
+          "eng": "Respond in a calm, clear way. Keep your voice as calm as possible, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly."
         }
       },
       "category_id": "practical_tips",
@@ -518,9 +516,7 @@
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {
-          "kw_ar": true
-        }
+        "section_3_extra_text": {}
       },
       "section_1_icon_asset": "images/icons/hourglass_blue.png",
       "section_2_icon_asset": "images/icons/balance_blue.png",
@@ -536,7 +532,7 @@
       "section_3_title": "Be Calm",
       "section_3_text": "Take deep breaths or walk away if you need to calm down first.",
       "section_3_button_text": "Learn more",
-      "section_3_extra_text": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly.",
+      "section_3_extra_text": "Respond in a calm, clear way. Keep your voice as calm as possible, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly.",
       "completed": false
     },
     {
@@ -570,13 +566,13 @@
           "eng": "How to give a consequence"
         },
         "section_3_text": {
-          "eng": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, give the consequence immediately."
+          "eng": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, prioritise safety and give the consequence immediately so that nobody gets hurt."
         },
         "section_3_button_text": {
           "eng": "More tips"
         },
         "section_3_extra_text": {
-          "eng": "It is okay to show your disappointment when your child forgets a Household Rule. Make it clear that your disappointment is about your child’s action and not your child. For example, you can say, “I love you even when you do something disappointing.”\n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline."
+          "eng": "It is okay to show your emotion when your child forgets a Household Rule. Make it clear that your emotion is about your child’s action and not your child. \n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline."
         }
       },
       "category_id": "practical_tips",
@@ -612,15 +608,11 @@
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {
-          "kw_ar": true
-        },
+        "section_3_text": {},
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {
-          "kw_ar": true
-        }
+        "section_3_extra_text": {}
       },
       "section_1_text": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.",
       "section_1_button_text": "Learn more",
@@ -630,9 +622,9 @@
       "section_2_button_text": "More tips",
       "section_2_extra_text": "Say the same words and speak calmly, slowly, and firmly. Make sure your child is paying attention. \n\nIf your child decides to comply after having been given a choice, praise your child for following the instruction – even if your child is unhappy about it. \n\nRemember to manage tantrums and whining by ignoring your child’s behaviour (but not the child!).",
       "section_3_title": "How to give a consequence",
-      "section_3_text": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, give the consequence immediately.",
+      "section_3_text": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, prioritise safety and give the consequence immediately so that nobody gets hurt.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "It is okay to show your disappointment when your child forgets a Household Rule. Make it clear that your disappointment is about your child’s action and not your child. For example, you can say, “I love you even when you do something disappointing.”\n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline.",
+      "section_3_extra_text": "It is okay to show your emotion when your child forgets a Household Rule. Make it clear that your emotion is about your child’s action and not your child. \n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline.",
       "completed": false
     },
     {

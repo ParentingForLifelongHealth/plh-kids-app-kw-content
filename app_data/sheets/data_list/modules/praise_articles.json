@@ -121,18 +121,16 @@
       "id": "explore_1",
       "category_id": "explore",
       "image_asset": "images/comics/praise_yc_1.svg",
-      "text_1_facilitator": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
+      "text_1_facilitator": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV (Manchester United vs. Arsenal)",
       "_translations": {
-        "text_1_facilitator": {
-          "kw_ar": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "kw_ar": true
         }
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)"
+          "eng": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV (Manchester United vs. Arsenal)"
         },
         "text_2": {
           "eng": "(_On the TV_) 1-1 draw at interval between Manchester United and Arsenal!"

@@ -418,7 +418,7 @@
           "eng": "Let’s look at another family to see how positive instructions can even help to prevent misbehaviour before it starts!"
         },
         "text_2": {
-          "eng": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden"
+          "eng": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name are playing with a ball in the garden"
         }
       },
       "category_id": "explore",
@@ -427,12 +427,10 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "text_2": {
-          "kw_ar": true
-        }
+        "text_2": {}
       },
       "image_asset": "images/comics/instructions_yc_8.svg",
-      "text_2": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden",
+      "text_2": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name are playing with a ball in the garden",
       "completed": false
     },
     {
