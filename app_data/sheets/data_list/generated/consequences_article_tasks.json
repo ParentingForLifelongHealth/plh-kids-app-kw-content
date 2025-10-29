@@ -169,7 +169,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "image_asset": "images/comics/consequences_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -516,7 +518,9 @@
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_icon_asset": "images/icons/hourglass_blue.png",
       "section_2_icon_asset": "images/icons/balance_blue.png",
@@ -608,11 +612,15 @@
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "section_1_text": "Be consistent with the rules you set—children learn what to expect. Consequences need to feel predictable to the child.",
       "section_1_button_text": "Learn more",

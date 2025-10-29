@@ -88,7 +88,9 @@
       "name": "check_in",
       "value": "Share your progress",
       "_translations": {
-        "value": {}
+        "value": {
+          "kw_ar": true
+        }
       }
     },
     {
