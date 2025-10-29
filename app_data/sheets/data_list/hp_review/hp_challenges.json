@@ -748,7 +748,9 @@
         "text_challenge_3": {
           "kw_ar": true
         },
-        "reply_challenge_3": {},
+        "reply_challenge_3": {
+          "kw_ar": true
+        },
         "text_challenge_4": {
           "kw_ar": true
         },

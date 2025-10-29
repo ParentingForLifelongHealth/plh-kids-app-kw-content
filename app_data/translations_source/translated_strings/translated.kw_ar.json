@@ -1860,8 +1860,8 @@
     "note": ""
   },
   {
-    "SourceText": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\nLater, find something small and clear that your children is doing and you wish they could do more of. Then, praise them when they do it. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
-    "text": "🌱 من الطبيعي أن نغضب أحيانًا من أطفالنا عندما يسيئون التصرف.\n\n⏸ المرة القادمة، عندما تشعر بالانفعال أو الغضب خذ نفسًا عميقًا. إذا لزم الأمر، ابتعد عن الموقف قبل أن تُبدي أي رد فعل.\n\nتذكر أن طفلك لا يقصد إيذاءك بسلوكه. إنه يستكشف حدوده كطفل.\n\n☀️ لاحقًا، لاحظ إن فعل طفلك شيء بسيط وواضح تتمنى أن يفعله أكثر وامدحه عندما يفعله.",
+    "SourceText": "🌱 It is normal to sometimes get angry at our children when they are misbehaving, especially when they are driving us crazy.\n\n⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. \n\nRemember, your child's behaviour isn’t meant to hurt you. As children, it's normal for them to explore their limits. \n\n☀️ Later, find something small and clear that your child is doing and you wish they could do more of. Then, praise them when they do it.",
+    "text": "🌱 من الطبيعي أن نغضب أحيانًا من أطفالنا عندما يسيئون التصرف.\n\n⏸ المرة القادمة، عندما تشعر بالانفعال أو الغضب خذ نفسًا عميقًا. إذا لزم الأمر، ابتعد عن الموقف قبل أن تُبدي أي ردة فعل.\n\nتذكر أن طفلك لا يقصد إيذاءك بسلوكه. إنه يستكشف حدوده كطفل.\n\n☀️ لاحقًا، لاحظ إن فعل طفلك شيء بسيط تتمنى أن يفعله أكثر وامدحه عندما يفعله.",
     "type": "data_list",
     "note": ""
   },
@@ -2688,8 +2688,8 @@
     "note": ""
   },
   {
-    "SourceText": "Check-in",
-    "text": "حضور لحظي",
+    "SourceText": "Share your progress",
+    "text": "سجل انجازك",
     "type": "global",
     "note": ""
   },
@@ -3366,12 +3366,6 @@
     "note": ""
   },
   {
-    "SourceText": "Sometimes being praised makes us feel embarrassed, usually because we are not used to it. It will get easier with practice! Giving praise helps children learn the behaviours you want to see.",
-    "text": "في بعض الأحيان، يجعلنا المدح نشعر بالحرج وذلك لأننا لسنا معتادين على ذلك. ولكن مع الممارسة سيصبح الأمر أسهل! المدح يساعد الأطفال على تعلم السلوكيات التي ترغب فيها. ",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Sad",
     "text": "حزين",
     "type": "data_list",
@@ -3396,8 +3390,8 @@
     "note": ""
   },
   {
-    "SourceText": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV  (Manchester United vs. Arsenal)",
-    "text": "تلعب حفيدة @data.characters.f2_grandfather.name بلعبة البلاط المغناطيسي أثناء مشاهدة جدها لمباراة كرة القدم على التلفاز (مانشستر يونايتد ضد أرسنال)",
+    "SourceText": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV (Manchester United vs. Arsenal)",
+    "text": "تلعب حفيدة @data.characters.f2_grandfather.name بلعبة التركيب المغناطيسية أثناء مشاهدة جدها لمباراة كرة القدم على التلفاز (مانشستر يونايتد ضد أرسنال)",
     "type": "data_list",
     "note": "The string @data.characters.f2_grandfather.name’s should not be translated."
   },
@@ -4158,8 +4152,8 @@
     "note": "The following strings should not be translated:\n@data.characters.f3_uncle.name\n@data.characters.f3_son_4.name"
   },
   {
-    "SourceText": "You are playing so nice and quiet, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
-    "text": "@data.characters.f3_son_4.name أنت تلعب بطريقة جميلة وهادئة، في غضون 5 دقائق سيكون الوقت قد حان لترتيب ألعابك.",
+    "SourceText": "You are building such an interesting shape, @data.characters.f3_son_4.name. In 5 minutes, it will be time to clean up your toys.",
+    "text": "@data.characters.f3_son_4.name أنت تلعب بطريقة جميلة وهادئة، بعد 5 دقائق سيكون الوقت قد حان لترتيب ألعابك.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_4.name. should not be translated."
   },
@@ -4392,8 +4386,8 @@
     "note": ""
   },
   {
-    "SourceText": "Respond in a calm, clear way. Keep your voice at a quiet level, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly.",
-    "text": "تكلم بهدوء ووضوح. حافظ على نبرة صوت هادئة واختصر كلامك واستخدم كلمات يفهمها طفلك.\n\nالصراخ يزيد الأمور سوءًا ويعلم الطفل أنه تصرف مقبول. لا تطبق التبعات إذا كان طفلك مضطربًا أو كنت أنت غاضبًا.\n\nأجّل الموضوع حتى تتمكن من التحدث بهدوء.",
+    "SourceText": "Respond in a calm, clear way. Keep your voice as calm as possible, keep your message short, and use words that your child will understand.\n\nShouting only makes things worse and teaches the wrong lesson. Don’t give consequences when a child is already dysregulated, or you are angry. \n\nDelay until you can talk calmly.",
+    "text": "تكلم بهدوء ووضوح. حافظ على نبرة صوت هادئة واختصر كلامك واستخدم كلمات يفهمها طفلك.\n\nالصراخ يزيد الأمور سوءًا ويعلم الطفل أنه تصرف مقبول. لا تطبق التبعات إذا كان طفلك منهار عاطفياً أو كنت أنت غاضبًا.\n\nأجّل الموضوع حتى تتمكن من التحدث بهدوء.",
     "type": "data_list",
     "note": ""
   },
@@ -4434,14 +4428,14 @@
     "note": ""
   },
   {
-    "SourceText": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, give the consequence immediately.",
-    "text": "يجب أن تكون تبعات السلوك السلبي فورية ومعقولة وواقعية.\n\nإذا تم إعطاء تبعات السلوك السلبي، يجب الانتقال إلى نشاط جديد بدلاً من الإصرار على أن يتبع الطفل التعليمات.\n\nإذا نسي/خالف طفلك ضوابط منزلية تتعلق بالسلامة فطبق التبعات فورًا.",
+    "SourceText": "Consequences should be immediate, reasonable, and realistic.\n\nIf you have to give the consequence, move on to a new activity instead of insisting that the child still follows the instruction.\n\nIf your child forgets or breaks a household rule related to safety, prioritise safety and give the consequence immediately so that nobody gets hurt.",
+    "text": "يجب أن تكون تبعات السلوك السلبي فورية ومعقولة وواقعية.\n\nإذا تم إعطاء تبعات السلوك السلبي، يجب الانتقال إلى نشاط جديد بدلاً من الإصرار على أن يتبع الطفل التعليمات.\n\nإذا نسي أو خالف طفلك ضوابط منزلية تتعلق بالسلامة فطبق التبعات فورًا.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "It is okay to show your disappointment when your child forgets a Household Rule. Make it clear that your disappointment is about your child’s action and not your child. For example, you can say, “I love you even when you do something disappointing.”\n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline.",
-    "text": "لا بأس في إظهار خيبة الأمل عندما ينسى الطفل ضوابط المنزل. وضح أن خيبة أملك تتعلق بأفعال طفلك وليس بالطفل نفسه. مثال: يمكنك أن تقول \"أحبك حتى لو فعلت شيئًا سلبي\".\n\nالتبعات ليست عقوبات، بل تُعلّم الأطفال المسؤولية والانضباط الذاتي.",
+    "SourceText": "It is okay to show your emotion when your child forgets a Household Rule. Make it clear that your emotion is about your child’s action and not your child. \n\nConsequences are not punishments. They teach children responsibility for actions and self-discipline.",
+    "text": "لا بأس في التعبير عن مشاعرك عندما ينسى الطفل ضوابط المنزل. وضح أن مشاعرك تتعلق بأفعال طفلك وليس بالطفل نفسه. مثال: يمكنك أن تقول \"أحبك حتى لو فعلت شيئًا سلبي\".\n\nالتبعات ليست عقوبات، بل تُعلّم الأطفال المسؤولية والانضباط الذاتي.",
     "type": "data_list",
     "note": ""
   },
@@ -5028,8 +5022,8 @@
     "note": ""
   },
   {
-    "SourceText": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you  avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours.",
-    "text": "غير صحيح. الهدف ليس شعور الطفل بأنه غير محبوب أو تعليمه درساً مهم.\n\nعندما تتجاهل سلوك صعب فأنت تمنع التشجيع عليه.\n\nمن المهم أن يشعر الطفل بالأمان والعناية، حتى عندما لا نعطي اهتمام لسلوك صعب معين.",
+    "SourceText": "Incorrect. The purpose is not to make the child feel unloved or to “teach a lesson”. \n\nWhen you don’t give attention to negative behaviour, you avoid reinforcing negative behaviour. You still show love and attention when the child behaves positively. \n\nIt’s important that children feel secure and cared for, even when we are not giving attention to specific challenging behaviours.",
+    "text": "غير صحيح. الهدف ليس شعور الطفل بأنه غير محبوب أو تعليمه درساً مهم.\n\nعندما تتجاهل سلوك صعب فأنت تمنع التشجيع عليه. ستظهر له الحب والاهتمام عندما يتصرف الطفل بشكل إيجابي.\n\nمن المهم أن يشعر الطفل بالأمان والعناية، حتى عندما لا نعطي اهتمام لسلوك صعب معين.",
     "type": "data_list",
     "note": ""
   },
@@ -5136,7 +5130,7 @@
     "note": ""
   },
   {
-    "SourceText": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again.  \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
+    "SourceText": "Incorrect. Focusing on the tantrum would only remind @data.characters.f2_daughter_3.name of the negative behaviour. She could start the tantrum again. \n\nThe grandfather instead praises her for her calm behaviour and invites her to have dessert together.",
     "text": "غير صحيح. التركيز على نوبة الغضب سيُذكّر @data.characters.f2_daughter_3.name بالسلوك السلبي. قد تُكرر نوبة الغضب.\n\nبدلاً من ذلك، مدحها الجد على هدوئها ودعاها لتناول البسكويت معهم.",
     "type": "data_list",
     "note": "The string @data.characters.f2_daughter_3.name should not be translated."
@@ -5466,7 +5460,7 @@
     "note": ""
   },
   {
-    "SourceText": "What could you or your child do differently in this situation in the future? \n\nFor example,  \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
+    "SourceText": "What could you or your child do differently in this situation in the future? \n\nFor example, \"One option is for us not to use the tablet at all. Or you could take turns using it. Or you could watch something on it together. What do you both think?\"",
     "text": "ما الذي يمكنكم فعله بشكل مختلف في هذا الموقف مستقبلًا؟\n\nمثال: \"أحد الخيارات هو عدم استخدام الجهاز اللوحي إطلاقًا، أو يمكنكم استخدامه بالتناوب. أو يمكنكم مشاهدة شيء عليه معًا. ما رأيكم؟\"",
     "type": "data_list",
     "note": ""
@@ -6582,7 +6576,7 @@
     "note": "The string @data.characters.f3_son_4.name should not be translated."
   },
   {
-    "SourceText": "Here are building blocks that  will help you create rules and routines to bring more structure and peace in your home:",
+    "SourceText": "Here are building blocks that will help you create rules and routines to bring more structure and peace in your home:",
     "text": "فيما يلي بعض القواعد الأساسية التي ستساعدك على إنشاء ضوابط وأنظمة يومية لتحقيق المزيد من النظام والسلام في منزلك:",
     "type": "data_list",
     "note": ""
@@ -7038,7 +7032,7 @@
     "note": ""
   },
   {
-    "SourceText": "@data.characters.f2_daughter_3.name  and @data.characters.f2_son_8.name are playing with a ball in the garden",
+    "SourceText": "@data.characters.f2_daughter_3.name and @data.characters.f2_son_8.name are playing with a ball in the garden",
     "text": "@data.characters.f2_daughter_3.name و @data.characters.f2_son_8.name يلعبون بالكرة في الحديقة",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f2_daughter_3.name\n@data.characters.f2_son_8.name"

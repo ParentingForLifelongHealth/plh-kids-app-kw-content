@@ -123,7 +123,9 @@
       "image_asset": "images/comics/praise_yc_1.svg",
       "text_1_facilitator": "@data.characters.f2_grandfather.name’s grandaughter is playing with her magnet tiles while he watches a soccer match on TV (Manchester United vs. Arsenal)",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "text_2": {
           "kw_ar": true
         }

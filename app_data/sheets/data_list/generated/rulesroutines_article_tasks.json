@@ -816,7 +816,9 @@
       "category_id": "practical_tips",
       "text_1_facilitator": "Here are building blocks that will help you create rules and routines to bring more structure and peace in your home:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "kw_ar": true
+        },
         "section_1_title": {
           "kw_ar": true
         },

@@ -47,7 +47,9 @@
         "text_1_facilitator": {
           "kw_ar": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -356,7 +358,9 @@
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -447,11 +451,15 @@
         "section_3_title": {
           "kw_ar": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "kw_ar": true
+        },
         "section_3_button_text": {
           "kw_ar": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
