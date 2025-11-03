@@ -98,8 +98,7 @@
             "hp_completed_ids",
             "@items.map(item => item.id)"
           ],
-          "_raw": "data_changed | set_local : hp_completed_ids : @items.map(item => item.id)",
-          "_cleaned": "data_changed | set_local : hp_completed_ids : @items.map(item => item.id)"
+          "_raw": "data_changed | set_local : hp_completed_ids : @items.map(item => item.id)"
         }
       ],
       "parameter_list": {
@@ -154,8 +153,7 @@
             "hp_unlocked_ids",
             "@items.map(item => item.id)"
           ],
-          "_raw": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)",
-          "_cleaned": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)"
+          "_raw": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)"
         }
       ],
       "parameter_list": {
@@ -510,8 +508,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             },
             {
               "trigger": "click",
@@ -520,7 +517,6 @@
                 "open"
               ],
               "_raw": "click | nav_stack: open | template: @local.hp_review_template",
-              "_cleaned": "click | nav_stack: open | template: @local.hp_review_template",
               "params": {
                 "template": "@local.hp_review_template"
               }
@@ -544,14 +540,6 @@
             "action_list": {
               "1": {
                 "_raw": [
-                  {
-                    "fullExpression": "click | nav_stack: open | template: @local.hp_review_template",
-                    "matchedExpression": "@local.hp_review_template",
-                    "type": "local",
-                    "fieldName": "hp_review_template"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | nav_stack: open | template: @local.hp_review_template",
                     "matchedExpression": "@local.hp_review_template",
@@ -588,7 +576,6 @@
             ],
             "@local.hp_review_template": [
               "action_list.1._raw",
-              "action_list.1._cleaned",
               "action_list.1.params.template"
             ],
             "@local.expand_icon_asset": [
@@ -628,8 +615,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "click | emit: completed",
-          "_cleaned": "click | emit: completed"
+          "_raw": "click | emit: completed"
         },
         {
           "trigger": "click",
@@ -638,7 +624,6 @@
             "open"
           ],
           "_raw": "click | nav_stack: open | template: @local.hp_review_template",
-          "_cleaned": "click | nav_stack: open | template: @local.hp_review_template",
           "params": {
             "template": "@local.hp_review_template"
           }
@@ -670,14 +655,6 @@
                 "fieldName": "hp_review_template"
               }
             ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | nav_stack: open | template: @local.hp_review_template",
-                "matchedExpression": "@local.hp_review_template",
-                "type": "local",
-                "fieldName": "hp_review_template"
-              }
-            ],
             "params": {
               "template": [
                 {
@@ -697,7 +674,6 @@
         ],
         "@local.hp_review_template": [
           "action_list.1._raw",
-          "action_list.1._cleaned",
           "action_list.1.params.template"
         ]
       }

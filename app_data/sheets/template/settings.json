@@ -20,8 +20,7 @@
           "args": [
             "force_reload"
           ],
-          "_raw": "nav_resume | emit: force_reload",
-          "_cleaned": "nav_resume | emit: force_reload"
+          "_raw": "nav_resume | emit: force_reload"
         }
       ],
       "_nested_name": "update_login_button"
@@ -186,7 +185,6 @@
                 "settings_login"
               ],
               "_raw": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -269,7 +267,6 @@
                 "settings_login"
               ],
               "_raw": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -352,7 +349,6 @@
                 "settings_profile"
               ],
               "_raw": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -423,7 +419,6 @@
                 "settings_language_select"
               ],
               "_raw": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -494,7 +489,6 @@
                 "settings_user_id"
               ],
               "_raw": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -606,7 +600,6 @@
                 "settings_about"
               ],
               "_raw": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -677,7 +670,6 @@
                 "settings_terms"
               ],
               "_raw": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false
@@ -748,7 +740,6 @@
                 "settings_privacy_policy"
               ],
               "_raw": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false",
               "params": {
                 "fullscreen": true,
                 "showCloseButton": false

@@ -18,8 +18,7 @@
           "args": [
             "complete"
           ],
-          "_raw": "app_update: complete",
-          "_cleaned": "click | app_update: complete"
+          "_raw": "app_update: complete"
         }
       ]
     },
@@ -38,7 +37,6 @@
             "language_select_splash"
           ],
           "_raw": "pop_up: language_select_splash | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: language_select_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -61,7 +59,6 @@
             "accept_terms"
           ],
           "_raw": "pop_up: accept_terms | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: accept_terms | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -84,7 +81,6 @@
             "login_splash"
           ],
           "_raw": "pop_up: login_splash | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: login_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -107,7 +103,6 @@
             "user_data_splash"
           ],
           "_raw": "pop_up: user_data_splash | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: user_data_splash | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -130,8 +125,7 @@
             "countdown_days",
             "0"
           ],
-          "_raw": "set_field: countdown_days: 0",
-          "_cleaned": "click | set_field: countdown_days: 0"
+          "_raw": "set_field: countdown_days: 0"
         }
       ]
     },
@@ -150,8 +144,7 @@
             "countdown_days",
             "7"
           ],
-          "_raw": "set_field: countdown_days: 7",
-          "_cleaned": "click | set_field: countdown_days: 7"
+          "_raw": "set_field: countdown_days: 7"
         }
       ]
     },
@@ -170,8 +163,7 @@
             "splash_screens_completed",
             true
           ],
-          "_raw": "set_field: splash_screens_completed: true",
-          "_cleaned": "click | set_field: splash_screens_completed: true"
+          "_raw": "set_field: splash_screens_completed: true"
         }
       ]
     },
@@ -186,8 +178,7 @@
           "args": [
             "prompt"
           ],
-          "_raw": "app_update: prompt",
-          "_cleaned": "click | app_update: prompt"
+          "_raw": "app_update: prompt"
         }
       ]
     }

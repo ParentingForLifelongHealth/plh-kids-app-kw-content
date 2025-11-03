@@ -115,8 +115,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             }
           ],
           "condition": "@fields._platform === \"ios\"",
@@ -162,8 +161,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             }
           ],
           "_nested_name": "login.button_google_sign_in",
@@ -197,8 +195,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             },
             {
               "trigger": "click",
@@ -207,8 +204,7 @@
                 "login_passed",
                 true
               ],
-              "_raw": "click | set_field: login_passed: true",
-              "_cleaned": "click | set_field: login_passed: true"
+              "_raw": "click | set_field: login_passed: true"
             }
           ],
           "parameter_list": {
@@ -384,8 +380,7 @@
                 "exists_previous_auth_id",
                 "!(@items.length === 0)"
               ],
-              "_raw": "data_changed | set_field : exists_previous_auth_id : !(@items.length === 0)",
-              "_cleaned": "data_changed | set_field : exists_previous_auth_id : !(@items.length === 0)"
+              "_raw": "data_changed | set_field : exists_previous_auth_id : !(@items.length === 0)"
             }
           ],
           "rows": [],
@@ -417,8 +412,7 @@
                     "import",
                     "@item.id"
                   ],
-                  "_raw": "click | user: import: @item.id",
-                  "_cleaned": "click | user: import: @item.id"
+                  "_raw": "click | user: import: @item.id"
                 },
                 {
                   "trigger": "click",
@@ -427,8 +421,7 @@
                     "login_passed",
                     true
                   ],
-                  "_raw": "click | set_field: login_passed: true",
-                  "_cleaned": "click | set_field: login_passed: true"
+                  "_raw": "click | set_field: login_passed: true"
                 },
                 {
                   "trigger": "click",
@@ -436,8 +429,7 @@
                   "args": [
                     "force_restart"
                   ],
-                  "_raw": "click | emit: force_restart",
-                  "_cleaned": "click | emit: force_restart"
+                  "_raw": "click | emit: force_restart"
                 }
               ],
               "parameter_list": {
@@ -472,14 +464,6 @@
                         "type": "item",
                         "fieldName": "id"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | user: import: @item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
                     ]
                   }
                 }
@@ -490,8 +474,7 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.1",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ]
               }
             }
@@ -512,8 +495,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             },
             {
               "trigger": "click",
@@ -522,8 +504,7 @@
                 "login_passed",
                 true
               ],
-              "_raw": "click | set_field: login_passed: true",
-              "_cleaned": "click | set_field: login_passed: true"
+              "_raw": "click | set_field: login_passed: true"
             }
           ],
           "condition": "!@fields.exists_previous_auth_id",
@@ -572,8 +553,7 @@
               "args": [
                 "sign_out"
               ],
-              "_raw": "click | auth: sign_out",
-              "_cleaned": "click | auth: sign_out"
+              "_raw": "click | auth: sign_out"
             },
             {
               "trigger": "click",
@@ -581,8 +561,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             }
           ],
           "parameter_list": {
