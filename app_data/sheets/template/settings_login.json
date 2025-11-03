@@ -44,8 +44,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         },
         {
           "trigger": "uncompleted",
@@ -53,8 +52,7 @@
           "args": [
             "settings"
           ],
-          "_raw": "uncompleted | go_to: settings",
-          "_cleaned": "uncompleted | go_to: settings"
+          "_raw": "uncompleted | go_to: settings"
         }
       ],
       "rows": [
@@ -179,8 +177,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             },
             {
               "trigger": "click",
@@ -189,8 +186,7 @@
                 "just_logged_in",
                 true
               ],
-              "_raw": "click | set_local: just_logged_in: true",
-              "_cleaned": "click | set_local: just_logged_in: true"
+              "_raw": "click | set_local: just_logged_in: true"
             }
           ],
           "condition": "@fields._platform === \"ios\"",
@@ -236,8 +232,7 @@
               "args": [
                 "force_reprocess"
               ],
-              "_raw": "click | emit: force_reprocess",
-              "_cleaned": "click | emit: force_reprocess"
+              "_raw": "click | emit: force_reprocess"
             },
             {
               "trigger": "click",
@@ -246,8 +241,7 @@
                 "just_logged_in",
                 true
               ],
-              "_raw": "click | set_local: just_logged_in: true",
-              "_cleaned": "click | set_local: just_logged_in: true"
+              "_raw": "click | set_local: just_logged_in: true"
             }
           ],
           "_nested_name": "login.button_google_sign_in",
@@ -383,8 +377,7 @@
                   "args": [
                     "sign_out"
                   ],
-                  "_raw": "click | auth: sign_out",
-                  "_cleaned": "click | auth: sign_out"
+                  "_raw": "click | auth: sign_out"
                 },
                 {
                   "trigger": "click",
@@ -392,8 +385,7 @@
                   "args": [
                     "force_reprocess"
                   ],
-                  "_raw": "click | emit: force_reprocess",
-                  "_cleaned": "click | emit: force_reprocess"
+                  "_raw": "click | emit: force_reprocess"
                 }
               ],
               "parameter_list": {
@@ -473,8 +465,7 @@
                     "import",
                     "@item.id"
                   ],
-                  "_raw": "click | user: import: @item.id",
-                  "_cleaned": "click | user: import: @item.id"
+                  "_raw": "click | user: import: @item.id"
                 },
                 {
                   "trigger": "click",
@@ -482,8 +473,7 @@
                   "args": [
                     "force_restart"
                   ],
-                  "_raw": "click | emit: force_restart",
-                  "_cleaned": "click | emit: force_restart"
+                  "_raw": "click | emit: force_restart"
                 }
               ],
               "_nested_name": "logged_in.find_last_synced_id.button_restore",
@@ -515,14 +505,6 @@
                         "type": "item",
                         "fieldName": "id"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | user: import: @item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
                     ]
                   }
                 }
@@ -533,8 +515,7 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.1",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ]
               }
             }

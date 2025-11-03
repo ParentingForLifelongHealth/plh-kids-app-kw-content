@@ -122,6 +122,22 @@
       "name": "countdown_days",
       "value": 7,
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_id",
+      "value": "facilitator",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_name",
+      "value": "@data.characters.facilitator.name",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "deployment_data_kw.xlsx",
