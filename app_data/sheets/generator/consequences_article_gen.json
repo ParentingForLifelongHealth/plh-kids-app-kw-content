@@ -45,8 +45,11 @@
       ]
     }
   ],
-  "_xlsxPath": "KW articles template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW articles template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1GMPG6735YieX91RvSyCLg-ewaIRI4SnWRzmuY2qV1rw"
+  },
   "_output_flows": [
     {
       "flow_name": "article_consequences_intro_1",

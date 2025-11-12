@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_kw", parent: "plh_kids" 
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-app-kw-content",
-  content_tag_latest: "1.4.17",
+  content_tag_latest: "1.4.18",
 };
 
 config.android = {
@@ -23,16 +23,16 @@ config.ios = {
   zoom_enabled: true
 };
 
-config.google_drive.sheets_folder_ids = [
-  "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
-  "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
-  "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", // kids_global
-  "1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx" // kids_kw
+config.google_drive.sheets_folders = [
+  { id: "19wSspWYMbRc75een-kS0q0aq24--75u8", name: "library_app_menu" },
+  { id: "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", name: "library_field_values" },
+  { id: "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", name: "kids_global" },
+  { id: "1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx", name: "kids_kw" },
 ];
 
-config.google_drive.assets_folder_ids = [
-  "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", // kids_global
-  "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp" // kids_kw
+config.google_drive.assets_folders = [
+  { id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global" },
+  { id: "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp", name: "kids_kw" },
 ];
 
 // Hacky fix to point extended deployment to translations within its own repo

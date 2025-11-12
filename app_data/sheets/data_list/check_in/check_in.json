@@ -816,6 +816,9 @@
       "quiz_1_option_5_text": "Tired"
     }
   ],
-  "_xlsxPath": "KW check_in.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW check_in.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1gCaE-fGiTAE8rIZNnUItm79CkCBhmvMClnpOzYGqdPI"
+  }
 }
