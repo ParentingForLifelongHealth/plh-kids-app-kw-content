@@ -847,6 +847,9 @@
       "quiz_1_feedback_2": "That's okay. It may take time to learn how to rephrase your requests. After the next request you give your child, stop and imagine how it could be rephrased as a positive request. You’ve got this!"
     }
   ],
-  "_xlsxPath": "KW modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1xSPd9go3Bi9LwsFMKD4C6kdpVeHm3tVhcIxUlaKrpgQ"
+  }
 }

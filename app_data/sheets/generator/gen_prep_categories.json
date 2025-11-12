@@ -15,8 +15,11 @@
       "output_target": "{@gen.id}_category_tasks"
     }
   ],
-  "_xlsxPath": "KW modules_data_pipes.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW modules_data_pipes.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11GlK8DVUWwHr1AAKbqta7SEI1kHbNyW3nTGHCrOoyiA"
+  },
   "_output_flows": [
     {
       "flow_name": "prep_selfcare_categories",

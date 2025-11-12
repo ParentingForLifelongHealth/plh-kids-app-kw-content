@@ -19,6 +19,9 @@
       }
     }
   ],
-  "_xlsxPath": "deployment_data_kw.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+  "_source": {
+    "name": "kids_kw",
+    "path": "deployment_data_kw.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SleWGZ0N9RhaLQl1qSzchftghNEG0EsoTkIV1W9p-x0"
+  }
 }

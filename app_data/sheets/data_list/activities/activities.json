@@ -1591,8 +1591,11 @@
       "attribution": "Adapted from [Kiwico](https://www.kiwico.com/diy/play-learn/fun-games/balloon-tennis)"
     }
   ],
-  "_xlsxPath": "KW activities.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx",
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW activities.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1o0mIixujxvgrJMN5xRhIJbO-Ku2OY4rfgg3AOq-LnAM"
+  },
   "_metadata": {
     "child_age_list": {
       "type": "number"

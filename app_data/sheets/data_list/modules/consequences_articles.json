@@ -682,6 +682,9 @@
       "quiz_1_feedback_3": "That's okay. Keep trying. It will get easier in time. You can start by considering smaller behaviours that your child struggles with and planning a fair consequence in advance so you're ready. Remember to take a pause to calm down before you respond."
     }
   ],
-  "_xlsxPath": "KW modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1pzgmUypvXYJS_ZcC1WmiHM5f4y2QYKsx"
+  "_source": {
+    "name": "kids_kw",
+    "path": "KW modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1xSPd9go3Bi9LwsFMKD4C6kdpVeHm3tVhcIxUlaKrpgQ"
+  }
 }

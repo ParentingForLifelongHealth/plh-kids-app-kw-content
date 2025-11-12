@@ -7,13 +7,12 @@
 | accordion_section | 1 |
 | apple_sign_in_button | 3 |
 | audio | 3 |
-| begin_display_group | 1 |
 | button | 68 |
 | combo_box | 5 |
 | data_items | 66 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 67 |
+| display_group | 68 |
 | google_sign_in_button | 3 |
 | image | 12 |
 | items | 9 |
@@ -66,11 +65,11 @@
 | pop_up | 33 |
 | reset_app | 3 |
 | reset_data | 2 |
-| set_data | 29 |
+| set_data | 30 |
 | set_field | 34 |
 | set_item | 30 |
 | set_local | 31 |
-| task | 3 |
+| task | 2 |
 | user | 4 |
 </details>
 
